@@ -1,0 +1,15 @@
+#+title: What you can expect in this repository
+#+author: Dilip Warrier
+
+This repository contains documents and code that I'd like to share
+with the public. If you would like to use any material here, please
+feel free to do so under the license terms.
+
+Here is a brief introduction to the contents.
+
+- finance :: Small notebooks that do interesting finance-related
+  problems
+- people_management :: Notes and posts from my people management
+  experiences
+- LICENSE :: license terms if you want to use any content here
+- README.org :: This file
