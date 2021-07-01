@@ -1,4 +1,5 @@
 #+title: Introduction to me as a manager
+#+author: Dilip Warrier
 
 Hi and welcome to the team!
 
