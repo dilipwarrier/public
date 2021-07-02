@@ -1,0 +1,21 @@
+#+title: Team communication
+#+author: Dilip Warrier
+
+** Introduction
+
+Post the pandemic of 2020-21, teams are increasingly working
+remotely. This is in general a healthy phenomenon. It allows us to
+find talented people irrespective of where they choose to live. It
+encourages diversity of thought as people in different locations may
+think differently about issues. It eliminates the wasteful activity of
+commuting from your home to your workplace, thus saving time, personal
+energy and carbon emissions.
+
+On the negative side, working with team members who are not near you
+has not been evolutionarily programmed into you. Also, working with remote
+teams can potentially wear you out due to different time zones. This
+can lead to added work-related stress. To mitigate these disadvantages, we must cultivate
+some habits to make it a better experience. This note suggests some
+guidelines on improving the overall remote co-working experience.
+
+** Synchronous and asynchronous communication
