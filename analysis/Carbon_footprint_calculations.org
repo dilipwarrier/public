@@ -1,0 +1,63 @@
+#+title: Calculation of my carbon footprint
+#+author: Dilip Warrier
+
+** CO2 emission due to driving
+
+The following data on CO2 emissions due to delivered power and gas
+consumption is from the [[https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references][EPA website]].
+
+#+BEGIN_SRC python :results output
+# Kg of CO2 per gallon of gas consumed
+f1 = 8.9
+
+# The Toyota RAV4 hybrid efficiency in gallons/mile
+f2 = 1/40
+
+# Assume 10,000 miles/year
+f5 = 10**4
+
+print("1 year in the RAV4 hybrid causes %.2f tons of CO2" % (f1*f2*f5/1000))
+
+# Kg of CO2 per kWatt-hr of power delivered
+f3 = 950*(4/9)*(1/1000)*(1/(1 - 0.073))
+
+# The Toyota RAV4 Prime's battery efficiency in kWatt-hours/mile
+f4 = 18/48
+
+print("1 year in the RAV4 Prime causes %.2f tons of CO2" % (f3*f4*f5/1000))
+
+#+END_SRC
+
+#+RESULTS:
+: 1 year in the RAV4 hybrid causes 2.23 tons of CO2
+: 1 year in the RAV4 Prime causes 1.71 tons of CO2
+
+** Costs of a hybrid versus a gas engine
+
+** CO2 emissions from flights
+
+From [[https://ourworldindata.org/travel-carbon-footprint][Our World in data]],
+
+#+NAME: flight_table
+| Type of flight           | Grams of CO2 per km |
+|--------------------------+---------------------|
+| Domestic short-haul      |                 255 |
+| International (economy)  |                 150 |
+| International (business) |                 434 |
+
+#+BEGIN_SRC python :results output :var tab = flight_table
+# Assume a certain distance in miles flown per year
+# One-way distance from Boston, MA to Chennai, India is 8000 miles
+# One-way distance from Boston, MA to Chicago, IL is 1000 miles
+miles_per_year = [3000, 15000, 30000]
+
+total_CO2 = 0
+for f_type in range(len(miles_per_year)):
+   # Convert table data from km to miles
+   total_CO2 = total_CO2 + miles_per_year[f_type] * tab[f_type][1] * 1.6
+
+print("Tons of CO2 per year from flying = %.2f" % (total_CO2/(1e6)))
+#+END_SRC
+
+#+RESULTS:
+: Tons of CO2 per year from flying = 10.36
