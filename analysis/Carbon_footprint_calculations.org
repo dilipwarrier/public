@@ -24,7 +24,7 @@ f3 = 950*(4/9)*(1/1000)*(1/(1 - 0.073))
 # The Toyota RAV4 Prime's battery efficiency in kWatt-hours/mile
 f4 = 18/48
 
-print("1 year in the RAV4 Prime causes %.2f tons of CO2" % (f3*f4*f5/1000))
+print("1 year of battery only in the RAV4 Prime causes %.2f tons of CO2" % (f3*f4*f5/1000))
 
 #+END_SRC
 
