@@ -1,7 +1,7 @@
 #+title: Calculation of my carbon footprint
 #+author: Dilip Warrier
 
-** CO2 emission due to driving
+** CO2 emissions due to driving
 
 The following data on CO2 emissions due to delivered power and gas
 consumption is from the [[https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references][EPA website]].
@@ -63,3 +63,12 @@ print("Tons of CO2 per year from flying = %.2f" % (total_CO2/(1e6)))
 
 #+RESULTS:
 : Tons of CO2 per year from flying = 10.36
+
+** CO2 emissions from container shipping
+
+From a [[https://theicct.org/sites/default/files/publications/UCL_ship_efficiency_forICCT_2013.pdf][report published by the University College of London]], the
+following table shows CO2 emissions from various kinds of container
+ships. The Normalized Operational Efficiency (NOE) may be the
+appropriate metric to use.
+
+[[./Screenshot 2021-07-08 125645.png]]
