@@ -19,3 +19,5 @@ some habits to make it a better experience. This note suggests some
 guidelines on improving the overall remote co-working experience.
 
 ** Synchronous and asynchronous communication
+
+*** TODO Add section on communication                                  :Bose:

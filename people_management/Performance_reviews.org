@@ -6,12 +6,6 @@ reviews and a formal performance review at the end of the
 fiscal year. There are a set of steps for each performance review. In
 this note, we setup the tasks that need to be executed in each cycle.
 
-The following task is setup to remind me to run code and generate a
-later set of tasks.
-
-** TODO Setup quarterly performance review task list                   :Bose:
-   SCHEDULED: <2021-07-20 +3m>
-
 This table contains the set of tasks that need to be run. For each
 task, an offset can be specified that states when the task should be
 scheduled relative to a base date.
@@ -21,7 +15,7 @@ scheduled relative to a base date.
 | Task title                                                                   | Number of days from start |
 |------------------------------------------------------------------------------+---------------------------|
 | Make 1-1s with directs 1 hour to do quarterly goal and IDP reviews           |                           |
-| Make 1-1s with directs 30 min to update goals and IDP for the new quarter    |                           |
+| Make 1-1s with directs 1 hour to do quarterly goal and IDP reviews           |                           |
 | Create tasks for directs and send message to update and submit goals and IDP |                         5 |
 | Request quick feedback on directs from peers                                 |                        70 |
 | Send a poll to get feedback on quarterly performance review process          |                       110 |
@@ -54,3 +48,9 @@ SCHEDULED: <2021-07-20>
 
 *** TODO Complete my quarterly performance review
 SCHEDULED: <2021-07-12>
+
+The following task is setup to remind me to run code and generate a
+later set of tasks.
+
+** TODO Setup quarterly performance review task list                   :Bose:
+   SCHEDULED: <2021-07-20 +3m>
