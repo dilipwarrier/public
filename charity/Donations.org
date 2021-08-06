@@ -1,0 +1,28 @@
+#+Title: Organizations to make donations to
+#+FILETAGS: :Charity:Donations:Society:
+
+* A list of organizations
+
+** Give Well
+   The Give Well organization does rigorous research on
+   organizations. That's the plus. Unfortunately, since they have
+   stringent requirements, there are only a few organizations that
+   make the cut. Evidence Action and Against Malaria Foundation are
+   the main ones.
+
+
+* TODO Donate $200 to [[https://secure.givewell.org/][Give Well]]
+   SCHEDULED: <2021-08-11 Wed 07:00 .+1w>
+   :PROPERTIES:
+   :STYLE: habit
+   :LAST_REPEAT: [2021-08-04 Wed 11:07]
+   :END:
+   - State "DONE"       from "WAIT"       [2021-08-04 Wed 11:07]
+   - State "WAIT"       from "TODO"       [2021-08-04 Wed 11:07]
+   - State "DONE"       from "TODO"       [2021-07-28 Wed 07:09]
+   - State "DONE"       from "TODO"       [2021-07-21 Wed 07:09]
+   - State "DONE"       from "WAIT"       [2021-07-14 Wed 07:52]
+
+
+* TODO File on [[https://account.activedirectory.windowsazure.com/applications/signin/a54cb682-2ada-479c-9d7b-024205b915d2?tenantId=5d8ae07e-7fd0-404d-85c1-453ff3dc8c1e][Bose Gives]] for employee matching for donations
+  SCHEDULED: <2021-11-17 Wed .+6m>

@@ -1,0 +1,118 @@
+#+FILE: Task management and automation
+#+FILETAGS: :tasks:
+
+** Generation of a set of tasks with an offset from a deadline
+
+The following block of code generates a set of TODO tasks with
+appropriately scheduled dates from a table of tasks. The table should
+contain a set of tasks and the offsets of time you would like the
+tasks to be scheduled for. The code will then create TODO tasks in Org
+format with scheduled dates that are at offset days away from
+start_date (default is the date when the code is executed).
+
+#+NAME: test_table
+| Task 1 | -1 |
+| Task 2 |    |
+| Task 3 |  1 |
+
+#+NAME: generate_tasks_from_offset
+#+BEGIN_SRC python :results output raw :var tab = test_table start_date = ""
+  # Generate a list of tasks with scheduled dates in Org format
+  #
+  # Input list tab contains a list of lists of 2 values: name and offset
+  # If offset is not either an integer or blank, that item is ignored.
+  #
+  # If it is blank, it is equivalent to 0 offset i.e.
+  # the task should be scheduled on start_date.
+  #
+  # start_date should be a string of "YYYY-mm-dd" format or an empty string.
+  # If start_date is an empty string, use today's date.
+
+  import datetime, re
+
+  try:
+      start_date = datetime.datetime.strptime(start_date, "%Y-%m-%d").date()
+  except:
+      if len(start_date) == 0:
+          start_date = datetime.datetime.today()
+      else:
+          raise Exception("Could not parse date string %s" % (start_date))
+
+  for t in tab:
+      if not t[1]:
+          delta = 0
+      else:
+          if re.match("[-0-9]+", str(t[1])):
+              delta = int(t[1])
+          else:
+              continue
+
+      task_date = start_date + datetime.timedelta(days = delta)
+      print("*** TODO %s\n    SCHEDULED: <%s>\n" % (t[0], task_date.strftime("%Y-%m-%d %a")))
+#+END_SRC
+
+
+** Eisenhower matrix for prioritization
+
+|---------------+-------------+---------------|
+|               | Urgent      | Not urgent    |
+|---------------+-------------+---------------|
+| Important     | Do it       | Schedule it   |
+|---------------+-------------+---------------|
+| Not important | Delegate it | Do less of it |
+|---------------+-------------+---------------|
+
+Perhaps, for an "Important" but "Not urgent" task, you should prioritize
+and then schedule it. Otherwise, how do you know you are using your
+time most valuably.
+
+
+** How to prioritize tasks
+
+   One could use the Eisenhower matrix as shown above. Alternately, the
+   Effective Altruism organization method for deciding what to work on may be
+   useful. The criteria they use are as follows.
+   - Scale
+   - Solvability
+   - Personal fit
+   - Neglectedness
+
+   The first two may be particularly useful for prioritizing projects.
+
+   - Scale or Benefit :: How much potential benefit/value would this
+     project bring (to you, to the family etc.) if you completed it?
+
+   - Solvability or Cost :: How much effort/cost would this project
+     take to bring to fruition?
+
+   - Personal fit or Uniqueness :: If you didn't solve this problem,
+     would someone else solve it just as well? Generally speaking, for
+     work that supports poor people or underserved sections (like
+     animals), there isn't a large substitution effect i.e. there
+     probably aren't many people who would do the job if you
+     didn't. If there is someone else who can solve the problem, you
+     could consider outsourcing i.e. donate money to them so that they
+     can solve it more efficiently.
+
+   NPV analysis can be done to calculate the cost-benefit tradeoff.
+
+
+** What's important?
+
+   In life, we may care about physical health, mental health,
+   contributions to community, relations with friends/family and
+   wealth. Each of these factors can be assigned a measure of how
+   we feel we are doing on that factor at a given time. A composite
+   quality of life measure can then be calculated from the individual
+   measures. The closest model to this is that of subjective
+   well-being or [[../well_being/Positive_psychology.org::#SWB][SWB]].
+
+   The purpose of any life improvement activity, then, is to improve
+   that quality of life measure. It becomes the benefit of the
+   activity. Using some established metrics similar to
+   [[../well_being/Positive_psychology.org::#Cost of one QALY][Cost of one QALY]], the quality of life can be converted into a unit of
+   dollars. The cost of the activity can be calculated by first
+   measuring hours of effort spent (labor) and investments to be made
+   (capital) and converting those to a total cost in dollars. An NPV
+   calculation will then allow us to prioritize improvement
+   activities.

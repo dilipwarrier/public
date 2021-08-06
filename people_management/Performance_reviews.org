@@ -1,5 +1,5 @@
 #+Title: Automatic setup of performance review steps
-#+Author: Dilip Warrier
+#+FILETAGS: :Manager:
 
 In my organization, we typically have informal quarterly performance
 reviews and a formal performance review at the end of the
@@ -11,46 +11,34 @@ task, an offset can be specified that states when the task should be
 scheduled relative to a base date.
 
 #+NAME: task_table
-|------------------------------------------------------------------------------+---------------------------|
-| Task title                                                                   | Number of days from start |
-|------------------------------------------------------------------------------+---------------------------|
-| Make 1-1s with directs 1 hour to do quarterly goal and IDP reviews           |                           |
-| Make 1-1s with directs 1 hour to do quarterly goal and IDP reviews           |                           |
-| Create tasks for directs and send message to update and submit goals and IDP |                         5 |
-| Request quick feedback on directs from peers                                 |                        70 |
-| Send a poll to get feedback on quarterly performance review process          |                       110 |
-| Complete my quarterly performance review                                     |                       100 |
-|------------------------------------------------------------------------------+---------------------------|
+|-------------------------------------------------------------------------------------+---------------------------|
+| Task title                                                                          | Number of days from start |
+|-------------------------------------------------------------------------------------+---------------------------|
+| Make 1-1s with directs 1 hour to do quarterly goal and IDP reviews and goal updates |                       -30 |
+| Create tasks for directs and send message to update and submit goals and IDP        |                       -15 |
+| Request quick feedback on directs from peers                                        |                       -15 |
+| Complete my quarterly performance review                                            |                        20 |
+| Auto-create tasks for next quarter                                                  |                        20 |
+| Send a poll to get feedback on quarterly performance review process                 |                        30 |
+|-------------------------------------------------------------------------------------+---------------------------|
 
-The following block of code generates a set of TODO tasks with
-appropriately scheduled dates to handle all the tasks for the
-quarterly performance reviews.
-
-The variable start_date should be updated to reflect the base date
-from which the tasks are offset.
-
-#+BEGIN_SRC python :results output raw :var tab = task_table start_date = "2021-07-01"
-  import datetime, re
-
-  start_date = datetime.datetime.strptime(start_date, "%Y-%m-%d").date()
-  for t in tab:
-      if t[1]:
-          delta = t[1]
-      else:
-          delta = 0
-      task_date = start_date + datetime.timedelta(days = delta)
-      print("*** TODO %s\nSCHEDULED: <%s>\n" % (t[0], task_date.strftime("%Y-%m-%d")))
-#+END_SRC
+#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab = task_table, start_date ="2021-10-01")
 
 #+RESULTS:
-*** TODO Send a poll to get feedback on quarterly performance review process
-SCHEDULED: <2021-07-20>
+*** TODO Make 1-1s with directs 1 hour to do quarterly goal and IDP reviews and goal updates
+    SCHEDULED: <2021-09-01 Wed>
+
+*** TODO Create tasks for directs and send message to update and submit goals and IDP
+    SCHEDULED: <2021-09-16 Thu>
+
+*** TODO Request quick feedback on directs from peers
+    SCHEDULED: <2021-09-16 Thu>
 
 *** TODO Complete my quarterly performance review
-SCHEDULED: <2021-07-12>
+    SCHEDULED: <2021-10-21 Thu>
 
-The following task is setup to remind me to run code and generate a
-later set of tasks.
+*** TODO Auto-create tasks for next quarter
+    SCHEDULED: <2021-10-21 Thu>
 
-** TODO Setup quarterly performance review task list                   :Bose:
-   SCHEDULED: <2021-07-20 +3m>
+*** TODO Send a poll to get feedback on quarterly performance review process
+    SCHEDULED: <2021-10-31 Sun>

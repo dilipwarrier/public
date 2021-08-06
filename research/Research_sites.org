@@ -1,0 +1,6 @@
+#+Title: Sites to use for research
+
+* List of sites
+
+  - [[https://libraries.state.ma.us/login?db=HRCA&locid=act][Gale directory of peer-reviewed medical journal articles]]
+  - [[https://www.actonmemoriallibrary.org/resources-research/e-resources/][Public library list of databases]]

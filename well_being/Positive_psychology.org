@@ -1,0 +1,108 @@
+#+Title: The science of happiness and well-being
+#+FILETAGS: :society:science:psychology:
+
+* Positive psychology
+
+  [[https://en.wikipedia.org/wiki/Positive_psychology][Positive psychology]] has grown as a field since the 1980s. Martin
+  Seligman and Mihaly Csikszentmihalyi are credited with starting this
+  field.
+
+  Sonja Lyubomirsky has written a book on interventions based on
+  positive psychology called "The How of Happiness".
+
+
+* Subjective well-being
+  :PROPERTIES:
+  :CUSTOM_ID: SWB
+  :END:
+
+  A related concept within that field is [[https://en.wikipedia.org/wiki/Subjective_well-being][Subjective well-being]] (SWB),
+  pioneered by Ed Diener. Diener suggests that SWB consists of two
+  components.
+    - Affective balance :: The difference between positive affects or
+      emotions/feelings and negative affects. This is a measure of the
+      moods of a person usually measured through questionnaires. An
+      example measure is [[https://en.wikipedia.org/wiki/Positive_and_Negative_Affect_Schedule][Positive and Negative Affect Schedule]]
+      (PANAS).
+    - Life satisfaction :: The satisfaction with various life domains
+      (work, family, friends, leisure). This is a cognitive measure.
+
+  An SWB score for an individual is the sum of the scores on these two
+  components.
+
+  From [[http://labs.psychology.illinois.edu/~ediener/SWLS.html][Diener's web site]] on Satisfaction With Life Scale (SWLS):
+#+begin_quote
+    To understand life satisfaction scores, it is helpful to understand
+    some of the components that go into most people's experience of
+    satisfaction. One of the most important influences on happiness is
+    social relationships. People who score high on life satisfaction tend
+    to have close and supportive family and friends, whereas those who do
+    not have close friends and family are more likely to be
+    dissatisfied. Of course the loss of a close friend or family member
+    can cause dissatisfaction with life, and it may take quite a time for
+    the person to bounce back from the loss.
+
+     Another factor that influences the life satisfaction of most people
+    is work or school, or performance in an important role such as
+    homemaker or grandparent. When the person enjoys his or her work,
+    whether it is paid or unpaid work, and feels that it is meaningful and
+    important, this contributes to life satisfaction. When work is going
+    poorly because of bad circumstances or a poor fit with the person’s
+    strengths, this can lower life satisfaction. When a person has
+    important goals, and is failing to make adequate progress toward them,
+    this too can lead to life dissatisfaction.
+
+     A third factor that influences the life satisfaction of most people
+    is personal – satisfaction with the self, religious or spiritual life,
+    learning and growth, and leisure. For many people these are sources of
+    satisfaction. However, when these sources of personal worth are
+    frustrated, they can be powerful sources of dissatisfaction. Of course
+    there are additional sources of satisfaction and dissatisfaction –
+    some that are common to most people such as health, and others that
+    are unique to each individual. Most people know the factors that lead
+    to their satisfaction or dissatisfaction, although a person’s
+    temperament – a general tendency to be happy or unhappy – can color
+    their responses.
+
+     There is no one key to life satisfaction, but rather a recipe that
+    includes a number of ingredients. With time and persistent work,
+    people’s life satisfaction usually goes up when they are
+    dissatisfied. People who have had a loss recover over time. People who
+    have a dissatisfying relationship or work often make changes over time
+    that will increase their dissatisfaction. One key ingredient to
+    happiness, as mentioned above, is social relationships, and another
+    key ingredient is to have important goals that derive from one’s
+    values, and to make progress toward those goals. For many people it is
+    important to feel a connection to something larger than oneself. When
+    a person tends to be chronically dissatisfied, they should look within
+    themselves and ask whether they need to develop more positive
+    attitudes to life and the world.
+#+end_quote
+
+
+* Quantitative measurements of quality of life
+
+   A commonly used quantitative measurement of life is
+   [[https://en.wikipedia.org/wiki/Quality-adjusted_life_year][Quality-adjusted life year]] or QALY. A QALY measure of 1.0 means a
+   year of perfect health while values below
+   that mean less than perfect health or quality of life. A value of 0
+   represents death. Different interventions can be measured by
+   summing up the resulting measures over the number of years of life
+   that they provide. DALYs
+   (Disability-adjusted life years) relies on a similar concept.
+
+   [[https://www.wsj.com/articles/obscure-model-puts-a-price-on-good-healthand-drives-down-drug-costs-11572885123][This article]] talks about the use of QALYs by a research
+   organization called ICER in the US and how it could reduce drug
+   prices. While other countries have adopted QALY as a measure, the
+   US has not yet.
+
+
+* Cost of QALY
+  :PROPERTIES:
+  :CUSTOM_ID: Cost of one QALY
+  :END:
+
+  From the WSJ article, ICER puts the cost of one QALY in the US at
+  $150,000. A graph of QALYs used by other countries is in the
+  article. The approach of using QALYs was first established in the
+  UK.

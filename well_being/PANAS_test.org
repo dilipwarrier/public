@@ -1,0 +1,41 @@
+#+FILE: Calculation of your PANAS score
+
+The [[./Positive_psychology.org][PANAS score]] is used to rate your emotions/feelings about your
+current state. This code allows you to do your own PANAS rating.
+
+It borrows the rating scale from [[https://expertprogrammanagement.com/2021/02/the-panas-scale/][here]].
+
+#+NAME: Rating description
+|-------------+---|
+| Not at all  | 1 |
+| A little    | 2 |
+| Moderately  | 3 |
+| Quite a bit | 4 |
+| Extremely   | 5 |
+|-------------+---|
+
+#+NAME: Affect_rating
+|--------------+------+--------|
+| Affect mode  | Type | Rating |
+|--------------+------+--------|
+| Interested   | Pos  |        |
+| Alert        |      |        |
+| Attentive    |      |        |
+| Excited      |      |        |
+| Enthusiastic |      |        |
+| Inspired     |      |        |
+| Proud        |      |        |
+| Determined   |      |        |
+| Strong       |      |        |
+| Active       |      |        |
+| Upset        |      |        |
+| Distressed   |      |        |
+| Nervous      |      |        |
+| Jittery      |      |        |
+| Guilty       |      |        |
+| Ashamed      |      |        |
+| Hostile      |      |        |
+| Irritable    |      |        |
+| Scared       |      |        |
+| Afraid       |      |        |
+|--------------+------+--------|

@@ -59,3 +59,33 @@ Archived entries from file c:/Users/dw19681/Documents/personal_git/public/people
   :ARCHIVE_TODO: DONE
   :ARCHIVE_ITAGS: Bose
   :END:
+
+* DONE Complete my quarterly performance review
+  CLOSED: [2021-07-27 Tue 11:51] SCHEDULED: <2021-07-27 Tue>
+  :PROPERTIES:
+  :Effort:   00:30
+  :ARCHIVE_TIME: 2021-07-27 Tue 11:53
+  :ARCHIVE_FILE: c:/Users/dw19681/Documents/personal_git/public/people_management/Performance_reviews.org
+  :ARCHIVE_CATEGORY: Performance_reviews
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: Bose Manager
+  :END:
+:LOGBOOK:
+CLOCK: [2021-07-27 Tue 10:37]--[2021-07-27 Tue 10:51] =>  0:14
+CLOCK: [2021-07-27 Tue 08:31]--[2021-07-27 Tue 09:31] =>  1:00
+:END:
+
+The following task is setup to remind me to run code and generate a
+later set of tasks.
+
+* DONE Send a poll to get feedback on quarterly performance review process
+  SCHEDULED: <2021-08-03 Tue>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-08-03 Tue 14:55
+  :ARCHIVE_FILE: c:/Users/dw19681/Documents/personal_git/public/people_management/Performance_reviews.org
+  :ARCHIVE_CATEGORY: Performance_reviews
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: Manager
+  :END:
+  - State "DONE"       from "WAIT"       [2021-08-03 Tue 14:55]
+  - State "WAIT"       from "TODO"       [2021-08-03 Tue 14:55]

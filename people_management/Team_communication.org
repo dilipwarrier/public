@@ -20,4 +20,8 @@ guidelines on improving the overall remote co-working experience.
 
 ** Synchronous and asynchronous communication
 
-*** TODO Add section on communication                                  :Bose:
+
+*** WAIT Continue work on asynchronous comm document                   :Personal:
+    :PROPERTIES:
+    :Effort:   01:00
+    :END:
