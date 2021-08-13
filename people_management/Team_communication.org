@@ -1,5 +1,6 @@
 #+title: Team communication
 #+author: Dilip Warrier
+#+FILETAGS: :Work:
 
 ** Introduction
 
@@ -21,7 +22,7 @@ guidelines on improving the overall remote co-working experience.
 ** Synchronous and asynchronous communication
 
 
-*** WAIT Continue work on asynchronous comm document                   :Personal:
+*** WAIT Continue work on asynchronous comm document
     :PROPERTIES:
     :Effort:   01:00
     :END:
