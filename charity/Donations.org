@@ -1,5 +1,5 @@
 #+Title: Organizations to make donations to
-#+FILETAGS: :Charity:Donations:Society:
+#+FILETAGS: :Society:
 
 * A list of organizations
 

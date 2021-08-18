@@ -1,7 +1,6 @@
-#+FILE: Task management and automation
-#+FILETAGS: :tasks:
+#+FILE: The philosophy of task management
 
-** Generation of a set of tasks with an offset from a deadline
+* Generation of a set of tasks with an offset from a deadline
 
 The following block of code generates a set of TODO tasks with
 appropriately scheduled dates from a table of tasks. The table should
@@ -52,24 +51,9 @@ start_date (default is the date when the code is executed).
 #+END_SRC
 
 
-** Eisenhower matrix for prioritization
+* Possible criteria for prioritization
 
-|---------------+-------------+---------------|
-|               | Urgent      | Not urgent    |
-|---------------+-------------+---------------|
-| Important     | Do it       | Schedule it   |
-|---------------+-------------+---------------|
-| Not important | Delegate it | Do less of it |
-|---------------+-------------+---------------|
-
-Perhaps, for an "Important" but "Not urgent" task, you should prioritize
-and then schedule it. Otherwise, how do you know you are using your
-time most valuably.
-
-
-** How to prioritize tasks
-
-   One could use the Eisenhower matrix as shown above. Alternately, the
+   One could use the Eisenhower matrix, as described below. Alternately, the
    Effective Altruism organization method for deciding what to work on may be
    useful. The criteria they use are as follows.
    - Scale
@@ -77,7 +61,8 @@ time most valuably.
    - Personal fit
    - Neglectedness
 
-   The first two may be particularly useful for prioritizing projects.
+   The first two may be particularly useful for prioritizing projects
+   and are basically a cost-benefit analysis.
 
    - Scale or Benefit :: How much potential benefit/value would this
      project bring (to you, to the family etc.) if you completed it?
@@ -97,7 +82,25 @@ time most valuably.
    NPV analysis can be done to calculate the cost-benefit tradeoff.
 
 
-** What's important?
+* Eisenhower matrix
+   :PROPERTIES:
+   :CUSTOM_ID: Eisenhower_matrix
+   :END:
+
+|---------------+-------------+---------------|
+|               | Urgent      | Not urgent    |
+|---------------+-------------+---------------|
+| Important     | Do it       | Schedule it   |
+|---------------+-------------+---------------|
+| Not important | Delegate it | Do less of it |
+|---------------+-------------+---------------|
+
+Perhaps, for an "Important" but "Not urgent" task, you should prioritize
+and then schedule it. Otherwise, how do you know you are using your
+time most valuably.
+
+
+* The calculation of cost and benefit
 
    In life, we may care about physical health, mental health,
    contributions to community, relations with friends/family and
@@ -116,3 +119,9 @@ time most valuably.
    (capital) and converting those to a total cost in dollars. An NPV
    calculation will then allow us to prioritize improvement
    activities.
+
+
+* Execution of task management
+
+   All this philosophy needs to be translated into an execution
+   mechanism. That is described here.
