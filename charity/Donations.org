@@ -11,12 +11,13 @@
    the main ones.
 
 
-* TODO Donate $200 to [[https://secure.givewell.org/][Give Well]]
-   SCHEDULED: <2021-08-18 Wed 07:00 .+1w>
+* TODO Donate $800 to [[https://secure.givewell.org/][Give Well]]
+   SCHEDULED: <2021-09-15 Wed 07:00 .+4w>
    :PROPERTIES:
    :STYLE: habit
-   :LAST_REPEAT: [2021-08-11 Wed 11:09]
+   :LAST_REPEAT: [2021-08-18 Wed 18:16]
    :END:
+   - State "DONE"       from "TODO"       [2021-08-18 Wed 18:16]
    - State "DONE"       from "WAIT"       [2021-08-11 Wed 11:09]
    - State "WAIT"       from "TODO"       [2021-08-11 Wed 11:09]
    - State "DONE"       from "WAIT"       [2021-08-04 Wed 11:07]
