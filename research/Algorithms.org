@@ -1,0 +1,15 @@
+#+TITLE: Algorithms to live by
+#+Author: Brian Christian, Tom Griffiths
+
+** Optimal stopping or the secretary problem
+
+The secretary problem was first presented by Martin Gardner in
+Scientific American in a 1960s puzzle.
+
+Assume you have a position for a secretary available. Assume further
+that, if you can make an offer to a candidate, the candidate will
+accept and that you can not go back and make an offer to a candidate
+whom you rejected earlier. What is the optimal strategy you should
+pursue? There is a theoretical answer: you should look at 37% of
+candidates and, after that, make an offer to any candidate who is
+better than the best candidate in that first 37%.
