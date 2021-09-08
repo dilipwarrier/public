@@ -3,13 +3,120 @@
 
 ** Optimal stopping or the secretary problem
 
-The secretary problem was first presented by Martin Gardner in
-Scientific American in a 1960s puzzle.
+   The secretary problem was first presented by Martin Gardner in
+   Scientific American in a 1960s puzzle.
 
-Assume you have a position for a secretary available. Assume further
-that, if you can make an offer to a candidate, the candidate will
-accept and that you can not go back and make an offer to a candidate
-whom you rejected earlier. What is the optimal strategy you should
-pursue? There is a theoretical answer: you should look at 37% of
-candidates and, after that, make an offer to any candidate who is
-better than the best candidate in that first 37%.
+   Assume you have a position for a secretary available. Assume further
+   that, if you can make an offer to a candidate, the candidate will
+   accept and that you can not go back and make an offer to a candidate
+   whom you rejected earlier. What is the optimal strategy you should
+   pursue? There is a theoretical answer: you should look at 37% of
+   candidates and, after that, make an offer to any candidate who is
+   better than the best candidate in that first 37%. Interestingly, the
+   probability of finding the best candidate with this strategy is also
+   37%.
+
+   In real life, there is cost associated with looking for candidates. If
+   you factor in reasonable costs, the number reduces from 37% to about
+   30%. In experiments, human beings seem to use this number to solve
+   such problems.
+
+   If you are allowed to go back and make offers to candidates you
+   previously rejected (and assume that those candidates will accept),
+   then you can look for up to 60% of the time.
+
+
+** Explore vs exploit
+
+   The [[https://en.wikipedia.org/wiki/Multi-armed_bandit][multi-armed bandit]] problem is a problem where you have an
+   number of slot machines to play. Each of them have an
+   unknown but fixed probability of success with equal payoffs for any
+   slot machine when it is successful. What is your best strategy to
+   play the machines?
+
+   A well-known solution to this problem uses the [[https://en.wikipedia.org/wiki/Gittins_index][Gittins index]]. The
+   Gittins index considers geometric weighting for future rewards. It
+   gives a 2-D matrix with columns representing the number of
+   successful attempts so far and rows representing the unsuccessful
+   ones. Each entry in the matrix is the Gittins index for that pair
+   of successful and unsuccessful attempts so far. In your next move,
+   you should play the machine with the highest Gittins index.
+
+   The Gittins index is actually 0.7 even when you have not made any
+   attempts on a machine (as opposed to 0.5). This is because when you
+   haven't played a machine yet, there is some probability that it
+   will turn out to be a high-paying machine. The future rewards of
+   that machine can be quite high if it is high-paying and can be
+   limited if it is low-paying because you will use the Gittins index
+   to switch to some other machine if that is the case.
+
+   For non-geometric future payoffs, there are other approaches like
+   Upper Confidence Level optimization (choose a scenario that has a
+   high upper threshold even if the lower threshold is low).
+
+   Gittins index is also optimal if the state of the played machine
+   changes over time. The version of the problem where the state of
+   the *unplayed* machines change i.e. their payoff reward or the
+   probability of payoff changes over time is called the restless
+   bandit problem. That problem is known to be NP-complete. The
+   Gittins index is expected to be a good heuristic for that
+   problem. The [[http://www.anthonybonifonte.com/wp-content/uploads/2014/08/RMAB-Report-Final-AB-QC.pdf][Whittle index]] is supposed to be an optimal solution
+   but is hard to compute. In general, the state space explodes pretty
+   quickly for such problems.
+
+   This problem has an interesting business application: how do you
+   determine how to apply fixed resources to a limited set of
+   projects, each of which have a probability of success? The
+   real-life problem to model this as a MAB problem is how you will
+   measure success in exploratory R&D work.
+
+*** Practical computations of Gittins index
+
+    [[https://sites.google.com/site/lorenzodigregorio/gittins-index][This site]] provides Matlab code for the computation.
+
+    [[https://arxiv.org/pdf/1909.05075v1.pdf][This paper]] and the associated Github site provides an R package
+    for computation of the index for Bernoulli distributions.
+
+
+*** Upper bound on Gittins index
+
+   According to [[http://www.ece.mcgill.ca/~amahaj1/projects/bandits/book/2013-bandit-computations.pdf][Mahajan et al]], the following is an upper bound on the
+   Gittins index.
+   $\mu + \sigma \sqrt(\beta/(1 - \beta))$
+
+   where:
+      - $\mu = p/(p + q)$
+      - $\sigma^2 = \frac{p \times q}{(p + q)^2 \times (p + q + 1)}$
+      - $\beta$ is the forgetting factor
+      - p and q are the numbers of successful and unsuccessful
+        attempts so far
+
+   For $\beta = 0.9$, $\mu = 0.5$ and $p=q=0$, you get an upper bound
+   of 2.0 which is quite loose compared to the value of 0.7 mentioned
+   above. This bound is probably better for large values of $p+q$.
+
+
+** Sorting
+
+   Bubble sort is a somewhat inefficient way of sorting a
+   list. MergeSort is a roughly O(n*logn) way of sorting. MergeSort
+   requires you to start with 2 elements at a time, sort them, then
+   combine with another sorted list of 2 elements, sort the combined
+   list etc. and build your way up. In this way, it is quite similar
+   to the Cooley-Tukey FFT algorithm and has the same O(n*logn)
+   property.
+
+   However, one can ask the meta-question of why sorting is
+   needed. For many practical problems, you care about accessing
+   information. In such situations, it is observed that using a Most
+   Recently Used (MRU) approach is better because, if you have
+   recently used something, it is likely that you will use it
+   again. This beats approaches like FIFO or Most Recently Added (MRA).
+
+   Libraries use MRA approaches when they put new books in shelves up
+   front. Instead, the MRU approach would suggest that the most
+   popular books should be up front, thus reducing librarian work to
+   shelve such books and user effort to find them.
+
+
+** Caching

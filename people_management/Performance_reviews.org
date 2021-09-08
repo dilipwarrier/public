@@ -15,8 +15,13 @@ this note, we setup the tasks that need to be executed in each cycle.
    - State "DONE"       from "TODO"       [2021-09-01 Wed 11:59]
    - State "DONE"       from "TODO"       [2021-09-01 Wed 11:59]
 ** TODO Create tasks for directs to update and submit Workday goals and development plan
-   SCHEDULED: <2021-09-08 Wed .+3m>
+   SCHEDULED: <2021-12-08 Wed .+3m>
+   :PROPERTIES:
+   :LAST_REPEAT: [2021-09-08 Wed 07:47]
+   :END:
 
+   - State "DONE"       from "TODO"       [2021-09-08 Wed 07:47]
+   - State "DONE"       from "TODO"       [2021-09-08 Wed 07:47]
 ** TODO Request quick feedback on directs from peers
    SCHEDULED: <2021-09-16 Thu .+3m>
 
