@@ -1,7 +1,7 @@
 #+title: Team communication
 #+author: Dilip Warrier
 
-** Introduction
+* Introduction
 
 Post the pandemic of 2020-21, teams are increasingly working
 remotely. This is in general a healthy phenomenon. It allows us to
@@ -18,10 +18,10 @@ can lead to added work-related stress. To mitigate these disadvantages, we must 
 some habits to make it a better experience. This note suggests some
 guidelines on improving the overall remote co-working experience.
 
-** Synchronous and asynchronous communication
 
+* Synchronous and asynchronous communication
 
-*** WAIT Continue work on asynchronous comm document                 :Career:
-    :PROPERTIES:
-    :Effort:   01:00
-    :END:
+** TODO Work on asynchronous comm document                         :Learning:
+   :PROPERTIES:
+   :Effort:   01:00
+   :END:

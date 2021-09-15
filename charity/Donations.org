@@ -11,10 +11,12 @@
    the main ones.
 
 
-* TODO Donate $800 to [[https://secure.givewell.org/][Give Well]]
-   SCHEDULED: <2021-09-15 Wed 07:00 .+4w>
+
+* Recurring tasks
+
+** TODO Donate $800 to [[https://secure.givewell.org/][Give Well]]
+   SCHEDULED: <2021-09-15 Wed 08:00 .+4w>
    :PROPERTIES:
-   :STYLE: habit
    :LAST_REPEAT: [2021-08-18 Wed 18:16]
    :END:
    - State "DONE"       from "TODO"       [2021-08-18 Wed 18:16]
@@ -27,5 +29,5 @@
    - State "DONE"       from "WAIT"       [2021-07-14 Wed 07:52]
 
 
-* TODO File on [[https://account.activedirectory.windowsazure.com/applications/signin/a54cb682-2ada-479c-9d7b-024205b915d2?tenantId=5d8ae07e-7fd0-404d-85c1-453ff3dc8c1e][Bose Gives]] for employee matching for donations
-  SCHEDULED: <2021-11-17 Wed .+6m>
+** TODO File on [[https://account.activedirectory.windowsazure.com/applications/signin/a54cb682-2ada-479c-9d7b-024205b915d2?tenantId=5d8ae07e-7fd0-404d-85c1-453ff3dc8c1e][Bose Gives]] for employee matching for donations
+   SCHEDULED: <2021-11-17 Wed .+6m>

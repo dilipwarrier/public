@@ -1,7 +1,7 @@
 #+TITLE: Algorithms to live by
 #+Author: Brian Christian, Tom Griffiths
 
-** Optimal stopping or the secretary problem
+** Optimal stopping
 
    The secretary problem was first presented by Martin Gardner in
    Scientific American in a 1960s puzzle.
@@ -119,4 +119,11 @@
    shelve such books and user effort to find them.
 
 
-** Caching
+** Scheduling
+
+   If you want to optimize the weighted sum of all processing times,
+   then ranking tasks by the benefit divided by the remaining
+   processing time is quite good. It can also be used to handle
+   pre-emption where you do the same calculation for each incoming
+   task. If the incoming task has a better benefit per unit time, you
+   switch to that task.
