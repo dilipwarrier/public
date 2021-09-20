@@ -1,5 +1,6 @@
 #+TITLE: Algorithms to live by
 #+Author: Brian Christian, Tom Griffiths
+#+Filetags: :Reading:
 
 ** Optimal stopping
 
@@ -67,8 +68,9 @@
    This problem has an interesting business application: how do you
    determine how to apply fixed resources to a limited set of
    projects, each of which have a probability of success? The
-   real-life problem to model this as a MAB problem is how you will
+   real-life challenge to model this as a MAB problem is how you will
    measure success in exploratory R&D work.
+
 
 *** Practical computations of Gittins index
 
@@ -123,7 +125,61 @@
 
    If you want to optimize the weighted sum of all processing times,
    then ranking tasks by the benefit divided by the remaining
-   processing time is quite good. It can also be used to handle
-   pre-emption where you do the same calculation for each incoming
-   task. If the incoming task has a better benefit per unit time, you
-   switch to that task.
+   processing time is quite good.
+
+   It can also be used to handle pre-emption where you do the same
+   calculation for each incoming task. If the incoming task has a
+   better benefit per unit time, you switch to that task.
+
+
+** Probabilities
+
+   A common problem is how to predict the value of a variable given
+   what you know of its current state. For instance, if you are 50
+   years old now, roughly how long will you live?
+
+   This problem can be solved by applying knowledge of the underlying
+   probability distribution to Bayes' theorem.
+
+   There are three widely-observed probability distributions
+   - Gaussian or normal
+   - Power law
+   - Erlang
+
+  People's average lifetimes are represented well by Gaussian
+  distributions. In this case, the best predictor is the average
+  value. If you know the current age of a person, then you should
+  predict roughly the average lifetime if their current age is well
+  below it and add a little bit over the average if their age is above
+  it.
+
+  Gross incomes for movies are well represented by power laws. In this case,
+  the best predictor is a multiplier factor. For no further knowledge,
+  the best multiplier is 2. For movie incomes, it is known to be about
+  1.4. Thus, if a movie has made $5M
+  so far, your best predictor is that the movie will make $7M
+  lifetime. If it has made $50M so far, the best prediction is that it
+  will make $70M in its lifetime. Note how this multiplier factor is
+  different from the average factor for Gaussian distributions.
+
+  The number of years a politician holds office follows Erlangian
+  distributions. In this case, the best predictor is an additive
+  factor, irrespective of how long the politician has held office.
+
+*** The marshmallow test
+
+    Walter Mischel's famous "marshmallow test" consisted of an adult
+    leaving one marshmallow on the table for a child, promising that if
+    the child didn't eat the marshmallow by the time the adult came
+    back, he or she would get two marshmallows, and then walking
+    away. It was observed that children who waited till the adult came
+    back and thus got two marshmallows seemed to also do well later in
+    life including SAT tests etc.
+
+    This test can also be interpreted as the child evaluating the
+    chances of the adult coming back in a reasonable amount of time. If
+    the child judges the adult to be unreliable (and has had prior
+    experience with unreliable adults), he or she may just cut their
+    losses early and eat the one marshmallow in front of them. This
+    might even be rational if the return times of adults are governed
+    by power laws.

@@ -15,7 +15,7 @@ start_date (default is the date when the code is executed).
 | Task 3 |  1 |
 
 #+NAME: generate_tasks_from_offset
-#+BEGIN_SRC python :results output raw :var tab = test_table start_date = ""
+#+BEGIN_SRC python :results output raw :var tab = test_table start_date = "" task_time="20:00"
   # Generate a list of tasks with scheduled dates in Org format
   #
   # Input list tab contains a list of lists of 2 values: name and offset
@@ -47,7 +47,7 @@ start_date (default is the date when the code is executed).
               continue
 
       task_date = start_date + datetime.timedelta(days = delta)
-      print("*** TODO %s\n    SCHEDULED: <%s>\n" % (t[0], task_date.strftime("%Y-%m-%d %a")))
+      print("*** TODO %s\n    SCHEDULED: <%s %s>\n\n" % (t[0], task_date.strftime("%Y-%m-%d %a"), task_time))
 #+END_SRC
 
 
@@ -97,7 +97,7 @@ start_date (default is the date when the code is executed).
 
 Perhaps, for an "Important" but "Not urgent" task, you should prioritize
 and then schedule it. Otherwise, how do you know you are using your
-time most valuably.
+time most valuably?
 
 
 * The calculation of cost and benefit
