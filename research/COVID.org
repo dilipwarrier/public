@@ -1,0 +1,7 @@
+#+Title: Articles related to COVID-19
+#+Filetags: :Health:
+
+* Efficacy of booster shots
+
+  This [[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fulltext#back-bib1][Lancet article]] argues against providing booster shots to the
+  general community.
