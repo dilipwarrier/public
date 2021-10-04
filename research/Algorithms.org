@@ -84,13 +84,13 @@
 
    According to [[http://www.ece.mcgill.ca/~amahaj1/projects/bandits/book/2013-bandit-computations.pdf][Mahajan et al]], the following is an upper bound on the
    Gittins index.
-   $\mu + \sigma \sqrt(\beta/(1 - \beta))$
+   $\mu + \sigma \sqrt\frac{\beta}{1 - \beta}$
 
    where:
       - $\mu = p/(p + q)$
       - $\sigma^2 = \frac{p \times q}{(p + q)^2 \times (p + q + 1)}$
       - $\beta$ is the forgetting factor
-      - p and q are the numbers of successful and unsuccessful
+      - $p$ and $q$ are the numbers of successful and unsuccessful
         attempts so far
 
    For $\beta = 0.9$, $\mu = 0.5$ and $p=q=0$, you get an upper bound
@@ -183,3 +183,18 @@
     losses early and eat the one marshmallow in front of them. This
     might even be rational if the return times of adults are governed
     by power laws.
+
+
+** Randomness
+
+   Sometimes, instead of figuring out the solution to a complex
+   problem, a better strategy may be to sample it. For instance, if
+   you want to know the probability of a shuffled deck being a
+   winnable game in Solitaire, it may be best to play the game
+   multiple times to approximate that probability.
+
+   With these techniques, you won't know the result with certainty. In
+   fact, while the earlier algorithms trade-off time and space
+   (e.g. speed of computation versus cache size/memory size), the idea
+   behind randomness is that certainty of the result can also be a
+   parameter to trade off.

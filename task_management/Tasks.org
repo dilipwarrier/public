@@ -121,6 +121,19 @@ time most valuably?
    activities.
 
 
+** Time efficiency calculation
+
+   Assume you could save t units of time per day for the next 3
+   years. That converts to roughly t*400 units per year for 3
+   years. Using a 10% discount rate, your total savings is t*400*[1 +
+   (1/1.1) + (1/1.1)^2] = t*400*2.75 = t*400*(11/4). So, that's the
+   upper bound on how much effort you should spend on that
+   improvement.
+
+   For instance, to save 1 min/day for 3 years, you can spend up to
+   1000 min or 16 hours.
+
+
 * Execution of task management
 
    All this philosophy needs to be translated into an execution
