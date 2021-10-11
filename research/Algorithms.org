@@ -196,5 +196,41 @@
    With these techniques, you won't know the result with certainty. In
    fact, while the earlier algorithms trade-off time and space
    (e.g. speed of computation versus cache size/memory size), the idea
-   behind randomness is that certainty of the result can also be a
+   behind randomness is that certainty can also be a
    parameter to trade off.
+
+
+** Game theory
+
+   The Vickrey auction (the highest bidder gets the award but at the
+   price of the second highest bid) awards honesty. In fact, honesty
+   is a dominant strategy under this scheme which is the best result
+   you can hope for.
+
+   Myerson proved that any game in which players can
+   use deception can be transformed into a game in which honesty is a
+   dominant strategy. This is a surprising and uplifting result.
+
+
+** Conclusion
+
+   Type 1 rationality is the approach of grinding through all the
+   available data and arriving at a decision. The stereotype is that
+   computers are good at Type 1 rationality. However, in reality, even
+   computers don't employ Type 1 rationality in anything beyond toy
+   problem scale. In contrast, what is more useful is Type 2
+   rationality i.e. finding a balanced approach of computational
+   capability or burden, available memory and available data to come
+   to a decision.
+
+   This can lead to "computational kindness". For instance, when you
+   meet friends for dinner, "where would you like to go?" is a
+   question that transfers the computational burden to your
+   friends. Instead, suggesting 3 options in order of your priority is
+   not as "ethically polite" but may be computationally kinder.
+
+   Algorithms such as Optimal Stopping only have a 37% chance of
+   success. You can interpret this as a way of focusing on the process
+   or the approach rather than the outcome. You may still fail in
+   terms of the outcome but you can be comforted that you have adopted
+   the optimal process.
