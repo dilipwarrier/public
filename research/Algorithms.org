@@ -122,6 +122,9 @@
 
 
 ** Scheduling
+   :PROPERTIES:
+   :CUSTOM_ID: sched_alg
+   :END:
 
    If you want to optimize the weighted sum of all processing times,
    then ranking tasks by the benefit divided by the remaining

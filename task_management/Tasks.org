@@ -137,4 +137,4 @@ time most valuably?
 * Execution of task management
 
    All this philosophy needs to be translated into an execution
-   mechanism. That is described here.
+   mechanism.
