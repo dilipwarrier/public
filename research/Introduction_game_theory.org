@@ -1,0 +1,44 @@
+#+TITLE: An introduction to game theory by Steven Tadelis
+#+FILETAGS: :economics:games:mathematics:probability:Books:Learning:
+
+* Three factors to making a choice or a decision
+
+  - Actions
+  - Outcomes that result from each action
+  - Utility/preference for each outcome
+
+  A rational choice is one in which the agent chooses an action that
+  maximizes the expected utility.
+
+  Actions can result in outcomes with certain probabilities. This can
+  be interpreted as a two-party game between the agent and Nature.
+
+  This is a consistent and analyzable approach. However, many
+  practical situations are multi-player games e.g. how you do on a
+  course depends not just on how much time you spend studying for it
+  but also on how much effort other students spend on the
+  course. Thus, decision theory quickly translates into multi-player
+  games.
+
+* Static games of complete information
+
+  1. Each player simultaneously and independently chooses an action.
+  2. Based on the chosen actions, each player gets a payoff/utility
+     (could be deterministic or probabilistic).
+  3. All players understand the parameters of the game they are playing.
+
+  Item 3 is an assumption of "common knowledge" i.e. all players know
+  E, everyone knows that everyone knows E, etc. ad infinitum. This is
+  a strong assumption. For instance, if a student heard the professor
+  say that there is a test the next day, he can not be sure that
+  another student wasn't asleep and missed that announcement.
+
+** Normal-form game
+
+   This consists of three components:
+   - A finite set of players
+   - A collection of sets of pure strategies ${S_1, S_2,\ldots, S_n}$
+   - A set of payoff functions ${v_1, v_2, \ldots, v_n}$, each of
+     which assigns a payoff to a combination of chosen strategies.
+
+   "Pure strategy" implies that the strategy is not random.

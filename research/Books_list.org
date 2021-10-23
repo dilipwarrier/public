@@ -1,5 +1,5 @@
 #+Title: List of books to read
-#+FILETAGS: :Reading:
+#+FILETAGS: :Learning:Books:
 
 * Table of books
 
@@ -8,6 +8,8 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
+| Bayesian data analysis                                                                                                                             | Bruce Gelman                                  |           |            4.2 |            | 10/17/2021 | maths, textbook                           | to-read |
+| Introduction to the theory of computation                                                                                                          | Michael Sipser                                |           |            4.2 |            | 10/17/2021 | science, textbook                         | to-read |
 | Artificial intelligence: A modern approach                                                                                                         | Stuart Russell, Peter Norvig                  |           |            4.2 |            | 10/10/2021 | science, textbook                         | to-read |
 | Human compatible: AI and the problem of control                                                                                                    | Stuart Russell                                |           |            4.2 |            | 10/10/2021 | science                                   | to-read |
 | Talking to the enemy : faith, brotherhood, and the (un)making of terrorists                                                                        | Scott Atran                                   |           |            4.0 |            | 9/23/2021  | society                                   | to-read |

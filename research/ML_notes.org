@@ -1,0 +1,41 @@
+#+Title: Notes on Machine Learning/AI/Data Science
+#+FILETAGS: :ML:
+
+* Useful Coursera courses
+
+** Courses
+
+   Data visualization
+
+   Model thinking
+
+   AWS machine learning
+
+   Bayesian Statistics: From Concept to Data Analysis
+
+** Specializations
+
+   + Applied data science with Python
+      - 5 months * 4 weeks * 7 hours/week = 140 hours
+      - 5 months * $80/month = $400
+
+   + Business analytics
+      - 6 months * 4 weeks * 3 hours/week = 72 hours
+      - 6 months * $80/month = $480
+
+   + Big data
+
+
+* Task list                                                        :Learning:
+
+
+** TODO Read [[https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/][Nvidia blog]] on MLOps
+   :PROPERTIES:
+   :Effort:   00:30
+   :END:
+
+
+** TODO Decide whether to do Coursera MLOps class
+   :PROPERTIES:
+   :Effort:   00:15
+   :END:

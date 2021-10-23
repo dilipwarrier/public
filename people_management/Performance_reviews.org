@@ -1,6 +1,8 @@
 #+Title: Automatic setup of performance review steps
 #+FILETAGS: :Bose:Manager:
 
+* Performance reviews
+
 In my organization, we typically have informal quarterly performance
 reviews and a formal performance review at the end of the
 fiscal year. There are a set of steps for each performance review. In
@@ -30,7 +32,7 @@ this note, we setup the tasks that need to be executed in each cycle.
 
    - State "DONE"       from "TODO"       [2021-09-16 Thu 16:23]
 ** TODO Complete my quarterly performance review
-   SCHEDULED: <2021-10-21 Thu +3m>
+   SCHEDULED: <2021-10-25 Mon +3m>
 
 ** TODO Send a poll to full team to get feedback on quarterly performance review process
     SCHEDULED: <2021-11-01 Mon +3m>

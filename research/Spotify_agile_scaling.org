@@ -1,0 +1,24 @@
+#+Title: Scaling Agile at Spotify
+#+FILETAGS: :Agile:LearningManager:
+
+* Organization at Spotify
+
+  [[file:Screenshot 2021-10-23 160049.jpg][Squads, tribes, chapters and guilds]]
+
+  Squads are product teams that have all the skills necessary to
+  develop some part of the product. They have a long-term vision. The
+  product owner decides what the squad does and the squad decides how
+  to do it. Squads are designed to be as self-contained as possible.
+
+  Many squads together form a tribe which together produce some large
+  piece of functionality. Typically, a tribe has about 100 people
+  (Dunbar number).
+
+  Chapters are typically people with the same technical skills across
+  mutliple squads (but within one tribe). They are similar to
+  functional groups in other organizations. The chapter lead is like a
+  functional manager but the chapter lead is also in a squad, so the
+  relation is looser.
+
+  Guilds are a collection of people across
+  multiple tribes with similar interests.

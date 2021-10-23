@@ -1,6 +1,6 @@
 #+TITLE: Algorithms to live by
 #+Author: Brian Christian, Tom Griffiths
-#+Filetags: :Reading:
+#+Filetags: :Learning:Books:
 
 ** Optimal stopping
 
