@@ -86,6 +86,7 @@
    for player 1), F has the higher payoff for player 2. Hence, (F, F)
    is dominant.
 
+
 * Extensive-form game
 
   This is an extension of the normal-form game where there is a
