@@ -39,4 +39,8 @@ this note, we setup the tasks that need to be executed in each cycle.
 
    - State "DONE"       from "TODO"       [2021-10-30 Sat 16:02]
 ** TODO Send a poll to full team to get feedback on quarterly performance review process
-    SCHEDULED: <2021-11-01 Mon +3m>
+    SCHEDULED: <2022-02-01 Tue +3m>
+    :PROPERTIES:
+    :LAST_REPEAT: [2021-11-01 Mon 13:18]
+    :END:
+    - State "DONE"       from "TODO"       [2021-11-01 Mon 13:18]

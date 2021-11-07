@@ -1,7 +1,7 @@
 #+TITLE: An introduction to game theory by Steven Tadelis
 #+FILETAGS: :economics:games:mathematics:probability:Books:Learning:
 
-* Three factors to making a choice or a decision
+* Three factors to making a decision
 
   - Actions
   - Outcomes that result from each action
@@ -16,12 +16,12 @@
   spend on the course. Thus, decision theory quickly translates into
   multi-player games.
 
-  Probabilistic outcome games can
-  be interpreted as two-party games between an agent and Nature. For
-  instance, in a game based on coin flips, Nature first decides (with
-  equal probability) whether the coin flip will result in a Heads or a
-  Tails. Based on the outcome, the player may then have a strategy
-  which results in certain outcomes.
+  Probabilistic outcome games can be interpreted as two-party games
+  between an agent and Nature. For instance, in a game based on coin
+  flips, Nature first decides (with equal probability) whether the
+  coin flip will result in a Heads or a Tails. Based on the outcome,
+  the player may then have a strategy which results in certain
+  outcomes.
 
 
 * Static games of complete information
@@ -46,36 +46,44 @@
    Scissors) or because the information of a player's move isn't
    available in time for the other player to make her move.
 
-   This consists of three components:
+   The normal-form game consists of three components:
    - A finite set of players
    - A collection of sets of pure strategies ${S_1, S_2,\ldots, S_n}$
    - A set of payoff functions ${v_1, v_2, \ldots, v_n}$, each of
      which assigns a payoff to a combination of chosen strategies.
 
    "Pure strategy" implies that the strategy is not random. "Mixed
-   strategy" implies that choices can be made randomly between pure strategies.
+   strategy" implies that choices can be made randomly between pure
+   strategies.
 
 
 * Dominant strategy and Nash equilibrium
 
-  A dominant strategy is one in which a player has a
-  strategic choice and no other strategy for the player results in a better payoff,
+  A dominant strategy is one in which a player has a strategic choice
+  and no other strategy for the player results in a better payoff,
   irrespective of the other players' strategies.
 
-  A Nash equilibrium is a set of strategies for each player such that
-  the strategy for each player is the best response to the strategies
-  of all the other players. A dominant strategy is a Nash
-  equilibrium but not vice versa.
+  A Nash equilibrium (NE) is a set of strategies for the players such
+  that the NE strategy for each player is the best response to the NE
+  strategies of all the other players. A dominant strategy is an NE
+  but not vice versa.
+
+  The attraction of the NE is that it can be proven to exist
+  under fairly general conditions of finite normal-form games if you
+  allow mixed strategies (see section below). Note
+  that, even though an NE may exist, it may not be easily
+  computable.
 
 
 * Prisoner's dilemma
 
-   For instance, in a prisoner's dilemma problem, each prisoner
+   In a prisoner's dilemma problem, each prisoner
    can either "fink" (F) or remain "mum" (M). The payoff matrix is as
-   follows.
+   follows (where the lower case and upper case distinguish each
+   player's move).
 
    |--------------------+----------+----------|
-   | Player 1/Player 2  | M        | F        |
+   | Player 1/Player 2  | m        | f        |
    |--------------------+----------+----------|
    | M                  | (-2, -2) | (-5, -1) |
    | F                  | (-1, -5) | (-4, -4) |
@@ -83,14 +91,103 @@
 
    In the payoff matrix, for each column (strategy for player 2), F has
    the higher payoff for player 1. Similarly, for each row (strategy
-   for player 1), F has the higher payoff for player 2. Hence, (F, F)
-   is dominant.
+   for player 1), f has the higher payoff for player 2. Hence, (F, f)
+   is dominant and, by definition, also an NE.
+
+   This is a disturbing result since, although both players could land
+   on a "better" outcome of (M, m), they will rationally end up
+   choosing (F, f).
+
+
+* Mixed strategies
+
+  A mixed strategy is where a player may choose from any of a finite
+  set of strategies with a certain probability. This can also be
+  considered as a "belief" of a player about the other player's
+  strategy. For example, player i may not know what player j may play
+  but may have certain beliefs about the strategies of player j and
+  may choose her best move according to those beliefs.
+
+  Choosing mixed strategies can result in NEs in games
+  where fixed strategies don't do so. Thus, it provides a richer tool
+  set for playing games.
+
+  If there is a mixed strategy that is a Nash
+  equilibrium, it must be a convex combination of strategies that have
+  the same utility against the best response strategy of the other
+  players.
 
 
 * Extensive-form game
 
   This is an extension of the normal-form game where there is a
-  sequence of moves for the players and the players get information
+  sequence of moves for the players and the players may get information
   about what moves the players before them made. Further, it is
   assumed that this extensive-form structure is common knowledge for
   all players.
+
+  In some cases, the analysis here can be simplified by considering
+  game sub-trees and applying sequential rationality.
+
+  An interesting example of this is the war game simulation of the
+  Cuban missile crisis. In one version of this game, the Nash
+  equilibria lie outside the mutual destruction path but the existence
+  of the mutual destruction path is enough for rational players to
+  take steps to avoid it.
+
+
+* Multi-stage games
+
+  In the normal-form and extended-form games, the payoff was received
+  by all players at the end of their moves. We can now extend this
+  analysis to sequences of either the same or different games with
+  payoffs received at the end of each game occurrence. In such cases,
+  discounting future payoffs is necessary so that rational players can
+  make choices about which strategies to choose in early games to
+  account for gains in later games.
+
+  For example, we can consider a multi-stage game that consists of the
+  Prisoner's dilemma followed by revenge consisting of the prisoners
+  potentially joining gangs and taking revenge on each other. If the
+  two prisoners stay mum in the first game, there is a higher chance
+  that they will stay a loner in the second game and not join a
+  gang. This "carrot-and-stick" option in the second game can be
+  enough to force the (M, m) option in the first game although it's
+  not a NE for that game by itself. In order for this to
+  work, the incentives and discounting factors have to be
+  correctly designed.
+
+  Note that the choice of a non-NE in an early stage
+  game can only be enforced if two conditions are met:
+  - There are multiple NEs in later stage games
+  - Players can be "patient" i.e. discount factors are high enough.
+
+  If the first factor does not hold, it is rational to play the NE in
+  each game and those NEs are known in advance. If the second factor
+  does not hold, there isn't enough of a carrot to deviate from the NE
+  in the early rounds.
+
+  In order to find the NE for a multi-stage game, you do
+  not need to consider exponentially many possibilities based on the
+  equilibria for each stage. The method of dynamic programming can be
+  used with backward induction to calculate the equilibrium strategy
+  working backwards.
+
+  As a direct consequence of the above, if the Prisoner's dilemma game
+  is played a finite number of times, the NE is to fink
+  in each game. However, if there are either an infinite number of
+  games with discounted payoff or if the players may or may not play
+  the next iteration of the game with some probability, then things
+  get more interesting.
+
+  In this case, the "Always fink" strategy is, of course, an
+  NE. However, other strategies like "Grim trigger" strategies can
+  also be NEs for high values of the discount (or probability of next
+  play). A grim trigger strategy is one where each player will play
+  M/m as long as the previous play history up to that point does not
+  include a single F/f.
+
+  In general, if there are infinite plays, then you can get
+  arbitrarily close to any legitimate payoff of a single-stage version
+  of the game as long as you are allowed to make the discount factor
+  arbitrarily close to 1.
