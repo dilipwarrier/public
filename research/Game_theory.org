@@ -191,3 +191,26 @@
   arbitrarily close to any legitimate payoff of a single-stage version
   of the game as long as you are allowed to make the discount factor
   arbitrarily close to 1.
+
+
+* Auctions
+
+  Auctions can be of either the private values or the common values
+  types. In private value auctions, each player assigns a value to the
+  auction and the payoff to the player is dependent only upon the
+  player's private value e.g. if you buy something to eat or a work
+  of art. In a common values auction, the payoff of each player
+  depends not just upon that player's assigned value but also upon
+  other players' values.
+
+  In private value settings, the second-price
+  sealed-bid auctions are equivalent to English
+  auctions. Bidding your private value is weakly dominant. The
+  first-price sealed-bid auctions are equivalent to Dutch auctions. In
+  these cases, each player must "shade" their valuation when bidding
+  to obtain a positive expected payoff and bidding your private
+  valuation is not dominant any more.
+
+  In common value settings, each player must account for the fact that
+  they may win because the other player values the good lower. This is
+  called "winner's curse".

@@ -1,5 +1,6 @@
 #+Title: List of books to read
 #+FILETAGS: :Learning:Books:
+#+STARTUP: shrink
 
 * Table of books
 
@@ -8,6 +9,8 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
+| Never let me go                                                                                                                                    | Kazuo Ishiguro                                |           |            3.8 |            | 11/13/2021 | fiction                                   | to-read |
+| Blueprint: How DNA makes us who we are                                                                                                             | Robert Plomin                                 |           |            4.0 |            | 11/13/2021 | genetics                                  | to-read |
 | Winter Tide                                                                                                                                        | Ruthanna Emrys                                |           |            3.8 |            | 11/07/2021 | science-fiction                           | to-read |
 | Games of life                                                                                                                                      | Karl Sigmund                                  |           |            4.0 |            | 10/31/2021 | maths                                     | to-read |
 | Bayesian data analysis                                                                                                                             | Bruce Gelman                                  |           |            4.2 |            | 10/17/2021 | maths, textbook                           | to-read |
@@ -30,8 +33,8 @@
 | Knowledge, reality and value                                                                                                                       | Michael Huemer                                |           |            4.1 |            | 4/8/2021   | philosophy, textbook                      | to-read |
 | Working backwards                                                                                                                                  | Colin Bryar, Bill Carr                        |           |            4.4 |            | 3/20/2021  | management                                | to-read |
 | The dead are arising: The life of Malcolm X                                                                                                        | Les Payne                                     |           |            4.3 |            | 3/20/2021  | black-biography                           | to-read |
-| I contain multitudes: the microbes within us                                                                                                       | Ed Yong                                       |           |            4.1 |            | 10/3/2021  | science                                   | to-read |
-| The vital question: Energy, evolution and the origins of complex life                                                                              | Nick Lane                                     |           |            4.2 |            | 10/3/2021  | science                                   | to-read |
+| I contain multitudes: the microbes within us                                                                                                       | Ed Yong                                       |         2 |            4.1 | 11/12/2021 | 10/3/2021  | science                                   | read    |
+| The vital question: Energy, evolution and the origins of complex life                                                                              | Nick Lane                                     |           |            4.2 |            | 10/3/2021  | genetics                                  | to-read |
 | Before she knew him                                                                                                                                | Peter Swanson                                 |           |            3.9 |            | 3/20/2021  | thriller                                  | to-read |
 | Rise of the West                                                                                                                                   | William McNeill                               |           |            4.1 |            | 2/20/2021  | western-history                           | to-read |
 | Devil in a blue dress                                                                                                                              | Walter Mosley                                 |           |            3.9 |            | 2/20/2021  | thriller                                  | to-read |
@@ -49,14 +52,14 @@
 | Magdalena: River of dreams                                                                                                                         | Wade Davis                                    |           |            4.4 |            | 9/6/2020   | society                                   | to-read |
 | Sum                                                                                                                                                | David Eagleman                                |           |            4.1 |            | 9/6/2020   | science-fiction                           | to-read |
 | Thinking it through                                                                                                                                | Anthony Kwame Appiah                          |           |            4.0 |            | 8/30/2020  | philosophy                                | to-read |
-| Game theory: an introduction                                                                                                                       | Steve Tadelis                                 |           |            4.0 |            | 8/30/2020  | science, textbook                         | to-read |
+| Game theory: an introduction                                                                                                                       | Steve Tadelis                                 |           |            4.0 |            | 8/30/2020  | maths, textbook                           | to-read |
 | In search of Heer                                                                                                                                  | Manjul Bajaj                                  |           |            4.5 |            | 8/22/2020  | indian-fiction                            | to-read |
 | Oryx and Crake                                                                                                                                     | Margaret Atwood                               |           |            4.0 |            | 8/1/2020   | science-fiction                           | to-read |
 | Clean hands                                                                                                                                        | Patrick Hoffman                               |           |            3.9 |            | 6/7/2020   | thriller                                  | to-read |
 | These women                                                                                                                                        | Ivy Pochoda                                   |           |            4.3 |            | 5/11/2020  | thriller                                  | to-read |
 | The burden of proof                                                                                                                                | Scott Turow                                   |           |            4.1 |            | 5/11/2020  | thriller                                  | to-read |
 | The whys of a philosophical scrivener                                                                                                              | Martin Gardner                                |           |            4.0 |            | 10/20/2019 | philosophy                                | to-read |
-| Strategic Management                                                                                                                               | Charles Hill, Gareth Jones, Melissa Schilling |           |            4.5 |            | 10/2/2019  | strategy, management                      | to-read |
+| Strategic Management                                                                                                                               | Charles Hill, Gareth Jones, Melissa Schilling |           |            4.5 |            | 10/2/2019  | strategy, management, textbook            | to-read |
 | The Sixth Conspirator                                                                                                                              | Max Byrd                                      |           |            4.0 |            | 9/2/2019   | western-history                           | to-read |
 | The Art of Action                                                                                                                                  | Stephen Bungay                                |           |            4.3 |            | 8/9/2019   | management                                | to-read |
 | A different drummer                                                                                                                                | William Melvin Kelley                         |           |            4.2 |            | 7/2/2019   | fiction                                   | to-read |
@@ -82,7 +85,7 @@
 | Behold the Dreamers                                                                                                                                | Imbolo Mbue                                   |           |            4.0 |            | 10/1/2017  | fiction                                   | to-read |
 | Crucial Conversations: Tools for Talking When Stakes Are High                                                                                      | Kerry Patterson                               |           |            4.0 |            | 9/9/2017   | management                                | to-read |
 | Watergate: The Corruption of American Politics and the Fall of Richard Nixon                                                                       | Fred Emery                                    |           |            4.0 |            | 8/19/2017  | western-history                           | to-read |
-| In Gods We Trust: The Evolutionary Landscape of Religion                                                                                           | Scott Atran                                   |           |            4.0 |            | 7/29/2017  | science                                   | to-read |
+| In Gods We Trust: The Evolutionary Landscape of Religion                                                                                           | Scott Atran                                   |           |            4.0 |            | 7/29/2017  | genetics                                  | to-read |
 | Extremely Loud and Incredibly Close                                                                                                                | Jonathan Safran Foer                          |           |            4.0 |            | 6/24/2017  | fiction                                   | to-read |
 | The Makioka Sisters                                                                                                                                | Junichiro Tanizaki                            |           |            4.0 |            | 5/13/2017  | japanese-fiction                          | to-read |
 | Tumbling                                                                                                                                           | Diane McKinney-Whetstone                      |           |            4.2 |            | 4/5/2017   | fiction                                   | to-read |
@@ -183,7 +186,7 @@
 | The Romanovs                                                                                                                                       | Simon Sebag Montefiore                        |         2 |            4.1 | 6/10/2019  | 6/8/2019   | eastern-history                           | read    |
 | The Great Game: The struggle for empire in Central Asia                                                                                            | Peter Hopkirk                                 |         4 |            4.3 | 6/7/2019   | 1/20/2019  | eastern-history                           | read    |
 | The Quantum Spy                                                                                                                                    | David Ignatius                                |         5 |            3.7 | 5/22/2019  | 11/11/2017 | espionage                                 | read    |
-| The Fifth Season (The Broken Earth,#1)                                                                                                             | N.K. Jemisin                                  |         5 |            4.3 | 3/17/2019  | 11/5/2017  | science-fiction                           | read    |
+| The Fifth Season (The Broken Earth,#1)                                                                                                             | N. K. Jemisin                                 |         5 |            4.3 | 3/17/2019  | 11/5/2017  | science-fiction                           | read    |
 | Ambiguity Machines and Other Stories                                                                                                               | Vandana Singh                                 |         2 |            4.0 | 2/17/2019  | 12/30/2018 | science-fiction                           | read    |
 | The Tsar of Love and Techno                                                                                                                        | Anthony Marra                                 |         5 |            4.3 | 2/1/2019   | 3/17/2018  | fiction                                   | read    |
 | What Is the Name of This Book?                                                                                                                     | Raymond M. Smullyan                           |         4 |            4.3 | 10/1/2018  | 7/3/2013   | brain                                     | read    |
@@ -298,7 +301,7 @@
 | Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values                                                                                  | Robert M. Pirsig                              |         3 |            3.8 | 1/1/2014   | 10/29/2011 | philosophy                                | read    |
 | Swimming in the Monsoon Sea                                                                                                                        | Shyam Selvadurai                              |         4 |            3.7 | 1/1/2014   | 10/29/2011 | fiction                                   | read    |
 | Ravan & Eddie                                                                                                                                      | Kiran Nagarkar                                |         4 |            3.7 | 1/1/2014   | 10/29/2011 | indian-fiction                            | read    |
-| Why Is Sex Fun? The Evolution of Human Sexuality (Science Masters)                                                                                 | Jared Diamond                                 |         4 |            3.7 | 1/1/2014   | 10/29/2011 | science                                   | read    |
+| Why Is Sex Fun? The Evolution of Human Sexuality (Science Masters)                                                                                 | Jared Diamond                                 |         4 |            3.7 | 1/1/2014   | 10/29/2011 | genetics                                  | read    |
 | Vaikom Muhammad Basheer (Katha Classics)                                                                                                           | Vaikom Muhammad Basheer                       |         4 |            3.5 | 1/1/2014   | 10/29/2011 | indian-fiction                            | read    |
 | The Day of the Jackal                                                                                                                              | Frederick Forsyth                             |         5 |            4.3 | 1/1/2014   | 10/19/2011 | thriller                                  | read    |
 | The Odessa File                                                                                                                                    | Frederick Forsyth                             |         4 |            4.1 | 1/1/2014   | 10/19/2011 | thriller                                  | read    |
@@ -335,11 +338,11 @@
 | The Whore's Child and Other Stories                                                                                                                | Richard Russo                                 |         4 |            3.7 | 1/1/2014   | 10/10/2011 | fiction                                   | read    |
 | That Old Cape Magic                                                                                                                                | Richard Russo                                 |         4 |            3.3 | 1/1/2014   | 10/10/2011 | fiction                                   | read    |
 | Free to Choose: A Personal Statement                                                                                                               | Milton Friedman                               |         5 |            4.2 | 1/1/2014   | 10/8/2011  | economics,books-to-read-again             | read    |
-| The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design                                                              | Richard Dawkins                               |         4 |            4.1 | 1/1/2014   | 10/8/2011  | science                                   | read    |
+| The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design                                                              | Richard Dawkins                               |         4 |            4.1 | 1/1/2014   | 10/8/2011  | genetics                                  | read    |
 | The God Delusion                                                                                                                                   | Richard Dawkins                               |         5 |            3.9 | 1/1/2014   | 10/8/2011  | science,books-to-read-again               | read    |
 | Truman                                                                                                                                             | David McCullough                              |         5 |            4.1 | 1/1/2014   | 10/7/2011  | western-biography                         | read    |
-| The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology                                                            | Robert Wright                                 |         5 |            4.1 | 1/1/2014   | 10/7/2011  | science                                   | read    |
-| The Third Chimpanzee: The Evolution and Future of the Human Animal                                                                                 | Jared Diamond                                 |         4 |            4.1 | 1/1/2014   | 10/7/2011  | science                                   | read    |
+| The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology                                                            | Robert Wright                                 |         5 |            4.1 | 1/1/2014   | 10/7/2011  | genetics                                  | read    |
+| The Third Chimpanzee: The Evolution and Future of the Human Animal                                                                                 | Jared Diamond                                 |         4 |            4.1 | 1/1/2014   | 10/7/2011  | genetics                                  | read    |
 | John Adams                                                                                                                                         | David McCullough                              |         5 |            4.1 | 1/1/2014   | 10/7/2011  | western-biography                         | read    |
 | The Structure of Scientific Revolutions                                                                                                            | Thomas S. Kuhn                                |         2 |            4.0 | 1/1/2014   | 10/7/2011  | science                                   | read    |
 | How the Mind Works                                                                                                                                 | Steven Pinker                                 |         2 |            4.0 | 1/1/2014   | 10/7/2011  | brain                                     | read    |
@@ -383,7 +386,7 @@
 | The Honourable Company: a History of the English East India Company                                                                                | John Keay                                     |         2 |            3.7 | 8/27/2012  | 10/29/2011 | eastern-history                           | read    |
 | The Halo Effect: ... and the Eight Other Business Delusions That Deceive Managers                                                                  | Philip M. Rosenzweig                          |         4 |            3.9 | 6/19/2012  | 2/17/2012  | management,books-to-read-again            | read    |
 | The Sweet Hereafter                                                                                                                                | Russell Banks                                 |         4 |            3.9 | 6/13/2012  | 12/18/2015 | fiction                                   | read    |
-| The Selfish Gene                                                                                                                                   | Richard Dawkins                               |         5 |            4.1 | 6/13/2012  | 10/8/2011  | science                                   | read    |
+| The Selfish Gene                                                                                                                                   | Richard Dawkins                               |         5 |            4.1 | 6/13/2012  | 10/8/2011  | genetics                                  | read    |
 | Life of Pi                                                                                                                                         | Yann Martel                                   |         4 |            3.9 | 5/26/2012  | 12/18/2015 | indian-fiction                            | read    |
 | Los Alamos                                                                                                                                         | Joseph Kanon                                  |         5 |            3.8 | 5/17/2012  | 12/6/2015  | espionage                                 | read    |
 | The Odd Number: Thirteen Tales by Guy de Maupassant                                                                                                | Guy de Maupassant                             |         3 |            3.5 | 5/17/2012  | 11/30/2015 | fiction                                   | read    |
@@ -566,7 +569,7 @@
 | How to Measure Anything: Finding the Value of "Intangibles" in Business                                                                            | Douglas W. Hubbard                            |         5 |            4.0 | 9/25/2009  | 11/4/2011  | management,books-to-read-again            | read    |
 | They Made America: From the Steam Engine to the Search Engine: Two Centuries of Innovators                                                         | Harold Evans                                  |         5 |            4.0 | 8/5/2009   | 11/4/2011  | western-history                           | read    |
 | Gitanjali                                                                                                                                          | Rabindranath Tagore                           |         5 |            4.3 | 1/1/2009   | 1/15/2019  | poetry                                    | read    |
-| Chemmeen,un amour indien                                                                                                                           | Thakazhi Sivasankara Pillai                   |         4 |            3.9 | 1/1/2009   | 11/13/2011 | indian-fiction                            | read    |
+| Chemmeen                                                                                                                                           | Thakazhi Sivasankara Pillai                   |         4 |            3.9 | 1/1/2009   | 11/13/2011 | indian-fiction                            | read    |
 | Capitalism and Freedom                                                                                                                             | Milton Friedman                               |         5 |            3.9 | 1/1/2009   | 10/8/2011  | economics,books-to-read-again             | read    |
 | Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers                                                               | Geoffrey A. Moore                             |         5 |            4.0 | 1/1/2007   | 12/5/2011  | management,books-to-read-again            | read    |
 | Code Complete                                                                                                                                      | Steve McConnell                               |         5 |            4.3 | 1/1/2007   | 10/15/2011 | software                                  | read    |
@@ -575,7 +578,232 @@
 | Programming Perl                                                                                                                                   | Tom Christiansen                              |         5 |            4.0 | 1/15/2003  | 11/4/2011  | software                                  | read    |
 | The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business                                                           | Clayton M. Christensen                        |         5 |            4.0 | 1/1/2003   | 11/22/2011 | product                                   | read    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
-|                                                                                                                                                    |                                               |           |                |            |            |                                           |         |
 
 
-* Search on Goodreads
+* Books analysis
+
+
+** Convert table to csv file for analysis
+#+begin_src python :results output :var tbl=books_table outfile="test.csv"
+  import re
+  import csv
+
+  with open(outfile, 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+
+    # Write only non-header rows
+    header_re = "(<[lr][0-9]+>|(----))"
+    writer.writerows([entry for entry in tbl if re.search(header_re, str(entry[0]).strip()) is None])
+#+end_src
+
+#+RESULTS:
+
+
+** Next reads
+
+#+begin_src shell :results drawer
+  ./recommend_book.py -r 30 test.csv
+#+end_src
+
+#+RESULTS:
+:results:
+List of recommended books:
+
+Many thousands gone: A history of slavery         : Ira Berlin           (4.1, black-history)
+Bayesian data analysis                            : Bruce Gelman         (4.2, maths,textbook)
+The vital question: Energy, evolution and the...  : Nick Lane            (4.2, genetics)
+Games of life                                     : Karl Sigmund         (4.0, maths)
+Blueprint: How DNA makes us who we are            : Robert Plomin        (4.0, genetics)
+In Gods We Trust: The Evolutionary Landscape of...: Scott Atran          (4.0, genetics)
+The Makioka Sisters                               : Junichiro Tanizaki   (4.0, japanese-fiction)
+The dead are arising: The life of Malcolm X       : Les Payne            (4.3, black-biography)
+In search of Heer                                 : Manjul Bajaj         (4.5, indian-fiction)
+Strategic Management                              : Charles Hill,...     (4.5, strategy,management)
+Tasting freedom: Octavius Catto                   : Daniel Biddle,...    (4.2, black-biography)
+Business Dynamics                                 : John Sterman         (4.4, management,textbook)
+Working backwards                                 : Colin Bryar, Bill... (4.4, management)
+Culture map                                       : Erin Meyer           (4.4, management)
+Magdalena: River of dreams                        : Wade Davis           (4.4, society)
+These women                                       : Ivy Pochoda          (4.3, thriller)
+The huntress                                      : Kate Quinn           (4.3, thriller)
+Shuggie Bain                                      : Douglas Stuart       (4.4, fiction)
+Thinking in systems                               : Donella Meadows      (4.3, management)
+Storytelling with data                            : Cole Nussbaumer...   (4.3, design,management)
+The Art of Action                                 : Stephen Bungay       (4.3, management)
+Aha! Insight                                      : Martin Gardner       (4.4, science)
+The 7 habits of highly effective people           : Stephen Covey        (4.1, self-improvement)
+Body and Soul                                     : Frank Conroy         (4.3, fiction)
+Crossing Point                                    : James Glickman       (4.3, fiction)
+Seiobo There Below                                : Laszlo Krasznahorkai (4.3, fiction)
+A World Undone: A History of World War I          : G J Meyer            (4.2, western-history)
+Spearhead                                         : Adam Makos           (4.2, western-history)
+The Transformation of the World: A Global...      : Jurgen Osterhammel   (4.2, western-history)
+Reading the room                                  : David Kantor         (4.2, management)
+:end:
+
+
+** Recenly read
+
+#+begin_src shell :results drawer
+  ./recommend_book.py -s 40 test.csv
+#+end_src
+
+#+RESULTS:
+:results:
+List of read books:
+
+I contain multitudes: the microbes within us      : Ed Yong              (12-Nov-21, 2.0)
+Algorithms to Live By: The Computer Science of... : Brian Christian      (10-Oct-21, 5.0)
+The spy and the traitor                           : Ben MacIntyre        (30-Sep-21, 5.0)
+Osman's dream: A history of the Ottoman Empire    : Carolin Finkel       (22-Sep-21, 2.0)
+Transcendent kingdom                              : Yaa Gyasi            (08-Sep-21, 3.0)
+Why Meditate?: Working with Thoughts and Emotions : Matthieu Ricard      (25-Aug-21, 3.0)
+Climate Change: What everyone needs to know       : Joseph Romm          (20-Aug-21, 4.0)
+False Alarm                                       : Bjorn Lomborg        (10-Aug-21, 5.0)
+The Happiness Hypothesis                          : Jonathan Haidt       (25-Jul-21, 4.0)
+The white man's burden                            : William Easterly     (07-Jul-21, 2.0)
+Heat: How to stop the planet from burning         : George Monbiot       (05-Jul-21, 3.0)
+Open borders                                      : Bryan Caplan         (26-Jun-21, 5.0)
+Poor economics                                    : Abhijit Banerjee,... (23-Jun-21, 5.0)
+Practical Ethics                                  : Peter Singer         (18-Jun-21, 5.0)
+The life you can save                             : Peter Singer         (29-May-21, 5.0)
+Dialogues on ethical vegetarianism                : Michael Huemer       (21-May-21, 5.0)
+You Are Not a Stranger Here                       : Adam Haslett         (20-May-21, 5.0)
+Consciousness and the social brain                : Michael Graziano     (10-May-21, 3.0)
+The Human Predicament: A Candid Guide to Life's...: David Benatar        (24-Apr-21, 5.0)
+The art of war                                    : Sun Tzu              (20-Apr-21, 3.0)
+On Grand Strategy                                 : John Lewis Gaddis    (17-Apr-21, 2.0)
+Still Alice                                       : Lisa Genova          (16-Apr-21, 4.0)
+Napoleon: A Life                                  : Andrew Roberts       (05-Apr-21, 4.0)
+Superforecasting: The Art and Science of...       : Philip E. Tetlock    (06-Mar-21, 5.0)
+Scale: The Universal Laws of Growth,...           : Geoffrey West        (03-Mar-21, 2.0)
+The Cold War: A new history                       : John Lewis Gaddis    (20-Feb-21, 5.0)
+Imperial twilight: the opium war                  : Stephen Platt        (15-Feb-21, 5.0)
+A burning                                         : Megha Majumdar       (13-Feb-21, 4.0)
+The Crossing                                      : Michael Connelly     (10-Feb-21, 4.0)
+Bismarck: the man and the statesman               : A. P. J. Taylor      (15-Jan-21, 2.0)
+Good talk                                         : Mira Jacob           (12-Jan-21, 4.0)
+Emperor of Japan: Meiji and his world             : Gordon Keene         (10-Jan-21, 2.0)
+A Peace to End All Peace: The Fall Of The...      : David Fromkin        (10-Jan-21, 3.0)
+Old Man's War (Old Man's War, #1)                 : John Scalzi          (05-Jan-21, 4.0)
+The War That Ended Peace: The Road to 1914        : Margaret MacMillan   (27-Dec-20, 5.0)
+Identical                                         : Scott Turow          (25-Dec-20, 3.0)
+The wrong side of goodbye                         : Michael Connelly     (16-Dec-20, 4.0)
+Half of a yellow sun                              : Chimamanda Ngozi...  (11-Dec-20, 3.0)
+A troubled man                                    : Henning Menkell      (25-Nov-20, 4.0)
+Leonardo da Vinci                                 : Walter Isaacson      (20-Nov-20, 2.0)
+:end:
+
+
+** List of genres
+
+#+begin_src shell :results drawer
+  ./recommend_book.py -l test.csv
+#+end_src
+
+#+RESULTS:
+:results:
+List of categories and read-dates:
+science                       : 12-Nov-21
+eastern-biography             : 30-Sep-21
+eastern-history               : 22-Sep-21
+fiction                       : 08-Sep-21
+buddhism                      : 25-Aug-21
+economics                     : 10-Aug-21
+philosophy                    : 25-Jul-21
+society                       : 26-Jun-21
+brain                         : 10-May-21
+management                    : 20-Apr-21
+strategy                      : 20-Apr-21
+western-history               : 05-Apr-21
+indian-fiction                : 13-Feb-21
+thriller                      : 10-Feb-21
+indian-society                : 12-Jan-21
+science-fiction               : 05-Jan-21
+african-fiction               : 11-Dec-20
+scandinavian-thriller         : 25-Nov-20
+western-biography             : 20-Nov-20
+black-fiction                 : 11-Oct-20
+espionage                     : 25-Sep-20
+self-improvement              : 07-Aug-20
+poetry                        : 23-Jun-20
+eastern-fiction               : 07-Feb-20
+sports                        : 02-Jan-20
+product                       : 01-Dec-19
+black-biography               : 30-Oct-19
+process                       : 06-Jul-19
+indian-history                : 28-Aug-18
+books-to-read-again           : 13-Feb-18
+kids                          : 30-Nov-17
+japanese-fiction              : 02-Jul-17
+software                      : 05-Sep-16
+design                        : 05-May-15
+genetics                      : 01-Jan-14
+textbook                      : 01-Jan-14
+engineering                   : 01-Jan-14
+black-history                 : 18-Jun-13
+maths                         : Unread
+marketing                     : Unread
+:end:
+
+
+** Favorite authors
+
+#+begin_src shell :results drawer
+  ./recommend_book.py -a 20 test.csv
+#+end_src
+
+#+RESULTS:
+:results:
+List of best authors:
+
+Brian Christian
+Ben MacIntyre
+Bjorn Lomborg
+Abhijit Banerjee, Esther Duflo
+Peter Singer
+Adam Haslett
+David Benatar
+Philip E. Tetlock
+Stephen Platt
+Margaret MacMillan
+Samuel Bjork
+Jon Gertner
+John Darwin
+William Trevor
+Chris Offutt
+David Epstein
+Colson Whitehead
+Elizabeth Strout
+N.K. Jemisin
+:end:
+
+
+** Options
+
+#+begin_src shell :results drawer
+  ./recommend_book.py -h
+#+end_src
+
+#+RESULTS:
+:results:
+usage: recommend_book.py [-h] [-l] [-s NUM_READ_BOOKS]
+                         [-r NUM_RECOMMEND_BOOKS] [-a NUM_AUTHORS] [-g GENRE]
+                         [-ra AUTHOR]
+                         books_file
+
+Search for and recommend books using books_file. By default, show the 20 best
+books to read next.
+
+positional arguments:
+  books_file
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -l, --list_genres
+  -s NUM_READ_BOOKS, --list_read_books NUM_READ_BOOKS
+  -r NUM_RECOMMEND_BOOKS, --recommend_books NUM_RECOMMEND_BOOKS
+  -a NUM_AUTHORS, --list_best_authors NUM_AUTHORS
+  -g GENRE, --restrict_by_genre GENRE
+  -ra AUTHOR, --restrict_by_author AUTHOR
+:end:
