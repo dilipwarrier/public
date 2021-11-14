@@ -602,7 +602,7 @@
 ** Next reads
 
 #+begin_src shell :results drawer
-  ./recommend_book.py -r 30 test.csv
+  ../item_recommender/recommend_book.py -r 30 test.csv
 #+end_src
 
 #+RESULTS:
@@ -645,7 +645,7 @@ Reading the room                                  : David Kantor         (4.2, m
 ** Recenly read
 
 #+begin_src shell :results drawer
-  ./recommend_book.py -s 40 test.csv
+  ../item_recommender/recommend_book.py -s 40 test.csv
 #+end_src
 
 #+RESULTS:
@@ -698,7 +698,7 @@ Leonardo da Vinci                                 : Walter Isaacson      (20-Nov
 ** List of genres
 
 #+begin_src shell :results drawer
-  ./recommend_book.py -l test.csv
+  ../item_recommender/recommend_book.py -l test.csv
 #+end_src
 
 #+RESULTS:
@@ -750,7 +750,7 @@ marketing                     : Unread
 ** Favorite authors
 
 #+begin_src shell :results drawer
-  ./recommend_book.py -a 20 test.csv
+  ../item_recommender/recommend_book.py -a 20 test.csv
 #+end_src
 
 #+RESULTS:
@@ -782,7 +782,7 @@ N.K. Jemisin
 ** Options
 
 #+begin_src shell :results drawer
-  ./recommend_book.py -h
+  ../item_recommender/recommend_book.py -h
 #+end_src
 
 #+RESULTS:
