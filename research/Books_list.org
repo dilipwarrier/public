@@ -104,7 +104,7 @@
 | What If?: Serious Scientific Answers to Absurd Hypothetical Questions                                                                              | Randall Munroe                                |           |            4.2 |            | 9/21/2014  | science                                   | to-read |
 | Confessions                                                                                                                                        | Kanae Minato                                  |           |            4.1 |            | 8/16/2014  | thriller                                  | to-read |
 | The Transformation of the World: A Global History of the Nineteenth Century                                                                        | Jurgen Osterhammel                            |           |            4.2 |            | 5/24/2014  | western-history                           | to-read |
-| Aha! Insight                                                                                                                                       | Martin Gardner                                |           |            4.4 |            | 11/23/2013 | science                                   | to-read |
+| The whys of a political scrivener                                                                                                                  | Martin Gardner                                |           |            4.0 |            | 11/23/2013 | philosophy                                | to-read |
 | Seiobo There Below                                                                                                                                 | Laszlo Krasznahorkai                          |           |            4.3 |            | 11/2/2013  | fiction                                   | to-read |
 | Algorithms to Live By: The Computer Science of Human Decisions                                                                                     | Brian Christian                               |         5 |            4.2 | 10/10/2021 | 1/22/2017  | science                                   | read    |
 | The spy and the traitor                                                                                                                            | Ben MacIntyre                                 |         5 |            4.5 | 9/30/2021  | 9/30/2021  | eastern-biography                         | read    |
@@ -199,7 +199,7 @@
 | Broken Promise (Promise Falls,#1)                                                                                                                  | Linwood Barclay                               |         4 |            3.9 | 5/26/2018  | 12/10/2017 | thriller                                  | read    |
 | Maximum City: Bombay Lost and Found                                                                                                                | Suketu Mehta                                  |         4 |            3.9 | 5/11/2018  | 3/25/2018  | indian-society                            | read    |
 | Why the Law Is So Perverse                                                                                                                         | Leo Katz                                      |         3 |            3.4 | 2/21/2018  | 12/3/2011  | society                                   | read    |
-| A Fine Balance                                                                                                                                     | Rohinton Mistry                               |         5 |            4.4 | 2/13/2018  | 10/10/2011 | indian-fiction,books-to-read-again        | read    |
+| A Fine Balance                                                                                                                                     | Rohinton Mistry                               |         5 |            4.4 | 2/13/2020  | 10/10/2011 | indian-fiction,books-to-read-again        | read    |
 | ADKAR: A Model for Change in Business,Government and our Community                                                                                 | Jeffrey Hiatt                                 |         5 |            3.9 | 2/10/2018  | 1/18/2018  | management                                | read    |
 | The Hostage (Presidential Agent,#2)                                                                                                                | W.E.B. Griffin                                |         1 |            4.1 | 1/8/2018   | 10/14/2017 | thriller                                  | read    |
 | Warcross (Warcross,#1)                                                                                                                             | Marie Lu                                      |         4 |            4.2 | 11/30/2017 | 11/9/2017  | kids                                      | read    |
@@ -602,43 +602,23 @@
 ** Next reads
 
 #+begin_src shell :results drawer
-  ../item_recommender/recommend_book.py -r 30 test.csv
+  ../item_recommender/recommend_book.py -r 10 test.csv
 #+end_src
 
 #+RESULTS:
 :results:
 List of recommended books:
 
-Many thousands gone: A history of slavery         : Ira Berlin           (4.1, black-history)
-Bayesian data analysis                            : Bruce Gelman         (4.2, maths,textbook)
-The vital question: Energy, evolution and the...  : Nick Lane            (4.2, genetics)
 Games of life                                     : Karl Sigmund         (4.0, maths)
-Blueprint: How DNA makes us who we are            : Robert Plomin        (4.0, genetics)
-In Gods We Trust: The Evolutionary Landscape of...: Scott Atran          (4.0, genetics)
-The Makioka Sisters                               : Junichiro Tanizaki   (4.0, japanese-fiction)
-The dead are arising: The life of Malcolm X       : Les Payne            (4.3, black-biography)
-In search of Heer                                 : Manjul Bajaj         (4.5, indian-fiction)
-Strategic Management                              : Charles Hill,...     (4.5, strategy,management)
-Tasting freedom: Octavius Catto                   : Daniel Biddle,...    (4.2, black-biography)
-Business Dynamics                                 : John Sterman         (4.4, management,textbook)
-Working backwards                                 : Colin Bryar, Bill... (4.4, management)
-Culture map                                       : Erin Meyer           (4.4, management)
-Magdalena: River of dreams                        : Wade Davis           (4.4, society)
-These women                                       : Ivy Pochoda          (4.3, thriller)
-The huntress                                      : Kate Quinn           (4.3, thriller)
-Shuggie Bain                                      : Douglas Stuart       (4.4, fiction)
-Thinking in systems                               : Donella Meadows      (4.3, management)
-Storytelling with data                            : Cole Nussbaumer...   (4.3, design,management)
-The Art of Action                                 : Stephen Bungay       (4.3, management)
-Aha! Insight                                      : Martin Gardner       (4.4, science)
-The 7 habits of highly effective people           : Stephen Covey        (4.1, self-improvement)
-Body and Soul                                     : Frank Conroy         (4.3, fiction)
-Crossing Point                                    : James Glickman       (4.3, fiction)
 Seiobo There Below                                : Laszlo Krasznahorkai (4.3, fiction)
-A World Undone: A History of World War I          : G J Meyer            (4.2, western-history)
-Spearhead                                         : Adam Makos           (4.2, western-history)
+Strategic Management                              : Charles Hill,...     (4.5, strategy,management,textbook)
+In search of Heer                                 : Manjul Bajaj         (4.5, indian-fiction)
 The Transformation of the World: A Global...      : Jurgen Osterhammel   (4.2, western-history)
-Reading the room                                  : David Kantor         (4.2, management)
+What If?: Serious Scientific Answers to Absurd... : Randall Munroe       (4.2, science)
+Jesus' Son                                        : Denis Johnson        (4.2, fiction)
+The Best Place to Work: The Art and Science of... : Ron Friedman         (4.2, management)
+Crossing Point                                    : James Glickman       (4.3, fiction)
+Magdalena: River of dreams                        : Wade Davis           (4.4, society)
 :end:
 
 
@@ -727,13 +707,13 @@ black-fiction                 : 11-Oct-20
 espionage                     : 25-Sep-20
 self-improvement              : 07-Aug-20
 poetry                        : 23-Jun-20
+books-to-read-again           : 13-Feb-20
 eastern-fiction               : 07-Feb-20
 sports                        : 02-Jan-20
 product                       : 01-Dec-19
 black-biography               : 30-Oct-19
 process                       : 06-Jul-19
 indian-history                : 28-Aug-18
-books-to-read-again           : 13-Feb-18
 kids                          : 30-Nov-17
 japanese-fiction              : 02-Jul-17
 software                      : 05-Sep-16
@@ -742,8 +722,8 @@ genetics                      : 01-Jan-14
 textbook                      : 01-Jan-14
 engineering                   : 01-Jan-14
 black-history                 : 18-Jun-13
-maths                         : Unread
-marketing                     : Unread
+maths                         : 01-Jan-00
+marketing                     : 01-Jan-00
 :end:
 
 

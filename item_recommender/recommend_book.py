@@ -59,6 +59,7 @@ blist = parse_items.items_list(books_file,
                                creator_field_name="Author",
                                genre_field_names=["Genre"],
                                read_date_field_name="Date Read",
+                               added_date_field_name="Date Added",
                                file_type=file_type)
 
 # If no actions are picked, recommend books as the default action
@@ -103,6 +104,7 @@ if args.num_read_books:
 
 if args.num_recommend_books:
     print("List of recommended books:\n")
+
     # Choose best books based on an algorithm
     best_books = blist.choose_items(num_items=args.num_recommend_books,
                                     genre=args.genre,

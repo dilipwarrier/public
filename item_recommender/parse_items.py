@@ -13,6 +13,8 @@ import argparse
 import textwrap
 import xlrd
 
+# Use this as a default date when none is provided
+default_date = datetime.date(1900, 1, 1)
 
 def xl_date_to_str(xl_date):
     """"Utility to convert from date as presented by Excel to date used by Python.
@@ -30,7 +32,8 @@ class items_list:
                  creator_field_name,
                  genre_field_names,
                  read_date_field_name,
-                 file_type):
+                 added_date_field_name="",
+                 file_type="csv"):
         """Initialize the items list based on a CSV file object or an Excel file name.
 
         The file must contain the following field names:
@@ -46,7 +49,11 @@ class items_list:
 
         Status field may contain the values read/watched/heard or to-read/to-watch/to-hear.
 
-        file_type may be excel or csv.
+        file_type may be excel or csv (default).
+
+        The file may contain the following optional field names:
+        * The date the item was added represented by added_date_field_name
+          If this field is present, it is taken into account in the recommended books.
         """
 
         if file_type == "csv":
@@ -76,7 +83,6 @@ class items_list:
         self.author_ratings = {}
 
         read_synonyms = ["read", "watched", "heard"]
-        unread_synonyms = ["to-read", "to-watch", "to-hear"]
         for item in blist:
 
             # There may be multiple genre field names. Loop through them
@@ -93,22 +99,31 @@ class items_list:
                     glist = genre_entry.split(",")
                 genre_list.extend([x.strip() for x in glist])
 
-            item_status = None
-            item_read_date = None
-            item_my_rating = None
+            item_status = "Unread"
             # Potential items to read consist of:
-            # 1. Items with the status marked as "to-read"
+            # 1. Items with the status not marked as read
             # 2. Items with a genre called "books-to-read-again"
-            if ((item["Status"].lower().strip() in unread_synonyms) or
-                    ("books-to-read-again" in genre_list)):
-                item_status = "Unread"
-
-            # If an item has been read, parse its read date
-            if (item["Status"].lower().strip() in read_synonyms):
+            if ((item["Status"].lower().strip() in read_synonyms) and
+                ("books-to-read-again" not in genre_list)):
                 item_status = "Read"
+
+            item_read_date = default_date
+            item_my_rating = None
+            # If an item has been read, parse its read date and rating
+            if (item["Status"].lower().strip() in read_synonyms):
                 item_read_date = datetime.datetime.strptime(item[read_date_field_name].strip(),
                                                             "%m/%d/%Y").date()
                 item_my_rating = float(item["My Rating"])
+
+            # If an item has an added date, save it
+            item_added_date = default_date
+            if (added_date_field_name):
+                item_added_date = datetime.datetime.strptime(item[added_date_field_name].strip(),
+                                                            "%m/%d/%Y").date()
+                # For books that are up for reading again, assume they were added
+                # when they were read last
+                if ("books-to-read-again" in genre_list):
+                    item_added_date = item_read_date
 
             self.items_list.append({"Title": item["Title"].strip(),
                                     "Author": item[creator_field_name].strip(),
@@ -116,6 +131,7 @@ class items_list:
                                     "Average Rating": float(item["Average Rating"]),
                                     "My Rating": item_my_rating,
                                     "Read date": item_read_date,
+                                    "Added date": item_added_date,
                                     "Status": item_status})
 
             # If an item has been read, update the author ratings
@@ -159,17 +175,21 @@ class items_list:
 
 
     def __update_genre_ratings(self):
-        # Assign a rating to each genre. A higher rating for a genre means that
-        # that genre was read farther in the past.
+        """Assign a rating to each genre.
+        A higher rating for a genre means that that genre was read farther in the past.
+        """
+
         min_rating = 1.0
         max_rating = 5.0
         rating_range = max_rating - min_rating
 
         # Find min and max genre date
         min_read_date = min(
-            [date for date in self.genre_read_dates.values() if date])
+            [date for date in self.genre_read_dates.values() if date],
+            default=default_date)
         max_read_date = max(
-            [date for date in self.genre_read_dates.values() if date])
+            [date for date in self.genre_read_dates.values() if date],
+            default=default_date)
 
         # Create a scaled rating for the genre between min and max rating
         # Higher number implies that the genre was read farther in the past
@@ -195,27 +215,54 @@ class items_list:
         return
 
     def __update_item_ratings(self):
+        """Assign a rating values to an item.
+        The item's rating values consist of the following:
+        * A 1-5 rating based on the popular rating for the item
+        * A 1-5 rating based on the age of the item
+        * A 1-5 rating that is the min of the ratings of all genres that the item belongs to
+        """
+
         min_rating = 1.0
         max_rating = 5.0
         rating_range = max_rating - min_rating
 
         # Find min and max item rating
         item_min_rating = min([item["Average Rating"]
-                               for item in self.items_list])
+                               for item in self.items_list if item["Status"] == "Unread"])
         item_max_rating = max([item["Average Rating"]
-                               for item in self.items_list])
+                               for item in self.items_list if item["Status"] == "Unread"])
 
-        # Calculate cumulative rating
+        # Item's popularity rating
         for item in self.items_list:
-            # First create the item's scaled rating
-            # Higher number implies higher average rating
-            item["Scaled Rating"] = round(rating_range * ((item["Average Rating"] - item_min_rating) /
-                                                          (item_max_rating - item_min_rating)) + min_rating,
-                                          2)
+            # If every item has the same rating, then use the max rating
+            if (item_min_rating < item_max_rating):
+                item["Popularity Rating"] = round(rating_range * ((item["Average Rating"] - item_min_rating) /
+                                                                  (item_max_rating - item_min_rating)) + min_rating,
+                                                  2)
+            else:
+                item["Popularity Rating"] = item_max_rating
 
-            # Then, find the max rating in the item's genres i.e. decide the rating by the genre of the
-            # item that was read farthest in the past.
-            # If there are no ratings, the default rating is high.
+        # Item's age rating
+        item_min_rating = min([item["Added date"]
+                               for item in self.items_list if item["Status"] == "Unread"])
+        item_max_rating = max([item["Added date"]
+                               for item in self.items_list if item["Status"] == "Unread"])
+
+        for item in self.items_list:
+            # If every item has the same rating, then use the max rating
+            # Older added date => higher rating
+            if (item_min_rating < item_max_rating):
+                item["Age Rating"] = round(rating_range * ((item_max_rating - item["Added date"]) /
+                                                           (item_max_rating - item_min_rating)) + min_rating,
+                                                  2)
+            else:
+                item["Age Rating"] = max_rating
+
+        # Item's genre rating
+        for item in self.items_list:
+            # Then, find the min rating in the item's genres i.e. decide the rating by the genre of the
+            # item that was read most recently.
+            # If there are no genres, the default rating is high.
             item["Genre Rating"] = min([self.scaled_ratings[cat] for cat in item["Genre"]],
                                        default=max_rating)
 
@@ -285,11 +332,14 @@ class items_list:
                                              self.__item_is_by_author(item, author)),
                                             self.items_list))
 
-        # Sort potential unread items by scaled rating + genre rating (highest to lowest)
+        # Sort potential unread items by total rating (highest to lowest)
+        # Don't allow age rating to be too high for books that are to be read again
+        # Those are more likely to have been added a long time ago
         best_items = sorted(unread_cat_items_list,
                             key=lambda item:
-                            item["Scaled Rating"] +
-                            item["Genre Rating"],
+                            item["Popularity Rating"] +
+                            item["Genre Rating"] +
+                            (1.0 - 0.75*("books-to-read-again" in item["Genre"]))*item["Age Rating"],
                             reverse=True)
 
         return best_items[0:num_items]

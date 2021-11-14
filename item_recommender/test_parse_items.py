@@ -3,6 +3,7 @@ import unittest
 import parse_items
 
 csv_file = "test_parse_items_file.csv"
+file2 = "test_old_added_items.csv"
 
 class inputFileTests(unittest.TestCase):
     def setUp(self):
@@ -15,8 +16,18 @@ class inputFileTests(unittest.TestCase):
                                                  read_date_field_name="Date Read",
                                                  file_type="csv")
 
+        # Test that less recently added books get priority (all other things being equal)
+        self.test2 = parse_items.items_list(file2,
+                                            creator_field_name="Author",
+                                            genre_field_names=[
+                                                "Genre"],
+                                            read_date_field_name="Date Read",
+                                            added_date_field_name="Date Added",
+                                            file_type="csv")
+
     def tearDown(self):
         self.test_blist = None
+        self.test2 = None
 
     def test_genres(self):
         # 3 genres in the original list
@@ -43,6 +54,10 @@ class inputFileTests(unittest.TestCase):
         self.assertEqual(self.test_blist.choose_items(num_items=1)[0]["Title"],
                          "Reading book")
 
+    def test_date_added(self):
+        # "Unread book 2" is the book that has aged most in the wait list
+        self.assertEqual(self.test2.choose_items(num_items=1)[0]["Title"],
+                         "Unread book 2")
 
 if __name__ == '__main__':
     unittest.main()
