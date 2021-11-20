@@ -32,5 +32,9 @@
    - State "DONE"       from "WAIT"       [2021-07-14 Wed 07:52]
 
 
-** TODO File on [[https://account.activedirectory.windowsazure.com/applications/signin/a54cb682-2ada-479c-9d7b-024205b915d2?tenantId=5d8ae07e-7fd0-404d-85c1-453ff3dc8c1e][Bose Gives]] for employee matching for donations
-   SCHEDULED: <2021-11-17 Wed .+6m>
+** TODO File on [[https://account.activedirectory.windowsazure.com/applications/signin/a54cb682-2ada-479c-9d7b-024205b915d2?tenantId=5d8ae07e-7fd0-404d-85c1-453ff3dc8c1e][Bose Gives]] for employee matching for donations ($2500 annual limit)
+   SCHEDULED: <2022-05-17 Tue .+6m>
+   :PROPERTIES:
+   :LAST_REPEAT: [2021-11-17 Wed 07:07]
+   :END:
+   - State "DONE"       from "TODO"       [2021-11-17 Wed 07:07]
