@@ -98,7 +98,7 @@ if args.num_read_books:
                                   author=args.author)
     for book in hlist:
         print("%s: %s (%s, %.1f)" % (shorten(book["Title"], 50),
-                                     shorten(book["Author"], 20),
+                                     shorten(", ".join(book["Authors"]), 20),
                                      book["Read date"].strftime("%d-%b-%y"),
                                      book["My Rating"]))
 
@@ -112,6 +112,6 @@ if args.num_recommend_books:
 
     for book in best_books:
         print("%s: %s (%.1f, %s)" % (shorten(book["Title"], 50),
-                                     shorten(book["Author"], 20),
+                                     shorten(", ".join(book["Authors"]), 20),
                                      book["Average Rating"],
                                      ",".join(book["Genre"])))

@@ -15,6 +15,7 @@ import xlrd
 
 # Use this as a default date when none is provided
 default_date = datetime.date(1900, 1, 1)
+todays_date = datetime.date.today()
 
 def xl_date_to_str(xl_date):
     """"Utility to convert from date as presented by Excel to date used by Python.
@@ -47,7 +48,8 @@ class items_list:
         * Average Rating
         * My Rating
 
-        Status field may contain the values read/watched/heard or to-read/to-watch/to-hear.
+        Status field may contain the values read/watched/heard or to-read/to-watch/to-hear
+        or reading/watching/hearing.
 
         file_type may be excel or csv (default).
 
@@ -83,6 +85,7 @@ class items_list:
         self.author_ratings = {}
 
         read_synonyms = ["read", "watched", "heard"]
+        reading_synonyms = ["reading", "watching", "hearing"]
         for item in blist:
 
             # There may be multiple genre field names. Loop through them
@@ -99,34 +102,47 @@ class items_list:
                     glist = genre_entry.split(",")
                 genre_list.extend([x.strip() for x in glist])
 
-            item_status = "Unread"
             # Potential items to read consist of:
-            # 1. Items with the status not marked as read
-            # 2. Items with a genre called "books-to-read-again"
+            # 1. Items with the status not marked as read, or
+            # 2. Items in a genre called "books-to-read-again"
             if ((item["Status"].lower().strip() in read_synonyms) and
                 ("books-to-read-again" not in genre_list)):
                 item_status = "Read"
+            elif (item["Status"].lower().strip() in reading_synonyms):
+                item_status = "Reading"
+            else:
+                item_status = "Unread"
 
-            item_read_date = default_date
-            item_my_rating = None
-            # If an item has been read, parse its read date and rating
+            # Update read date
             if (item["Status"].lower().strip() in read_synonyms):
+                # If an item has been read, parse its read date and rating
                 item_read_date = datetime.datetime.strptime(item[read_date_field_name].strip(),
                                                             "%m/%d/%Y").date()
                 item_my_rating = float(item["My Rating"])
+            elif (item["Status"].lower().strip() in reading_synonyms):
+                # If an item is being read, set its read date to today
+                item_read_date = todays_date
+                item_my_rating = None
+            else:
+                item_read_date = default_date
+                item_my_rating = None
 
-            # If an item has an added date, save it
-            item_added_date = default_date
             if (added_date_field_name):
+                # If an item has an added date, save it
                 item_added_date = datetime.datetime.strptime(item[added_date_field_name].strip(),
                                                             "%m/%d/%Y").date()
-                # For books that are up for reading again, assume they were added
-                # when they were read last
+
+                # However, if the item is up for reading again, assume
+                # that it was added when it was read last
                 if ("books-to-read-again" in genre_list):
                     item_added_date = item_read_date
+            else:
+                item_added_date = default_date
+
+            author_list = [x.strip() for x in item[creator_field_name].split(",")]
 
             self.items_list.append({"Title": item["Title"].strip(),
-                                    "Author": item[creator_field_name].strip(),
+                                    "Authors": author_list,
                                     "Genre": genre_list,
                                     "Average Rating": float(item["Average Rating"]),
                                     "My Rating": item_my_rating,
@@ -136,40 +152,36 @@ class items_list:
 
             # If an item has been read, update the author ratings
             if item["Status"] == "read":
-                if item[creator_field_name] not in self.author_ratings.keys():
-                    # If this author hasn't appeared yet, create a new entry
-                    self.author_ratings[item[creator_field_name]] = {"My Rating": float(item["My Rating"]),
-                                                                     "Number": 1,
-                                                                     "Genre": genre_list}
-                else:
-                    # If this author has appeared before, update the existing entry
-                    rating_entry = self.author_ratings[item[creator_field_name]]
-                    old_num_items = rating_entry["Number"]
-                    old_rating = rating_entry["My Rating"]
-                    old_genres = rating_entry["Genre"]
+                for author in author_list:
+                    if author not in self.author_ratings.keys():
+                        # If this author hasn't appeared yet, create a new entry
+                        self.author_ratings[author] = {"My Rating": float(item["My Rating"]),
+                                                       "Number": 1,
+                                                       "Genre": genre_list}
+                    else:
+                        # If this author has appeared before, update the existing entry
+                        rating_entry = self.author_ratings[author]
+                        old_num_items = rating_entry["Number"]
+                        old_rating = rating_entry["My Rating"]
+                        old_genres = rating_entry["Genre"]
 
-                    new_rating = (old_rating * old_num_items +
-                                  float(item["My Rating"])) / (old_num_items + 1)
-                    new_num_items = old_num_items + 1
-                    new_genres = old_genres + genre_list
+                        new_rating = (old_rating * old_num_items +
+                                      float(item["My Rating"])) / (old_num_items + 1)
+                        new_num_items = old_num_items + 1
+                        new_genres = old_genres + genre_list
 
-                    rating_entry["Number"] = new_num_items
-                    rating_entry["My Rating"] = new_rating
-                    rating_entry["Genre"] = new_genres
+                        rating_entry["Number"] = new_num_items
+                        rating_entry["My Rating"] = new_rating
+                        rating_entry["Genre"] = new_genres
 
-            # Update the genre read date for the genre that this item belongs to
+            # Update the genre read dates
             for genre in genre_list:
-                # If genre hasn't been added to the list yet or no read item has been found in that
-                # genre yet, add it now
-                if ((genre not in self.genre_read_dates.keys()) or
-                        (not self.genre_read_dates[genre])):
+                if (genre not in self.genre_read_dates.keys()):
+                    # If genre hasn't been added to the list yet
                     self.genre_read_dates[genre] = item_read_date
-
-                # If this item has been read more recently than the last one in the genre,
-                # then update the genre's last read date
-                if ((genre in self.genre_read_dates.keys()) and
-                    (self.genre_read_dates[genre]) and
-                        (item_status == "Read")):
+                else:
+                    # If this item has been read more recently than the last one in the genre,
+                    # then update the genre's last read date
                     self.genre_read_dates[genre] = max(item_read_date,
                                                        self.genre_read_dates[genre])
 
@@ -185,10 +197,10 @@ class items_list:
 
         # Find min and max genre date
         min_read_date = min(
-            [date for date in self.genre_read_dates.values() if date],
+            [date for date in self.genre_read_dates.values()],
             default=default_date)
         max_read_date = max(
-            [date for date in self.genre_read_dates.values() if date],
+            [date for date in self.genre_read_dates.values()],
             default=default_date)
 
         # Create a scaled rating for the genre between min and max rating
@@ -244,17 +256,20 @@ class items_list:
 
         # Item's age rating
         item_min_rating = min([item["Added date"]
-                               for item in self.items_list if item["Status"] == "Unread"])
+                               for item in self.items_list
+                               if item["Status"] in ["Reading", "Unread"]])
         item_max_rating = max([item["Added date"]
-                               for item in self.items_list if item["Status"] == "Unread"])
+                               for item in self.items_list
+                               if item["Status"] in ["Reading", "Unread"]])
 
         for item in self.items_list:
             # If every item has the same rating, then use the max rating
             # Older added date => higher rating
             if (item_min_rating < item_max_rating):
                 item["Age Rating"] = round(rating_range * ((item_max_rating - item["Added date"]) /
-                                                           (item_max_rating - item_min_rating)) + min_rating,
-                                                  2)
+                                                           (item_max_rating - item_min_rating))
+                                           + min_rating,
+                                           2)
             else:
                 item["Age Rating"] = max_rating
 
@@ -286,19 +301,24 @@ class items_list:
         if not(author):
             author = ""
 
-        ret_val = re.search(author, item["Author"], flags=re.IGNORECASE)
+        ret_val = any([re.search(author, x, flags=re.IGNORECASE) for x in item["Authors"]])
 
         return ret_val
 
     def list_genres(self):
         """List of available genres along with the dates on which they were last read.
         If the date is None, the genre hasn't been read yet."""
+
         return self.genre_read_dates
 
     def choose_authors(self, num_authors, genre=None):
         """Return a list of authors whose books should be read.
-        These are authors whose books have been read and have a high rating and
-        there are no books on the to-read list by them.
+
+        The selected authors match all of the following criteria:
+           - Some of their books have been read
+           - Their books have a high rating
+           - None of their books are in the to-read list
+
         If genre is specified, only authors who had books in that genre are chosen."""
 
         # First sort author ratings from highest to lowest
@@ -307,14 +327,17 @@ class items_list:
                               self.author_ratings[item]["My Rating"],
                               reverse=True)
 
-        # Choose an author only if none of the author's books are in the to-read list
-        # and if the author has written books in the specified genre
+        # Filter out authors based on selection criteria
         best_authors_no_to_read = list(filter(lambda item:
                                               (len(self.choose_items(1, author=item))==0) and
-                                              (self.__item_is_in_genre(self.author_ratings[item], genre)),
+                                              (self.__item_is_in_genre(self.author_ratings[item], genre)) and
+                                              (self.author_ratings[item]["Number"] >= 2),
                                               best_authors))
 
-        return best_authors_no_to_read[0:num_authors-1]
+        if (num_authors > len(best_authors_no_to_read)):
+            num_authors = len(best_authors_no_to_read)
+
+        return best_authors_no_to_read[0:num_authors]
 
     def choose_items(self, num_items, genre=None, author=None):
         """Return a list of recommended items.
