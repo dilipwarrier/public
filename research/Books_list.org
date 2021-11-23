@@ -9,6 +9,7 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
+| The burning room                                                                                                                                   | Michael Connelly                              |       4.0 |            4.0 | 11/22/2021 | 11/22/2021 | thriller                                  | read    |
 | Never let me go                                                                                                                                    | Kazuo Ishiguro                                |           |            3.8 |            | 11/13/2021 | fiction                                   | to-read |
 | Blueprint: How DNA makes us who we are                                                                                                             | Robert Plomin                                 |           |            4.0 |            | 11/13/2021 | genetics                                  | to-read |
 | Winter Tide                                                                                                                                        | Ruthanna Emrys                                |           |            3.8 |            | 11/07/2021 | science-fiction                           | to-read |
@@ -624,13 +625,14 @@ Working backwards                                 : Colin Bryar, Bill... (4.4, m
 ** Recenly read
 
 #+begin_src shell :results drawer
-  ../item_recommender/recommend_book.py -s 40 test.csv
+../item_recommender/recommend_book.py -s 40 test.csv
 #+end_src
 
 #+RESULTS:
 :results:
 List of read books:
 
+The burning room                                  : Michael Connelly     (22-Nov-21, 4.0)
 I contain multitudes: the microbes within us      : Ed Yong              (12-Nov-21, 2.0)
 Algorithms to Live By: The Computer Science of... : Brian Christian      (10-Oct-21, 5.0)
 The spy and the traitor                           : Ben MacIntyre        (30-Sep-21, 5.0)
@@ -670,7 +672,6 @@ Identical                                         : Scott Turow          (25-Dec
 The wrong side of goodbye                         : Michael Connelly     (16-Dec-20, 4.0)
 Half of a yellow sun                              : Chimamanda Ngozi...  (11-Dec-20, 3.0)
 A troubled man                                    : Henning Menkell      (25-Nov-20, 4.0)
-Leonardo da Vinci                                 : Walter Isaacson      (20-Nov-20, 2.0)
 :end:
 
 
@@ -683,11 +684,12 @@ Leonardo da Vinci                                 : Walter Isaacson      (20-Nov
 #+RESULTS:
 :results:
 List of categories and read-dates:
-maths                         : 20-Nov-21
-textbook                      : 20-Nov-21
-management                    : 20-Nov-21
-strategy                      : 20-Nov-21
-black-history                 : 20-Nov-21
+thriller                      : 22-Nov-21
+maths                         : 22-Nov-21
+textbook                      : 22-Nov-21
+management                    : 22-Nov-21
+strategy                      : 22-Nov-21
+black-history                 : 22-Nov-21
 science                       : 12-Nov-21
 eastern-biography             : 30-Sep-21
 eastern-history               : 22-Sep-21
@@ -699,7 +701,6 @@ society                       : 26-Jun-21
 brain                         : 10-May-21
 western-history               : 05-Apr-21
 indian-fiction                : 13-Feb-21
-thriller                      : 10-Feb-21
 indian-society                : 12-Jan-21
 science-fiction               : 05-Jan-21
 african-fiction               : 11-Dec-20
@@ -729,7 +730,7 @@ marketing                     : 01-Jan-00
 ** Favorite authors
 
 #+begin_src shell :results drawer
-  ../item_recommender/recommend_book.py -a 20 test.csv
+  ../item_recommender/recommend_book.py -a 30 test.csv
 #+end_src
 
 #+RESULTS:
@@ -756,6 +757,16 @@ Amitav Ghosh
 John Steinbeck
 Russell Banks
 Joseph Kanon
+David McCullough
+Richard Russo
+Yaa Gyasi
+Anthony Horowitz
+Linwood Barclay
+Tom DeMarco
+Graham Greene
+Kiran Nagarkar
+Jhumpa Lahiri
+Shyam Selvadurai
 :end:
 
 
