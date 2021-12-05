@@ -9,8 +9,11 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
+| Your inner fish                                                                                                                                    | Neil Shubin                                   |           |            4.0 |            | 12/04/2021 | science                                   | to-read |
+| Subliminal: how your unconscious behavior...                                                                                                       | Leonard Mlodinow                              |           |            4.1 |            | 12/04/2021 | science                                   | to-read |
+| Sync: the emerging science of social order                                                                                                         | Steven Strogatz                               |           |            4.0 |            | 12/04/2021 | maths                                     | to-read |
+| Defectors                                                                                                                                          | Joseph Kanon                                  |           |            3.8 |            | 12/04/2021 | espionage                                 | to-read |
 | The burning room                                                                                                                                   | Michael Connelly                              |       4.0 |            4.0 | 11/22/2021 | 11/22/2021 | thriller                                  | read    |
-| Never let me go                                                                                                                                    | Kazuo Ishiguro                                |           |            3.8 |            | 11/13/2021 | fiction                                   | to-read |
 | Blueprint: How DNA makes us who we are                                                                                                             | Robert Plomin                                 |           |            4.0 |            | 11/13/2021 | genetics                                  | to-read |
 | Winter Tide                                                                                                                                        | Ruthanna Emrys                                |           |            3.8 |            | 11/07/2021 | science-fiction                           | to-read |
 | Games of life                                                                                                                                      | Karl Sigmund                                  |           |            4.0 |            | 10/31/2021 | maths                                     | to-read |
@@ -21,7 +24,6 @@
 | Talking to the enemy : faith, brotherhood, and the (un)making of terrorists                                                                        | Scott Atran                                   |           |            4.0 |            | 9/23/2021  | society                                   | to-read |
 | The WEIRDest people in the world                                                                                                                   | Joseph Heinrick                               |           |            4.2 |            | 9/3/2021   | society                                   | to-read |
 | The Napoleonic Wars                                                                                                                                | Alexander Mikaberidze                         |           |            4.2 |            | 8/25/2021  | eastern-history                           | to-read |
-| Business Dynamics                                                                                                                                  | John Sterman                                  |           |            4.4 |            | 7/21/2021  | management, textbook                      | to-read |
 | The first 90 days                                                                                                                                  | Michael Watkins                               |           |            3.9 |            | 5/26/2021  | management                                | to-read |
 | Forgotten armies: The fall of British Asia                                                                                                         | C. A. Bayly, Tim Harper                       |           |            3.9 |            | 5/15/2021  | eastern-history                           | to-read |
 | Tasting freedom: Octavius Catto                                                                                                                    | Daniel Biddle, Murray Dubin                   |           |            4.2 |            | 5/9/2021   | black-biography                           | to-read |
@@ -41,9 +43,9 @@
 | Devil in a blue dress                                                                                                                              | Walter Mosley                                 |           |            3.9 |            | 2/20/2021  | thriller                                  | to-read |
 | Ready for anything                                                                                                                                 | David Allen                                   |           |            3.9 |            | 2/15/2021  | self-improvement                          | to-read |
 | A World Undone: A History of World War I                                                                                                           | G J Meyer                                     |           |            4.2 |            | 12/27/2020 | western-history                           | to-read |
-| Many thousands gone: A history of slavery                                                                                                          | Ira Berlin                                    |           |            4.1 |            | 12/27/2020 | black-history                             | reading |
+| Many thousands gone: A history of slavery                                                                                                          | Ira Berlin                                    |         5 |            4.1 | 11/26/2021 | 12/27/2020 | black-history                             | read    |
 | Questions are the answer                                                                                                                           | Hal Gregersen                                 |           |            4.0 |            | 12/27/2020 | management                                | to-read |
-| Shuggie Bain                                                                                                                                       | Douglas Stuart                                |           |            4.4 |            | 12/22/2020 | fiction                                   | to-read |
+| Shuggie Bain                                                                                                                                       | Douglas Stuart                                |           |            4.4 |            | 12/22/2020 | fiction                                   | reading |
 | Culture map                                                                                                                                        | Erin Meyer                                    |           |            4.4 |            | 12/22/2020 | management                                | to-read |
 | Judgement in managerial decision making                                                                                                            | Bazerman, Moore                               |           |              4 |            | 12/22/2020 | management                                | to-read |
 | Reading the room                                                                                                                                   | David Kantor                                  |           |            4.2 |            | 11/7/2020  | management                                | to-read |
@@ -53,7 +55,6 @@
 | Magdalena: River of dreams                                                                                                                         | Wade Davis                                    |           |            4.4 |            | 9/6/2020   | society                                   | to-read |
 | Sum                                                                                                                                                | David Eagleman                                |           |            4.1 |            | 9/6/2020   | science-fiction                           | to-read |
 | Thinking it through                                                                                                                                | Anthony Kwame Appiah                          |           |            4.0 |            | 8/30/2020  | philosophy                                | to-read |
-| Game theory: an introduction                                                                                                                       | Steve Tadelis                                 |           |            4.0 |            | 8/30/2020  | maths, textbook                           | reading |
 | Oryx and Crake                                                                                                                                     | Margaret Atwood                               |           |            4.0 |            | 8/1/2020   | science-fiction                           | to-read |
 | Clean hands                                                                                                                                        | Patrick Hoffman                               |           |            3.9 |            | 6/7/2020   | thriller                                  | to-read |
 | These women                                                                                                                                        | Ivy Pochoda                                   |           |            4.3 |            | 5/11/2020  | thriller                                  | to-read |
@@ -82,7 +83,7 @@
 | The Man Who Mistook His Wife for a Hat and Other Clinical Tales                                                                                    | Oliver Sacks                                  |           |            4.1 |            | 10/22/2017 | science                                   | to-read |
 | The Prague Sonata                                                                                                                                  | Bradford Morrow                               |           |            4.0 |            | 10/15/2017 | thriller                                  | to-read |
 | The Medici: Godfathers of the Renaissance                                                                                                          | Paul Strathern                                |           |            4.1 |            | 10/1/2017  | western-biography                         | to-read |
-| Behold the Dreamers                                                                                                                                | Imbolo Mbue                                   |           |            4.0 |            | 10/1/2017  | fiction                                   | to-read |
+| Behold the Dreamers                                                                                                                                | Imbolo Mbue                                   |           |            4.0 |            | 10/1/2017  | african-fiction                           | to-read |
 | Crucial Conversations: Tools for Talking When Stakes Are High                                                                                      | Kerry Patterson                               |           |            4.0 |            | 9/9/2017   | management                                | to-read |
 | Watergate: The Corruption of American Politics and the Fall of Richard Nixon                                                                       | Fred Emery                                    |           |            4.0 |            | 8/19/2017  | western-history                           | to-read |
 | In Gods We Trust: The Evolutionary Landscape of Religion                                                                                           | Scott Atran                                   |           |            4.0 |            | 7/29/2017  | genetics                                  | to-read |
@@ -105,7 +106,8 @@
 | Confessions                                                                                                                                        | Kanae Minato                                  |           |            4.1 |            | 8/16/2014  | thriller                                  | to-read |
 | The Transformation of the World: A Global History of the Nineteenth Century                                                                        | Jurgen Osterhammel                            |           |            4.2 |            | 5/24/2014  | western-history                           | to-read |
 | The whys of a political scrivener                                                                                                                  | Martin Gardner                                |           |            4.0 |            | 11/23/2013 | philosophy                                | to-read |
-| Seiobo There Below                                                                                                                                 | Laszlo Krasznahorkai                          |           |            4.3 |            | 11/2/2013  | fiction                                   | to-read |
+| Seiobo There Below                                                                                                                                 | Laszlo Krasznahorkai                          |         1 |            4.3 | 11/30/2021 | 11/2/2013  | fiction                                   | read    |
+| Game theory: an introduction                                                                                                                       | Steve Tadelis                                 |         5 |            4.0 | 11/20/2021 | 8/30/2020  | maths, textbook                           | read    |
 | Algorithms to Live By: The Computer Science of Human Decisions                                                                                     | Brian Christian                               |         5 |            4.2 | 10/10/2021 | 1/22/2017  | science                                   | read    |
 | The spy and the traitor                                                                                                                            | Ben MacIntyre                                 |         5 |            4.5 | 9/30/2021  | 9/30/2021  | eastern-biography                         | read    |
 | Osman's dream: A history of the Ottoman Empire                                                                                                     | Carolin Finkel                                |         2 |            3.7 | 9/22/2021  | 12/22/2020 | eastern-history                           | read    |
@@ -580,6 +582,18 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
 
 
+* Sources for book recommendations
+
+  - [[https://www.nationalbook.org/national-book-awards/][National Book Award winners]]
+  - [[https://www.goodreads.com/list][Goodreads lists]]
+  - [[https://en.wikipedia.org/wiki/List_of_winners_and_shortlisted_authors_of_the_Booker_Prize][Booker prize winners]]
+  - [[https://en.wikipedia.org/wiki/Royal_Society_Prizes_for_Science_Books][Royal Society awards]] for science books
+  - [[https://www.maa.org/programs-and-communities/member-communities/maa-awards/writing-awards/euler-book-prize][Euler book prize in mathematics]]
+  - [[https://en.wikipedia.org/wiki/DSC_Prize_for_South_Asian_Literature][DSC prize for South Asian literature]]
+  - [[https://www.thejcbprize.org/#list][JCB prize for Indian fiction]]
+  - [[https://en.wikipedia.org/wiki/Crossword_Book_Award][Crossword award for Indian literature]]
+
+
 * Books analysis
 
 
@@ -609,16 +623,16 @@
 :results:
 List of recommended books:
 
-Seiobo There Below                                : Laszlo Krasznahorkai (4.3, fiction)
 The Transformation of the World: A Global...      : Jurgen Osterhammel   (4.2, western-history)
 What If?: Serious Scientific Answers to Absurd... : Randall Munroe       (4.2, science)
 Magdalena: River of dreams                        : Wade Davis           (4.4, society)
 Crossing Point                                    : James Glickman       (4.3, fiction)
 The Best Place to Work: The Art and Science of... : Ron Friedman         (4.2, management)
-Shuggie Bain                                      : Douglas Stuart       (4.4, fiction)
 Culture map                                       : Erin Meyer           (4.4, management)
 Body and Soul                                     : Frank Conroy         (4.3, fiction)
 Working backwards                                 : Colin Bryar, Bill... (4.4, management)
+The huntress                                      : Kate Quinn           (4.3, thriller)
+The Art of Action                                 : Stephen Bungay       (4.3, management)
 :end:
 
 
@@ -684,16 +698,16 @@ A troubled man                                    : Henning Menkell      (25-Nov
 #+RESULTS:
 :results:
 List of categories and read-dates:
+textbook                      : 30-Nov-21
+management                    : 30-Nov-21
+strategy                      : 30-Nov-21
+fiction                       : 30-Nov-21
+black-history                 : 26-Nov-21
 thriller                      : 22-Nov-21
-maths                         : 22-Nov-21
-textbook                      : 22-Nov-21
-management                    : 22-Nov-21
-strategy                      : 22-Nov-21
-black-history                 : 22-Nov-21
+maths                         : 20-Nov-21
 science                       : 12-Nov-21
 eastern-biography             : 30-Sep-21
 eastern-history               : 22-Sep-21
-fiction                       : 08-Sep-21
 buddhism                      : 25-Aug-21
 economics                     : 10-Aug-21
 philosophy                    : 25-Jul-21
