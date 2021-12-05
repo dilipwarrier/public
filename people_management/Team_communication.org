@@ -21,6 +21,53 @@ guidelines on improving the overall remote co-working experience.
 
 * Synchronous and asynchronous communication
 
+
+* Town hall meetings
+
+  Town hall meetings are a good way to broadcast information, discuss
+  financial results, have detailed Q&A etc. I conduct town halls once
+  every quarter.
+
+
+** Task list for town hall meetings [0/7]
+
+
+*** TODO Ask team to setup games/puzzles etc. for town hall
+    SCHEDULED: <2022-01-25 Tue 08:00 +12w>
+
+
+*** TODO Setup Slido for questions and post-meeting survey to be submitted in town hall
+    SCHEDULED: <2022-01-26 Wed 08:00 +12w>
+
+
+*** TODO Setup food if needed for town hall
+    SCHEDULED: <2022-01-26 Wed 08:00 +12w>
+
+
+*** TODO Ask someone to give spotlight presentation in town hall
+    SCHEDULED: <2022-01-26 Wed 08:00 +12w>
+
+
+*** TODO Setup updates and prep financial information slides for town hall
+    SCHEDULED: <2022-01-26 Wed 08:00 +12w>
+
+
+*** TODO Answer questions left-over from town hall
+    SCHEDULED: <2022-02-08 Tue 08:00 +12w>
+
+
+
+*** TODO Give recognition for good questions and game organizers in town hall
+    SCHEDULED: <2021-12-02 Thu 08:00 +12w>
+
+
+*** TODO Release post-meeting survey results from town hall
+    SCHEDULED: <2022-02-10 Thu 08:00 +3m>
+
+
+* Task list
+
+
 ** TODO Work on asynchronous comm document                         :Learning:
    :PROPERTIES:
    :Effort:   01:00
