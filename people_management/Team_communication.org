@@ -29,7 +29,7 @@ guidelines on improving the overall remote co-working experience.
   every quarter.
 
 
-** Task list for town hall meetings [0/7]
+** Task list for town hall meetings [0/8]
 
 
 *** TODO Ask team to setup games/puzzles etc. for town hall
@@ -58,9 +58,13 @@ guidelines on improving the overall remote co-working experience.
 
 
 *** TODO Give recognition for good questions and game organizers in town hall
-    SCHEDULED: <2021-12-02 Thu 08:00 +12w>
+    SCHEDULED: <2022-02-24 Thu 08:00 +12w>
+    :PROPERTIES:
+    :LAST_REPEAT: [2021-12-10 Fri 16:29]
+    :END:
 
 
+    - State "DONE"       from "TODO"       [2021-12-10 Fri 16:29]
 *** TODO Release post-meeting survey results from town hall
     SCHEDULED: <2022-02-10 Thu 08:00 +3m>
 

@@ -9,10 +9,14 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
-| Your inner fish                                                                                                                                    | Neil Shubin                                   |           |            4.0 |            | 12/04/2021 | science                                   | to-read |
+| Infectious: Pathogens and how we fight them                                                                                                        | John Tregoning                                |           |            4.0 |            | 12/12/2021 | biology                                   | to-read |
+| Designing data-intensive applications                                                                                                              | Martin Kleppmann                              |           |            4.5 |            | 12/10/2021 | software, engineering                     | to-read |
+| Moral tribes                                                                                                                                       | Joshua Greene                                 |           |            4.0 |            | 12/10/2021 | philosophy                                | to-read |
+| The genetic lottery                                                                                                                                | Kathryn Paige Harden                          |           |            4.1 |            | 12/06/2021 | biology                                   | to-read |
+| Your inner fish                                                                                                                                    | Neil Shubin                                   |           |            4.0 |            | 12/04/2021 | biology                                   | to-read |
 | Subliminal: how your unconscious behavior...                                                                                                       | Leonard Mlodinow                              |           |            4.1 |            | 12/04/2021 | science                                   | to-read |
 | Sync: the emerging science of social order                                                                                                         | Steven Strogatz                               |           |            4.0 |            | 12/04/2021 | maths                                     | to-read |
-| Defectors                                                                                                                                          | Joseph Kanon                                  |           |            3.8 |            | 12/04/2021 | espionage                                 | to-read |
+| Leaving Berlin                                                                                                                                     | Joseph Kanon                                  |           |            3.8 |            | 12/04/2021 | espionage                                 | reading |
 | The burning room                                                                                                                                   | Michael Connelly                              |       4.0 |            4.0 | 11/22/2021 | 11/22/2021 | thriller                                  | read    |
 | Blueprint: How DNA makes us who we are                                                                                                             | Robert Plomin                                 |           |            4.0 |            | 11/13/2021 | genetics                                  | to-read |
 | Winter Tide                                                                                                                                        | Ruthanna Emrys                                |           |            3.8 |            | 11/07/2021 | science-fiction                           | to-read |
@@ -36,7 +40,7 @@
 | Knowledge, reality and value                                                                                                                       | Michael Huemer                                |           |            4.1 |            | 4/8/2021   | philosophy, textbook                      | to-read |
 | Working backwards                                                                                                                                  | Colin Bryar, Bill Carr                        |           |            4.4 |            | 3/20/2021  | management                                | to-read |
 | The dead are arising: The life of Malcolm X                                                                                                        | Les Payne                                     |           |            4.3 |            | 3/20/2021  | black-biography                           | to-read |
-| I contain multitudes: the microbes within us                                                                                                       | Ed Yong                                       |         2 |            4.1 | 11/12/2021 | 10/3/2021  | science                                   | read    |
+| I contain multitudes: the microbes within us                                                                                                       | Ed Yong                                       |         2 |            4.1 | 11/12/2021 | 10/3/2021  | biology                                   | read    |
 | The vital question: Energy, evolution and the origins of complex life                                                                              | Nick Lane                                     |           |            4.2 |            | 10/3/2021  | genetics                                  | to-read |
 | Before she knew him                                                                                                                                | Peter Swanson                                 |           |            3.9 |            | 3/20/2021  | thriller                                  | to-read |
 | Rise of the West                                                                                                                                   | William McNeill                               |           |            4.1 |            | 2/20/2021  | western-history                           | to-read |
@@ -44,8 +48,8 @@
 | Ready for anything                                                                                                                                 | David Allen                                   |           |            3.9 |            | 2/15/2021  | self-improvement                          | to-read |
 | A World Undone: A History of World War I                                                                                                           | G J Meyer                                     |           |            4.2 |            | 12/27/2020 | western-history                           | to-read |
 | Many thousands gone: A history of slavery                                                                                                          | Ira Berlin                                    |         5 |            4.1 | 11/26/2021 | 12/27/2020 | black-history                             | read    |
+| Shuggie Bain                                                                                                                                       | Douglas Stuart                                |         3 |            4.4 | 12/07/2021 | 12/22/2020 | fiction                                   | read    |
 | Questions are the answer                                                                                                                           | Hal Gregersen                                 |           |            4.0 |            | 12/27/2020 | management                                | to-read |
-| Shuggie Bain                                                                                                                                       | Douglas Stuart                                |           |            4.4 |            | 12/22/2020 | fiction                                   | reading |
 | Culture map                                                                                                                                        | Erin Meyer                                    |           |            4.4 |            | 12/22/2020 | management                                | to-read |
 | Judgement in managerial decision making                                                                                                            | Bazerman, Moore                               |           |              4 |            | 12/22/2020 | management                                | to-read |
 | Reading the room                                                                                                                                   | David Kantor                                  |           |            4.2 |            | 11/7/2020  | management                                | to-read |
@@ -60,7 +64,7 @@
 | These women                                                                                                                                        | Ivy Pochoda                                   |           |            4.3 |            | 5/11/2020  | thriller                                  | to-read |
 | The burden of proof                                                                                                                                | Scott Turow                                   |           |            4.1 |            | 5/11/2020  | thriller                                  | to-read |
 | The whys of a philosophical scrivener                                                                                                              | Martin Gardner                                |           |            4.0 |            | 10/20/2019 | philosophy                                | to-read |
-| Strategic Management                                                                                                                               | Charles Hill, Gareth Jones, Melissa Schilling |           |            4.5 |            | 10/2/2019  | strategy, management, textbook            | reading |
+| Strategic Management                                                                                                                               | Charles Hill, Gareth Jones, Melissa Schilling |           |            4.5 |            | 10/2/2019  | strategy, management, textbook            | to-read |
 | The Sixth Conspirator                                                                                                                              | Max Byrd                                      |           |            4.0 |            | 9/2/2019   | western-history                           | to-read |
 | The Art of Action                                                                                                                                  | Stephen Bungay                                |           |            4.3 |            | 8/9/2019   | management                                | to-read |
 | A different drummer                                                                                                                                | William Melvin Kelley                         |           |            4.2 |            | 7/2/2019   | fiction                                   | to-read |
@@ -167,7 +171,7 @@
 | Pushkin Hills                                                                                                                                      | Sergei Dovlatov                               |         3 |            4.2 | 1/19/2020  | 7/19/2014  | eastern-fiction                           | read    |
 | Country Dark                                                                                                                                       | Chris Offutt                                  |         5 |            4.2 | 1/12/2020  | 4/8/2018   | fiction                                   | read    |
 | The Illicit Happiness of Other People                                                                                                              | Manu Joseph                                   |         2 |            4.1 | 1/5/2020   | 10/15/2016 | indian-fiction                            | read    |
-| The Sports Gene: Inside the Science of Extraordinary Athletic Performance                                                                          | David Epstein                                 |         5 |            4.2 | 1/2/2020   | 7/27/2013  | science, sports                           | read    |
+| The Sports Gene: Inside the Science of Extraordinary Athletic Performance                                                                          | David Epstein                                 |         5 |            4.2 | 1/2/2020   | 7/27/2013  | genetics, sports                          | read    |
 | Midnight's children                                                                                                                                | Salman Rushdie                                |         3 |            4.0 | 12/5/2019  | 9/2/2019   | indian-fiction                            | read    |
 | The Immortal Life of Henrietta Lacks                                                                                                               | Rebecca Skloot                                |         3 |            4.1 | 12/5/2019  | 11/4/2011  | science                                   | read    |
 | Inspired: How To Create Products Customers Love                                                                                                    | Marty Cagan                                   |         4 |            4.2 | 12/1/2019  | 12/30/2018 | product                                   | read    |
@@ -225,7 +229,7 @@
 | Ender's Game (Ender's Saga,#1)                                                                                                                     | Orson Scott Card                              |         2 |            4.3 | 1/1/2014   | 12/19/2011 | science-fiction                           | read    |
 | The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy,#1)                                                                         | Douglas Adams                                 |         5 |            4.2 | 1/1/2014   | 12/19/2011 | fiction                                   | read    |
 | A People's History of the United States                                                                                                            | Howard Zinn                                   |         5 |            4.1 | 1/1/2014   | 12/19/2011 | society,books-to-read-again               | read    |
-| Genome: the Autobiography of a Species in 23 Chapters                                                                                              | Matt Ridley                                   |         4 |            4.0 | 1/1/2014   | 12/19/2011 | science                                   | read    |
+| Genome: the Autobiography of a Species in 23 Chapters                                                                                              | Matt Ridley                                   |         4 |            4.0 | 1/1/2014   | 12/19/2011 | genetics                                  | read    |
 | Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics,#1)                                                           | Steven D. Levitt                              |         4 |            4.0 | 1/1/2014   | 12/19/2011 | economics                                 | read    |
 | Bel Canto                                                                                                                                          | Ann Patchett                                  |         2 |            3.9 | 1/1/2014   | 12/19/2011 | fiction                                   | read    |
 | Eye of the Needle                                                                                                                                  | Ken Follett                                   |         4 |            4.2 | 1/1/2014   | 12/5/2011  | thriller                                  | read    |
@@ -588,7 +592,7 @@
   - [[https://www.goodreads.com/list][Goodreads lists]]
   - [[https://en.wikipedia.org/wiki/List_of_winners_and_shortlisted_authors_of_the_Booker_Prize][Booker prize winners]]
   - [[https://en.wikipedia.org/wiki/Royal_Society_Prizes_for_Science_Books][Royal Society awards]] for science books
-  - [[https://www.maa.org/programs-and-communities/member-communities/maa-awards/writing-awards/euler-book-prize][Euler book prize in mathematics]]
+
   - [[https://en.wikipedia.org/wiki/DSC_Prize_for_South_Asian_Literature][DSC prize for South Asian literature]]
   - [[https://www.thejcbprize.org/#list][JCB prize for Indian fiction]]
   - [[https://en.wikipedia.org/wiki/Crossword_Book_Award][Crossword award for Indian literature]]
@@ -616,23 +620,23 @@
 ** Next reads
 
 #+begin_src shell :results drawer
-  ../item_recommender/recommend_book.py -r 10 test.csv
+../item_recommender/recommend_book.py -r 10 test.csv
 #+end_src
 
 #+RESULTS:
 :results:
 List of recommended books:
 
+Strategic Management                              : Charles Hill,...     (4.5, strategy,management,textbook)
+Designing data-intensive applications             : Martin Kleppmann     (4.5, software,engineering)
 The Transformation of the World: A Global...      : Jurgen Osterhammel   (4.2, western-history)
 What If?: Serious Scientific Answers to Absurd... : Randall Munroe       (4.2, science)
-Magdalena: River of dreams                        : Wade Davis           (4.4, society)
-Crossing Point                                    : James Glickman       (4.3, fiction)
 The Best Place to Work: The Art and Science of... : Ron Friedman         (4.2, management)
-Culture map                                       : Erin Meyer           (4.4, management)
+Crossing Point                                    : James Glickman       (4.3, fiction)
+Magdalena: River of dreams                        : Wade Davis           (4.4, society)
 Body and Soul                                     : Frank Conroy         (4.3, fiction)
+Culture map                                       : Erin Meyer           (4.4, management)
 Working backwards                                 : Colin Bryar, Bill... (4.4, management)
-The huntress                                      : Kate Quinn           (4.3, thriller)
-The Art of Action                                 : Stephen Bungay       (4.3, management)
 :end:
 
 
@@ -646,7 +650,11 @@ The Art of Action                                 : Stephen Bungay       (4.3, m
 :results:
 List of read books:
 
+Shuggie Bain                                      : Douglas Stuart       (07-Dec-21, 3.0)
+Seiobo There Below                                : Laszlo Krasznahorkai (30-Nov-21, 1.0)
+Many thousands gone: A history of slavery         : Ira Berlin           (26-Nov-21, 5.0)
 The burning room                                  : Michael Connelly     (22-Nov-21, 4.0)
+Game theory: an introduction                      : Steve Tadelis        (20-Nov-21, 5.0)
 I contain multitudes: the microbes within us      : Ed Yong              (12-Nov-21, 2.0)
 Algorithms to Live By: The Computer Science of... : Brian Christian      (10-Oct-21, 5.0)
 The spy and the traitor                           : Ben MacIntyre        (30-Sep-21, 5.0)
@@ -682,10 +690,6 @@ Emperor of Japan: Meiji and his world             : Gordon Keene         (10-Jan
 A Peace to End All Peace: The Fall Of The...      : David Fromkin        (10-Jan-21, 3.0)
 Old Man's War (Old Man's War, #1)                 : John Scalzi          (05-Jan-21, 4.0)
 The War That Ended Peace: The Road to 1914        : Margaret MacMillan   (27-Dec-20, 5.0)
-Identical                                         : Scott Turow          (25-Dec-20, 3.0)
-The wrong side of goodbye                         : Michael Connelly     (16-Dec-20, 4.0)
-Half of a yellow sun                              : Chimamanda Ngozi...  (11-Dec-20, 3.0)
-A troubled man                                    : Henning Menkell      (25-Nov-20, 4.0)
 :end:
 
 
