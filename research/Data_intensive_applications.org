@@ -1,0 +1,61 @@
+#+TITLE: Designing data-intensive applications
+#+Author: Martin Kleppmann
+#+Filetags: :Learning:Books:
+
+* Introduction
+
+  In data-intensive applications, the storage, access
+  and modification of data is the primary challenge as opposed to
+  computation-intensive applications where the computations are the
+  primary challenge.
+
+  Data-intensive applications are systems comprising the following
+  building blocks.
+   - Databases :: to store data and access later
+   - Caches :: to remember the results from expensive operations
+   - Search indexes :: to search and filter data by keywords
+   - Stream processing :: to send messages to asynchronous processes
+   - Batch processing :: to periodically crunch a large amount of data
+
+  Typically, some glue application code stitches together tools for
+  each of these building blocks so that the resulting system is
+  efficient. See [[file:Screenshot 2021-12-12 144728.jpg][this example]].
+
+  Three concerns for such software systems are as follows.
+    - Reliability :: The system must perform correctly even if some
+      sub-parts work incorrectly (software or hardware faults or user
+      errors).
+    - Scalability :: As the system grows in user volume, data volume,
+      complexity etc., the system should be able to handle this growth
+      gracefully.
+    - Maintainability :: As more people start using and developing the
+      system (engineers and operations people), the system must be
+      easily changeable so that people can work on it productively.
+
+  Faults are defined as problems with sub-systems. Reliability is a
+  measure of how much a fault in a sub-system results in a failure of
+  the entire system.
+
+
+* Relational versus document databases
+
+  Relational databases are the traditional databases where each row is
+  a tuple of information with potentially a unique id assigned to
+  it. The collection of such tuples is a table. There may be multiple
+  such tables. For instance, in a resue database, there may be a users
+  table, an education table which lists the educational achievements
+  of all the users in the users table, an experience table which lists
+  all their work experience etc.
+
+  Document databases are like JSON or XML instances. In teh same
+  resume database example, all the information related to one user is
+  stored in one JSON file as nodes. This leads to localization of
+  information, which can be an advantage. The disadvantage is that
+  many-to-one relationships are hard to represent e.g. all users who
+  have the same degree.
+
+
+* Links
+
+  - [[https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook-dp-B06XPJML5D/dp/B06XPJML5D/ref=mt_other?_encoding=UTF8&me=&qid=][Amazon link]]
+  - [[https://github.com/ept/ddia-references][Updated links to references]]
