@@ -42,17 +42,93 @@
   Relational databases are the traditional databases where each row is
   a tuple of information with potentially a unique id assigned to
   it. The collection of such tuples is a table. There may be multiple
-  such tables. For instance, in a resue database, there may be a users
+  such tables. For instance, in a resume database, there may be a users
   table, an education table which lists the educational achievements
   of all the users in the users table, an experience table which lists
   all their work experience etc.
 
-  Document databases are like JSON or XML instances. In teh same
+  Document databases are like JSON or XML instances. In the same
   resume database example, all the information related to one user is
   stored in one JSON file as nodes. This leads to localization of
   information, which can be an advantage. The disadvantage is that
   many-to-one relationships are hard to represent e.g. all users who
-  have the same degree.
+  work at the same company.
+
+  Graph models can be thought of as another method of representing
+  data. For instance, you may have graphs with vertices representing
+  people, cities, states and countries. Edges between the vertices can
+  have labels e.g. a city vertex may have a "within" edge to a state
+  vertex. Similarly, a person vertex may have a "born in" edge or a "lives in"
+  edge to a city vertex.
+
+  A graph query can be of the type "find all
+  people who live in the US". This query could traverse an unknown
+  number of vertices since some people may have a full address while
+  some may only have the name of the city or state they live
+  in. This is an advantage of a graph query over a relational database
+  query.
+
+
+* Query languages
+
+  SQL is a declarative language i.e. it follows relational algebra
+  very closely. Consider a database for animals where some of the
+  animals may be of the shark family.
+
+  In relational algebra, this is represented as:
+  \[ Sharks = \Sigma_{family = "Sharks"} Animals \]
+
+  In SQL, this representation is followed closely as:
+  #+begin_src
+  SELECT * FROM animals WHERE family = "sharks"
+  #+end_src
+
+  This doesn't guarantee any particular order, etc., so the query
+  optimizer can choose how to implement this query. In this sense,
+  declarative languages are different from imperative languages that
+  tell a compiler/optimizer *how* to generate some data.
+
+  In addition, declarative queries can be more concise and may lend
+  themselves well to parallelization.
+
+  Many DB languages allow MapReduce extensions. The Map part is a
+  function that runs on each selected item in a database and emits a
+  (key, value) pair. The Reduce part then takes all such tuples that
+  have the same key value and runs a function to calculate an
+  aggregate value (such as the sum of all the values). MapReduce
+  functions have certain restrictions e.g. they must be pure functions
+  and must have no side effects. With these restrictions, they allow
+  for significant parallelism.
+
+
+* Under the hood of databases
+
+  A log file in which new (key, value) pairs are appended could
+  act as a simple database. To get a value, you just search in the
+  file till you find the value corresponding to the key. The set()
+  function is quite efficient since it just involves writing something
+  at the end of a file. The get() however is inefficient since it
+  takes O(n) operations where n is the number of log entries.
+
+  An enhancement would be to create a hash table in memory that
+  maintains a byte offset for each key. When a read request comes in,
+  you look up the byte offset for the key in the hash table and go to
+  that file offset and read the data. Also, the data in the disk
+  should be stored in binary format for storage optimization and not
+  text format.
+
+  The log file is only appended-to and no updates are
+  done in-place. This avoids random access writes which can be
+  costly. Appending is done through a single writer thread to avoid
+  concurrency issues.
+
+  An enhancement from a simple hash table is to use a sorted segment
+  table (SST). In this system, the keys are all sorted. The hash table
+  now does not need to contain the byte offsets for all keys but only
+  for a sparse subset of the keys.
+
+
+* Online Analytics Processing (OLAP)
 
 
 * Links
