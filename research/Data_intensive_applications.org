@@ -130,6 +130,46 @@
 
 * Online Analytics Processing (OLAP)
 
+  Previously, standard queries were all of the type where one or a few
+  records from a database was accessed and one or all of the fields
+  were presented to the end-user. This was called Online Transaction
+  Processing (OLTP). More recently, business analysts need to run
+  queries where a large number of records are accessed and summary
+  statistics calculations are run on them. These are called OLAP.
+
+  Typically, you don't want OLAP queries running on the same servers
+  that run your production databases. Instead, a new concept of data
+  warehouses has emerged where data is occasionally synced from the
+  transaction servers to the data warehouse. The data warehouse is
+  structured to efficiently run analytical queriees. Input data is fed
+  into the warehouse through an Extract-Transform-Load (ETL) mechanism
+  where the data from several transaction databases is extracted,
+  cleaned up for querying and uploaded to the warehouse.
+
+  Most data warehouses are relational databases and use a standard
+  star schema. Under this schema, there is a central "fact table" in
+  which each record is an event of a transaction/web click etc. Each
+  record then has links to records in other "dimension tables" such as
+  customer tables, store tables, product tables etc. to provide more
+  details on the what/how/when of the event. Large data warehouses
+  could have trillions of rows in fact tables. Each row in a fact
+  table could have hundreds of columns.
+
+  The typical data query requires only a few of those hundreds of
+  columns to be returned for a huge number of records. The performance
+  of such queries have to be optimized in data warehouses. This is
+  different from a typical query in a transaction database.
+
+  In order to support this, column-wise storage can be used where each
+  column is stored separately. When a query requires the results from
+  some columns, only those columns need to be accessed. Further,
+  column-wise storage can make compression of data easy since the data
+  in each column may not vary much. Finally, techniques like bit-map
+  encoding can be used to improve performance. In bit-map encoding, if
+  entries in a column can takeon a small subset of values, then a bit
+  map is created for each of the values that can be taken on. The ith
+  bit map value indicates whether row i contains that value or not.
+
 
 * Links
 
