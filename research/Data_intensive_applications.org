@@ -98,7 +98,12 @@
   aggregate value (such as the sum of all the values). MapReduce
   functions have certain restrictions e.g. they must be pure functions
   and must have no side effects. With these restrictions, they allow
-  for significant parallelism.
+  for significant parallelism. Hadoop MapReduce allows for Java
+  callback functions for the map() and reduce() parts. In between, the
+  MapReduce intrinsics automatically do merging and sorting. The
+  inputs are typically files in the Hadoop Distributed File System (HDFS).
+
+  [[file:Screenshot 2022-01-09 114730.jpg][Pictorial representation of MapReduce]]
 
 
 * Under the hood of databases
@@ -110,7 +115,7 @@
   at the end of a file. The get() however is inefficient since it
   takes O(n) operations where n is the number of log entries.
 
-  An enhancement would be to create a hash table in memory that
+  An enhancement is to create a hash table in memory that
   maintains a byte offset for each key. When a read request comes in,
   you look up the byte offset for the key in the hash table and go to
   that file offset and read the data. Also, the data in the disk
@@ -169,6 +174,9 @@
   entries in a column can takeon a small subset of values, then a bit
   map is created for each of the values that can be taken on. The ith
   bit map value indicates whether row i contains that value or not.
+
+
+* Stream processing
 
 
 * Links
