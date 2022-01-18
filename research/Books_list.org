@@ -9,8 +9,10 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
+| Lenin the dictator                                                                                                                                 | Victor Sebestyen                              |           |            4.2 |            | 01/13/2022 | eastern-history                           | to-read |
 | A country unmasked                                                                                                                                 | Alex Boraine                                  |           |            3.6 |            | 01/01/2022 | eastern-history                           | to-read |
 | The overstory                                                                                                                                      | Richard Powers                                |           |            4.1 |            | 01/01/2022 | fiction                                   | to-read |
+| Alan Turing: The Enigma                                                                                                                            | Andrew Hodges                                 |       4.0 |            3.7 | 01/12/2022 | 01/12/2022 | western-biography, maths                  | read    |
 | Fundamentals                                                                                                                                       | Frank Wilczek                                 |       1.0 |            4.0 | 12/25/2021 | 12/20/2021 | physics                                   | read    |
 | An introduction to decision theory                                                                                                                 | Martin Peterson                               |           |            3.8 |            | 12/18/2021 | maths, textbook                           | to-read |
 | A cartoon history of the universe                                                                                                                  | Larry Gonick                                  |           |            4.3 |            | 12/17/2021 | eastern-history, western-history          | to-read |
@@ -624,16 +626,23 @@
 ** Next reads
 
 #+begin_src shell :results drawer
-../item_recommender/recommend_book.py -r 10 -g genetics test.csv
+../item_recommender/recommend_book.py -r 10 test.csv
 #+end_src
 
 #+RESULTS:
 :results:
 List of recommended books:
 
-The vital question: Energy, evolution and the...  : Nick Lane            (4.2, genetics)
-In Gods We Trust: The Evolutionary Landscape of...: Scott Atran          (4.0, genetics)
-Blueprint: How DNA makes us who we are            : Robert Plomin        (4.0, genetics)
+Strategic Management                              : Charles Hill,...     (4.5, strategy,management,textbook)
+What If?: Serious Scientific Answers to Absurd... : Randall Munroe       (4.2, physics)
+The Best Place to Work: The Art and Science of... : Ron Friedman         (4.2, management)
+Crossing Point                                    : James Glickman       (4.3, fiction)
+Body and Soul                                     : Frank Conroy         (4.3, fiction)
+Confessions                                       : Kanae Minato         (4.1, thriller)
+Jesus' Son                                        : Denis Johnson        (4.1, fiction)
+Magdalena: River of dreams                        : Wade Davis           (4.4, society)
+Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
+Culture map                                       : Erin Meyer           (4.4, management)
 :end:
 
 
@@ -698,6 +707,7 @@ I'm traveling alone                               : Samuel Bjork         (25-Oct
 Homegoing                                         : Yaa Gyasi            (11-Oct-20, 5.0)
 Secondhand time: The last of the Soviets          : Svetlana Alexievich  (01-Oct-20, 1.0)
 :end:
+
 
 
 ** List of genres
@@ -794,6 +804,7 @@ Kiran Nagarkar
 Jhumpa Lahiri
 Shyam Selvadurai
 :end:
+
 
 
 ** Options

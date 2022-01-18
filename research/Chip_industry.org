@@ -1,0 +1,20 @@
+#+Title:Chip industry
+#+FILETAGS: :Learning:Tech:Chips:
+
+* PC chip industry
+
+  As of early 2022, the PC chip industry has seen significant growth
+  in the first two years of the COVID pandemic. AMD has ~20% share in
+  the industry and has gained a large market share from
+  Intel.
+
+  PC shipments increased to about 340M units in CY21, compared
+  to an average of 265M units in the five years comprising CY15
+  through CY19. Forecasts are that this higher level will stay steady
+  but will not increase significantly. Intel is depending upon the
+  revenue from the PC market to fund an expensive effort to build up
+  manufacturing to compete with TSMC.
+
+  Other competitors are ARM (Apple used ARM technology for its
+  in-house chips) and Qualcomm which is making in-roads into the
+  market with Snapdragon.

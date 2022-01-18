@@ -1,5 +1,5 @@
 #+Title: Scaling Agile at Spotify
-#+FILETAGS: :Agile:LearningManager:
+#+FILETAGS: :Agile:Learning:Manager:
 
 * Organization at Spotify
 
@@ -20,5 +20,5 @@
   functional manager but the chapter lead is also in a squad, so the
   relation is looser.
 
-  Guilds are a collection of people across
-  multiple tribes with similar interests.
+  Guilds are a collection of people across multiple tribes with
+  similar interests.
