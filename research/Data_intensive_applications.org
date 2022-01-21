@@ -47,12 +47,12 @@
   of all the users in the users table, an experience table which lists
   all their work experience etc.
 
-  Document databases are like JSON or XML instances. In the same
+  Document databases (or noSQL databases) are like JSON or XML instances. In the same
   resume database example, all the information related to one user is
   stored in one JSON file as nodes. This leads to localization of
   information, which can be an advantage. The disadvantage is that
   many-to-one relationships are hard to represent e.g. all users who
-  work at the same company.
+  work at the same company. MongoDB is an example of a document database.
 
   Graph models can be thought of as another method of representing
   data. For instance, you may have graphs with vertices representing
@@ -157,7 +157,7 @@
   record then has links to records in other "dimension tables" such as
   customer tables, store tables, product tables etc. to provide more
   details on the what/how/when of the event. Large data warehouses
-  could have trillions of rows in fact tables. Each row in a fact
+  could have trillions of rows in their fact tables. Each row in a fact
   table could have hundreds of columns.
 
   The typical data query requires only a few of those hundreds of
@@ -171,12 +171,9 @@
   column-wise storage can make compression of data easy since the data
   in each column may not vary much. Finally, techniques like bit-map
   encoding can be used to improve performance. In bit-map encoding, if
-  entries in a column can takeon a small subset of values, then a bit
+  entries in a column can take on a small subset of values, then a bit
   map is created for each of the values that can be taken on. The ith
   bit map value indicates whether row i contains that value or not.
-
-
-* Stream processing
 
 
 * Links
