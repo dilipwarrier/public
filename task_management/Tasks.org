@@ -41,7 +41,7 @@ start_date (default is the date when the code is executed).
       if not t[1]:
           delta = 0
       else:
-          if re.match("[-0-9]+", str(t[1])):
+          if re.match("[-+0-9]+", str(t[1])):
               delta = int(t[1])
           else:
               continue

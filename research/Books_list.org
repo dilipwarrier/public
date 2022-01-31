@@ -9,19 +9,18 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
+| Fundamentals of software architecture                                                                                                              | Mark Richards, Neal Ford                      |           |            4.3 |            | 01/29/2022 | software, engineering, textbook           | to-read |
+| Grandmaster of demonic cultivation                                                                                                                 | Mo Xiang Tong Xiu                             |           |            4.6 |            | 01/24/2022 | chinese-fiction                           | to-read |
 | Lenin the dictator                                                                                                                                 | Victor Sebestyen                              |           |            4.2 |            | 01/13/2022 | eastern-history                           | to-read |
 | A country unmasked                                                                                                                                 | Alex Boraine                                  |           |            3.6 |            | 01/01/2022 | eastern-history                           | to-read |
 | The overstory                                                                                                                                      | Richard Powers                                |           |            4.1 |            | 01/01/2022 | fiction                                   | to-read |
-| Alan Turing: The Enigma                                                                                                                            | Andrew Hodges                                 |       4.0 |            3.7 | 01/12/2022 | 01/12/2022 | western-biography, maths                  | read    |
-| Fundamentals                                                                                                                                       | Frank Wilczek                                 |       1.0 |            4.0 | 12/25/2021 | 12/20/2021 | physics                                   | read    |
 | An introduction to decision theory                                                                                                                 | Martin Peterson                               |           |            3.8 |            | 12/18/2021 | maths, textbook                           | to-read |
 | A cartoon history of the universe                                                                                                                  | Larry Gonick                                  |           |            4.3 |            | 12/17/2021 | eastern-history, western-history          | to-read |
 | Infectious: Pathogens and how we fight them                                                                                                        | John Tregoning                                |           |            4.0 |            | 12/12/2021 | biology                                   | to-read |
 | Moral tribes                                                                                                                                       | Joshua Greene                                 |           |            4.0 |            | 12/10/2021 | philosophy                                | to-read |
-| The genetic lottery                                                                                                                                | Kathryn Paige Harden                          |           |            4.1 |            | 12/06/2021 | biology                                   | to-read |
-| Your inner fish                                                                                                                                    | Neil Shubin                                   |           |            4.0 |            | 12/04/2021 | biology                                   | to-read |
+| The genetic lottery                                                                                                                                | Kathryn Paige Harden                          |           |            4.1 |            | 12/06/2021 | genetics                                  | to-read |
+| Your inner fish                                                                                                                                    | Neil Shubin                                   |           |            4.0 |            | 12/04/2021 | biology                                   | reading |
 | Subliminal: how your unconscious behavior...                                                                                                       | Leonard Mlodinow                              |           |            4.1 |            | 12/04/2021 | science                                   | to-read |
-| Sync: the emerging science of social order                                                                                                         | Steven Strogatz                               |           |            4.0 |            | 12/04/2021 | maths                                     | to-read |
 | Blueprint: How DNA makes us who we are                                                                                                             | Robert Plomin                                 |           |            4.0 |            | 11/13/2021 | genetics                                  | to-read |
 | Winter Tide                                                                                                                                        | Ruthanna Emrys                                |           |            3.8 |            | 11/07/2021 | science-fiction                           | to-read |
 | Games of life                                                                                                                                      | Karl Sigmund                                  |           |            4.0 |            | 10/31/2021 | maths                                     | to-read |
@@ -42,7 +41,6 @@
 | Management 3.0: Leading Agile Developers, Developing Agile Leaders                                                                                 | Jurgen Appelo                                 |           |            4.1 |            | 4/8/2021   | process, management                       | to-read |
 | Knowledge, reality and value                                                                                                                       | Michael Huemer                                |           |            4.1 |            | 4/8/2021   | philosophy, textbook                      | to-read |
 | Working backwards                                                                                                                                  | Colin Bryar, Bill Carr                        |           |            4.4 |            | 3/20/2021  | management                                | to-read |
-| The dead are arising: The life of Malcolm X                                                                                                        | Les Payne                                     |           |            4.3 |            | 3/20/2021  | black-biography                           | to-read |
 | The vital question: Energy, evolution and the origins of complex life                                                                              | Nick Lane                                     |           |            4.2 |            | 10/3/2021  | genetics                                  | to-read |
 | Before she knew him                                                                                                                                | Peter Swanson                                 |           |            3.9 |            | 3/20/2021  | thriller                                  | to-read |
 | Rise of the West                                                                                                                                   | William McNeill                               |           |            4.1 |            | 2/20/2021  | western-history                           | to-read |
@@ -51,7 +49,7 @@
 | A World Undone: A History of World War I                                                                                                           | G J Meyer                                     |           |            4.2 |            | 12/27/2020 | western-history                           | to-read |
 | Questions are the answer                                                                                                                           | Hal Gregersen                                 |           |            4.0 |            | 12/27/2020 | management                                | to-read |
 | Culture map                                                                                                                                        | Erin Meyer                                    |           |            4.4 |            | 12/22/2020 | management                                | to-read |
-| Judgement in managerial decision making                                                                                                            | Bazerman, Moore                               |           |              4 |            | 12/22/2020 | management                                | to-read |
+| Judgement in managerial decision making                                                                                                            | Bazerman, Moore                               |           |            4.0 |            | 12/22/2020 | management                                | to-read |
 | Reading the room                                                                                                                                   | David Kantor                                  |           |            4.2 |            | 11/7/2020  | management                                | to-read |
 | Sensemaking in organizations                                                                                                                       | Karl Weick                                    |           |            4.0 |            | 11/7/2020  | management                                | to-read |
 | Storytelling with data                                                                                                                             | Cole Nussbaumer Knaflic                       |           |            4.3 |            | 10/22/2020 | design, management                        | to-read |
@@ -64,7 +62,7 @@
 | These women                                                                                                                                        | Ivy Pochoda                                   |           |            4.3 |            | 5/11/2020  | thriller                                  | to-read |
 | The burden of proof                                                                                                                                | Scott Turow                                   |           |            4.1 |            | 5/11/2020  | thriller                                  | to-read |
 | The whys of a philosophical scrivener                                                                                                              | Martin Gardner                                |           |            4.0 |            | 10/20/2019 | philosophy                                | to-read |
-| Strategic Management                                                                                                                               | Charles Hill, Gareth Jones, Melissa Schilling |           |            4.5 |            | 10/2/2019  | strategy, management, textbook            | to-read |
+| Strategic Management                                                                                                                               | Charles Hill, Gareth Jones, Melissa Schilling |           |            4.5 |            | 10/2/2019  | strategy, management, textbook            | reading |
 | The Sixth Conspirator                                                                                                                              | Max Byrd                                      |           |            4.0 |            | 9/2/2019   | western-history                           | to-read |
 | The Art of Action                                                                                                                                  | Stephen Bungay                                |           |            4.3 |            | 8/9/2019   | management                                | to-read |
 | A different drummer                                                                                                                                | William Melvin Kelley                         |           |            4.2 |            | 7/2/2019   | fiction                                   | to-read |
@@ -96,7 +94,6 @@
 | Tumbling                                                                                                                                           | Diane McKinney-Whetstone                      |           |            4.2 |            | 4/5/2017   | fiction                                   | to-read |
 | Ivan's War: Life and Death in the Red Army, 1939-1945                                                                                              | Catherine Merridale                           |           |            4.0 |            | 4/1/2017   | eastern-history                           | to-read |
 | Thus Bad Begins                                                                                                                                    | Javier Marias                                 |           |            4.0 |            | 11/6/2016  | thriller                                  | to-read |
-| Battle of Wits: The Complete Story of Codebreaking in World War II                                                                                 | Stephen Budiansky                             |           |            4.0 |            | 11/6/2016  | western-history                           | to-read |
 | Amos Walker: The Complete Story Collection                                                                                                         | Loren D. Estleman                             |           |            4.1 |            | 7/17/2016  | thriller                                  | to-read |
 | Five Families: The Rise, Decline, and Resurgence of America's Most Powerful Mafia Empires                                                          | Selwyn Raab                                   |           |            4.1 |            | 1/12/2016  | western-biography                         | to-read |
 | The Christmas Virtues: A Treasury of Conservative Tales for the Holidays                                                                           | Jonathan V. Last                              |           |            4.1 |            | 12/19/2015 | society                                   | to-read |
@@ -106,10 +103,13 @@
 | Marketing Management                                                                                                                               | Philip Kotler                                 |           |            4.1 |            | 2/22/2015  | marketing, management, textbook           | to-read |
 | Economic Hierarchies, Organization and the Structure of Production                                                                                 | Gordon Tullock                                |           |            4.0 |            | 12/30/2014 | economics                                 | to-read |
 | Jesus' Son                                                                                                                                         | Denis Johnson                                 |           |            4.1 |            | 11/1/2014  | fiction                                   | to-read |
-| What If?: Serious Scientific Answers to Absurd Hypothetical Questions                                                                              | Randall Munroe                                |           |            4.2 |            | 9/21/2014  | physics                                   | to-read |
 | Confessions                                                                                                                                        | Kanae Minato                                  |           |            4.1 |            | 8/16/2014  | thriller                                  | to-read |
 | The whys of a political scrivener                                                                                                                  | Martin Gardner                                |           |            4.0 |            | 11/23/2013 | philosophy                                | to-read |
-| Designing data-intensive applications                                                                                                              | Martin Kleppmann                              |           |            4.5 |            | 12/10/2021 | software, engineering                     | reading |
+| Sync: the emerging science of social order                                                                                                         | Steven Strogatz                               |         2 |            4.0 | 1/27/2022  | 12/04/2021 | maths                                     | read    |
+| The dead are arising: The life of Malcolm X                                                                                                        | Les Payne                                     |         4 |            4.3 | 01/24/2022 | 3/20/2021  | black-biography                           | read    |
+| Alan Turing: The Enigma                                                                                                                            | Andrew Hodges                                 |         4 |            3.7 | 01/12/2022 | 01/12/2022 | western-biography, maths                  | read    |
+| Fundamentals                                                                                                                                       | Frank Wilczek                                 |         1 |            4.0 | 12/25/2021 | 12/20/2021 | physics                                   | read    |
+| Designing data-intensive applications                                                                                                              | Martin Kleppmann                              |         5 |            4.5 | 01/15/2022 | 12/10/2021 | software, engineering, textbook           | read    |
 | The burning room                                                                                                                                   | Michael Connelly                              |         4 |            4.0 | 11/22/2021 | 11/22/2021 | thriller                                  | read    |
 | Leaving Berlin                                                                                                                                     | Joseph Kanon                                  |         4 |            3.8 | 12/18/2021 | 12/04/2021 | espionage                                 | read    |
 | Many thousands gone: A history of slavery                                                                                                          | Ira Berlin                                    |         5 |            4.1 | 11/26/2021 | 12/27/2020 | black-history                             | read    |
@@ -633,16 +633,16 @@
 :results:
 List of recommended books:
 
-Strategic Management                              : Charles Hill,...     (4.5, strategy,management,textbook)
-What If?: Serious Scientific Answers to Absurd... : Randall Munroe       (4.2, physics)
+Grandmaster of demonic cultivation                : Mo Xiang Tong Xiu    (4.6, chinese-fiction)
 The Best Place to Work: The Art and Science of... : Ron Friedman         (4.2, management)
 Crossing Point                                    : James Glickman       (4.3, fiction)
-Body and Soul                                     : Frank Conroy         (4.3, fiction)
 Confessions                                       : Kanae Minato         (4.1, thriller)
 Jesus' Son                                        : Denis Johnson        (4.1, fiction)
-Magdalena: River of dreams                        : Wade Davis           (4.4, society)
+Body and Soul                                     : Frank Conroy         (4.3, fiction)
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
-Culture map                                       : Erin Meyer           (4.4, management)
+Compulsion                                        : Meyer Levin          (4.1, thriller)
+Magdalena: River of dreams                        : Wade Davis           (4.4, society)
+The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
 :end:
 
 
@@ -656,7 +656,13 @@ Culture map                                       : Erin Meyer           (4.4, m
 :results:
 List of read books:
 
+Sync: the emerging science of social order        : Steven Strogatz      (27-Jan-22, 2.0)
+The dead are arising: The life of Malcolm X       : Les Payne            (24-Jan-22, 4.0)
+Designing data-intensive applications             : Martin Kleppmann     (15-Jan-22, 5.0)
+Alan Turing: The Enigma                           : Andrew Hodges        (12-Jan-22, 4.0)
+Fundamentals                                      : Frank Wilczek        (25-Dec-21, 1.0)
 Leaving Berlin                                    : Joseph Kanon         (18-Dec-21, 4.0)
+The Transformation of the World: A Global...      : Jurgen Osterhammel   (18-Dec-21, 2.0)
 Shuggie Bain                                      : Douglas Stuart       (07-Dec-21, 3.0)
 Seiobo There Below                                : Laszlo Krasznahorkai (30-Nov-21, 1.0)
 Many thousands gone: A history of slavery         : Ira Berlin           (26-Nov-21, 5.0)
@@ -700,12 +706,6 @@ The War That Ended Peace: The Road to 1914        : Margaret MacMillan   (27-Dec
 Identical                                         : Scott Turow          (25-Dec-20, 3.0)
 The wrong side of goodbye                         : Michael Connelly     (16-Dec-20, 4.0)
 Half of a yellow sun                              : Chimamanda Ngozi...  (11-Dec-20, 3.0)
-A troubled man                                    : Henning Menkell      (25-Nov-20, 4.0)
-Leonardo da Vinci                                 : Walter Isaacson      (20-Nov-20, 2.0)
-Infidel                                           : Ayaan Hirsi Ali      (06-Nov-20, 2.0)
-I'm traveling alone                               : Samuel Bjork         (25-Oct-20, 5.0)
-Homegoing                                         : Yaa Gyasi            (11-Oct-20, 5.0)
-Secondhand time: The last of the Soviets          : Svetlana Alexievich  (01-Oct-20, 1.0)
 :end:
 
 
