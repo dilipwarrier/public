@@ -20,6 +20,7 @@
 
   [[file:Screenshot 2022-01-16 115005.jpg][Summary]] of steps in an interview
 
+
 * Links
 
   [[https://www.youtube.com/watch?v=bUHFg8CZFws][Detailed introduction]]

@@ -1,0 +1,17 @@
+#+Title: Utility scripts for all Org files
+
+* Convert Org table to csv file for analysis
+
+#+Name: convert_org_tbl_to_csv
+#+begin_src python :results output :var outfile="temp123.csv"
+  # Write the useful rows from an Org table into a CSV file
+  import re
+  import csv
+
+  with open(outfile, 'w', newline='') as csvfile:
+      writer = csv.writer(csvfile)
+
+      # Write only non-header rows
+      header_re = "(<[lr][0-9]+>|(----))"
+      writer.writerows([entry for entry in tbl if re.search(header_re, str(entry[0]).strip()) is None])
+#+end_src

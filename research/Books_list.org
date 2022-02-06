@@ -608,17 +608,8 @@
 
 
 ** Convert table to csv file for analysis
-#+begin_src python :results output :var tbl=books_table outfile="test.csv"
-  import re
-  import csv
 
-  with open(outfile, 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-
-    # Write only non-header rows
-    header_re = "(<[lr][0-9]+>|(----))"
-    writer.writerows([entry for entry in tbl if re.search(header_re, str(entry[0]).strip()) is None])
-#+end_src
+#+CALL: ../Org_utils.org:convert_org_tbl_to_csv(tbl=books_table, outfile="test.csv")
 
 #+RESULTS:
 
@@ -642,7 +633,7 @@ Body and Soul                                     : Frank Conroy         (4.3, f
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Compulsion                                        : Meyer Levin          (4.1, thriller)
 Magdalena: River of dreams                        : Wade Davis           (4.4, society)
-The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
+Tumbling                                          : Diane McKinney-...   (4.2, fiction)
 :end:
 
 

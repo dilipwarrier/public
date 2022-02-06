@@ -4,8 +4,8 @@
 * PC chip industry
 
   As of early 2022, the PC chip industry has seen significant growth
-  in the first two years of the COVID pandemic. AMD has ~20% share in
-  the industry and has gained a large market share from
+  in the first two years of the COVID pandemic (2020-22).  AMD has
+  ~20% share in the industry and has gained a large market share from
   Intel.
 
   PC shipments increased to about 340M units in CY21, compared
