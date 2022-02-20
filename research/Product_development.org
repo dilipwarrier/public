@@ -1,0 +1,94 @@
+#+Title: Notes on the discipline of product development/planning/management
+#+Filetags: :Product:
+
+* Problem versus solution                                        :MartyCagan:
+
+  People have this overly simplistic notion that product management and
+  product design work to define the problem, and then engineering works
+  to build a solution.
+
+  Such a nice, clean separation between what product and design do, and
+  what engineering does.
+
+  Unfortunately, this overly simplistic thinking usually kills any
+  chance for real innovation.
+
+
+* Product versus feature teams                                   :MartyCagan:
+
+  Product teams are cross-functional (product, design, engineering),
+  they are focused on and measured by outcomes, they are empowered to
+  figure out the best way to solve problems.
+
+  The purpose of a product team is to solve a problem in ways that the
+  customer loves, yet work for the business.
+
+  There are four types of product risks.
+  1. Value risk (will people use it?)
+  2. Viability risk (will the solution work for our business?)
+  3. Usability risk (will people figure out how to use it?)
+  4. Feasibility risk (can we build it with the time, skills and technology we have?)
+
+  Risks 1 and 2 are owned by the product manager, risk 3 by the designer
+  and risk 4 by the engineer.
+
+  The crucial difference between a product team and a feature team is
+  that the feature team doesn't have responsibility for the value and
+  viability. Instead, some executive stakeholder does. When this
+  happens, the team might not even believe that there's a viable
+  product. This leads to friction aand dissonance.
+
+  A true product team has responsibility and accountability.
+
+
+* Competencies                                                   :MartyCagan:
+
+** Competencies for a product manager
+
+   A deep knowledge of:
+   - your users and customers;
+   - the data that’s generated about your products;
+   - your industry; and
+   - how your business works.
+
+
+** Competencies for the head of product management
+
+   - Team Development
+   - Product Vision
+   - Execution
+   - Product Culture
+   - Empathy
+
+* Feature prioritization
+
+  I was recently introduced to the Kano method of prioritization of
+  features for a product (hat tip: Melissa Perri's product management
+  online course and Wikipedia).
+
+  Here's the rough model. Think of features in three categories.
+
+  - Basic Needs :: Basic Needs are features that people take for
+    granted. No one notices them when they work as they should. But if
+    they aren’t in place, your customer can get upset.  e.g. a clean
+    room in a hotel.
+
+  - Performance Needs :: Performance Needs are those needs that are
+    top of mind and essential for users. The more of these that you
+    implement, the more satisfied the user will be. e.g. a comfortable
+    mattress in a hotel.
+
+  - Delighters :: Delighters are features that cause excitement when
+    fully implemented, but are unnoticeable if they are not included
+    at all. e.g. free food upon check-in to a hotel.
+
+  It's easiest to think of the categorization using the Wikipedia
+  graph.
+
+  [[file:Screenshot 2022-02-07 164005.jpg][Feature categories]]
+
+  If you want to satisfy your customer, meeting the basic needs might be
+  enough but, if you want to delight your customer (and don't we all?),
+  you must think about introducing delighters. The hard work, of course,
+  is in identifying what those delighters are and how to accomplish them
+  such that they serve both your customers and your business.

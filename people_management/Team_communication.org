@@ -29,7 +29,7 @@ guidelines on improving the overall remote co-working experience.
   every quarter.
 
 
-** Task list for town hall meetings [0/8]
+** Task list for town hall meetings [3/9]
 
 #+NAME: town_hall_tasks
 |--------------------------------------------------------------------------------+-----|
@@ -46,19 +46,19 @@ guidelines on improving the overall remote co-working experience.
 #+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2022-03-01", task_time="08:00")
 
 #+RESULTS:
-*** TODO Ask team to setup games/puzzles etc. for town hall
+*** DONE Ask team to setup games/puzzles etc. for town hall
     SCHEDULED: <2022-02-08 Tue 08:00>
 
 
-*** TODO Ask someone to give spotlight presentation in town hall
+*** DONE Ask someone to give spotlight presentation in town hall
     SCHEDULED: <2022-02-08 Tue 08:00>
 
 
 *** TODO Setup Slido for questions and post-meeting survey to be submitted in town hall
-    SCHEDULED: <2022-02-15 Tue 08:00>
+    SCHEDULED: <2022-02-23 Wed 08:00>
 
 
-*** TODO Setup food if needed for town hall
+*** DONE Setup food if needed for town hall
     SCHEDULED: <2022-02-15 Tue 08:00>
 
 

@@ -1,5 +1,5 @@
 #+Title: Scaling Agile at Spotify
-#+FILETAGS: :Agile:Learning:Manager:
+#+FILETAGS: :Agile:Manager:
 
 * Organization at Spotify
 

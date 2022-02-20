@@ -1,0 +1,452 @@
+#+Title: Notes on podcasts and other content from [[https://www.manager-tools.com/all-podcasts][Manager Tools]]
+#+FILETAGS: :Career:Manager:
+
+* Manager basics
+
+
+** One-on-ones
+
+    - 25 minutes every week - rarely missed
+    	- 10 min: Direct
+    	- 10 min: Manager
+    	- 5 min: Future (e.g. career development, feedback etc.)
+
+    - Your relationship with your direct is an emotional bank account
+    	- 1-1s are deposits; you may need to make withdrawals in times of stress
+
+    - Through 1-1s, great managers know each individual's strengths and gaps in detail
+
+    - 1-1 is a platform that you are providing to your direct report
+
+    - As you do 1-1s consistently, you'll notice that direct reports
+      will have less questions for you. They'll wait for the 1-1
+      instead.
+
+    - Make sure you make notes during your 1-1.
+
+    - Ask the same question each time to your direct
+      (e.g. "How is it going?")
+
+    - 1-1s are not micro-management. Micro-management means telling
+      people when, what and how to do something.
+
+    - If your direct wants to talk about family, then you probably want to
+      talk about that too.
+
+
+** Feedback
+
+    Format of feedback:
+    1. May I give you some feedback?
+    2. When you did X, Y happened.
+    3. Thank you for doing that or could you do that differently?
+
+    Don't use feedback as punishment. People will just find ways of
+    covering up in the future. Neither punishment nor praise helps
+    improve productivity. Productivity drives happiness and not vice
+    versa. You cannot take responsibility to make your directs happy.
+
+    Be specific about which action the direct should either repeat or
+    should stop.
+
+    Feedback should be done often and on small things. Feedback is
+    like potato chips. Any one chip doesn't really matter but, when
+    you eat a whole pack, it has an impact.
+
+    Your tone should be the same in case of positive feedback or
+    negative feedback. You can do that by focusing on what you want
+    the direct to do in the future, not what the direct did in the
+    past. That will ensure that the tone is neutral irrespective of
+    whether the feedback is positive or negative.
+
+    The second and third time should be exactly the same; no more
+    negative tone than the first. Usually, you have to do it six times
+    before you decide you have a different problem.
+
+    Never ask your directs a question whose answer you don't intend to
+    honor.
+
+    You do not control the behavior of your directs. Only they do.
+
+    Always ask if the direct is ready for feedback. Otherwise, they
+    may be too distracted, in which case the feedback will be
+    ineffective.
+
+    Don't say "I felt that..." If you say that, you're making an
+    interpretation of their behavior. Focus instead on the behavior:
+    "When you...".
+
+    When you give feedback, the focus should be on the future, not the
+    past. Your direct may get defensive about the feedback but that is
+    based on defending what they did in the past. You should let the
+    defense slide (i.e. ignore it completely) and focus on what
+    behavior modification needs to happen for the future.
+
+    Provide positive feedback only first, and only to your star
+    performers. This matches well with the guideline of spending more
+    time on your star performers.
+
+
+** Delegation
+
+    Assume a box with 20 gray balls.  It represents your ability to be
+    productive at work and is inflexible.  It represents 60 hours of
+    potential work a week.
+
+    There is white space in the box around the balls and this is
+    normal (time for lunch, breaks etc.)
+
+    5 of the balls are big and 15 are small. Assume here that the big
+    balls are the more important things (this is usually not true;
+    people do the things they like and not the things they should do).
+
+    Small balls are not trivial (For example, submitting an expense
+    report is a trivial task).
+
+    Assume that 5 small balls are equivalent to 1 big ball.
+
+    Further, assume that each person in the management org has a box
+    and assume that each person has 5 direct reports.
+
+    Finally, assume that you are a Director with 5 direct reports,
+    each of whom have 5 direct reports. You report to a VP who has 5
+    directs including you.
+
+    As time progresses, each ball shrinks because you get better at
+    each task.
+
+    The CEO just got a new customer, which translates to a new big
+    orange ball, You get a corresponding new big ball due to this new
+    business.  However, your box is fixed and the ball won't fit.
+
+    3 possible solutions:
+      - Delegate the big orange ball
+      - Delegate a big gray ball
+      - Delegate 5 small gray balls
+
+    Option 1 is a bad idea because it's a new task; you need to learn
+    it i.e. turn it from orange to gray. Otherwise, you will have to
+    ask your delegate to talk to your manager about the task, which is
+    inefficient.
+
+    Balls increase in size as they move down the hierarchy. This is
+    because you have learnt how to do a task and, so, it is small to
+    you but it will be big for your report.
+
+    So, option 2 is not good because it is big for you and bigger for
+    your direct, which will crush them.
+
+    Option 3 is best because a small gray ball for you will become a
+    big ball for your report but still manageable.
+
+    Saying no is not an option.
+
+    Getting rid of small or big balls is not good either.  If everyone
+    is busy, no organization can grow or change (without hiring).
+    Those balls are small for you but are huge lower down in the
+    organization. So, dropping them is not good for the org; instead,
+    you should delegate and ask your report to delegate until the
+    small balls at the level of the individual contributor are
+    dropped.
+
+    Assigning work to someone that is a natural piece of work for them
+    is not delegation. In order to be considered delegation, it must
+    be work that you have to do that you assign to someone else.  For
+    this, you'll need commitment power, not compliance power. For
+    delegation, we must ask directs and, if they say no, we must walk
+    away.
+
+    The steps are as follows.
+
+    1. State your desire - "Mike, I'd like your help."
+
+    2. Need/want/like - They need to develop something or want to
+       develop something or you'd like them to do something because
+       they're good at it - "Mike, you're my best writer."
+
+    3. Ask for acceptance before giving all the details - "Would
+       you please take responsibility for our budget process?"
+
+       If they say no, ask for the reasons for objection. - "If I
+       addressed your objections, would you be OK with it?"
+
+       At this point, they are going to start taking notes and listening
+       more carefully.
+
+    4. Now, describe in detail - What's going to be involved?
+       What will the direct do? Here's how your objections can be
+       addressed.
+
+    5. State the details of how you will govern the process:
+    	- Deadlines
+    	- Quality
+    	- Reporting
+    	- What do you need from me?
+
+
+** Coaching
+
+    Feedback makes incremental changes. Coaching helps individuals
+    move to a different level of effectiveness. Feedback is tactical
+    while coaching is strategic.
+
+    You are not a trainer; you are a coach. Managers do not need to be
+    experts at what they coach. If we don't do this, there are very
+    limited coaching opportunities.
+
+    On the positive side, coaching is required because the market
+    environment can change significantly (discontinuities), requiring
+    new skills, or for career development. [Each of us needs to
+    prepare a succession plan.]
+
+    Use 5 minutes during your weekly 1-1.
+
+    Coaching is most effective when it's collaborative. It's like a
+    treasure hunt where two players each hold half of the map.  There
+    is a relaxed feel to coaching. (Is this contradictory
+
+    Goal, resources, plan, act.
+
+    Step 1: Collaborate with our direct and set a goal (a measurable
+    result with a deadline). It has to be a goal that actually
+    involves doing something, it can't be just reading a book or
+    taking a class (although reading a book may be the first step of a
+    goal).
+
+    Step 2: Collaborate with our direct and decide resources. Take 2-3
+    minutes to figure out a list of potential resources. This should
+    be a large list of 20 to 30 items.
+
+    Step 3: Collaborate with the direct and plan next steps on about 3
+    resources.
+
+    Step 4: Direct report acts on the plan (no collaboration here;
+    this is entirely on the direct).
+
+    Celebrate the success!
+
+
+** Rolling out the basic practices
+
+   Every manager should do the following.
+   - 1-1s
+   - Feedback
+   - Coaching
+   - Delegation
+
+   Never introduce (implement) a managerial change without first
+   introducing (communicate) that change
+
+   Great executives have:
+   - Great relationships with directs through 1-1s
+   - Clear and frequent feedback to directs
+   - Coaching and demanding notably better performance over time
+   - Delegating a lot to your directs
+
+   "Doing" activities that position you as a leader versus "Being" a
+   leader.
+
+   Practice 1-1s for 6-8 weeks before you introduce the next aspects
+   of the trinity (feedback, coaching etc.)
+
+
+* New hires
+
+  A culture of effective professionalism must be taught, gaining it
+  organically is slow and error-prone.
+
+  Relationships matter. Your direct reports have to build relations
+  with other organizations that you do work with. They should not rely
+  on your connections. For instance, when someone from your team
+  wanted something from HR, he should talk to them directly and not
+  ask you to follow up.
+
+  Share [[file:Introduction.org][a written introduction of your management philosophy]].
+
+
+** Family first
+
+  [[https://www.manager-tools.com/2022/01/first-meeting-new-direct-series-family-first-part-1][Link to podcast]]
+
+  Setup a meeting towards the end of your on-boarding 1-1 series
+  with your direct report with "Family first" as the topic.
+
+  Family and self come first, work is always second. There's always
+  going to be more work than time to do it.
+
+  Work hard and do your best during your working hours; then go home
+  and spend quality time with your family.
+
+
+* Leader's intent
+
+  [[https://www.manager-tools.com/2015/08/leaders-intent-part-1-hall-fame-guidance][Link to podcast]]
+
+  Communicate less about the how and more about the why. This is the
+  only way to get growth out of your team.
+
+  Communicate your plans and why. For instance, if you are looking for
+  cost-cutting, communicate at a high-level why costs need to be cut
+  and roughly how much. You want to stay out of the weeds in terms of
+  details and communicate only the intent.
+
+
+** Eisenhower: Plans are nothing; planning is everything.            :quotes:
+
+
+** Manager tools: Good judgement comes from experience, experience comes from bad judgement. :quotes:
+
+
+* My direct is resigning
+
+   [[https://www.manager-tools.com/2014/10/my-direct-resigning-chapter-1-never-counter-offer-part-1-hall-fame-guidance][Podcast link]]
+
+   The two things a manager are responsible for are results and
+   retention.
+
+
+** Congratulate them first!
+
+   We think of the negatives of the person leaving the job and become
+   defensive. Many companies don't manage your careers, people are now
+   more responsible for their own careers. They have gone out of their
+   way to do a resume and interview. So, they've achieved something. Say
+   "Congratulations! Tell me more about the offer you have!"
+
+
+** Gather information
+
+   At this point, the direct has done a lot of work to get a
+   counter-offer without your information. You may use words like:
+   "Find out more, tell me the whole story: your job, responsibilities, etc."
+
+   Managers will never be able to make directs happy if they are
+   focused on just getting a better salary.
+
+   You may something like "I respect you, I admire you; you make my
+   job easy. I'll miss you." Don't mention the cost of replacing the
+   person, that holds true for anyone, so it's not a factor in the
+   process.
+
+   At this stage, you should still not make a counter-offer. However,
+   you can ask, "Have you made a decision? If not, by when do you need
+   to make a decision?"
+
+   At this point, they may say that they have
+   already accepted the offer. That implies that you can't take any
+   action.
+
+   An offer should have the following components. You should find out
+   all these components. It can help you get industry information even
+   if you are going to lose this person.
+   - Job description, position, who you report to, location
+   - Compensation package: pay, benefits etc.
+   - Decision date
+
+
+** Never make a counter-offer
+
+   Likelihood of success is low. You may only be able to keep them for
+   the short-term.
+
+   Cost/benefit analysis: You're paying more for essentially damage
+   control (the cost of having to go out and hire a
+   replacement). However, this person has high likelihood of leaving
+   later anyway.
+
+   Relationship damage: In order to maintain status quo (pay a person
+   more to do the same job as before), you will need to call in
+   favors. Neither you nor your boss will readily want to do
+   this. This is especially true for big companies.
+
+
+* Managing your time
+
+  You don't manage your time, you manage your priorities.
+
+  You don't get paid to do more things, you get paid to do the most
+  important things.
+
+  Use the following steps.
+  1. Figure out the things you worked on in the last 3 weeks - use
+     only pen and paper
+
+  2. Capture your top priorities (source material: job descriptions,
+     performance reviews etc.). There should be less than 5 of these.
+     - Ask what the role requires of you, not what you want to do.
+
+  3. Do a rough time analysis either based on your past 15 working
+     days (3 working weeks) or by timing yourself for the next 3
+     work-weeks (Drucker analysis)
+     - Put your number 1 priority on your calendar.
+
+  Yellow peanut M&M - that is your work while your self and your
+  family are the sun.  If you hold up the M&M against the sun, they
+  may seem of the same size but they are not.
+
+
+* Searching for a job
+
+** The big picture
+
+   A job search is not easy. You need to use multiple channels for
+   your job search, not just one. The channels are as follows.
+
+      - Companies you know :: You have driven past them, know of them,
+        admire them etc. If you know someone in the company, it might
+        be useful for them to refer you rather than submit your resume
+        directly.
+
+      - Companies you don't know :: Do your research
+        (Google/LinkedIn/Indeed etc.). Use location-based
+        searches. This list is much bigger than the companies you know
+        of, because you typically only know of B2C companies.
+
+      - Job boards :: Use more than one.
+
+      - Your connections :: Maintain a healthy list of networking
+        connections whom you've been in touch with. Reach out to them:
+        in person coffee/lunch/dinner is better than voice call is
+        better than email/text.
+
+      - Recruiters :: You should reach out to recruiters, find the
+        ones you are comfortable working with and work with them
+        regularly.
+
+   [[https://www.manager-tools.com/2016/06/search-big-picture-part-1][Podcast]]
+
+
+** Be open to opportunities
+
+   You can be happy in your current job and still be open to
+   opportunities. Always have the conversation.
+
+   If the job isn't right for you, suggest someone else.
+
+   [[https://www.manager-tools.com/2020/10/open-opportunities][Podcast]]
+
+* Horstman's 3rd law of interviewing
+
+  "We'll take 90% less ability for 10% more attitude every day of the
+  week." This is an exaggerated claim but the correct intention.
+
+  People are hired for technical reasons and fired for personality
+  reasons. Interviewing is a wasteful process but energy and
+  enthusiasm expressed the right way are crucial.
+
+  Five (really six) behaviors to show energy.
+
+  - Smiles :: Your smile must be the first thing the interviewer sees
+    about you. This is the highest value behavior.
+
+  - Handshakes :: Make it energetic.
+
+  Voice volume
+  Gestures
+  Postures
+  Laughs
+
+  The good thing about behaviors is that they can be practised.
+
+  An interview is a sales opportunity. It's not unethical - don't
+  assume that you cannot be authentic while practising this behavior.

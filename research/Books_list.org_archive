@@ -1,8 +1,16 @@
-#+Title: List of books to read
-#+FILETAGS: :Books:
-#+STARTUP: shrink
+#    -*- mode: org -*-
+
+
+Archived entries from file c:/Users/dw19681/Documents/personal_git/public/research/Books_list.org
+
 
 * Table of books
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2022-02-12 Sat 15:46
+  :ARCHIVE_FILE: c:/Users/dw19681/Documents/personal_git/public/research/Books_list.org
+  :ARCHIVE_CATEGORY: Books_list
+  :ARCHIVE_ITAGS: Books
+  :END:
 
 #+NAME: books_table
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
@@ -63,6 +71,7 @@
 | These women                                                                                                                                        | Ivy Pochoda                                   |           |            4.3 |            | 5/11/2020  | thriller                                  | to-read |
 | The burden of proof                                                                                                                                | Scott Turow                                   |           |            4.1 |            | 5/11/2020  | thriller                                  | to-read |
 | The whys of a philosophical scrivener                                                                                                              | Martin Gardner                                |           |            4.0 |            | 10/20/2019 | philosophy                                | to-read |
+| Strategic Management                                                                                                                               | Charles Hill, Gareth Jones, Melissa Schilling |           |            4.5 |            | 10/2/2019  | strategy, management, textbook            | reading |
 | The Sixth Conspirator                                                                                                                              | Max Byrd                                      |           |            4.0 |            | 9/2/2019   | western-history                           | to-read |
 | The Art of Action                                                                                                                                  | Stephen Bungay                                |           |            4.3 |            | 8/9/2019   | management                                | to-read |
 | A different drummer                                                                                                                                | William Melvin Kelley                         |           |            4.2 |            | 7/2/2019   | fiction                                   | to-read |
@@ -104,8 +113,7 @@
 | Economic Hierarchies, Organization and the Structure of Production                                                                                 | Gordon Tullock                                |           |            4.0 |            | 12/30/2014 | economics                                 | to-read |
 | Jesus' Son                                                                                                                                         | Denis Johnson                                 |           |            4.1 |            | 11/1/2014  | fiction                                   | to-read |
 | The whys of a political scrivener                                                                                                                  | Martin Gardner                                |           |            4.0 |            | 11/23/2013 | philosophy                                | to-read |
-| Strategic Management                                                                                                                               | Charles Hill, Gareth Jones, Melissa Schilling |           |            4.5 |            | 10/2/2019  | strategy, management, textbook            | reading |
-| Confessions                                                                                                                                        | Kanae Minato                                  |           |            4.1 |            | 8/16/2014  | thriller                                  | reading |
+| Confessions                                                                                                                                        | Kanae Minato                                  |           |            4.1 |            | 8/16/2014  | thriller                                  | reading    |
 | Your inner fish                                                                                                                                    | Neil Shubin                                   |         5 |            4.0 | 2/12/2022  | 12/04/2021 | biology                                   | read    |
 | Sync: the emerging science of social order                                                                                                         | Steven Strogatz                               |         2 |            4.0 | 1/27/2022  | 12/04/2021 | maths                                     | read    |
 | The dead are arising: The life of Malcolm X                                                                                                        | Les Payne                                     |         4 |            4.3 | 01/24/2022 | 3/20/2021  | black-biography                           | read    |
@@ -592,244 +600,3 @@
 | Programming Perl                                                                                                                                   | Tom Christiansen                              |         5 |            4.0 | 1/15/2003  | 11/4/2011  | software                                  | read    |
 | The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business                                                           | Clayton M. Christensen                        |         5 |            4.0 | 1/1/2003   | 11/22/2011 | product                                   | read    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
-
-
-* Sources for book recommendations
-
-  - [[https://www.nationalbook.org/national-book-awards/][National Book Award winners]]
-  - [[https://www.goodreads.com/list][Goodreads lists]]
-  - [[https://en.wikipedia.org/wiki/List_of_winners_and_shortlisted_authors_of_the_Booker_Prize][Booker prize winners]]
-  - [[https://en.wikipedia.org/wiki/Royal_Society_Prizes_for_Science_Books][Royal Society awards]] for science books
-
-  - [[https://en.wikipedia.org/wiki/DSC_Prize_for_South_Asian_Literature][DSC prize for South Asian literature]]
-  - [[https://www.thejcbprize.org/#list][JCB prize for Indian fiction]]
-  - [[https://en.wikipedia.org/wiki/Crossword_Book_Award][Crossword award for Indian literature]]
-
-
-* Books analysis
-
-
-** Convert table to csv file for analysis
-
-#+CALL: ../Org_utils.org:convert_org_tbl_to_csv(tbl=books_table, outfile="tmp123.csv")
-
-#+RESULTS:
-
-
-** Next reads
-
-#+begin_src shell :results drawer
-../item_recommender/recommend_book.py -r 20 -g fiction tmp123.csv
-#+end_src
-
-#+RESULTS:
-:results:
-List of recommended books:
-
-Grandmaster of demonic cultivation                : Mo Xiang Tong Xiu    (4.6, chinese-fiction)
-Crossing Point                                    : James Glickman       (4.3, fiction)
-Jesus' Son                                        : Denis Johnson        (4.1, fiction)
-Body and Soul                                     : Frank Conroy         (4.3, fiction)
-Tumbling                                          : Diane McKinney-...   (4.2, fiction)
-A different drummer                               : William Melvin...    (4.2, fiction)
-The Makioka Sisters                               : Junichiro Tanizaki   (4.0, japanese-fiction)
-Extremely Loud and Incredibly Close               : Jonathan Safran Foer (4.0, fiction)
-Behold the Dreamers                               : Imbolo Mbue          (4.0, african-fiction)
-A Fine Balance                                    : Rohinton Mistry      (4.4, indian-fiction,books-to-read-again)
-Fatherland                                        : Robert Harris        (4.0, fiction)
-Sum                                               : David Eagleman       (4.1, science-fiction)
-The overstory                                     : Richard Powers       (4.1, fiction)
-Oryx and Crake                                    : Margaret Atwood      (4.0, science-fiction)
-Winter Tide                                       : Ruthanna Emrys       (3.8, science-fiction)
-:end:
-
-
-** Recenly read
-
-#+begin_src shell :results drawer
-../item_recommender/recommend_book.py -s 50 tmp123.csv
-#+end_src
-
-#+RESULTS:
-:results:
-List of read books:
-
-Your inner fish                                   : Neil Shubin          (12-Feb-22, 5.0)
-Sync: the emerging science of social order        : Steven Strogatz      (27-Jan-22, 2.0)
-The dead are arising: The life of Malcolm X       : Les Payne            (24-Jan-22, 4.0)
-Designing data-intensive applications             : Martin Kleppmann     (15-Jan-22, 5.0)
-Alan Turing: The Enigma                           : Andrew Hodges        (12-Jan-22, 4.0)
-Fundamentals                                      : Frank Wilczek        (25-Dec-21, 1.0)
-Leaving Berlin                                    : Joseph Kanon         (18-Dec-21, 4.0)
-The Transformation of the World: A Global...      : Jurgen Osterhammel   (18-Dec-21, 2.0)
-Shuggie Bain                                      : Douglas Stuart       (07-Dec-21, 3.0)
-Seiobo There Below                                : Laszlo Krasznahorkai (30-Nov-21, 1.0)
-Many thousands gone: A history of slavery         : Ira Berlin           (26-Nov-21, 5.0)
-The burning room                                  : Michael Connelly     (22-Nov-21, 4.0)
-Game theory: an introduction                      : Steve Tadelis        (20-Nov-21, 5.0)
-I contain multitudes: the microbes within us      : Ed Yong              (12-Nov-21, 2.0)
-Algorithms to Live By: The Computer Science of... : Brian Christian      (10-Oct-21, 5.0)
-The spy and the traitor                           : Ben MacIntyre        (30-Sep-21, 5.0)
-Osman's dream: A history of the Ottoman Empire    : Carolin Finkel       (22-Sep-21, 2.0)
-Transcendent kingdom                              : Yaa Gyasi            (08-Sep-21, 3.0)
-Why Meditate?: Working with Thoughts and Emotions : Matthieu Ricard      (25-Aug-21, 3.0)
-Climate Change: What everyone needs to know       : Joseph Romm          (20-Aug-21, 4.0)
-False Alarm                                       : Bjorn Lomborg        (10-Aug-21, 5.0)
-The Happiness Hypothesis                          : Jonathan Haidt       (25-Jul-21, 4.0)
-The white man's burden                            : William Easterly     (07-Jul-21, 2.0)
-Heat: How to stop the planet from burning         : George Monbiot       (05-Jul-21, 3.0)
-Open borders                                      : Bryan Caplan         (26-Jun-21, 5.0)
-Poor economics                                    : Abhijit Banerjee,... (23-Jun-21, 5.0)
-Practical Ethics                                  : Peter Singer         (18-Jun-21, 5.0)
-The life you can save                             : Peter Singer         (29-May-21, 5.0)
-Dialogues on ethical vegetarianism                : Michael Huemer       (21-May-21, 5.0)
-You Are Not a Stranger Here                       : Adam Haslett         (20-May-21, 5.0)
-Consciousness and the social brain                : Michael Graziano     (10-May-21, 3.0)
-The Human Predicament: A Candid Guide to Life's...: David Benatar        (24-Apr-21, 5.0)
-The art of war                                    : Sun Tzu              (20-Apr-21, 3.0)
-On Grand Strategy                                 : John Lewis Gaddis    (17-Apr-21, 2.0)
-Still Alice                                       : Lisa Genova          (16-Apr-21, 4.0)
-Napoleon: A Life                                  : Andrew Roberts       (05-Apr-21, 4.0)
-Superforecasting: The Art and Science of...       : Philip E. Tetlock    (06-Mar-21, 5.0)
-Scale: The Universal Laws of Growth,...           : Geoffrey West        (03-Mar-21, 2.0)
-The Cold War: A new history                       : John Lewis Gaddis    (20-Feb-21, 5.0)
-Imperial twilight: the opium war                  : Stephen Platt        (15-Feb-21, 5.0)
-A burning                                         : Megha Majumdar       (13-Feb-21, 4.0)
-The Crossing                                      : Michael Connelly     (10-Feb-21, 4.0)
-Bismarck: the man and the statesman               : A. P. J. Taylor      (15-Jan-21, 2.0)
-Good talk                                         : Mira Jacob           (12-Jan-21, 4.0)
-Emperor of Japan: Meiji and his world             : Gordon Keene         (10-Jan-21, 2.0)
-A Peace to End All Peace: The Fall Of The...      : David Fromkin        (10-Jan-21, 3.0)
-Old Man's War (Old Man's War, #1)                 : John Scalzi          (05-Jan-21, 4.0)
-The War That Ended Peace: The Road to 1914        : Margaret MacMillan   (27-Dec-20, 5.0)
-Identical                                         : Scott Turow          (25-Dec-20, 3.0)
-The wrong side of goodbye                         : Michael Connelly     (16-Dec-20, 4.0)
-:end:
-
-
-
-** List of genres
-
-#+begin_src shell :results drawer
-  ../item_recommender/recommend_book.py -l tmp123.csv
-#+end_src
-
-#+RESULTS:
-:results:
-List of categories and read-dates:
-software                      : 19-Dec-21
-engineering                   : 19-Dec-21
-espionage                     : 18-Dec-21
-fiction                       : 07-Dec-21
-black-history                 : 26-Nov-21
-thriller                      : 22-Nov-21
-maths                         : 20-Nov-21
-textbook                      : 20-Nov-21
-biology                       : 12-Nov-21
-science                       : 10-Oct-21
-eastern-biography             : 30-Sep-21
-eastern-history               : 22-Sep-21
-buddhism                      : 25-Aug-21
-economics                     : 10-Aug-21
-philosophy                    : 25-Jul-21
-society                       : 26-Jun-21
-brain                         : 10-May-21
-management                    : 20-Apr-21
-strategy                      : 20-Apr-21
-western-history               : 05-Apr-21
-indian-fiction                : 13-Feb-21
-indian-society                : 12-Jan-21
-science-fiction               : 05-Jan-21
-african-fiction               : 11-Dec-20
-scandinavian-thriller         : 25-Nov-20
-western-biography             : 20-Nov-20
-black-fiction                 : 11-Oct-20
-self-improvement              : 07-Aug-20
-poetry                        : 23-Jun-20
-books-to-read-again           : 13-Feb-20
-eastern-fiction               : 07-Feb-20
-genetics                      : 02-Jan-20
-sports                        : 02-Jan-20
-product                       : 01-Dec-19
-black-biography               : 30-Oct-19
-process                       : 06-Jul-19
-indian-history                : 28-Aug-18
-kids                          : 30-Nov-17
-japanese-fiction              : 02-Jul-17
-design                        : 05-May-15
-marketing                     : 01-Jan-00
-:end:
-
-
-** Favorite authors
-
-#+begin_src shell :results drawer
-  ../item_recommender/recommend_book.py -a 30 tmp123.csv
-#+end_src
-
-#+RESULTS:
-:results:
-List of best authors:
-
-Peter Singer
-John Darwin
-Anthony Marra
-Patricia Highsmith
-P. G. Wodehouse
-Michael Korda
-Jonathan Haidt
-Mira Jacob
-David Ignatius
-Tania James
-J.K. Rowling
-Charles Cumming
-Alexander Soderberg
-John Sandford
-David Downing
-Jeffrey Archer
-Amitav Ghosh
-John Steinbeck
-Russell Banks
-Joseph Kanon
-David McCullough
-Richard Russo
-Yaa Gyasi
-Anthony Horowitz
-Linwood Barclay
-Tom DeMarco
-Graham Greene
-Kiran Nagarkar
-Jhumpa Lahiri
-Shyam Selvadurai
-:end:
-
-
-
-** Options
-
-#+begin_src shell :results drawer
-  ../item_recommender/recommend_book.py -h
-#+end_src
-
-#+RESULTS:
-:results:
-usage: recommend_book.py [-h] [-l] [-s NUM_READ_BOOKS]
-                         [-r NUM_RECOMMEND_BOOKS] [-a NUM_AUTHORS] [-g GENRE]
-                         [-ra AUTHOR]
-                         books_file
-
-Search for and recommend books using books_file. By default, show the 20 best
-books to read next.
-
-positional arguments:
-  books_file
-
-optional arguments:
-  -h, --help            show this help message and exit
-  -l, --list_genres
-  -s NUM_READ_BOOKS, --list_read_books NUM_READ_BOOKS
-  -r NUM_RECOMMEND_BOOKS, --recommend_books NUM_RECOMMEND_BOOKS
-  -a NUM_AUTHORS, --list_best_authors NUM_AUTHORS
-  -g GENRE, --restrict_by_genre GENRE
-  -ra AUTHOR, --restrict_by_author AUTHOR
-:end:

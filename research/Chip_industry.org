@@ -1,5 +1,5 @@
-#+Title:Chip industry
-#+FILETAGS: :Learning:Tech:Chips:
+#+Title: Chip industry
+#+FILETAGS: :Technology:Semiconductors:Chips:
 
 * PC chip industry
 
@@ -18,3 +18,17 @@
   Other competitors are ARM (Apple used ARM technology for its
   in-house chips) and Qualcomm which is making in-roads into the
   market with Snapdragon.
+
+
+* Relative sizes of market
+
+  In 2022, the units sold ever year are as follows.
+     - 1.5B smart phones (~150M smart-phones/OEM)
+     - 340M PCs/laptops
+     - 80M cars
+
+* TSMC
+
+  Every car has about 20 MCUs on average.
+  About 70% of all MCUs are manufactured by TSMC.
+  Yet, automotive chips are only 3% of TSMC revenue.
