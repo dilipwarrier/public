@@ -1,7 +1,6 @@
 #+Title: Notes on podcasts and other content from [[https://www.manager-tools.com/all-podcasts][Manager Tools]]
-#+FILETAGS: :Career:Manager:
 
-* Manager basics
+* Manager basics                                                    :Manager:
 
 
 ** One-on-ones
@@ -250,7 +249,7 @@
    of the trinity (feedback, coaching etc.)
 
 
-* New hires
+* New hires                                                         :Manager:
 
   A culture of effective professionalism must be taught, gaining it
   organically is slow and error-prone.
@@ -278,7 +277,7 @@
   and spend quality time with your family.
 
 
-* Leader's intent
+* Leader's intent                                                :Leadership:
 
   [[https://www.manager-tools.com/2015/08/leaders-intent-part-1-hall-fame-guidance][Link to podcast]]
 
@@ -385,7 +384,7 @@
   may seem of the same size but they are not.
 
 
-* Searching for a job
+* Searching for a job                                             :JobSearch:
 
 ** The big picture
 
@@ -425,26 +424,38 @@
 
    [[https://www.manager-tools.com/2020/10/open-opportunities][Podcast]]
 
-* Horstman's 3rd law of interviewing
+
+* Horstman's 3rd law of interviewing                              :JobSearch:
 
   "We'll take 90% less ability for 10% more attitude every day of the
-  week." This is an exaggerated claim but the correct intention.
+  week." This is an exaggerated claim but it is in the right spirit.
 
   People are hired for technical reasons and fired for personality
   reasons. Interviewing is a wasteful process but energy and
   enthusiasm expressed the right way are crucial.
 
-  Five (really six) behaviors to show energy.
+  Six behaviors to show energy.
 
   - Smiles :: Your smile must be the first thing the interviewer sees
     about you. This is the highest value behavior.
 
-  - Handshakes :: Make it energetic.
+  - Handshakes :: Make it energetic. Your webbing between the thumb
+    and forefinger should touch the other person's webbing.
 
-  Voice volume
-  Gestures
-  Postures
-  Laughs
+  - Voice volume :: Men should raise their volume slightly while
+    speaking. This allows them to have tonal changes more easily,
+    which in turn communicates energy and enthusiasm.
+
+  - Hand gestures :: These are extremely important as a measure of
+    energy. There is a gesture box (above the waist, below the
+    torso). Gestures inside the box are not useful. You want gestures
+    outside the box with fast and sharp responses.
+
+  - Postures :: Lean forward from the waist. This is a useful
+    gesture/posture. Do this at least twice in 30 min.
+
+  - Laughs :: Having a laugh or two (a self-deprecating moment etc.)
+    will create a relaxing moment.
 
   The good thing about behaviors is that they can be practised.
 
