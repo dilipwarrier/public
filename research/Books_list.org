@@ -81,7 +81,6 @@
 | The Woman in the Window                                                                                                                            | A. J. Finn                                    |           |            4.0 |            | 1/13/2018  | thriller                                  | to-read |
 | Fatherland                                                                                                                                         | Robert Harris                                 |           |            4.0 |            | 1/13/2018  | fiction                                   | to-read |
 | Life 3.0: Being Human in the Age of Artificial Intelligence                                                                                        | Max Tegmark                                   |           |            4.1 |            | 11/18/2017 | brain                                     | to-read |
-| Crossing Point                                                                                                                                     | James Glickman                                |           |            4.3 |            | 11/12/2017 | fiction                                   | to-read |
 | The Man Who Mistook His Wife for a Hat and Other Clinical Tales                                                                                    | Oliver Sacks                                  |           |            4.1 |            | 10/22/2017 | science                                   | to-read |
 | The Prague Sonata                                                                                                                                  | Bradford Morrow                               |           |            4.0 |            | 10/15/2017 | thriller                                  | to-read |
 | The Medici: Godfathers of the Renaissance                                                                                                          | Paul Strathern                                |           |            4.1 |            | 10/1/2017  | western-biography                         | to-read |
@@ -104,8 +103,9 @@
 | Economic Hierarchies, Organization and the Structure of Production                                                                                 | Gordon Tullock                                |           |            4.0 |            | 12/30/2014 | economics                                 | to-read |
 | Jesus' Son                                                                                                                                         | Denis Johnson                                 |           |            4.1 |            | 11/1/2014  | fiction                                   | to-read |
 | The whys of a political scrivener                                                                                                                  | Martin Gardner                                |           |            4.0 |            | 11/23/2013 | philosophy                                | to-read |
+| Crossing Point                                                                                                                                     | James Glickman                                |           |            4.3 |            | 11/12/2017 | fiction                                   | reading |
 | Strategic Management                                                                                                                               | Charles Hill, Gareth Jones, Melissa Schilling |           |            4.5 |            | 10/2/2019  | strategy, management, textbook            | reading |
-| Confessions                                                                                                                                        | Kanae Minato                                  |           |            4.1 |            | 8/16/2014  | thriller                                  | reading |
+| Confessions                                                                                                                                        | Kanae Minato                                  |         4 |            4.1 | 2/21/2022  | 8/16/2014  | thriller                                  | read    |
 | Your inner fish                                                                                                                                    | Neil Shubin                                   |         5 |            4.0 | 2/12/2022  | 12/04/2021 | biology                                   | read    |
 | Sync: the emerging science of social order                                                                                                         | Steven Strogatz                               |         2 |            4.0 | 1/27/2022  | 12/04/2021 | maths                                     | read    |
 | The dead are arising: The life of Malcolm X                                                                                                        | Les Payne                                     |         4 |            4.3 | 01/24/2022 | 3/20/2021  | black-biography                           | read    |
@@ -619,7 +619,7 @@
 ** Next reads
 
 #+begin_src shell :results drawer
-../item_recommender/recommend_book.py -r 20 -g fiction tmp123.csv
+../item_recommender/recommend_book.py -r 20 tmp123.csv
 #+end_src
 
 #+RESULTS:
@@ -627,20 +627,43 @@
 List of recommended books:
 
 Grandmaster of demonic cultivation                : Mo Xiang Tong Xiu    (4.6, chinese-fiction)
-Crossing Point                                    : James Glickman       (4.3, fiction)
+The Best Place to Work: The Art and Science of... : Ron Friedman         (4.2, management)
 Jesus' Son                                        : Denis Johnson        (4.1, fiction)
 Body and Soul                                     : Frank Conroy         (4.3, fiction)
+Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
+Compulsion                                        : Meyer Levin          (4.1, thriller)
+Magdalena: River of dreams                        : Wade Davis           (4.4, society)
 Tumbling                                          : Diane McKinney-...   (4.2, fiction)
-A different drummer                               : William Melvin...    (4.2, fiction)
-The Makioka Sisters                               : Junichiro Tanizaki   (4.0, japanese-fiction)
-Extremely Loud and Incredibly Close               : Jonathan Safran Foer (4.0, fiction)
-Behold the Dreamers                               : Imbolo Mbue          (4.0, african-fiction)
-A Fine Balance                                    : Rohinton Mistry      (4.4, indian-fiction,books-to-read-again)
-Fatherland                                        : Robert Harris        (4.0, fiction)
-Sum                                               : David Eagleman       (4.1, science-fiction)
-The overstory                                     : Richard Powers       (4.1, fiction)
-Oryx and Crake                                    : Margaret Atwood      (4.0, science-fiction)
-Winter Tide                                       : Ruthanna Emrys       (3.8, science-fiction)
+The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
+The huntress                                      : Kate Quinn           (4.3, thriller)
+Culture map                                       : Erin Meyer           (4.4, management)
+The Christmas Virtues: A Treasury of...           : Jonathan V. Last     (4.1, society)
+Five Families: The Rise, Decline, and...          : Selwyn Raab          (4.1, western-biography)
+Working backwards                                 : Colin Bryar, Bill... (4.4, management)
+The Art of Action                                 : Stephen Bungay       (4.3, management)
+Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
+Economic Hierarchies, Organization and the...     : Gordon Tullock       (4.0, economics)
+The Elephant in the Brain                         : Kevin Simler         (4.2, science)
+These women                                       : Ivy Pochoda          (4.3, thriller)
+The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society)
+:end:
+
+
+*** Next textbook to read
+
+#+begin_src shell :results drawer
+../item_recommender/recommend_book.py -r 5 -g textbook tmp123.csv
+#+end_src
+
+#+RESULTS:
+:results:
+List of recommended books:
+
+Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
+Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
+Bayesian data analysis                            : Bruce Gelman         (4.2, maths,textbook)
+Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
+Knowledge, reality and value                      : Michael Huemer       (4.1, philosophy,textbook)
 :end:
 
 
@@ -654,6 +677,7 @@ Winter Tide                                       : Ruthanna Emrys       (3.8, s
 :results:
 List of read books:
 
+Confessions                                       : Kanae Minato         (21-Feb-22, 4.0)
 Your inner fish                                   : Neil Shubin          (12-Feb-22, 5.0)
 Sync: the emerging science of social order        : Steven Strogatz      (27-Jan-22, 2.0)
 The dead are arising: The life of Malcolm X       : Les Payne            (24-Jan-22, 4.0)
@@ -703,7 +727,6 @@ A Peace to End All Peace: The Fall Of The...      : David Fromkin        (10-Jan
 Old Man's War (Old Man's War, #1)                 : John Scalzi          (05-Jan-21, 4.0)
 The War That Ended Peace: The Road to 1914        : Margaret MacMillan   (27-Dec-20, 5.0)
 Identical                                         : Scott Turow          (25-Dec-20, 3.0)
-The wrong side of goodbye                         : Michael Connelly     (16-Dec-20, 4.0)
 :end:
 
 
@@ -717,15 +740,21 @@ The wrong side of goodbye                         : Michael Connelly     (16-Dec
 #+RESULTS:
 :results:
 List of categories and read-dates:
-software                      : 19-Dec-21
-engineering                   : 19-Dec-21
+textbook                      : 25-Feb-22
+fiction                       : 25-Feb-22
+management                    : 25-Feb-22
+strategy                      : 25-Feb-22
+thriller                      : 21-Feb-22
+biology                       : 12-Feb-22
+maths                         : 27-Jan-22
+black-biography               : 24-Jan-22
+software                      : 15-Jan-22
+engineering                   : 15-Jan-22
+western-biography             : 12-Jan-22
+physics                       : 25-Dec-21
+western-history               : 18-Dec-21
 espionage                     : 18-Dec-21
-fiction                       : 07-Dec-21
 black-history                 : 26-Nov-21
-thriller                      : 22-Nov-21
-maths                         : 20-Nov-21
-textbook                      : 20-Nov-21
-biology                       : 12-Nov-21
 science                       : 10-Oct-21
 eastern-biography             : 30-Sep-21
 eastern-history               : 22-Sep-21
@@ -734,15 +763,11 @@ economics                     : 10-Aug-21
 philosophy                    : 25-Jul-21
 society                       : 26-Jun-21
 brain                         : 10-May-21
-management                    : 20-Apr-21
-strategy                      : 20-Apr-21
-western-history               : 05-Apr-21
 indian-fiction                : 13-Feb-21
 indian-society                : 12-Jan-21
 science-fiction               : 05-Jan-21
 african-fiction               : 11-Dec-20
 scandinavian-thriller         : 25-Nov-20
-western-biography             : 20-Nov-20
 black-fiction                 : 11-Oct-20
 self-improvement              : 07-Aug-20
 poetry                        : 23-Jun-20
@@ -751,12 +776,12 @@ eastern-fiction               : 07-Feb-20
 genetics                      : 02-Jan-20
 sports                        : 02-Jan-20
 product                       : 01-Dec-19
-black-biography               : 30-Oct-19
 process                       : 06-Jul-19
 indian-history                : 28-Aug-18
 kids                          : 30-Nov-17
 japanese-fiction              : 02-Jul-17
 design                        : 05-May-15
+chinese-fiction               : 01-Jan-00
 marketing                     : 01-Jan-00
 :end:
 
@@ -802,7 +827,6 @@ Kiran Nagarkar
 Jhumpa Lahiri
 Shyam Selvadurai
 :end:
-
 
 
 ** Options

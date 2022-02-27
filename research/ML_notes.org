@@ -32,7 +32,7 @@
 * Task list                                                        :Learning:
 
 
-** TODO Read [[https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/][Nvidia blog]] on MLOps
+** DONE Read [[https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/][Nvidia blog]] on MLOps
    :PROPERTIES:
    :Effort:   00:30
    :END:

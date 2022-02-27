@@ -55,7 +55,7 @@ guidelines on improving the overall remote co-working experience.
 
 
 *** TODO Setup Slido for questions and post-meeting survey to be submitted in town hall
-    SCHEDULED: <2022-02-23 Wed 08:00>
+    SCHEDULED: <2022-03-02 Wed 08:00>
 
 
 *** DONE Setup food if needed for town hall
@@ -63,7 +63,7 @@ guidelines on improving the overall remote co-working experience.
 
 
 *** TODO Setup updates and prep financial information slides for town hall
-    SCHEDULED: <2022-02-22 Tue 08:00>
+    SCHEDULED: <2022-03-01 Tue 08:00>
 
 
 *** TODO Answer questions left-over from town hall

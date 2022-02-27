@@ -296,7 +296,7 @@
 ** Manager tools: Good judgement comes from experience, experience comes from bad judgement. :quotes:
 
 
-* My direct is resigning
+* My direct is resigning                                            :Manager:
 
    [[https://www.manager-tools.com/2014/10/my-direct-resigning-chapter-1-never-counter-offer-part-1-hall-fame-guidance][Podcast link]]
 
@@ -359,7 +359,7 @@
    this. This is especially true for big companies.
 
 
-* Managing your time
+* Managing your time                                                :Manager:
 
   You don't manage your time, you manage your priorities.
 
@@ -461,3 +461,52 @@
 
   An interview is a sales opportunity. It's not unethical - don't
   assume that you cannot be authentic while practising this behavior.
+
+* Mentoring                                                          :Career:
+
+  [[https://www.manager-tools.com/2006/06/basics-mentoring-part-1-2][Podcast link]]
+
+  The mentor-mentee relationship is a 2-person relation. When
+  Corporate HR gets involved, the value can be diluted. It's better
+  for you to manage that relationship yourself.
+
+  Later in your life, you may want a personal board of directors.
+
+  - Choose someone whom you admire who will be helpful in achieving
+    your goals. Your boss cannot be your mentor. In a big company, you
+    can find a mentor within.
+
+    Decide what your goals are, before you approach a mentor.
+
+  - Decide how long the relation will last. It shouldn't last any more
+    than 3 years. It shouldn't be for a short period of the order of
+    weeks. It shouldn't be for specific challenges you face right now,
+    such as getting a promotion etc.
+
+  - Make a specific ask to someone to be your mentor. Specify the time
+    commitment. Nominally, this may be quarterly in-person meetings
+    with periodic phone/email conversations. You have to trust your
+    mentor and open up to feedback. You should be ready to share
+    details with them that you would not share with your boss, both on
+    the professional and personal level.
+
+    You are responsible for the operational part e.g. scheduling
+    meetings, sending information for pre-reads, rescheduling as
+    necessary etc.
+
+  - For the first meeting, have a resume, performance evaluations,
+    key projects etc. Set an agenda. Mix professional and personal
+    e.g. a one hour meeting in the office on the professional topics
+    followed by a lunch outside to get to know each other personally:
+    family, life goals etc.
+
+  - Don't try to educate your mentor
+    on the feedback model etc., just take feedback as they give
+    you. Listen to the feedback, take notes, make changes.
+
+    Ask specific questions so that you are respectful of their
+    time. Make sure you close the loop on guidance they have given
+    you. e.g. "Help me learn from what just happened".
+
+    Hand-written thank-you notes are the gold standard of saying
+    thanks.
