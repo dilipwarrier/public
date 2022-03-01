@@ -91,4 +91,6 @@ guidelines on improving the overall remote co-working experience.
 ** TODO Work on asynchronous comm document                         :Learning:
    :PROPERTIES:
    :Effort:   01:00
+   :Benefit:  10
+   :Ratio: 0.1
    :END:

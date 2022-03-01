@@ -1,4 +1,5 @@
 #+Title: Notes on podcasts and other content from [[https://www.manager-tools.com/all-podcasts][Manager Tools]]
+#+Filetags: :ManagerTools:
 
 * Manager basics                                                    :Manager:
 

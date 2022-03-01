@@ -1,0 +1,38 @@
+#+Title: Business model generation by Alex Osterwalder et al
+#+Filetags: :BookNotes:Management:
+
+* Business model canvas
+
+  A business model describes the rationale of how an organization
+  creates, delivers and captures value.
+
+  The building blocks of a business model are as follows.
+
+
+** Customer segments
+
+   An organization may serve one or several small or large customer
+   segments. Separate customer segments may be formed if that segment
+   needs distinc products, are reached through different channels,
+   require different relationships, have different profitabilities or
+   revenues.
+
+
+** Value propositions
+
+   There may be many value propositions that an organization provides
+   e.g. newness i.e. products that haven't existed before, brand
+   i.e. value in the act of using a brand, design etc. Accessibility
+   can be a good value proposition. For instance, mutual funds allow
+   investors with modest investments to have access to a wider range of
+   stocks than previously possible.
+
+
+** Channels (for communication, distribution and sales)
+
+  - Customer relationships
+  - Revenue streams
+  - Key resources
+  - Key activities
+  - Key partnerships
+  - Cost structure

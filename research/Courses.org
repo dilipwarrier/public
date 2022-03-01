@@ -1,5 +1,5 @@
-#+Title: Notes on Machine Learning/AI/Data Science
-#+FILETAGS: :ML:
+#+Title: Lists of possible courses
+#+FILETAGS: :Learning:
 
 * Useful Coursera courses
 
@@ -12,6 +12,9 @@
    AWS machine learning
 
    Bayesian Statistics: From Concept to Data Analysis
+
+   MLOps
+
 
 ** Specializations
 
@@ -29,16 +32,8 @@
    + Big data
 
 
-* Task list                                                        :Learning:
+* MIT courses
 
+  - [[https://executive.mit.edu/course/business-model-innovation-for-organizational-transformation/a056g00000URaabAAD.html][Business model innovation]]
 
-** DONE Read [[https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/][Nvidia blog]] on MLOps
-   :PROPERTIES:
-   :Effort:   00:30
-   :END:
-
-
-** TODO Decide whether to do Coursera MLOps class
-   :PROPERTIES:
-   :Effort:   00:15
-   :END:
+  - [[https://executive.mit.edu/executive-certificate][MIT Exec certificate programs]]
