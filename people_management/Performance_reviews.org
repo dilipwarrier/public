@@ -1,5 +1,5 @@
 #+Title: Automatic setup of performance review steps
-#+FILETAGS: :Bose:Manager:
+#+FILETAGS: :Manager:
 
 * Performance reviews
 
@@ -19,7 +19,8 @@ this note, we setup the tasks that need to be executed in each cycle.
    - State "DONE"       from "TODO"       [2021-09-01 Wed 11:59]
    - State "DONE"       from "TODO"       [2021-09-01 Wed 11:59]
 
-** TODO Create tasks for directs to update and submit Workday goals and development plan
+
+** TODO Create tasks for directs to update and submit goals and development plan
    SCHEDULED: <2022-03-08 Tue +3m>
    :PROPERTIES:
    :LAST_REPEAT: [2021-12-10 Fri 16:24]
@@ -29,6 +30,7 @@ this note, we setup the tasks that need to be executed in each cycle.
    - State "DONE"       from "TODO"       [2021-09-08 Wed 07:47]
    - State "DONE"       from "TODO"       [2021-09-08 Wed 07:47]
 
+
 ** TODO Request quick feedback on directs from peers
    SCHEDULED: <2022-03-16 Wed +3m>
    :PROPERTIES:
@@ -37,6 +39,7 @@ this note, we setup the tasks that need to be executed in each cycle.
 
    - State "DONE"       from "TODO"       [2021-12-16 Thu 09:14]
    - State "DONE"       from "TODO"       [2021-09-16 Thu 16:23]
+
 
 ** TODO Complete my quarterly performance review
    SCHEDULED: <2022-04-25 Mon +3m>

@@ -22,69 +22,6 @@ guidelines on improving the overall remote co-working experience.
 * Synchronous and asynchronous communication
 
 
-* Town hall meetings
-
-  Town hall meetings are a good way to broadcast information, discuss
-  financial results, have detailed Q&A etc. I conduct town halls once
-  every quarter.
-
-
-** Task list for town hall meetings [3/9]
-
-#+NAME: town_hall_tasks
-|--------------------------------------------------------------------------------+-----|
-| Ask team to setup games/puzzles etc. for town hall                             | -21 |
-| Ask someone to give spotlight presentation in town hall                        | -21 |
-| Setup Slido for questions and post-meeting survey to be submitted in town hall | -14 |
-| Setup food if needed for town hall                                             | -14 |
-| Setup updates and prep financial information slides for town hall              |  -7 |
-| Answer questions left-over from town hall                                      |  +1 |
-| Give recognition for good questions and game organizers in town hall           |  +7 |
-| Release post-meeting survey results from town hall                             |  +7 |
-| Setup tasks for next town hall meeting date                                    |  +7 |
-|--------------------------------------------------------------------------------+-----|
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2022-03-01", task_time="08:00")
-
-#+RESULTS:
-*** DONE Ask team to setup games/puzzles etc. for town hall
-    SCHEDULED: <2022-02-08 Tue 08:00>
-
-
-*** DONE Ask someone to give spotlight presentation in town hall
-    SCHEDULED: <2022-02-08 Tue 08:00>
-
-
-*** TODO Setup Slido for questions and post-meeting survey to be submitted in town hall
-    SCHEDULED: <2022-03-02 Wed 08:00>
-
-
-*** DONE Setup food if needed for town hall
-    SCHEDULED: <2022-02-15 Tue 08:00>
-
-
-*** TODO Setup updates and prep financial information slides for town hall
-    SCHEDULED: <2022-03-01 Tue 08:00>
-
-
-*** TODO Answer questions left-over from town hall
-    SCHEDULED: <2022-03-02 Wed 08:00>
-
-
-*** TODO Give recognition for good questions and game organizers in town hall
-    SCHEDULED: <2022-03-08 Tue 08:00>
-
-
-*** TODO Release post-meeting survey results from town hall
-    SCHEDULED: <2022-03-08 Tue 08:00>
-
-
-*** TODO Setup tasks for next town hall meeting date
-    SCHEDULED: <2022-03-08 Tue 08:00>
-
-
-
-
-
 * Task list
 
 
