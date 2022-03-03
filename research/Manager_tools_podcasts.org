@@ -463,6 +463,7 @@
   An interview is a sales opportunity. It's not unethical - don't
   assume that you cannot be authentic while practising this behavior.
 
+
 * Mentoring                                                          :Career:
 
   [[https://www.manager-tools.com/2006/06/basics-mentoring-part-1-2][Podcast link]]
@@ -511,3 +512,16 @@
 
     Hand-written thank-you notes are the gold standard of saying
     thanks.
+
+* Planning for getting laid off                                      :Career:
+
+  [[https://www.manager-tools.com/2007/11/getting-laid-off-finances-rule][Finances rule podcast]]
+
+  Layoffs and firing are a fact of corporate life in every industry
+  and at every level. Getting fired can be a liberating experience; you just go find
+  another job. However, you need to prepare in advance.
+
+  Cardinal rule: get 6 months of liquidity in your personal finances now! You need to
+  be prepared for a period of not finding the next job. That way, you
+  remove the stress of worrying about cash flow and can focus on the
+  job search.
