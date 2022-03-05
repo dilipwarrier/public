@@ -1,0 +1,37 @@
+#+Title: Data on car batteries
+
+The [[https://cleantechnica.com/2018/09/29/nissans-long-strange-trip-with-leaf-batteries/][Nissan Leaf]] has had problems with the battery, especially in hot
+conditions. The older battery models don't have a Thermal Management
+System (TMS).
+
+* [[https://ihsmarkit.com/topic/IEBAutoTech.html#video-9-container][Battery technology trends]] - Youmin Rong, IHS Markit
+
+  [[file:research/Screenshot 2022-03-04 144459.jpg][Automotive market]] is dominant for lithium ion batteries.
+
+  Important factors for batteries are [[file:research/Screenshot 2022-03-05 141417.jpg][energy density]], power density, life span, cost and
+  safety.
+
+  The aim is to reduce cobalt usage in battery cathodes. [[file:research/Screenshot 2022-03-05 141932.jpg][Nickel]] is used
+  quite a bit.
+
+  The next generation technology is solid state. [[file:research/Screenshot 2022-03-05 142245.jpg][Lithium metal anode]] may
+  still be required though for high energy density. However, you lose
+  the lithium metal during discharge and get it back during charging.
+
+  The advantages of solid state are higher energy density and improved
+  safety because there is no flammable liquid. However, the lithium metal may
+  increase costs.
+
+  Various OEMs have different strategies for [[file:research/Screenshot 2022-03-05 142658.jpg][energy density]]. Lithium
+  metal anodes have the highest energy density (350-500 Wh/kg) while
+  Gr/Si anodes have 250-300 Wh/kg.
+
+  Status of some solid-state [[file:research/Screenshot 2022-03-05 143119.jpg][battery startups]].
+
+  [[file:research/Screenshot 2022-03-05 143328.jpg][Integrations]] and coalitions.
+
+  Toyota is the world leader in patents on solid-state batteries.
+
+* Battery [[https://www.youtube.com/watch?v=s3HPdv9iD00][thermal management system]] design - MathWorks
+
+  [[file:research/Screenshot 2022-03-05 171057.jpg][Lifetime trend]]
