@@ -1,6 +1,8 @@
 #+Title: Notes on podcasts and other content from [[https://www.manager-tools.com/all-podcasts][Manager Tools]]
 #+Filetags: :ManagerTools:
 
+[[https://roadmap.manager-tools.com/home][Roadmap site]]
+
 * Manager basics                                                    :Manager:
 
 
@@ -385,6 +387,28 @@
   may seem of the same size but they are not.
 
 
+* Creating an effective resume                                    :JobSearch:
+
+  Update your resume once every quarter
+
+  Resume does not need to include a statement of purpose.
+
+  For each job, list the responsibilities and accomplishments.
+
+
+* Cover letter                                                    :JobSearch:
+
+  Three paragraphs:
+  - First, state your interest and the position you are interested
+    in, where you saw it and who referred you within the company
+
+  - Second, describe how your experience will help the company match
+    its objectives. Do this by matching some of the items in the job
+    description with accomplishments in your resume
+
+  - Third, promise to follow up with a phone call
+
+
 * Searching for a job                                             :JobSearch:
 
 ** The big picture
@@ -426,42 +450,118 @@
    [[https://www.manager-tools.com/2020/10/open-opportunities][Podcast]]
 
 
-* Horstman's 3rd law of interviewing                              :JobSearch:
+* Interviewing                                                    :JobSearch:
 
-  "We'll take 90% less ability for 10% more attitude every day of the
-  week." This is an exaggerated claim but it is in the right spirit.
+** Horstman's 3rd law
 
-  People are hired for technical reasons and fired for personality
-  reasons. Interviewing is a wasteful process but energy and
-  enthusiasm expressed the right way are crucial.
+   "We'll take 90% less ability for 10% more attitude every day of the
+   week." This is an exaggerated claim but it is in the right spirit.
 
-  Six behaviors to show energy.
+   People are hired for technical reasons and fired for personality
+   reasons. Interviewing is a wasteful process but energy and
+   enthusiasm expressed the right way are crucial.
 
-  - Smiles :: Your smile must be the first thing the interviewer sees
-    about you. This is the highest value behavior.
+   Six behaviors to show energy.
 
-  - Handshakes :: Make it energetic. Your webbing between the thumb
-    and forefinger should touch the other person's webbing.
+   - Smiles :: Your smile must be the first thing the interviewer sees
+     about you. This is the highest value behavior.
 
-  - Voice volume :: Men should raise their volume slightly while
-    speaking. This allows them to have tonal changes more easily,
-    which in turn communicates energy and enthusiasm.
+   - Handshakes :: Make it energetic. Your webbing between the thumb
+     and forefinger should touch the other person's webbing.
 
-  - Hand gestures :: These are extremely important as a measure of
-    energy. There is a gesture box (above the waist, below the
-    torso). Gestures inside the box are not useful. You want gestures
-    outside the box with fast and sharp responses.
+   - Voice volume :: Men should raise their volume slightly while
+     speaking. This allows them to have tonal changes more easily,
+     which in turn communicates energy and enthusiasm.
 
-  - Postures :: Lean forward from the waist. This is a useful
-    gesture/posture. Do this at least twice in 30 min.
+   - Hand gestures :: These are extremely important as a measure of
+     energy. There is a gesture box (above the waist, below the
+     torso). Gestures inside the box are not useful. You want gestures
+     outside the box with fast and sharp responses.
 
-  - Laughs :: Having a laugh or two (a self-deprecating moment etc.)
-    will create a relaxing moment.
+   - Postures :: Lean forward from the waist. This is a useful
+     gesture/posture. Do this at least twice in 30 min.
 
-  The good thing about behaviors is that they can be practised.
+   - Laughs :: Having a laugh or two (a self-deprecating moment etc.)
+     will create a relaxing moment.
 
-  An interview is a sales opportunity. It's not unethical - don't
-  assume that you cannot be authentic while practising this behavior.
+   The good thing about behaviors is that they can be practised.
+
+   An interview is a sales opportunity. It's not unethical - don't
+   assume that you cannot be authentic while practising this behavior.
+
+
+** Introduction
+
+   Energy, energy, energy. Pump yourself up in prep!
+
+   Be aware of news about the company, about the local area and
+   national news in general so that you can talk about it if needed.
+
+   Make your handshakes energetic (see guidance above).
+
+
+** "Tell me about yourself"
+
+   Be able to give a 3-4 minute overview of your career.
+
+   If education was a key part of your life, you should highlight
+   it. Remember that you are selling yourself as a candidate and you
+   want to make the best impression possible.
+
+
+** Significant accomplishments
+
+   Behavioral interview: ask about past accomplishments because the
+   past is the best predictor of the future. Don't ask how the
+   candidate will address future problems; they will give you the
+   answer you want to hear.
+
+   This is the single most important section of the interview.
+
+   In prep, make a list of your accomplishments. For each
+   accomplishment, tag it with traits/skills like leadership,
+   problem-solving etc. Then, be aware of all accomplishments under
+   the leadership trait, etc.
+
+   Avoid narrating a chronological sequence of events.
+
+   Make sure you start a short description of your accomplishment with one
+   sentence. Then, elaborate! For instance, "Here's how I achieved it..."
+
+
+** Your turn to ask questions
+
+   Have 3-5 questions memorized
+
+   Make the questions specific
+
+   Think on your feet and ask questions related to the conversation
+   you just had. Such questions might take the form "Could you please
+   expand on...?"
+
+   Ask questions with broad answers and not specific answers
+
+   Don't ask about the company, the industry and benefits
+
+
+** Closing
+
+   "Mike, I want an offer and here's why..."
+
+
+** Follow-up
+
+   Hand-written note if possible. Polite e-mail/phone call every week
+   for up to 15 weeks.
+
+
+** Compensation
+
+   Do research on your expected salary and state it at the
+   beginning. Don't bring it up again until you have an offer. You may
+   negotiate after you have the offer but be careful! It's often not
+   worth it. You want to maintain good relations with the people who
+   you will be working with later.
 
 
 * Mentoring                                                          :Career:
@@ -513,7 +613,8 @@
     Hand-written thank-you notes are the gold standard of saying
     thanks.
 
-* Planning for getting laid off                                      :Career:
+
+* Planning for layoffs                                               :Career:
 
   [[https://www.manager-tools.com/2007/11/getting-laid-off-finances-rule][Finances rule podcast]]
 
