@@ -47,7 +47,7 @@ start_date (default is the date when the code is executed).
               continue
 
       task_date = start_date + datetime.timedelta(days = delta)
-      print("*** TODO %s\n    SCHEDULED: <%s %s>\n\n" % (t[0], task_date.strftime("%Y-%m-%d %a"), task_time))
+      print(("*** TODO %s\n    SCHEDULED: " + "<" + "%s %s>\n\n") % (t[0], task_date.strftime("%Y-%m-%d %a"), task_time))
 #+END_SRC
 
 
