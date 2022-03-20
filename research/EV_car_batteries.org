@@ -32,6 +32,7 @@ System (TMS).
 
   Toyota is the world leader in patents on solid-state batteries.
 
+
 * Battery [[https://www.youtube.com/watch?v=s3HPdv9iD00][thermal management system]] design - MathWorks
 
   [[file:research/Screenshot 2022-03-05 171057.jpg][Lifetime trend]]
