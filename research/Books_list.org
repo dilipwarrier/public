@@ -75,7 +75,7 @@
 | The 7 habits of highly effective people | Stephen Covey |     | 4.1 |            | 1/20/2019  | self-improvement | to-read  |
 | This Is Marketing: You Can't Be Seen Until You Learn to See | Seth Godin |     | 4.1 |            | 11/18/2018 | marketing, management | to-read  |
 | The Scramble for Africa: The White Man's Conquest of the Dark Continent from 1876 to 1912 | Thomas Pakenham |     | 4.1 |            | 8/15/2018  | eastern-history | to-read  |
-| The Elephant in the Brain | Kevin Simler |     | 4.2 |            | 7/30/2018  | science    | to-read  |
+| The Elephant in the Brain | Kevin Simler |     | 4.2 |            | 7/30/2018  | brain      | to-read  |
 | Body and Soul             | Frank Conroy |     | 4.3 |            | 5/13/2018  | fiction    | to-read  |
 | The Far Empty             | J. Todd Scott |     | 4.0 |            | 3/18/2018  | thriller   | to-read  |
 | Freshwater                | Akwaeke Emezi |     | 4.0 |            | 2/11/2018  | thriller   | to-read  |
@@ -105,8 +105,9 @@
 | Jesus' Son                | Denis Johnson |     | 4.1 |            | 11/1/2014  | fiction    | to-read  |
 | The whys of a political scrivener | Martin Gardner |     | 4.0 |            | 11/23/2013 | philosophy | to-read  |
 | Tumbling                  | Diane McKinney-Whetstone |     | 4.2 |            | 4/5/2017   | fiction    | reading  |
-| Strategic Management      | Charles Hill, Gareth Jones, Melissa Schilling |     | 4.5 |            | 10/2/2019  | strategy, management, textbook | reading  |
 | Business model generation | Alex Osterwalder |     | 4.2 |            | 02/27/2022 | management | reading  |
+| The elegant universe      | Brian Greene |     | 4.1 |            | 3/20/2022  | physics    | reading  |
+| Strategic Management      | Charles Hill, Gareth Jones, Melissa Schilling |   5 | 4.5 | 3/22/2022  | 10/2/2019  | strategy, management, textbook | read     |
 | Confessions               | Kanae Minato |   4 | 4.1 | 2/21/2022  | 8/16/2014  | thriller   | read     |
 | Your inner fish           | Neil Shubin |   5 | 4.0 | 2/12/2022  | 12/04/2021 | biology    | read     |
 | Sync: the emerging science of social order | Steven Strogatz |   2 | 4.0 | 1/27/2022  | 12/04/2021 | maths      | read     |
@@ -594,6 +595,7 @@
 | Programming Perl          | Tom Christiansen |   5 | 4.0 | 1/15/2003  | 11/4/2011  | software   | read     |
 | The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business | Clayton M. Christensen |   5 | 4.0 | 1/1/2003   | 11/22/2011 | product    | read     |
 |---------------------------+------------+-----+-----+------------+------------+------------+----------|
+#+TBLFM:
 
 
 * Sources for book recommendations

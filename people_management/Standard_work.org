@@ -23,6 +23,7 @@
     product planning and publish list of projects for the next quarter
     for the team.
 
+
 * Town hall meetings
 
   Town hall meetings are a good way to broadcast information, discuss
@@ -44,4 +45,5 @@
 | Release post-meeting survey results from town hall                             |  +7 |
 | Setup tasks for next town hall meeting date                                    |  +7 |
 |--------------------------------------------------------------------------------+-----|
+
 #+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2022-03-01", task_time="08:00")

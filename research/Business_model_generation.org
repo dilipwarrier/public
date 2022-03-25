@@ -6,16 +6,16 @@
   A business model describes the rationale of how an organization
   creates, delivers and captures value.
 
-  The building blocks of a business model are as follows.
+  The [[file:Screenshot 2022-03-23 151920.jpg][building blocks]] of a business model are as follows.
 
 
 ** Customer segments
 
    An organization may serve one or several small or large customer
    segments. Separate customer segments may be formed if that segment
-   needs distinc products, are reached through different channels,
+   needs distinct products, are reached through different channels,
    require different relationships, have different profitabilities or
-   revenues.
+   different revenues.
 
 
 ** Value propositions
@@ -27,12 +27,47 @@
    investors with modest investments to have access to a wider range of
    stocks than previously possible.
 
+   See Osterwalder's [[https://www.youtube.com/watch?v%3DReM1uqmVfP0&ab_channel%3DStrategyzer][value proposition canvas]] for more.
+
 
 ** Channels (for communication, distribution and sales)
 
-  - Customer relationships
-  - Revenue streams
-  - Key resources
-  - Key activities
-  - Key partnerships
-  - Cost structure
+   Companies should use a mix of owned channels and partner
+   channels to reach their customers. The channel strategy should be
+   integrated across [[file:Screenshot 2022-03-23 110022.jpg][all types of channels]] to reach the right customer
+   mix.
+
+
+** Customer relationships
+
+   Customers may look for a varied extent of customer relations
+   e.g. self-service, dedicated personal assistance, communities,
+   co-creation etc.
+
+
+** Revenue streams
+
+
+** Key resources
+
+   What key resources will the company use to support the business
+   model? e.g. intellectual property, brand, people etc.
+
+   See also discussion of the VRIO resource framework in the
+   Strategic Management textbook.
+
+
+** Key activities
+
+
+** Key partnerships
+
+   Who are the key suppliers, co-creators etc.? Who provides key
+   resources for your firm?
+
+
+** Cost structure
+
+   What are the key cost drivers? Is your firm a high-value
+   proposition like exclusive hotels or is it a cost effective
+   proposition?

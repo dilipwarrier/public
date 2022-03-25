@@ -3,7 +3,27 @@
 
 [[https://roadmap.manager-tools.com/home][Roadmap site]]
 
-[[https://drive.google.com/file/d/11EE5LYTqOXHLssYnScXwgrpfcRZFVyQ3/view?usp%3Dsharing][DISC profile]]
+* Using the DISC profile                                               :DISC:
+
+  [[https://drive.google.com/file/d/11EE5LYTqOXHLssYnScXwgrpfcRZFVyQ3/view?usp%3Dsharing][My DISC profile - high C]]
+
+  DISC elaborates on "how you behave when you're not thinking about
+  how you behave".
+
+  Dominant, Influencing, Supportive, Conscientious (DISC)
+
+  High Ds tend to be leaders, brash. Feedback to them should be about
+  how others will value them less as leaders.
+
+  High Is tend to be sales-y folks, eager to please and
+  influence. Feedback should be about how other people may choose not
+  to work in a team with them.
+
+  High Ss tend to be less assertive and team-oriented. Feedback should
+  be about how their behavior makes the team less successful.
+
+  High Cs tend to be very diligent and process-driven. Feedback should
+  be about how their behaviors makes them less effective.
 
 
 * Manager basics                                                    :Manager:
@@ -484,6 +504,25 @@
    [[https://www.manager-tools.com/2007/11/how-to-prewire-a-meeting%0A][Podcast link]]
 
 
+* Decision making                                                   :Manager:
+
+  Once you make a choice, the work is not done. Decisions comprise of
+  making a choice, communicating it and managing its implementation.
+
+  Executives cannot make a choice and then walk away and let others take
+  care of the details. Ideas are important but not enough.
+
+  Drucker: "No decision has been made unless carrying it out in
+  specific steps has become someone's work assignment and
+  responsibility. Until then there are only good intentions."
+
+  For example, you can make a choice to invest more in Asia. However,
+  you have to then decide how to plan that work.
+
+  Individuals complete tasks, managers assign tasks, executives assign
+  people. They decide "who will do what, by when".
+
+
 * Creating an effective resume                                    :JobSearch:
 
   Update your resume once every quarter
@@ -727,26 +766,7 @@
   job search.
 
 
-* Decision making                                                   :Manager:
-
-  Once you make a choice, the work is not done. Decisions comprise of
-  making a choice, communicating it and managing its implementation.
-
-  Executives cannot make a choice and then walk away and let others take
-  care of the details. Ideas are important but not enough.
-
-  Drucker: "No decision has been made unless carrying it out in
-  specific steps has become someone's work assignment and
-  responsibility. Until then there are only good intentions."
-
-  For example, you can make a choice to invest more in Asia. However,
-  you have to then decide how to plan that work.
-
-  Individuals complete tasks, managers assign tasks, executives assign
-  people. They decide "who will do what, by when".
-
-
-* Executive waypoint                                                :Manager:
+* Executive waypoint                                              :Executive:
 
   Have conversations and prepare notes from manager, stakeholders,
   loved ones, customers: ask them what your goals should be, ask them
@@ -786,3 +806,20 @@
 
   Important next step: Plan out a set of tasks for each of the 3
   goals.
+
+
+* Purpose of the organization                                     :Executive:
+
+  A promotion to a CEO is the most significant promotion. Going from
+  #2 to CEO is like the change from dating someone to marrying
+  someone. It's an order of magnitude increase.
+
+  The higher up you are, the more your butt is exposed!
+
+  An executive exists only to serve the purpose of the organization,
+  not to serve one's own purposes. In fact, an executive's role is not
+  even to serve their own group/organization; their role is to serve
+  the entire organization. Executives usually are responsible for
+  results outside the organization.
+
+  A manager who is promoted to an executive has to shift focus

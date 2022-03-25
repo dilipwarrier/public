@@ -2,7 +2,7 @@
 
 * Convert Org table to csv file for analysis
 
-#+Name: convert_org_tbl_to_csv
+#+NAME: convert_org_tbl_to_csv
 #+begin_src python :results output :var outfile="temp123.csv"
   # Write the useful rows from an Org table into a CSV file
   import re
