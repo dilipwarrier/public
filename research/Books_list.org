@@ -632,12 +632,12 @@ List of recommended books:
 
 Grandmaster of demonic cultivation                : Mo Xiang Tong Xiu    (4.6, chinese-fiction)
 The Best Place to Work: The Art and Science of... : Ron Friedman         (4.2, management)
+Crossing Point                                    : James Glickman       (4.3, fiction)
 Jesus' Son                                        : Denis Johnson        (4.1, fiction)
 Body and Soul                                     : Frank Conroy         (4.3, fiction)
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Compulsion                                        : Meyer Levin          (4.1, thriller)
 Magdalena: River of dreams                        : Wade Davis           (4.4, society)
-Tumbling                                          : Diane McKinney-...   (4.2, fiction)
 The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
 The huntress                                      : Kate Quinn           (4.3, thriller)
 Culture map                                       : Erin Meyer           (4.4, management)
@@ -647,9 +647,9 @@ Working backwards                                 : Colin Bryar, Bill... (4.4, m
 The Art of Action                                 : Stephen Bungay       (4.3, management)
 Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
 Economic Hierarchies, Organization and the...     : Gordon Tullock       (4.0, economics)
-The Elephant in the Brain                         : Kevin Simler         (4.2, science)
+The Elephant in the Brain                         : Kevin Simler         (4.2, brain)
+Models of the mind                                : Grace Lindsay        (4.4, brain)
 These women                                       : Ivy Pochoda          (4.3, thriller)
-The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society)
 :end:
 
 
@@ -681,6 +681,7 @@ Knowledge, reality and value                      : Michael Huemer       (4.1, p
 :results:
 List of read books:
 
+Strategic Management                              : Charles Hill,...     (22-Mar-22, 5.0)
 Confessions                                       : Kanae Minato         (21-Feb-22, 4.0)
 Your inner fish                                   : Neil Shubin          (12-Feb-22, 5.0)
 Sync: the emerging science of social order        : Steven Strogatz      (27-Jan-22, 2.0)
@@ -730,7 +731,6 @@ Emperor of Japan: Meiji and his world             : Gordon Keene         (10-Jan
 A Peace to End All Peace: The Fall Of The...      : David Fromkin        (10-Jan-21, 3.0)
 Old Man's War (Old Man's War, #1)                 : John Scalzi          (05-Jan-21, 4.0)
 The War That Ended Peace: The Road to 1914        : Margaret MacMillan   (27-Dec-20, 5.0)
-Identical                                         : Scott Turow          (25-Dec-20, 3.0)
 :end:
 
 
