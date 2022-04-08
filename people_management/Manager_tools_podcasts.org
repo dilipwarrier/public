@@ -1,14 +1,20 @@
 #+Title: Notes on podcasts and other content from [[https://www.manager-tools.com/all-podcasts][Manager Tools]]
 #+Filetags: :ManagerTools:
 
-[[https://roadmap.manager-tools.com/home][Roadmap site]]
+* Links and other logistics
 
-[[https://www.manager-tools.com/map-of-the-universe][Map of the podcast universe]]
+  [[https://roadmap.manager-tools.com/home][Roadmap site]]
+
+  [[https://www.manager-tools.com/map-of-the-universe][Map of the podcast universe]]
 
 ** TODO Update MT subscription to annual
-   SCHEDULED: <2022-04-01 Fri 09:00>
+   SCHEDULED: <2022-04-29 Fri 16:00>
 
-   
+
+** TODO Listen to Manager tools podcast (purpose of the organization part 3 - downloaded)
+   SCHEDULED: <2022-04-10 Sun 10:00 +1w>
+
+
 * Using the DISC profile                                               :DISC:
 
   [[https://drive.google.com/file/d/11EE5LYTqOXHLssYnScXwgrpfcRZFVyQ3/view?usp%3Dsharing][My DISC profile - high C]]
@@ -209,10 +215,10 @@
        addressed.
 
     5. State the details of how you will govern the process:
-    	- Deadlines
-    	- Quality
-    	- Reporting
-    	- What do you need from me?
+        - Deadlines
+        - Quality
+        - Reporting
+        - What do you need from me?
 
 
 ** Coaching
@@ -399,7 +405,7 @@
   important things.
 
   Use the following steps.
-  
+
   1. Figure out the things you worked on in the last 3 weeks - use
      only pen and paper
 
@@ -485,8 +491,8 @@
    presentations in Lei's staff meeting for pre-wiring.)
 
    - Know your time limit :: Make sure you know how much time you
-	have. Start with that, the information in the briefing matters
-	less.
+        have. Start with that, the information in the briefing matters
+        less.
 
    - Decide your key message :: 1 slide every 5 minutes. They don't
         need to know every detail you know.
@@ -548,25 +554,25 @@
 
   The steps are as follows.
   - Who are your internal customers?
-    
+
   - Setup a 30 minute interview: 5 minutes for you with 1 slide,
     25 minutes for them.
-    
+
   - Slide should have 4 bullets :
     + Team's mission
     + Where you are with respect to the mission
     + 90-day plan
     + This meeting's purpose
-      
+
   - Ask everyone the same set of standard questions:
     + What do you or your org need from us?
     + What metrics will you measure me by?
     + How have we done so far on these metrics?
     + What is your perception of my org?
     + What guidance do you have for me?
-      
+
   - Analyze the data (answers across the board to the same question)
-    
+
   - Present the analysis to your team and ask for suggestions
     for improvement
 
@@ -765,19 +771,19 @@
   only relying on compliance energy and not relationship energy.
 
   1. Fit in, fit in, fit in. Go slow.
-     
+
   2. Take notes throughout your meetings.
 
      Who do you interact with (including your boss)?
-     
+
      How do they behave?
      Where do they fit in the DISC profiles?
      Personal details
-     
+
      What processes does your company use?
 
      Who are your [[#internal_customers][internal customers]]?
-     
+
   3. Begin to think about what your top priority will be but don't roll
      it out yet. Do some cost-benefit analysis. You should only have
      1-2 priorities.
@@ -790,7 +796,7 @@
 
   5. At the end of 90 days, make one change at a time, not many
      changes together. Remember changes need to be [[#pre_wire][pre-wired]].
-     
+
 
 ** The boss                                                            :Boss:
 
@@ -798,9 +804,9 @@
 
       Learn all your boss' peers' names. Look at the org chart. Work
       with the admin.
-      
+
    2. Preferences
-      
+
       - Is your boss generally a reader or a listener?
 
       - Early morning meetings or late stayer?
@@ -812,7 +818,7 @@
       Make notes from joint meetings on insight on these preferences.
 
    3. Strengths and weaknesses
-      
+
       - If the boss is abrasive, smooth things out afterwards.
 
       - Become a safety net for him/her, so that you smooth over his/her
@@ -821,7 +827,7 @@
       It's not good to make your boss look bad. It's good to bail your
       boss out when it is needed. You are tainted by any inadequacies
       of your boss.
-      
+
       Make notes from joint meetings on insight on these strengths and
       weaknesses.
 
@@ -834,7 +840,7 @@
 
    Building relationships is one of the most important things you need
    to do.
-   
+
    First step, ask. Ask what people do, ask about processes
    etc. Asking questions is not a sign of weakness.
 
@@ -852,7 +858,7 @@
    e.g. security, admin, catering, etc. A list from your previous job
    will help you. The best statement you can make is "I don't need
    anything right now; I just wanted to say hello".
-   
+
 
 ** Setting priorities
 
@@ -861,16 +867,16 @@
 
   You should only have 1 or a maximum of 2 priorities.
 
-  Your top priority must be something that your boss cares about. 
+  Your top priority must be something that your boss cares about.
 
   Make sure you understand what your "unofficial" job description
   is. If you come in to a job that already has some priorities, don't
   fight it. You have limited political capital in the beginning; you
   shouldn't waste it on this.
-  
+
   You should define metrics against which you are compared.
-  
-   
+
+
 * Mentoring                                                          :Career:
 
   [[https://www.manager-tools.com/2006/06/basics-mentoring-part-1-2][Podcast link]]
@@ -985,10 +991,22 @@
 
   The higher up you are, the more your butt is exposed!
 
-  An executive exists only to serve the purpose of the organization,
-  not to serve one's own purposes. In fact, an executive's role is not
-  even to serve their own group/organization; their role is to serve
-  the entire organization. Executives usually are responsible for
-  results outside the organization.
+  An executive is generally defined by three characteristics.
 
-  A manager who is promoted to an executive has to shift focus
+  - The executive exists only to serve the purpose of the organization,
+    not to serve one's own purposes. In fact, an executive's role is not
+    even to serve their own group/organization; their role is to serve
+    the entire organization.
+
+  - The executive must shift their focus from inside the organization
+    to outside the organization. The results of an organization are
+    generally found outside it. Costs are internal to the
+    organization, including yourself.
+
+    Executives must give up on internal politics etc. and focus on
+    external networks, connections and knowledge-seeking.
+
+  - A manager becoming an executive must not just capture results but
+    must also invest the proceeds of those results in the
+    future. Thus, by definition, executives must have a longer time
+    horizon in their thinking.
