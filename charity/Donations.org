@@ -15,10 +15,11 @@
 * Recurring tasks
 
 ** TODO Donate $800 to [[https://www.givewell.org/about/donate/paypal][Give Well through Paypal]]
-   SCHEDULED: <2022-03-30 Wed 13:30 +4w>
+   SCHEDULED: <2022-04-27 Wed 13:30 +4w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-03-04 Fri 11:29]
+   :LAST_REPEAT: [2022-04-09 Sat 12:04]
    :END:
+   - State "DONE"       from "TODO"       [2022-04-09 Sat 12:04]
    - State "DONE"       from "TODO"       [2022-03-04 Fri 11:29]
    - State "DONE"       from "TODO"       [2022-02-01 Tue 17:11]
    - State "DONE"       from "TODO"       [2022-01-05 Wed 10:51]
@@ -36,9 +37,3 @@
    - State "DONE"       from "WAIT"       [2021-07-14 Wed 07:52]
 
 
-** TODO File on [[https://account.activedirectory.windowsazure.com/applications/signin/a54cb682-2ada-479c-9d7b-024205b915d2?tenantId=5d8ae07e-7fd0-404d-85c1-453ff3dc8c1e][Bose Gives]] for employee matching for donations ($2500 annual limit)
-   SCHEDULED: <2022-05-17 Tue .+6m>
-   :PROPERTIES:
-   :LAST_REPEAT: [2021-11-17 Wed 07:07]
-   :END:
-   - State "DONE"       from "TODO"       [2021-11-17 Wed 07:07]
