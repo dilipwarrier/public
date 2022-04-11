@@ -11,8 +11,16 @@
    SCHEDULED: <2022-04-29 Fri 16:00>
 
 
-** TODO Listen to Manager tools podcast (purpose of the organization part 3 - downloaded)
-   SCHEDULED: <2022-04-10 Sun 10:00 +1w>
+** TODO Listen to the next Executive tools podcast (see below)
+   SCHEDULED: <2022-04-17 Sun 10:00 +1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2022-04-10 Sun 11:20]
+   :END:
+
+
+   - State "DONE"       from "TODO"       [2022-04-10 Sun 11:20]
+
+   https://www.manager-tools.com/2021/09/hallmark-executive-part-1-hall-fame-guidance
 
 
 * Using the DISC profile                                               :DISC:
@@ -985,20 +993,16 @@
 
 * Purpose of the organization                                     :Executive:
 
-  A promotion to a CEO is the most significant promotion. Going from
-  #2 to CEO is like the change from dating someone to marrying
-  someone. It's an order of magnitude increase.
-
-  The higher up you are, the more your butt is exposed!
-
   An executive is generally defined by three characteristics.
 
-  - The executive exists only to serve the purpose of the organization,
-    not to serve one's own purposes. In fact, an executive's role is not
-    even to serve their own group/organization; their role is to serve
-    the entire organization.
+  - Purpose ::
+    The executive exists only to serve the purpose of the organization,
+    not to serve one's own purposes. In fact, an executive's role is
+    not even to serve their own group/organization; their role is to
+    serve the entire organization.
 
-  - The executive must shift their focus from inside the organization
+  - Focus ::
+    The executive must shift their focus from inside the organization
     to outside the organization. The results of an organization are
     generally found outside it. Costs are internal to the
     organization, including yourself.
@@ -1006,7 +1010,15 @@
     Executives must give up on internal politics etc. and focus on
     external networks, connections and knowledge-seeking.
 
-  - A manager becoming an executive must not just capture results but
+  - Horizon ::
+    A manager becoming an executive must not just capture results but
     must also invest the proceeds of those results in the
     future. Thus, by definition, executives must have a longer time
     horizon in their thinking.
+
+  A CEO should not be the only executive in the company. That's
+  unhealthy for large organizations.
+
+  A typical mistake that executives make is doing more of the same
+  thing that they have been doing on getting promoted. You have to
+  make a phase transition in your thinking.
