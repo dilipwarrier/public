@@ -1030,17 +1030,14 @@
 
   [[https://www.manager-tools.com/map-of-the-universe][Map of the podcast universe]]
 
-** TODO Update MT subscription to annual
-   SCHEDULED: <2022-04-29 Fri 16:00>
-
-
 ** TODO Listen to the next Executive tools podcast (see below)
-   SCHEDULED: <2022-04-24 Sun 10:00 +1w>
+   SCHEDULED: <2022-05-01 Sun 10:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-04-17 Sun 11:35]
+   :LAST_REPEAT: [2022-04-25 Mon 11:36]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-04-25 Mon 11:36]
    - State "DONE"       from "TODO"       [2022-04-17 Sun 11:35]
    - State "DONE"       from "TODO"       [2022-04-10 Sun 11:20]
 
