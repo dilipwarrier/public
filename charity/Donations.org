@@ -14,11 +14,12 @@
 
 * Recurring tasks
 
-** TODO Donate $800 to [[https://www.givewell.org/about/donate/paypal][Give Well through Paypal]]
-   SCHEDULED: <2022-04-27 Wed 13:30 +4w>
+** TODO Donate $800 to [[https://www.givewell.org/donate/paypal][Give Well through Paypal]]
+   SCHEDULED: <2022-05-25 Wed 13:30 +4w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-04-09 Sat 12:04]
+   :LAST_REPEAT: [2022-05-01 Sun 15:26]
    :END:
+   - State "DONE"       from "TODO"       [2022-05-01 Sun 15:26]
    - State "DONE"       from "TODO"       [2022-04-09 Sat 12:04]
    - State "DONE"       from "TODO"       [2022-03-04 Fri 11:29]
    - State "DONE"       from "TODO"       [2022-02-01 Tue 17:11]
@@ -35,5 +36,3 @@
    - State "DONE"       from "TODO"       [2021-07-28 Wed 07:09]
    - State "DONE"       from "TODO"       [2021-07-21 Wed 07:09]
    - State "DONE"       from "WAIT"       [2021-07-14 Wed 07:52]
-
-
