@@ -5,11 +5,15 @@
 
 ** Courses
 
+   [[https://www.coursera.org/learn/aws-cloud-technical-essentials?specialization=aws-fundamentals#syllabus][AWS Cloud Technical Essentials]]
+
+   [[https://www.coursera.org/learn/aws-machine-learning#syllabus][AWS machine learning]]
+
+   [[https://www.coursera.org/learn/industrial-iot-fundamentals-on-aws#syllabus][Industrial IoT on AWS]]
+
    Data visualization
 
    Model thinking
-
-   AWS machine learning
 
    Bayesian Statistics: From Concept to Data Analysis
 
