@@ -1031,12 +1031,13 @@
   [[https://www.manager-tools.com/map-of-the-universe][Map of the podcast universe]]
 
 ** TODO Listen to the next Executive tools podcast (see below)
-   SCHEDULED: <2022-05-22 Sun 08:00 +1w>
+   SCHEDULED: <2022-05-29 Sun 08:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-05-15 Sun 18:24]
+   :LAST_REPEAT: [2022-05-22 Sun 15:29]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-05-22 Sun 15:29]
    - State "DONE"       from "TODO"       [2022-05-15 Sun 18:24]
    - State "DONE"       from "TODO"       [2022-05-09 Mon 16:49]
    - State "DONE"       from "TODO"       [2022-05-01 Sun 15:28]
