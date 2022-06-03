@@ -957,7 +957,10 @@
    goals.
 
 
-** Purpose of the organization
+** Purpose of the executive
+   :PROPERTIES:
+   :CUSTOM_ID: purpose_focus_horizon
+   :END:
 
    An executive is generally defined by three characteristics.
 
@@ -1001,6 +1004,20 @@
    black suit and it's the only suit you'll ever wear.
 
 
+** Executive S-curve and the box
+
+   As a manager getting promoted to an executive, you are moving from
+   one S-curve to another.
+
+   You now have certain freedoms and certain
+   responsibilities. Try to constrain yourself on the freedoms/role
+   powers that you have. Focus instead on the responsibilities. Your
+   responsibilities are towards the entire organization, even if it
+   means at the loss of your own sub-organization (see [[#purpose_focus_horizon][Purpose]]). You
+   have to give up on building your fiefdoms and focus on the greater
+   good of the organization.
+
+
 * DISC profile
 
   [[https://drive.google.com/file/d/11EE5LYTqOXHLssYnScXwgrpfcRZFVyQ3/view?usp%3Dsharing][My DISC profile - high C]]
@@ -1030,13 +1047,15 @@
 
   [[https://www.manager-tools.com/map-of-the-universe][Map of the podcast universe]]
 
+
 ** TODO Listen to the next Executive tools podcast (see below)
-   SCHEDULED: <2022-05-29 Sun 08:00 +1w>
+   SCHEDULED: <2022-06-05 Sun 08:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-05-22 Sun 15:29]
+   :LAST_REPEAT: [2022-05-28 Sat 19:19]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-05-28 Sat 19:19]
    - State "DONE"       from "TODO"       [2022-05-22 Sun 15:29]
    - State "DONE"       from "TODO"       [2022-05-15 Sun 18:24]
    - State "DONE"       from "TODO"       [2022-05-09 Mon 16:49]
@@ -1044,8 +1063,6 @@
    - State "DONE"       from "TODO"       [2022-04-25 Mon 11:36]
    - State "DONE"       from "TODO"       [2022-04-17 Sun 11:35]
    - State "DONE"       from "TODO"       [2022-04-10 Sun 11:20]
-
-   https://www.manager-tools.com/2021/10/executive-s-curve-chapter-one-yes-no-part-1-hall-fame-guidance
 
 
 ** Logged time for podcasts                                        :Learning:

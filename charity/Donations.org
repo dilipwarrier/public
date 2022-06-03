@@ -14,7 +14,7 @@
 
 * Recurring tasks
 
-** TODO Donate $800 to [[https://www.givewell.org/donate/paypal][Give Well through Paypal]]
+** TODO Donate $1000 to [[https://www.givewell.org/donate/paypal][Give Well through Paypal]]
    SCHEDULED: <2022-06-22 Wed 13:30 +4w>
    :PROPERTIES:
    :LAST_REPEAT: [2022-05-24 Tue 22:32]
