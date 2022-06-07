@@ -1049,12 +1049,13 @@
 
 
 ** TODO Listen to the next Executive tools podcast (see below)
-   SCHEDULED: <2022-06-05 Sun 08:00 +1w>
+   SCHEDULED: <2022-06-12 Sun 08:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-05-28 Sat 19:19]
+   :LAST_REPEAT: [2022-06-06 Mon 12:19]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-06-06 Mon 12:19]
    - State "DONE"       from "TODO"       [2022-05-28 Sat 19:19]
    - State "DONE"       from "TODO"       [2022-05-22 Sun 15:29]
    - State "DONE"       from "TODO"       [2022-05-15 Sun 18:24]
