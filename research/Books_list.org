@@ -9,7 +9,8 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
-| Nimitz at war                                                                                                                                      | Crag Symonds                                  |           |            4.4 |            | 05/30/2022 | western-history                           | to-read |
+| Why it's OK to eat meat                                                                                                                            | Dan Shahar                                    |           |            4.0 |            | 06/13/2022 | philosophy                                | to-read |
+| Nimitz at war                                                                                                                                      | Craig Symonds                                 |           |            4.4 |            | 05/30/2022 | western-history                           | to-read |
 | Loved: How to market tech products customers adore                                                                                                 | Martina Lauchengco                            |           |            4.0 |            | 05/14/2022 | marketing, product                        | to-read |
 | Models of the mind                                                                                                                                 | Grace Lindsay                                 |           |            4.4 |            | 03/13/2022 | brain                                     | to-read |
 | The story of life                                                                                                                                  | Sean B. Carroll                               |           |            4.2 |            | 02/12/2022 | biology                                   | to-read |
@@ -644,14 +645,14 @@ The whys of a political scrivener                 : Martin Gardner       (4.0, p
 The huntress                                      : Kate Quinn           (4.3, thriller)
 Culture map                                       : Erin Meyer           (4.4, management)
 The Christmas Virtues: A Treasury of...           : Jonathan V. Last     (4.1, society)
-Five Families: The Rise, Decline, and...          : Selwyn Raab          (4.1, western-biography)
 Working backwards                                 : Colin Bryar, Bill... (4.4, management)
+Five Families: The Rise, Decline, and...          : Selwyn Raab          (4.1, western-biography)
 The Art of Action                                 : Stephen Bungay       (4.3, management)
 Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
 Economic Hierarchies, Organization and the...     : Gordon Tullock       (4.0, economics)
 These women                                       : Ivy Pochoda          (4.3, thriller)
 Models of the mind                                : Grace Lindsay        (4.4, brain)
-The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society)
+Nimitz at war                                     : Craig Symonds        (4.4, western-history)
 :end:
 
 
