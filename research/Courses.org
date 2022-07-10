@@ -7,6 +7,8 @@
 
    [[https://www.coursera.org/learn/aws-cloud-technical-essentials?specialization=aws-fundamentals#syllabus][AWS Cloud Technical Essentials]]
 
+   [[https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications?specialization=aws-fundamentals][Building AWS serverless applications]]
+
    [[https://www.coursera.org/learn/aws-machine-learning#syllabus][AWS machine learning]]
 
    [[https://www.coursera.org/learn/industrial-iot-fundamentals-on-aws#syllabus][Industrial IoT on AWS]]

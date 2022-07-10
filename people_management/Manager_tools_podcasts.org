@@ -965,10 +965,9 @@
    An executive is generally defined by three characteristics.
 
    - Purpose ::
-     The executive exists only to serve the purpose of the organization,
-     not to serve one's own purposes. In fact, an executive's role is
-     not even to serve their own group/organization; their role is to
-     serve the entire organization.
+     The executive exists only to serve the purpose of the entire
+     organization, not to serve one's own purposes or one's own
+     sub-organization's purposes.
 
    - Focus ::
      The executive must shift their focus from inside the organization
@@ -990,18 +989,8 @@
 
    A typical mistake that executives make is doing more of the same
    thing that they have been doing on getting promoted. You have to
-   make a phase transition in your thinking.
-
-
-** The hallmark of an executive
-
-   The absolute number one is the discipline to determine what needs to be
-   done in the organization and then the discipline to do it.
-
-   The classic assumption is that executives know more about business,
-   strategy, finance etc. Instead, discipline is the one quality that
-   is dispositive. Think of the scene from Men In Black: You put on a
-   black suit and it's the only suit you'll ever wear.
+   make a phase transition in your thinking i.e. move to a different
+   S-curve.
 
 
 ** Executive S-curve and the box
@@ -1016,6 +1005,17 @@
    means at the loss of your own sub-organization (see [[#purpose_focus_horizon][Purpose]]). You
    have to give up on building your fiefdoms and focus on the greater
    good of the organization.
+
+
+** The hallmark of an executive
+
+   The number one hallmark is the discipline to determine what needs
+   to be done in the organization and then the discipline to do it.
+
+   The classic assumption is that executives know more about business,
+   strategy, finance etc. Instead, discipline is the one quality that
+   is dispositive. Think of the scene from "Men In Black": You put on a
+   black suit and it's the only suit you'll ever wear.
 
 
 * DISC profile
@@ -1048,13 +1048,16 @@
   [[https://www.manager-tools.com/map-of-the-universe][Map of the podcast universe]]
 
 
-** TODO Listen to the next Executive tools podcast (see below)
-   SCHEDULED: <2022-06-19 Sun 08:00 +1w>
+** TODO Listen to the next Executive tools [[https://www.manager-tools.com/map-of-the-universe][podcast]]
+   SCHEDULED: <2022-07-10 Sun 08:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-06-12 Sun 17:56]
+   :LAST_REPEAT: [2022-07-05 Tue 19:04]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-07-05 Tue 19:04]
+   - State "DONE"       from "TODO"       [2022-06-26 Sun 15:51]
+   - State "DONE"       from "TODO"       [2022-06-26 Sun 15:50]
    - State "DONE"       from "TODO"       [2022-06-12 Sun 17:56]
    - State "DONE"       from "TODO"       [2022-06-06 Mon 12:19]
    - State "DONE"       from "TODO"       [2022-05-28 Sat 19:19]
