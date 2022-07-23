@@ -1049,12 +1049,14 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/map-of-the-universe][podcast]]
-   SCHEDULED: <2022-07-10 Sun 08:00 +1w>
+   SCHEDULED: <2022-07-24 Sun 08:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-07-05 Tue 19:04]
+   :LAST_REPEAT: [2022-07-18 Mon 07:55]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-07-18 Mon 07:55]
+   - State "DONE"       from "TODO"       [2022-07-15 Fri 16:09]
    - State "DONE"       from "TODO"       [2022-07-05 Tue 19:04]
    - State "DONE"       from "TODO"       [2022-06-26 Sun 15:51]
    - State "DONE"       from "TODO"       [2022-06-26 Sun 15:50]
