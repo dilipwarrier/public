@@ -542,6 +542,7 @@
 ** Cover letter
 
    Three paragraphs:
+
    - First, state your interest and the position you are interested
      in, where you saw it and who referred you within the company.
 
@@ -656,7 +657,7 @@
 
 *** Significant accomplishments
 
-    Behavioral interview: ask about past accomplishments because the
+    Behavioral interview: Ask about past accomplishments because the
     past is the best predictor of the future. Don't ask how the
     candidate will address future problems; they will give you the
     answer you want to hear.
@@ -734,7 +735,7 @@
 
       Who are your [[#internal_customers][internal customers]]?
 
-   3. Begin to think about what your top priority will be but don't roll
+   3. Think about what your top priority will be but don't roll
       it out yet. Do some cost-benefit analysis. You should only have
       1-2 priorities.
 
@@ -787,6 +788,9 @@
 
 
 *** Relationships
+    :PROPERTIES:
+    :CUSTOM_ID: Relationships
+    :END:
 
     Building relationships is one of the most important things you need
     to do.
@@ -1018,6 +1022,46 @@
    black suit and it's the only suit you'll ever wear.
 
 
+** Ditch the ladder
+
+   Junior executives think there is a career ladder but there isn't.
+
+   - Ditch the ladder :: Ladders have rungs equally spaced and, if you
+     slip, you'll just move to the lower rung. None of this is true of
+     a career. You do not need to aspire to reach the top rung. Being
+     the CEO is a tough job; it's not for everyone. Ladders exist but
+     they do not go all the way up to the top.
+
+   - Embrace the matrix :: At the top, it's a matrix, not a
+     ladder. You may move laterally multiple times. In this domain,
+     things are non-linear and you do not move straight up.
+
+   - Results and relationships :: As a manager, your goals are results
+     and retention. You might get away because you are very good at
+     what you do. However, as an executive, [[#relationships][great relationships]] are the only
+     way you will get good results. Executive results are still critical but
+     they are mostly achieved through relationships. Executive
+     relations are not just among peers and certainly not with just
+     your boss. They are up, down and broadly sideways
+     and even outside your company (donors, board of directors,
+     investors, research universities etc.).
+
+   - Open to opportunities :: Never be stuck in the philosophy of
+     "This is the only job I want to do". When an acquaintance
+     mentions an opportunity and ask if you know someone, they are
+     actually asking if you are interested. Take recruiter calls. You
+     are not winning loyalty points by saying you are OK in your
+     current job. The advantage of being in an "open to opportunities"
+     is that you can have several informal conversations without it
+     being an actual interview.
+
+   - Who should be the next...? :: You would only be asked this
+     question if you were being considered for the position. You
+     should not push too hard but you should make your case. If you
+     are the number 2 choice from many people (their #1 choice will
+     always be themselves), you'll get the job.
+
+
 * DISC profile
 
   [[https://drive.google.com/file/d/11EE5LYTqOXHLssYnScXwgrpfcRZFVyQ3/view?usp%3Dsharing][My DISC profile - high C]]
@@ -1049,12 +1093,14 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/map-of-the-universe][podcast]]
-   SCHEDULED: <2022-07-24 Sun 08:00 +1w>
+   SCHEDULED: <2022-08-06 Sat 08:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-07-18 Mon 07:55]
+   :LAST_REPEAT: [2022-07-31 Sun 09:55]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-07-31 Sun 09:55]
+   - State "DONE"       from "TODO"       [2022-07-24 Sun 20:50]
    - State "DONE"       from "TODO"       [2022-07-18 Mon 07:55]
    - State "DONE"       from "TODO"       [2022-07-15 Fri 16:09]
    - State "DONE"       from "TODO"       [2022-07-05 Tue 19:04]
