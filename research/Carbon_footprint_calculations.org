@@ -1,4 +1,4 @@
-#+title: Calculation of my carbon footprint
+#+title: Calculation of carbon footprints
 #+author: Dilip Warrier
 
 * CO2 emissions due to driving
@@ -31,9 +31,6 @@ print("1 year of battery only in the RAV4 Prime causes %.2f tons of CO2" % (f3*f
 #+RESULTS:
 : 1 year in the RAV4 hybrid causes 2.23 tons of CO2
 : 1 year in the RAV4 Prime causes 1.71 tons of CO2
-
-
-* Costs of a hybrid versus a gas engine
 
 
 * CO2 emissions from flights

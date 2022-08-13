@@ -27,6 +27,7 @@
      - 340M PCs/laptops
      - 80M cars
 
+
 * TSMC
 
   Every car has about 20 MCUs on average.
