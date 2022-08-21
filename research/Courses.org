@@ -4,15 +4,17 @@
 * Useful Coursera courses
 
 
-** Courses
+** Courses in priority
 
-   [[https://www.coursera.org/learn/aws-cloud-technical-essentials?specialization=aws-fundamentals#syllabus][AWS Cloud Technical Essentials]] (skip "Migrating to the Cloud" course)
+   1. [[https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk][AWS: Addressing Security Risk]] course (audit)
+   2. [[https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications?specialization=aws-fundamentals][AWS: Building serverless applications]] course (audit)
+   3. [[https://www.coursera.org/learn/containerized-applications-on-aws][Containerized applications on AWS]] course (audit)
 
-   [[https://www.coursera.org/learn/aws-machine-learning#syllabus][AWS machine learning]] course
-
-   [[https://www.coursera.org/learn/industrial-iot-fundamentals-on-aws#syllabus][Industrial IoT on AWS]] course
-
-   [[https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications?specialization=aws-fundamentals][Building AWS serverless applications]]
+   4. [[https://www.coursera.org/learn/battery-state-of-charge?specialization=algorithms-for-battery-management-systems][Battery SOC estimation]] course
+   5. [[https://www.coursera.org/learn/battery-state-of-health?specialization=algorithms-for-battery-management-systems][Battery SOH estimation]] course
+   6. [[https://www.coursera.org/learn/battery-pack-balancing-power-estimation?specialization=algorithms-for-battery-management-systems][Battery pack balancing and power estimation]] course
+   7. [[https://www.coursera.org/learn/aws-machine-learning#syllabus][AWS machine learning]] course
+   8. [[https://www.coursera.org/learn/industrial-iot-fundamentals-on-aws#syllabus][Industrial IoT on AWS]] course
 
    Data visualization
 

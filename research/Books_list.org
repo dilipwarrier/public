@@ -9,6 +9,9 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
+| What we owe the future                                                                                                                             | William MacAskill                             |           |            4.1 |            | 08/16/2022 | philosophy                                | to-read |
+| Over the edge of the world                                                                                                                         | Laurence Bergreen                             |           |            4.1 |            | 08/15/2022 | eastern-history                           | to-read |
+| Who gets what and why                                                                                                                              | Alvin Roth                                    |           |            3.9 |            | 08/14/2022 | economics, games                          | to-read |
 | The rise of the mammals                                                                                                                            | Steve Brusatte                                |           |            4.0 |            | 07/25/2022 | biology                                   | to-read |
 | Build: An unorthodox guide to making things                                                                                                        | Tony Fadell                                   |           |            4.0 |            | 06/25/2022 | management, product                       | to-read |
 | Why it's OK to eat meat                                                                                                                            | Dan Shahar                                    |           |            4.0 |            | 06/13/2022 | philosophy                                | to-read |
@@ -106,7 +109,7 @@
 | The whys of a political scrivener                                                                                                                  | Martin Gardner                                |           |            4.0 |            | 11/23/2013 | philosophy                                | to-read |
 | The elegant universe                                                                                                                               | Brian Greene                                  |           |            4.1 |            | 3/20/2022  | physics                                   | reading |
 | Business model generation                                                                                                                          | Alex Osterwalder                              |           |            4.2 |            | 02/27/2022 | management                                | reading |
-| These women                                                                                                                                        | Ivy Pochoda                                   |           |            4.3 |            | 5/11/2020  | thriller                                  | reading |
+| These women                                                                                                                                        | Ivy Pochoda                                   |         5 |            4.3 | 7/25/2022  | 5/11/2020  | thriller                                  | read    |
 | The Elephant in the Brain                                                                                                                          | Kevin Simler                                  |         5 |            4.2 | 7/18/2022  | 7/30/2018  | brain                                     | read    |
 | Tumbling                                                                                                                                           | Diane McKinney-Whetstone                      |         4 |            4.2 | 4/15/2022  | 4/5/2017   | fiction                                   | read    |
 | Infectious: Pathogens and how we fight them                                                                                                        | John Tregoning                                |         1 |            4.0 | 04/10/2022 | 12/12/2021 | biology                                   | read    |
@@ -644,16 +647,16 @@ The whys of a political scrivener                 : Martin Gardner       (4.0, p
 The huntress                                      : Kate Quinn           (4.3, thriller)
 Culture map                                       : Erin Meyer           (4.4, management)
 The Christmas Virtues: A Treasury of...           : Jonathan V. Last     (4.1, society)
-Five Families: The Rise, Decline, and...          : Selwyn Raab          (4.1, western-biography)
 Working backwards                                 : Colin Bryar, Bill... (4.4, management)
+Five Families: The Rise, Decline, and...          : Selwyn Raab          (4.1, western-biography)
 The Art of Action                                 : Stephen Bungay       (4.3, management)
 Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
 Economic Hierarchies, Organization and the...     : Gordon Tullock       (4.0, economics)
-These women                                       : Ivy Pochoda          (4.3, thriller)
 Models of the mind                                : Grace Lindsay        (4.4, brain)
 Nimitz at war                                     : Craig Symonds        (4.4, western-history)
-Spearhead                                         : Adam Makos           (4.2, western-history)
 Storytelling with data                            : Cole Nussbaumer...   (4.3, design,management)
+Spearhead                                         : Adam Makos           (4.2, western-history)
+The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society)
 :end:
 
 
@@ -669,8 +672,8 @@ List of recommended books:
 
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
-Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
 Bayesian data analysis                            : Bruce Gelman         (4.2, maths,textbook)
+Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
 Knowledge, reality and value                      : Michael Huemer       (4.1, philosophy,textbook)
 :end:
 
@@ -685,6 +688,9 @@ Knowledge, reality and value                      : Michael Huemer       (4.1, p
 :results:
 List of read books:
 
+These women                                       : Ivy Pochoda          (25-Jul-22, 5.0)
+The Elephant in the Brain                         : Kevin Simler         (18-Jul-22, 5.0)
+The Best Place to Work: The Art and Science of... : Ron Friedman         (07-Jul-22, 5.0)
 Tumbling                                          : Diane McKinney-...   (15-Apr-22, 4.0)
 Infectious: Pathogens and how we fight them       : John Tregoning       (10-Apr-22, 1.0)
 Strategic Management                              : Charles Hill,...     (22-Mar-22, 5.0)
@@ -732,9 +738,6 @@ Imperial twilight: the opium war                  : Stephen Platt        (15-Feb
 A burning                                         : Megha Majumdar       (13-Feb-21, 4.0)
 The Crossing                                      : Michael Connelly     (10-Feb-21, 4.0)
 Bismarck: the man and the statesman               : A. P. J. Taylor      (15-Jan-21, 2.0)
-Good talk                                         : Mira Jacob           (12-Jan-21, 4.0)
-Emperor of Japan: Meiji and his world             : Gordon Keene         (10-Jan-21, 2.0)
-A Peace to End All Peace: The Fall Of The...      : David Fromkin        (10-Jan-21, 3.0)
 :end:
 
 
@@ -748,14 +751,14 @@ A Peace to End All Peace: The Fall Of The...      : David Fromkin        (10-Jan
 #+RESULTS:
 :results:
 List of categories and read-dates:
-brain                         : 14-May-22
-management                    : 14-May-22
-physics                       : 14-May-22
+management                    : 14-Aug-22
+physics                       : 14-Aug-22
+thriller                      : 25-Jul-22
+brain                         : 18-Jul-22
 fiction                       : 15-Apr-22
 biology                       : 10-Apr-22
 textbook                      : 22-Mar-22
 strategy                      : 22-Mar-22
-thriller                      : 21-Feb-22
 maths                         : 27-Jan-22
 black-biography               : 24-Jan-22
 software                      : 15-Jan-22
@@ -789,6 +792,7 @@ indian-history                : 28-Aug-18
 kids                          : 30-Nov-17
 japanese-fiction              : 02-Jul-17
 design                        : 05-May-15
+games                         : 01-Jan-00
 marketing                     : 01-Jan-00
 chinese-fiction               : 01-Jan-00
 :end:

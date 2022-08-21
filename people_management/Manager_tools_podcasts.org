@@ -7,6 +7,7 @@
 ** Manager basics
 
 
+
 *** One-on-ones
 
      - 25 minutes every week - rarely missed
@@ -54,30 +55,34 @@
 
      Feedback should be done often and on small things. Feedback is
      like potato chips. Any one chip doesn't really matter but, when
-     you eat a whole pack, it has an impact.
+     you eat a whole pack, it has an impact. Feedback can be delivered
+     within 30 seconds. Concentrate on keeping it that small. It will
+     allow you to deliver it frequently.
 
      Your tone should be the same in case of positive feedback or
      negative feedback. You can do that by focusing on what you want
      the direct to do in the future, not what the direct did in the
-     past. That will ensure that the tone is neutral irrespective of
+     past. That will ensure that the tone is enthusiastic irrespective of
      whether the feedback is positive or negative.
 
      The second and third time should be exactly the same; no more
-     negative tone than the first. Usually, you have to do it six times
+     negative tone than the first. Usually, you have to do it seven times
      before you decide you have a different problem.
 
-     Never ask your directs a question whose answer you don't intend to
-     honor.
-
-     You do not control the behavior of your directs. Only they do.
-
-     Always ask if the direct is ready for feedback. Otherwise, they
-     may be too distracted, in which case the feedback will be
-     ineffective.
+     Feedback should not be about what is going on in your directs'
+     minds. You are not a psychologist. Instead, feedback should focus
+     on behaviors:
+     - What and how they communicate (verbal or written)
+     - Facial expressions and body language
+     - Work product (quality, accuracy, timeliness)
 
      Don't say "I felt that..." If you say that, you're making an
      interpretation of their behavior. Focus instead on the behavior:
      "When you...".
+
+     Always ask if the direct is ready for feedback. Otherwise, they
+     may be too distracted, in which case the feedback will be
+     ineffective.
 
      When you give feedback, the focus should be on the future, not the
      past. Your direct may get defensive about the feedback but that is
@@ -88,6 +93,14 @@
      Provide positive feedback only first, and only to your star
      performers. This matches well with the guideline of spending more
      time on your star performers.
+
+
+**** Feedback for remote directs
+
+    Whether the direct is remote or not, feedback should work exactly
+    the same as above: frequent, short, mostly positive occasionally
+    negative. Insist on giving feedback with face-to-face Zoom calls
+    as opposed to phone calls.
 
 
 *** Delegation
@@ -373,7 +386,7 @@
 ** Peer one-on-ones
 
    As you grow into senior leadership roles, you need not just
-   results power but also relationship power.
+   results power or expertise power but also relationship power.
 
    You would have a peer 1-1 with anyone who reports to your boss, even
    if they are a VP and you are a director. You don't need to have peer
@@ -525,6 +538,42 @@
 
    The tone of this meeting should be subordination. You are focusing
    on creating relationships (personal vs formal or business relationships).
+
+
+** How to fire someone (almost)
+
+   [[https://www.manager-tools.com/2006/02/how-to-fire-someone-well-almost][Podcast link]]
+
+   The following are the steps in failure coaching.
+   - Feedback
+   - Systemic Feedback
+   - One on One Performance Discussion
+   - Coaching
+   - Formal Performance Discussion and Notification
+   - Coaching Within Your Corporate Process
+
+   At each step, you have to try to hardest to turn around the
+   performance problem.
+
+   Systemic feedback sounds like the following. You only invoke it
+   after you have given feedback multiple times.
+
+   May I give you some feedback? When I ask you to improve your slides
+   and I have to give you repeated feedback, I worry that we have a
+   bigger problem on our hands. Your performance suffers and I cannot
+   assign you special projects...
+
+   The One-on-one performance discussion is where you first document
+   the performance issue. You make it a part of the 1-1 agenda and you
+   ask if there is something going on in your direct's lives that is
+   affecting things.
+
+   If things still haven't worked out, you start a 3-month coaching
+   process.
+
+   The formal performance discussion comes in if even the coaching
+   process has failed. At this point, you notify the direct that they
+   could be fired if their performance does not improve.
 
 
 * Job search
@@ -898,7 +947,23 @@
    job search.
 
 
+* Working with your manager
+
+
+** Helping your manager decide
+
+   For big decisions, use the SOCCR model. For smaller decisions, make
+   sure you understand your manager's DISC profile first. Some people
+   prefer having a lot of information because they don't want to rule
+   out options too quickly. Some people make decisions very fast.
+
+   Your job is to present all the data and the consequences of not
+   making a decision. After that, you should learn to be OK if the
+   manager still doesn't make a decision.
+
+
 * Executive
+
 
 ** Leader's intent
 
@@ -1092,13 +1157,15 @@
   [[https://www.manager-tools.com/map-of-the-universe][Map of the podcast universe]]
 
 
-** TODO Listen to the next Executive tools [[https://www.manager-tools.com/map-of-the-universe][podcast]]
-   SCHEDULED: <2022-08-13 Sat 08:00 +1w>
+** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
+   SCHEDULED: <2022-08-27 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-08-06 Sat 19:19]
+   :LAST_REPEAT: [2022-08-20 Sat 08:36]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-08-20 Sat 08:36]
+   - State "DONE"       from "TODO"       [2022-08-15 Mon 20:40]
    - State "DONE"       from "TODO"       [2022-08-06 Sat 19:19]
    - State "DONE"       from "TODO"       [2022-07-31 Sun 09:55]
    - State "DONE"       from "TODO"       [2022-07-24 Sun 20:50]
@@ -1117,18 +1184,3 @@
    - State "DONE"       from "TODO"       [2022-04-25 Mon 11:36]
    - State "DONE"       from "TODO"       [2022-04-17 Sun 11:35]
    - State "DONE"       from "TODO"       [2022-04-10 Sun 11:20]
-
-
-** Logged time for podcasts                                        :Learning:
- #+BEGIN: clocktable :scope subtree :maxlevel 2
- #+CAPTION: Clock summary at [2022-04-17 Sun 11:41]
- | Headline                 | Time   |
- |--------------------------+--------|
- | *Total time*             | *0:50* |
- |--------------------------+--------|
- | Logged time for podcasts | 0:50   |
- #+END:
-
-   :LOGBOOK:
-   CLOCK: [2022-04-17 Sun 10:50]--[2022-04-17 Sun 11:40] =>  0:50
-   :END:
