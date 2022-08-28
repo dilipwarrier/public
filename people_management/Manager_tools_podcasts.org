@@ -1,5 +1,5 @@
 #+Title: Notes on podcasts and other content from [[https://www.manager-tools.com/all-podcasts][Manager Tools]]
-#+Filetags: :ManagerTools:
+#+Filetags: :ManagerTools:Learning:
 
 * Manager
 
@@ -799,6 +799,9 @@
 
 
 *** The boss                                                           :Boss:
+    :PROPERTIES:
+    :CUSTOM_ID: Boss_initial
+    :END:
 
     1. Peers
 
@@ -811,7 +814,7 @@
 
        - Early morning meetings or late stayer?
 
-       - Well-thought out plan or fly by the seat of the points?
+       - Well-thought out plan or fly by the seat of the pants?
 
        - Want you to make decisions or want to be aware of decisions?
 
@@ -949,6 +952,44 @@
 
 * Working with your manager
 
+
+** Managing your boss
+
+   See also [[#Boss_initial][the first few days with your boss]]
+
+   This is really about having a good relationship with your boss as
+   opposed to managing them. There are 5 topics you should be thinking
+   about.
+
+   - Goals :: You should understand all of them and not just the
+     ones that pertain to you.
+
+     Question to ask: What are your goals e.g. revenue, cost,
+     responsibilities? Always start with the financials.
+
+     Ensure that you have a quarterly performance review with your
+     boss.
+
+   - Communication style :: Are they a leader or listener? Pace
+     of speaking, excited voice or not, gestures etc.
+
+   - Time management :: Try to stick within the time
+     limit you have for your 1-1. Be aware if there is something else
+     right after your 1-1 that the boss needs to prepare for and be
+     prepared to give up some of your 1-1 time for that. Within the
+     1-1, use only your half of the time. Then, let them take the
+     remaining time or give them the time back.
+
+     Question to ask: What, when, where are your regular meetings?
+
+     You need to match your time management to your boss' methods: for
+     instance, if they prefer to drop in on you spontaneously rather
+     than having arranged meetings, then you'll need to adjust to that.
+
+   - Working style :: Question to ask: What do they delegate and
+     what decisions do they want to be involved in?
+
+   - Relationships :: Who are their best relationships with and who not.
 
 ** Helping your manager decide
 
@@ -1158,12 +1199,13 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2022-08-27 Sat 16:00 +1w>
+   SCHEDULED: <2022-09-03 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-08-20 Sat 08:36]
+   :LAST_REPEAT: [2022-08-27 Sat 11:32]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-08-27 Sat 11:32]
    - State "DONE"       from "TODO"       [2022-08-20 Sat 08:36]
    - State "DONE"       from "TODO"       [2022-08-15 Mon 20:40]
    - State "DONE"       from "TODO"       [2022-08-06 Sat 19:19]
