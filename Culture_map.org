@@ -1,0 +1,40 @@
+#+TITLE: The culture map by Erin Meyer
+#+FILETAGS: :BookNotes:
+
+Different cultures fall in different places on the scales of various
+activities. We can divide them into a few specific activities.
+
+* Communication (low-context vs high-context)
+
+  In low-context cultures, good communication is precise, simple and
+  clear. Messages are given and understood at face value. Repetition
+  is appreciated if it helps clarify.
+
+  The US, Netherlands, Canada fall on this end of the spectrum.
+
+  In high-context cultures, good communication is nuanced and
+  layered. Messages are both spoken and read between the
+  lines. Messages are often implied but not plainly expressed.
+
+  Many of the Asian countries, Russia, France fall on this end of the
+  spectrum. These tend to be countries with a long shared history with
+  an orientation towards relationships.
+
+  Note that when two cultures meet, what matters is the relative
+  position of the cultures wrt each other and not the absolute
+  positions.
+
+
+* Evaluation (direct vs indirect feedback)
+
+  Direct negative feedback is when negative feedback is provided bluntly
+  and those messages stand alone without being softened by positive
+  ones. Criticism can often be done in public.
+
+  Indirect is the opposite.
+
+  Although Western countries like the US, UK and Canada use
+  low-context communication, they also do not give direct negative
+  feedback. On the other hand, in the Netherlands, Germany and Russia,
+  direct negative feedback is often practised. The Asian countries
+  typically practise indirect negative feedback also.
