@@ -1,5 +1,5 @@
 #+TITLE: The best place to work by Ron Friedman
-#+FILETAGAS: :Management:
+#+FILETAGAS: :Management:BookNotes:
 
 * Problem statement
 

@@ -43,6 +43,7 @@
 
 * Competencies                                                   :MartyCagan:
 
+
 ** Competencies for a product manager
 
    A deep knowledge of:

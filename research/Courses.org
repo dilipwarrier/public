@@ -13,8 +13,10 @@
    4. [[https://www.coursera.org/learn/battery-state-of-charge?specialization=algorithms-for-battery-management-systems][Battery SOC estimation]] course
    5. [[https://www.coursera.org/learn/battery-state-of-health?specialization=algorithms-for-battery-management-systems][Battery SOH estimation]] course
    6. [[https://www.coursera.org/learn/battery-pack-balancing-power-estimation?specialization=algorithms-for-battery-management-systems][Battery pack balancing and power estimation]] course
-   7. [[https://www.coursera.org/learn/aws-machine-learning#syllabus][AWS machine learning]] course
+
    8. [[https://www.coursera.org/learn/industrial-iot-fundamentals-on-aws#syllabus][Industrial IoT on AWS]] course
+
+   9. [[https://www.coursera.org/learn/aws-machine-learning#syllabus][AWS machine learning]] course
 
    Data visualization
 
