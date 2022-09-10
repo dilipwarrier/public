@@ -433,6 +433,29 @@
 *** Manager tools: What you call politics, we call collaboration     :quotes:
 
 
+** Pinch crunch model for a relationship
+
+   In any relation, there will be times when there are pinches in the
+   relationship. A pinch in your relation with your boss might be when
+   you fail at some deliverable that your boss had. A pinch in the
+   relation with your direct might be when a direct doesn't report to
+   you that they are going to be late for a deadline.
+
+   You should plan for pinches in advance e.g. let your direct know
+   that they must communicate if they are late. You should use the
+   feedback tool when there is a pinch in the relation caused by a
+   direct.
+
+   For a pinch caused by you to a peer or to your manager, you must
+   apologize. It's OK to have pinches and you can reset the
+   relationship after a pinch. But, it is not OK to let pinches
+   fester. If pinches continue for a long time, they turns into
+   crunches and it's very hard to recover the relationship from
+   crunches.
+
+   See also [[#Relationships][Relationship building]] and this [[https://medium.com/@M.K.G/team-conflicts-are-unavoidable-lessons-learned-with-the-pinch-crunch-model-7e8e6bd0d7a9][related article]]
+
+
 ** Pre-wiring a presentation
    :PROPERTIES:
    :CUSTOM_ID: pre_wire
@@ -839,7 +862,7 @@
        Do a DISC profile of your boss, using their communications.
 
 
-*** Relationships
+*** Relationship building
     :PROPERTIES:
     :CUSTOM_ID: Relationships
     :END:
@@ -970,7 +993,7 @@
      Ensure that you have a quarterly performance review with your
      boss.
 
-   - Communication style :: Are they a leader or listener? Pace
+   - Communication style :: Are they a leader or a listener? Pace
      of speaking, excited voice or not, gestures etc.
 
    - Time management :: Try to stick within the time
@@ -990,6 +1013,7 @@
      what decisions do they want to be involved in?
 
    - Relationships :: Who are their best relationships with and who not.
+
 
 ** Helping your manager decide
 
@@ -1053,7 +1077,7 @@
    An insight should be actionable. For instance:
    "You need to build a better relation with your top customer"
    ->
-   "I will build a better relation with your top customer"
+   "I will build a better relation with my top customer"
 
    Org charts and resulting organizations are a good source for
    actionable insights. So are succession plans.
@@ -1088,7 +1112,7 @@
      Executives must give up on internal politics etc. and focus on
      external networks, connections and knowledge-seeking.
 
-   - Horizon ::
+   - Future ::
      A manager becoming an executive must not just capture results but
      must also invest the proceeds of those results in the
      future. Thus, by definition, executives must have a longer time
@@ -1199,12 +1223,13 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2022-09-03 Sat 16:00 +1w>
+   SCHEDULED: <2022-09-10 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-08-27 Sat 11:32]
+   :LAST_REPEAT: [2022-09-10 Sat 11:43]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-09-10 Sat 11:43]
    - State "DONE"       from "TODO"       [2022-08-27 Sat 11:32]
    - State "DONE"       from "TODO"       [2022-08-20 Sat 08:36]
    - State "DONE"       from "TODO"       [2022-08-15 Mon 20:40]
