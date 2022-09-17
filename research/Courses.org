@@ -6,25 +6,68 @@
 
 ** Courses in priority
 
-   1. [[https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk][AWS: Addressing Security Risk]] course (audit)
-   2. [[https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications?specialization=aws-fundamentals][AWS: Building serverless applications]] course (audit)
-   3. [[https://www.coursera.org/learn/containerized-applications-on-aws][Containerized applications on AWS]] course (audit)
+*** TODO Complete Coursera course [[https://www.coursera.org/learn/containerized-applications-on-aws][Containerized applications on AWS]] (audit)
+   :PROPERTIES:
+   :EFFORT:   04:00
+   :BENEFIT:  1000
+   :RATIO:    2.50
+   :END:
 
-   4. [[https://www.coursera.org/learn/battery-state-of-charge?specialization=algorithms-for-battery-management-systems][Battery SOC estimation]] course
-   5. [[https://www.coursera.org/learn/battery-state-of-health?specialization=algorithms-for-battery-management-systems][Battery SOH estimation]] course
-   6. [[https://www.coursera.org/learn/battery-pack-balancing-power-estimation?specialization=algorithms-for-battery-management-systems][Battery pack balancing and power estimation]] course
 
-   8. [[https://www.coursera.org/learn/industrial-iot-fundamentals-on-aws#syllabus][Industrial IoT on AWS]] course
+*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-state-of-charge?specialization=algorithms-for-battery-management-systems][Battery SOC estimation]]
+   :PROPERTIES:
+   :EFFORT:   04:00
+   :BENEFIT:  1000
+   :RATIO:    2.50
+   :END:
 
-   9. [[https://www.coursera.org/learn/aws-machine-learning#syllabus][AWS machine learning]] course
 
-   Data visualization
+*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-state-of-health?specialization=algorithms-for-battery-management-systems][Battery SOH estimation]]
+   :PROPERTIES:
+   :EFFORT:   04:00
+   :BENEFIT:  1000
+   :RATIO:    2.50
+   :END:
 
-   Model thinking
 
-   Bayesian Statistics: From Concept to Data Analysis
+*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-pack-balancing-power-estimation?specialization=algorithms-for-battery-management-systems][Battery pack balancing and power estimation]]
+   :PROPERTIES:
+   :EFFORT:   04:00
+   :BENEFIT:  1000
+   :RATIO:    2.50
+   :END:
 
-   MLOps
+
+*** TODO Complete Coursera course [[https://www.coursera.org/learn/industrial-iot-fundamentals-on-aws#syllabus][Industrial IoT on AWS]]
+   :PROPERTIES:
+   :EFFORT:   04:00
+   :BENEFIT:  1000
+   :RATIO:    2.50
+   :END:
+
+
+*** TODO Complete Coursera course [[https://www.coursera.org/learn/aws-machine-learning#syllabus][AWS machine learning]]
+   :PROPERTIES:
+   :EFFORT:   04:00
+   :BENEFIT:  1000
+   :RATIO:    2.50
+   :END:
+
+
+*** TODO Complete Coursera course [[https://www.coursera.org/learn/cyber-security-fundamentals][Cyber security fundamentals]]
+   :PROPERTIES:
+   :EFFORT:   04:00
+   :BENEFIT:  1000
+   :RATIO:    2.50
+   :END:
+
+
+*** TODO Complete Coursera course [[https://www.coursera.org/learn/bayesian-statistics?specialization=bayesian-statistics][Bayesian statistics]]
+   :PROPERTIES:
+   :EFFORT:   04:00
+   :BENEFIT:  1000
+   :RATIO:    2.50
+   :END:
 
 
 ** Specializations
