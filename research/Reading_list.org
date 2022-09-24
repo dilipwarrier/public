@@ -1,43 +1,43 @@
 #+TITLE: List of papers to read
 #+FILETAGS: :Learning:
 
-** TODO Read AWS Well-Architected [[https://drive.google.com/open?id=13pgMhYAhO6rqq8-ef4f0A5QN_hPTEX_M&authuser=dilipgwarrier%40gmail.com&usp=drive_fs][IoT lens]]                :Software:Learning:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
-** TODO Read battery costs and storage [[https://drive.google.com/file/d/13eYJbFfhuhuLLr7BQ0xGqkOMnjDv42LM/view][report]]              :Electra:Learning:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
-** TODO Read Gitlab SMB guide to [[https://drive.google.com/open?id=17T0NNAJ6CbG855bv_330HSejtWSCnL9j&authuser=dilipgwarrier%40gmail.com&usp=drive_fs][Devops]]                   :Software:Learning:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
-** TODO Read about [[https://github.com/yuya373/emacs-slack][Emacs Slack integration]]                :Software:Learning:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
-** TODO Read [[https://drive.google.com/file/d/1d09N7rv0u_u_LJxe7G0xzPi-2m2JSBIh/view?usp=sharing][Paradox of small probabilities]] :Philosophy:Learning:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
-** TODO Read [[https://about.gitlab.com/handbook/communication/][GitLab communication handbook]] :Management:Learning:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
-** TODO Read [[https://www.theguardian.com/business/2022/apr/14/a-day-in-the-life-of-almost-every-vending-machine-in-the-world?utm_source=Newsletter&utm_campaign=e90d2f0036-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-e90d2f0036-9546361][article on vending machines]]                      :News:Learning:
+* TODO Read AWS Well-Architected [[https://drive.google.com/open?id=13pgMhYAhO6rqq8-ef4f0A5QN_hPTEX_M&authuser=dilipgwarrier%40gmail.com&usp=drive_fs][IoT lens]]                :Software:
+  :PROPERTIES:
+  :EFFORT: 00:15
+  :BENEFIT: 25
+  :RATIO: 1.00
+  :END:
+* TODO Read battery costs and storage [[https://drive.google.com/file/d/13eYJbFfhuhuLLr7BQ0xGqkOMnjDv42LM/view][report]]              :Electra:
+  :PROPERTIES:
+  :EFFORT: 00:15
+  :BENEFIT: 25
+  :RATIO: 1.00
+  :END:
+* TODO Read Gitlab SMB guide to [[https://drive.google.com/open?id=17T0NNAJ6CbG855bv_330HSejtWSCnL9j&authuser=dilipgwarrier%40gmail.com&usp=drive_fs][Devops]]                   :Software:
+  :PROPERTIES:
+  :EFFORT: 00:15
+  :BENEFIT: 25
+  :RATIO: 1.00
+  :END:
+* TODO Read about [[https://github.com/yuya373/emacs-slack][Emacs Slack integration]]                :Software:
+  :PROPERTIES:
+  :EFFORT: 00:15
+  :BENEFIT: 25
+  :RATIO: 1.00
+  :END:
+* TODO Read [[https://drive.google.com/file/d/1d09N7rv0u_u_LJxe7G0xzPi-2m2JSBIh/view?usp=sharing][Paradox of small probabilities]]             :Philosophy:
+  :PROPERTIES:
+  :EFFORT: 00:15
+  :BENEFIT: 25
+  :RATIO: 1.00
+  :END:
+* TODO Read [[https://about.gitlab.com/handbook/communication/][GitLab communication handbook]]              :Management:
+  :PROPERTIES:
+  :EFFORT: 00:15
+  :BENEFIT: 25
+  :RATIO: 1.00
+  :END:
+* TODO Read [[https://www.theguardian.com/business/2022/apr/14/a-day-in-the-life-of-almost-every-vending-machine-in-the-world?utm_source=Newsletter&utm_campaign=e90d2f0036-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-e90d2f0036-9546361][article on vending machines]]                      :News:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
