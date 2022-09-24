@@ -7,7 +7,6 @@
 ** Manager basics
 
 
-
 *** One-on-ones
 
      - 25 minutes every week - rarely missed
@@ -50,24 +49,26 @@
      improve productivity. Productivity drives happiness and not vice
      versa. You cannot take responsibility to make your directs happy.
 
-     Be specific about which action the direct should either repeat or
-     should stop.
-
      Feedback should be done often and on small things. Feedback is
      like potato chips. Any one chip doesn't really matter but, when
      you eat a whole pack, it has an impact. Feedback can be delivered
      within 30 seconds. Concentrate on keeping it that small. It will
      allow you to deliver it frequently.
 
-     Your tone should be the same in case of positive feedback or
-     negative feedback. You can do that by focusing on what you want
-     the direct to do in the future, not what the direct did in the
-     past. That will ensure that the tone is enthusiastic irrespective of
-     whether the feedback is positive or negative.
+     Your tone should be casual and easy and it should be the same in
+     case of positive feedback or negative feedback. You can do that
+     by focusing on what you want the direct to do in the future, not
+     what the direct did in the past. That will ensure that the tone
+     is enthusiastic irrespective of whether the feedback is positive
+     or negative.
 
      The second and third time should be exactly the same; no more
      negative tone than the first. Usually, you have to do it seven times
      before you decide you have a different problem.
+
+     Always ask if the direct is ready for feedback. Otherwise, they
+     may be too distracted, in which case the feedback will be
+     ineffective.
 
      Feedback should not be about what is going on in your directs'
      minds. You are not a psychologist. Instead, feedback should focus
@@ -75,14 +76,15 @@
      - What and how they communicate (verbal or written)
      - Facial expressions and body language
      - Work product (quality, accuracy, timeliness)
+     Be specific about which action the direct should either repeat or
+     should stop.
 
      Don't say "I felt that..." If you say that, you're making an
      interpretation of their behavior. Focus instead on the behavior:
      "When you...".
 
-     Always ask if the direct is ready for feedback. Otherwise, they
-     may be too distracted, in which case the feedback will be
-     ineffective.
+     The description of the impact should be based on the [[#DISC_profile][DISC profile]]
+     of the direct.
 
      When you give feedback, the focus should be on the future, not the
      past. Your direct may get defensive about the feedback but that is
@@ -101,6 +103,23 @@
     the same as above: frequent, short, mostly positive occasionally
     negative. Insist on giving feedback with face-to-face Zoom calls
     as opposed to phone calls.
+
+
+**** Feedback for peers
+     :PROPERTIES:
+     :CUSTOM_ID: peer_feedback
+     :END:
+
+     For peers, we leave out steps 1 and 3. We leave out step 1
+     because we are not expecting people to change behavior. We leave
+     out step 3 because, again, we do not have role power to expect
+     them to change. Step 2 remains exactly the same.
+
+     We should keep the tone casual and we should give way more
+     positive feedback than negative.
+
+     This can be used with the boss too but you need to be very
+     careful.
 
 
 *** Delegation
@@ -385,6 +404,8 @@
 
 ** Peer one-on-ones
 
+   See also [[#peer_feedback][peer feedback]].
+
    As you grow into senior leadership roles, you need not just
    results power or expertise power but also relationship power.
 
@@ -392,7 +413,7 @@
    if they are a VP and you are a director. You don't need to have peer
    1-1s with every one of your peers. You can pick and choose, based on
    people who you need to work with most closely. It should not be
-   based on which people you like the most, not should you spend time
+   based on which people you like the most, nor should you spend time
    with the people you have the worst relation with just to repair the
    relationsship.
 
@@ -423,9 +444,6 @@
 
    Make sure you end the meetings on time. Resist the urge to make this
    a chat session.
-
-   In addition, it will also help with both pre-wiring and steel cage death matches
-   for team promotions or layoffs.
 
    [[https://www.manager-tools.com/2011/05/peer-one-ones-part-1][Podcast link]]
 
@@ -1193,26 +1211,32 @@
 
 
 * DISC profile
+  :PROPERTIES:
+  :CUSTOM_ID: DISC_profile
+  :END:
+
+  [[file:Screenshot 2022-09-17 174158.jpg][DISC quadrants]]
 
   [[https://drive.google.com/file/d/11EE5LYTqOXHLssYnScXwgrpfcRZFVyQ3/view?usp%3Dsharing][My DISC profile - high C]]
 
   DISC elaborates on "how you behave when you're not thinking about
-  how you behave".
+  how you behave". Note that you can operate in any of the quadrants
+  if you practise and you can change where you are to adapt to a
+  situation.
 
   Dominant, Influencing, Supportive, Conscientious (DISC)
 
   High Ds tend to be leaders, brash. Feedback to them should be about
   how others will value them less as leaders.
 
-  High Is tend to be sales-y folks, eager to please and
-  influence. Feedback should be about how other people may choose not
-  to work in a team with them.
+  High Is tend to be eager to please and influence. Feedback should be
+  about how other people may choose not to work in a team with them.
 
-  High Ss tend to be less assertive and team-oriented. Feedback should
-  be about how their behavior makes the team less successful.
+  High Ss tend to be team-oriented. Feedback should be about how their
+  behavior makes the team less successful.
 
-  High Cs tend to be very diligent and process-driven. Feedback should
-  be about how their behaviors makes them less effective.
+  High Cs tend to be diligent and process-driven. Feedback should be
+  about how their behaviors makes them less effective.
 
 
 * Links and other logistics
@@ -1223,12 +1247,13 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2022-09-24 Sat 16:00 +1w>
+   SCHEDULED: <2022-10-01 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-09-17 Sat 16:31]
+   :LAST_REPEAT: [2022-09-24 Sat 08:35]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-09-24 Sat 08:35]
    - State "DONE"       from "TODO"       [2022-09-17 Sat 16:31]
    - State "DONE"       from "TODO"       [2022-09-10 Sat 15:43]
    - State "DONE"       from "TODO"       [2022-09-10 Sat 11:43]
