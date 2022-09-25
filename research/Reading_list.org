@@ -22,8 +22,8 @@
 * TODO Read about [[https://github.com/yuya373/emacs-slack][Emacs Slack integration]]                :Software:
   :PROPERTIES:
   :EFFORT: 00:15
-  :BENEFIT: 25
-  :RATIO: 1.00
+  :BENEFIT: 10
+  :RATIO: 0.40
   :END:
 * TODO Read [[https://drive.google.com/file/d/1d09N7rv0u_u_LJxe7G0xzPi-2m2JSBIh/view?usp=sharing][Paradox of small probabilities]]             :Philosophy:
   :PROPERTIES:
