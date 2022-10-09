@@ -1048,6 +1048,18 @@
 * Executive
 
 
+** How to structure an organization
+
+   Don't start with people. The names in the boxes should be the last
+   step. The purpose of the organization is found outside the
+   organization.
+
+   - What results are expected from this organization?
+   - How will the results be measured?
+   - What internal and external relations need to be maintained by the
+     org?
+
+
 ** Leader's intent
 
    [[https://www.manager-tools.com/2015/08/leaders-intent-part-1-hall-fame-guidance][Link to podcast]]
@@ -1247,12 +1259,14 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2022-10-01 Sat 16:00 +1w>
+   SCHEDULED: <2022-10-15 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-09-24 Sat 08:35]
+   :LAST_REPEAT: [2022-10-08 Sat 15:08]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-10-08 Sat 15:08]
+   - State "DONE"       from "TODO"       [2022-10-02 Sun 17:01]
    - State "DONE"       from "TODO"       [2022-09-24 Sat 08:35]
    - State "DONE"       from "TODO"       [2022-09-17 Sat 16:31]
    - State "DONE"       from "TODO"       [2022-09-10 Sat 15:43]
