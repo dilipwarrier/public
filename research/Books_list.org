@@ -866,7 +866,6 @@ optional arguments:
 
 * Sources for book recommendations
 
-  - [[https://www.nationalbook.org/national-book-awards/][National Book Award winners]]
   - [[https://www.goodreads.com/list][Goodreads lists]]
   - [[https://en.wikipedia.org/wiki/List_of_winners_and_shortlisted_authors_of_the_Booker_Prize][Booker prize winners]]
   - [[https://en.wikipedia.org/wiki/Royal_Society_Prizes_for_Science_Books][Royal Society awards]] for science books
@@ -875,3 +874,7 @@ optional arguments:
   - [[https://en.wikipedia.org/wiki/DSC_Prize_for_South_Asian_Literature][DSC prize for South Asian literature]]
   - [[https://www.thejcbprize.org/#list][JCB prize for Indian fiction]]
   - [[https://en.wikipedia.org/wiki/Crossword_Book_Award][Crossword award for Indian literature]]
+
+
+** TODO Review [[https://www.nationalbook.org/national-book-awards/][National Book Award winners]] for fiction and non-fiction and add to book list
+   SCHEDULED: <2022-12-01 Thu 08:00 +52w>

@@ -1054,10 +1054,16 @@
    step. The purpose of the organization is found outside the
    organization.
 
-   - What results are expected from this organization?
-   - How will the results be measured?
-   - What internal and external relations need to be maintained by the
-     org?
+   The rules are as follows.
+   1. Ask what results are expected of the organization
+   2. Make it as small as possible
+   3. Only one person in a box
+
+   The steps are as follows.
+   1. Draw out the org with boxes below it. Calculate a rough
+      cumulative cost and make sure it is within budget.
+   2. Decide who goes in the top box. Then, iterate all the boxes
+      below based on that person's strengths and weaknesses.
 
 
 ** Leader's intent
@@ -1259,12 +1265,15 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2022-10-22 Sat 16:00 +1w>
+   SCHEDULED: <2022-11-12 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-10-15 Sat 14:20]
+   :LAST_REPEAT: [2022-11-05 Sat 17:01]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-11-05 Sat 17:01]
+   - State "DONE"       from "TODO"       [2022-10-30 Sun 19:11]
+   - State "DONE"       from "TODO"       [2022-10-23 Sun 12:41]
    - State "DONE"       from "TODO"       [2022-10-15 Sat 14:20]
    - State "DONE"       from "TODO"       [2022-10-08 Sat 15:08]
    - State "DONE"       from "TODO"       [2022-10-02 Sun 17:01]
