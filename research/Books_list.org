@@ -9,11 +9,13 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
+| Girl gone missing                                                                                                                                  | Marcie Rendon                                 |           |            3.8 |            | 10/04/2022 | thriller                                  | to-read |
+| My name is Lucy Barton                                                                                                                             | Elizabeth Strout                              |           |            3.6 |            | 10/04/2022 | fiction                                   | to-read |
+| Apocalypse Factory                                                                                                                                 | Steve Olson                                   |           |            4.0 |            | 10/04/2022 | western-history                           | to-read |
 | She who became the Sun                                                                                                                             | Shelley Parker-Chan                           |           |            3.9 |            | 08/22/2022 | eastern-fiction                           | to-read |
 | A memory called Empire                                                                                                                             | Arkady Martine                                |           |            4.1 |            | 08/22/2022 | science-fiction                           | to-read |
 | What we owe the future                                                                                                                             | William MacAskill                             |           |            4.1 |            | 08/16/2022 | philosophy                                | to-read |
 | Over the edge of the world                                                                                                                         | Laurence Bergreen                             |           |            4.1 |            | 08/15/2022 | eastern-history                           | to-read |
-| Who gets what and why                                                                                                                              | Alvin Roth                                    |           |            3.9 |            | 08/14/2022 | economics, games                          | to-read |
 | The rise of the mammals                                                                                                                            | Steve Brusatte                                |           |            4.0 |            | 07/25/2022 | biology                                   | to-read |
 | Build: An unorthodox guide to making things                                                                                                        | Tony Fadell                                   |           |            4.0 |            | 06/25/2022 | management, product                       | to-read |
 | Why it's OK to eat meat                                                                                                                            | Dan Shahar                                    |           |            4.0 |            | 06/13/2022 | philosophy                                | to-read |
@@ -79,7 +81,6 @@
 | Bull Mountain                                                                                                                                      | Brian Panowich                                |           |            4.0 |            | 5/4/2019   | thriller                                  | to-read |
 | The huntress                                                                                                                                       | Kate Quinn                                    |           |            4.3 |            | 2/17/2019  | thriller                                  | to-read |
 | Spearhead                                                                                                                                          | Adam Makos                                    |           |            4.2 |            | 2/17/2019  | western-history                           | to-read |
-| The 7 habits of highly effective people                                                                                                            | Stephen Covey                                 |           |            4.1 |            | 1/20/2019  | self-improvement                          | to-read |
 | This Is Marketing: You Can't Be Seen Until You Learn to See                                                                                        | Seth Godin                                    |           |            4.1 |            | 11/18/2018 | marketing, management                     | to-read |
 | The Scramble for Africa: The White Man's Conquest of the Dark Continent from 1876 to 1912                                                          | Thomas Pakenham                               |           |            4.1 |            | 8/15/2018  | eastern-history                           | to-read |
 | The Far Empty                                                                                                                                      | J. Todd Scott                                 |           |            4.0 |            | 3/18/2018  | thriller                                  | to-read |
@@ -110,6 +111,8 @@
 | The whys of a political scrivener                                                                                                                  | Martin Gardner                                |           |            4.0 |            | 11/23/2013 | philosophy                                | to-read |
 | The elegant universe                                                                                                                               | Brian Greene                                  |           |            4.1 |            | 3/20/2022  | physics                                   | to-read |
 | Business model generation                                                                                                                          | Alex Osterwalder                              |           |            4.2 |            | 02/27/2022 | management                                | reading |
+| Nuclear Folly                                                                                                                                      | Serhii Plokhy                                 |         5 |            4.2 | 10/04/2022 | 09/15/2022 | western-history                           | read    |
+| Who gets what and why                                                                                                                              | Alvin Roth                                    |         3 |            3.9 | 09/15/2022 | 08/14/2022 | economics, games                          | read    |
 | Culture map                                                                                                                                        | Erin Meyer                                    |         5 |            4.4 | 9/5/2022   | 12/22/2020 | management                                | read    |
 | These women                                                                                                                                        | Ivy Pochoda                                   |         5 |            4.3 | 7/25/2022  | 5/11/2020  | thriller                                  | read    |
 | The Elephant in the Brain                                                                                                                          | Kevin Simler                                  |         5 |            4.2 | 7/18/2022  | 7/30/2018  | brain                                     | read    |
@@ -607,19 +610,6 @@
 #+TBLFM:
 
 
-* Sources for book recommendations
-
-  - [[https://www.nationalbook.org/national-book-awards/][National Book Award winners]]
-  - [[https://www.goodreads.com/list][Goodreads lists]]
-  - [[https://en.wikipedia.org/wiki/List_of_winners_and_shortlisted_authors_of_the_Booker_Prize][Booker prize winners]]
-  - [[https://en.wikipedia.org/wiki/Royal_Society_Prizes_for_Science_Books][Royal Society awards]] for science books
-  - [[https://www.thehugoawards.org/hugo-history/][Hugo prize]] for science fiction
-
-  - [[https://en.wikipedia.org/wiki/DSC_Prize_for_South_Asian_Literature][DSC prize for South Asian literature]]
-  - [[https://www.thejcbprize.org/#list][JCB prize for Indian fiction]]
-  - [[https://en.wikipedia.org/wiki/Crossword_Book_Award][Crossword award for Indian literature]]
-
-
 * Books analysis
 
 
@@ -656,10 +646,10 @@ Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, t
 Economic Hierarchies, Organization and the...     : Gordon Tullock       (4.0, economics)
 Models of the mind                                : Grace Lindsay        (4.4, brain)
 Nimitz at war                                     : Craig Symonds        (4.4, western-history)
-The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society)
 Storytelling with data                            : Cole Nussbaumer...   (4.3, design,management)
+The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society)
 Spearhead                                         : Adam Makos           (4.2, western-history)
-The Man Who Mistook His Wife for a Hat and...     : Oliver Sacks         (4.1, science)
+A different drummer                               : William Melvin...    (4.2, fiction)
 :end:
 
 
@@ -691,6 +681,8 @@ Knowledge, reality and value                      : Michael Huemer       (4.1, p
 :results:
 List of read books:
 
+Nuclear Folly                                     : Serhii Plokhy        (04-Oct-22, 5.0)
+Who gets what and why                             : Alvin Roth           (15-Sep-22, 3.0)
 Culture map                                       : Erin Meyer           (05-Sep-22, 5.0)
 These women                                       : Ivy Pochoda          (25-Jul-22, 5.0)
 The Elephant in the Brain                         : Kevin Simler         (18-Jul-22, 5.0)
@@ -739,8 +731,6 @@ Superforecasting: The Art and Science of...       : Philip E. Tetlock    (06-Mar
 Scale: The Universal Laws of Growth,...           : Geoffrey West        (03-Mar-21, 2.0)
 The Cold War: A new history                       : John Lewis Gaddis    (20-Feb-21, 5.0)
 Imperial twilight: the opium war                  : Stephen Platt        (15-Feb-21, 5.0)
-A burning                                         : Megha Majumdar       (13-Feb-21, 4.0)
-The Crossing                                      : Michael Connelly     (10-Feb-21, 4.0)
 :end:
 
 
@@ -754,8 +744,10 @@ The Crossing                                      : Michael Connelly     (10-Feb
 #+RESULTS:
 :results:
 List of categories and read-dates:
-management                    : 14-Aug-22
-physics                       : 14-Aug-22
+western-history               : 04-Oct-22
+management                    : 04-Oct-22
+economics                     : 15-Sep-22
+games                         : 15-Sep-22
 thriller                      : 25-Jul-22
 brain                         : 18-Jul-22
 fiction                       : 15-Apr-22
@@ -767,14 +759,13 @@ black-biography               : 24-Jan-22
 software                      : 15-Jan-22
 engineering                   : 15-Jan-22
 western-biography             : 12-Jan-22
-western-history               : 18-Dec-21
+physics                       : 25-Dec-21
 espionage                     : 18-Dec-21
 black-history                 : 26-Nov-21
 science                       : 10-Oct-21
 eastern-biography             : 30-Sep-21
 eastern-history               : 22-Sep-21
 buddhism                      : 25-Aug-21
-economics                     : 10-Aug-21
 philosophy                    : 25-Jul-21
 society                       : 26-Jun-21
 indian-fiction                : 13-Feb-21
@@ -795,7 +786,6 @@ indian-history                : 28-Aug-18
 kids                          : 30-Nov-17
 japanese-fiction              : 02-Jul-17
 design                        : 05-May-15
-games                         : 01-Jan-00
 marketing                     : 01-Jan-00
 chinese-fiction               : 01-Jan-00
 :end:
@@ -872,3 +862,19 @@ optional arguments:
   -g GENRE, --restrict_by_genre GENRE
   -ra AUTHOR, --restrict_by_author AUTHOR
 :end:
+
+
+* Sources for book recommendations
+
+  - [[https://www.goodreads.com/list][Goodreads lists]]
+  - [[https://en.wikipedia.org/wiki/List_of_winners_and_shortlisted_authors_of_the_Booker_Prize][Booker prize winners]]
+  - [[https://en.wikipedia.org/wiki/Royal_Society_Prizes_for_Science_Books][Royal Society awards]] for science books
+  - [[https://www.thehugoawards.org/hugo-history/][Hugo prize]] for science fiction
+
+  - [[https://en.wikipedia.org/wiki/DSC_Prize_for_South_Asian_Literature][DSC prize for South Asian literature]]
+  - [[https://www.thejcbprize.org/#list][JCB prize for Indian fiction]]
+  - [[https://en.wikipedia.org/wiki/Crossword_Book_Award][Crossword award for Indian literature]]
+
+
+** TODO Review [[https://www.nationalbook.org/national-book-awards/][National Book Award winners]] for fiction and non-fiction and add to book list
+   SCHEDULED: <2022-12-01 Thu 08:00 +52w>
