@@ -7,7 +7,6 @@
 ** Manager basics
 
 
-
 *** One-on-ones
 
      - 25 minutes every week - rarely missed
@@ -50,24 +49,26 @@
      improve productivity. Productivity drives happiness and not vice
      versa. You cannot take responsibility to make your directs happy.
 
-     Be specific about which action the direct should either repeat or
-     should stop.
-
      Feedback should be done often and on small things. Feedback is
      like potato chips. Any one chip doesn't really matter but, when
      you eat a whole pack, it has an impact. Feedback can be delivered
      within 30 seconds. Concentrate on keeping it that small. It will
      allow you to deliver it frequently.
 
-     Your tone should be the same in case of positive feedback or
-     negative feedback. You can do that by focusing on what you want
-     the direct to do in the future, not what the direct did in the
-     past. That will ensure that the tone is enthusiastic irrespective of
-     whether the feedback is positive or negative.
+     Your tone should be casual and easy and it should be the same in
+     case of positive feedback or negative feedback. You can do that
+     by focusing on what you want the direct to do in the future, not
+     what the direct did in the past. That will ensure that the tone
+     is enthusiastic irrespective of whether the feedback is positive
+     or negative.
 
      The second and third time should be exactly the same; no more
      negative tone than the first. Usually, you have to do it seven times
      before you decide you have a different problem.
+
+     Always ask if the direct is ready for feedback. Otherwise, they
+     may be too distracted, in which case the feedback will be
+     ineffective.
 
      Feedback should not be about what is going on in your directs'
      minds. You are not a psychologist. Instead, feedback should focus
@@ -75,14 +76,15 @@
      - What and how they communicate (verbal or written)
      - Facial expressions and body language
      - Work product (quality, accuracy, timeliness)
+     Be specific about which action the direct should either repeat or
+     should stop.
 
      Don't say "I felt that..." If you say that, you're making an
      interpretation of their behavior. Focus instead on the behavior:
      "When you...".
 
-     Always ask if the direct is ready for feedback. Otherwise, they
-     may be too distracted, in which case the feedback will be
-     ineffective.
+     The description of the impact should be based on the [[#DISC_profile][DISC profile]]
+     of the direct.
 
      When you give feedback, the focus should be on the future, not the
      past. Your direct may get defensive about the feedback but that is
@@ -101,6 +103,23 @@
     the same as above: frequent, short, mostly positive occasionally
     negative. Insist on giving feedback with face-to-face Zoom calls
     as opposed to phone calls.
+
+
+**** Feedback for peers
+     :PROPERTIES:
+     :CUSTOM_ID: peer_feedback
+     :END:
+
+     For peers, we leave out steps 1 and 3. We leave out step 1
+     because we are not expecting people to change behavior. We leave
+     out step 3 because, again, we do not have role power to expect
+     them to change. Step 2 remains exactly the same.
+
+     We should keep the tone casual and we should give way more
+     positive feedback than negative.
+
+     This can be used with the boss too but you need to be very
+     careful.
 
 
 *** Delegation
@@ -385,6 +404,8 @@
 
 ** Peer one-on-ones
 
+   See also [[#peer_feedback][peer feedback]].
+
    As you grow into senior leadership roles, you need not just
    results power or expertise power but also relationship power.
 
@@ -392,7 +413,7 @@
    if they are a VP and you are a director. You don't need to have peer
    1-1s with every one of your peers. You can pick and choose, based on
    people who you need to work with most closely. It should not be
-   based on which people you like the most, not should you spend time
+   based on which people you like the most, nor should you spend time
    with the people you have the worst relation with just to repair the
    relationsship.
 
@@ -424,13 +445,33 @@
    Make sure you end the meetings on time. Resist the urge to make this
    a chat session.
 
-   In addition, it will also help with both pre-wiring and steel cage death matches
-   for team promotions or layoffs.
-
    [[https://www.manager-tools.com/2011/05/peer-one-ones-part-1][Podcast link]]
 
 
 *** Manager tools: What you call politics, we call collaboration     :quotes:
+
+
+** Pinch crunch model for a relationship
+
+   In any relation, there will be times when there are pinches in the
+   relationship. A pinch in your relation with your boss might be when
+   you fail at some deliverable that your boss had. A pinch in the
+   relation with your direct might be when a direct doesn't report to
+   you that they are going to be late for a deadline.
+
+   You should plan for pinches in advance e.g. let your direct know
+   that they must communicate if they are late. You should use the
+   feedback tool when there is a pinch in the relation caused by a
+   direct.
+
+   For a pinch caused by you to a peer or to your manager, you must
+   apologize. It's OK to have pinches and you can reset the
+   relationship after a pinch. But, it is not OK to let pinches
+   fester. If pinches continue for a long time, they turns into
+   crunches and it's very hard to recover the relationship from
+   crunches.
+
+   See also [[#Relationships][Relationship building]] and this [[https://medium.com/@M.K.G/team-conflicts-are-unavoidable-lessons-learned-with-the-pinch-crunch-model-7e8e6bd0d7a9][related article]]
 
 
 ** Pre-wiring a presentation
@@ -839,7 +880,7 @@
        Do a DISC profile of your boss, using their communications.
 
 
-*** Relationships
+*** Relationship building
     :PROPERTIES:
     :CUSTOM_ID: Relationships
     :END:
@@ -970,7 +1011,7 @@
      Ensure that you have a quarterly performance review with your
      boss.
 
-   - Communication style :: Are they a leader or listener? Pace
+   - Communication style :: Are they a leader or a listener? Pace
      of speaking, excited voice or not, gestures etc.
 
    - Time management :: Try to stick within the time
@@ -991,6 +1032,7 @@
 
    - Relationships :: Who are their best relationships with and who not.
 
+
 ** Helping your manager decide
 
    For big decisions, use the SOCCR model. For smaller decisions, make
@@ -1004,6 +1046,24 @@
 
 
 * Executive
+
+
+** How to structure an organization
+
+   Don't start with people. The names in the boxes should be the last
+   step. The purpose of the organization is found outside the
+   organization.
+
+   The rules are as follows.
+   1. Ask what results are expected of the organization
+   2. Make it as small as possible
+   3. Only one person in a box
+
+   The steps are as follows.
+   1. Draw out the org with boxes below it. Calculate a rough
+      cumulative cost and make sure it is within budget.
+   2. Decide who goes in the top box. Then, iterate all the boxes
+      below based on that person's strengths and weaknesses.
 
 
 ** Leader's intent
@@ -1053,7 +1113,7 @@
    An insight should be actionable. For instance:
    "You need to build a better relation with your top customer"
    ->
-   "I will build a better relation with your top customer"
+   "I will build a better relation with my top customer"
 
    Org charts and resulting organizations are a good source for
    actionable insights. So are succession plans.
@@ -1088,7 +1148,7 @@
      Executives must give up on internal politics etc. and focus on
      external networks, connections and knowledge-seeking.
 
-   - Horizon ::
+   - Future ::
      A manager becoming an executive must not just capture results but
      must also invest the proceeds of those results in the
      future. Thus, by definition, executives must have a longer time
@@ -1169,26 +1229,32 @@
 
 
 * DISC profile
+  :PROPERTIES:
+  :CUSTOM_ID: DISC_profile
+  :END:
+
+  [[file:Screenshot 2022-09-17 174158.jpg][DISC quadrants]]
 
   [[https://drive.google.com/file/d/11EE5LYTqOXHLssYnScXwgrpfcRZFVyQ3/view?usp%3Dsharing][My DISC profile - high C]]
 
   DISC elaborates on "how you behave when you're not thinking about
-  how you behave".
+  how you behave". Note that you can operate in any of the quadrants
+  if you practise and you can change where you are to adapt to a
+  situation.
 
   Dominant, Influencing, Supportive, Conscientious (DISC)
 
   High Ds tend to be leaders, brash. Feedback to them should be about
   how others will value them less as leaders.
 
-  High Is tend to be sales-y folks, eager to please and
-  influence. Feedback should be about how other people may choose not
-  to work in a team with them.
+  High Is tend to be eager to please and influence. Feedback should be
+  about how other people may choose not to work in a team with them.
 
-  High Ss tend to be less assertive and team-oriented. Feedback should
-  be about how their behavior makes the team less successful.
+  High Ss tend to be team-oriented. Feedback should be about how their
+  behavior makes the team less successful.
 
-  High Cs tend to be very diligent and process-driven. Feedback should
-  be about how their behaviors makes them less effective.
+  High Cs tend to be diligent and process-driven. Feedback should be
+  about how their behaviors makes them less effective.
 
 
 * Links and other logistics
@@ -1199,14 +1265,22 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2022-09-17 Sat 16:00 +1w>
+   SCHEDULED: <2022-11-12 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-09-10 Sat 12:53]
+   :LAST_REPEAT: [2022-11-05 Sat 17:01]
    :END:
 
 
-   - State "DONE"       from "TODO"       [2022-09-10 Sat 12:53]
-   - State "DONE"       from "TODO"       [2022-09-06 Tue 06:57]
+   - State "DONE"       from "TODO"       [2022-11-05 Sat 17:01]
+   - State "DONE"       from "TODO"       [2022-10-30 Sun 19:11]
+   - State "DONE"       from "TODO"       [2022-10-23 Sun 12:41]
+   - State "DONE"       from "TODO"       [2022-10-15 Sat 14:20]
+   - State "DONE"       from "TODO"       [2022-10-08 Sat 15:08]
+   - State "DONE"       from "TODO"       [2022-10-02 Sun 17:01]
+   - State "DONE"       from "TODO"       [2022-09-24 Sat 08:35]
+   - State "DONE"       from "TODO"       [2022-09-17 Sat 16:31]
+   - State "DONE"       from "TODO"       [2022-09-10 Sat 15:43]
+   - State "DONE"       from "TODO"       [2022-09-10 Sat 11:43]
    - State "DONE"       from "TODO"       [2022-08-27 Sat 11:32]
    - State "DONE"       from "TODO"       [2022-08-20 Sat 08:36]
    - State "DONE"       from "TODO"       [2022-08-15 Mon 20:40]
