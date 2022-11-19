@@ -1265,12 +1265,14 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2022-11-12 Sat 16:00 +1w>
+   SCHEDULED: <2022-11-26 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-11-05 Sat 17:01]
+   :LAST_REPEAT: [2022-11-18 Fri 17:14]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-11-18 Fri 17:14]
+   - State "DONE"       from "TODO"       [2022-11-14 Mon 01:59]
    - State "DONE"       from "TODO"       [2022-11-05 Sat 17:01]
    - State "DONE"       from "TODO"       [2022-10-30 Sun 19:11]
    - State "DONE"       from "TODO"       [2022-10-23 Sun 12:41]
