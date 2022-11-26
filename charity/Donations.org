@@ -15,10 +15,11 @@
 * Recurring tasks
 
 ** TODO Donate $1000 to [[https://www.givewell.org/donate/paypal][Give Well through Paypal]]
-   SCHEDULED: <2022-11-09 Wed 13:30 +4w>
+   SCHEDULED: <2022-12-07 Wed 13:30 +4w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-10-13 Thu 21:06]
+   :LAST_REPEAT: [2022-11-19 Sat 20:40]
    :END:
+   - State "DONE"       from "TODO"       [2022-11-19 Sat 20:40]
    - State "DONE"       from "TODO"       [2022-10-13 Thu 21:06]
    - State "DONE"       from "TODO"       [2022-09-14 Wed 07:59]
    - State "DONE"       from "TODO"       [2022-08-17 Wed 08:36]
