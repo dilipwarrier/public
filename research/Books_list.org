@@ -9,6 +9,7 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
+| Hell of a book                                                                                                                                     | Jason Mott                                    |           |            4.1 |            | 12/04/2022 | fiction                                   | to-read |
 | A failed empire                                                                                                                                    | Vladislav Zubok                               |           |            3.9 |            | 11/14/2022 | eastern-history                           | to-read |
 | Girl gone missing                                                                                                                                  | Marcie Rendon                                 |           |            3.8 |            | 10/04/2022 | thriller                                  | to-read |
 | My name is Lucy Barton                                                                                                                             | Elizabeth Strout                              |           |            3.6 |            | 10/04/2022 | fiction                                   | to-read |
@@ -878,4 +879,8 @@ optional arguments:
 
 
 ** TODO Review [[https://www.nationalbook.org/national-book-awards/][National Book Award winners]] for fiction and non-fiction and add to book list
-   SCHEDULED: <2022-12-01 Thu 08:00 +52w>
+   SCHEDULED: <2023-11-30 Thu 08:00 +52w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2022-12-03 Sat 17:10]
+   :END:
+   - State "DONE"       from "TODO"       [2022-12-03 Sat 17:10]

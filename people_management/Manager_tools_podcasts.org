@@ -451,7 +451,7 @@
 *** Manager tools: What you call politics, we call collaboration     :quotes:
 
 
-** Pinch crunch model for a relationship
+** Pinch/crunch model for a relationship
 
    In any relation, there will be times when there are pinches in the
    relationship. A pinch in your relation with your boss might be when
@@ -615,6 +615,45 @@
    The formal performance discussion comes in if even the coaching
    process has failed. At this point, you notify the direct that they
    could be fired if their performance does not improve.
+
+
+** Open door policy
+
+   This does not mean that your door is open all the time.
+
+   It means that anyone in the company can setup time to talk to you on
+   any topic, with emphasis on management related issues.
+
+   As an executive, you're allowed to ask what the meeting is about. They
+   are not confidential or anonymous except in very rare cases of whistle
+   blowing.
+
+   The requesting employee must follow the chain of command, except when
+   retribution might be a factor.
+
+
+** Creating a playbook
+
+   Effective managers have a playbook. Experienced managers have dealt
+   with many issues in their lifetime. To make your team more
+   confident and resilient, you have to share your playbook with your
+   direct reports.
+
+   A playbook is like an NFL playbook with plays for a series of
+   challenges/opportunities. You share it with your team and you run
+   the play. A play is usually just a one-paragraph outline as opposed
+   to a detailed sequence of steps. Each play does not need to be
+   perfect. It just needs to be your best assessment.
+
+   As a manager or an executive, you will face many situations where
+   you don't know what to do. That is expected.
+
+   Instead, realize in advance that you will face such a situation and
+   do not panic. Think through the situation, form a plan of action
+   and then write it down. That becomes a page in your playbook. You
+   then describe the play to your team and say, "Here's the play we
+   are going to run". Then, you must ask the team for ideas. It is OK
+   for your team to suggest ideas to change parts of the play.
 
 
 * Job search
@@ -1265,12 +1304,14 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2022-11-26 Sat 16:00 +1w>
+   SCHEDULED: <2022-12-10 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-11-18 Fri 17:14]
+   :LAST_REPEAT: [2022-12-03 Sat 17:05]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2022-12-03 Sat 17:05]
+   - State "DONE"       from "TODO"       [2022-11-27 Sun 08:54]
    - State "DONE"       from "TODO"       [2022-11-18 Fri 17:14]
    - State "DONE"       from "TODO"       [2022-11-14 Mon 01:59]
    - State "DONE"       from "TODO"       [2022-11-05 Sat 17:01]

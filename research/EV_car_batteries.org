@@ -1,4 +1,5 @@
 #+Title: Data on car batteries
+#+FILETAGS: :Learning:
 
 The [[https://cleantechnica.com/2018/09/29/nissans-long-strange-trip-with-leaf-batteries/][Nissan Leaf]] has had problems with the battery, especially in hot
 conditions. The older battery models don't have a Thermal Management
@@ -36,3 +37,16 @@ System (TMS).
 * Battery [[https://www.youtube.com/watch?v=s3HPdv9iD00][thermal management system]] design - MathWorks
 
   [[file:research/Screenshot 2022-03-05 171057.jpg][Lifetime trend]]
+
+
+* Lithium carbonate
+
+  Lithium carbonate is the main ingredient in lithium ion
+  batteries. The demand for this chemical is expected to go up from
+  600k tons on 2022 to 2.4M tons in 2030.
+
+  Australia is the largest supplier with about 40% of the market. The
+  triangle of Chile, Argentina and Bolivia have 66% of the world's
+  lithium resources but have struggled to mine it properly.
+
+  Source: Economist article in Nov 2022
