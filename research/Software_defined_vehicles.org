@@ -1,0 +1,6 @@
+#+TITLE: Software-defined vehicles
+#+FILETAGS: :Learning:
+
+* Blackberry
+
+Video on [[https://youtu.be/yViw8Rh8T1w][Blackberry's evolution]] from mobile phones to IoT and security

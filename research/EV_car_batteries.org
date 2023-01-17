@@ -50,3 +50,37 @@ System (TMS).
   lithium resources but have struggled to mine it properly.
 
   Source: Economist article in Nov 2022
+
+
+* Lithium recycling
+
+  There is a need to regenerate lithium and rare metals from batteries
+  through recycling. The [[https://youtu.be/xLr0GStrnwQ][former CTO of Tesla]] has started a startup,
+  Redwood Materials, aimed at this.
+
+
+* Cold weather performance
+
+  In cold weather, ICE engines recirculate the heat radiated by the
+  engines into the cabin to warm it up. In contrast, EV batteries are
+  efficient and do not radiate as much heat. So, the cabin has to be
+  heated up using EV battery energy. As a result, EV range drops
+  significantly in winter conditions.
+
+  Per [[https://electrek.co/2022/12/13/worried-about-winter-range-loss-see-how-over-a-dozen-evs-compare/][this article,]] most EVs lose ~20% range at freezing temperature
+  compared to 70 degrees Fahrenheit.
+
+
+* Cell types and counts
+
+  [[https://www.laserax.com/blog/ev-battery-cell-types][Pouch battery formats]] are most common in EVs. In this format, there
+  are 100s of cells in an EV.
+
+  The [[file:c:/Users/dwarr/Documents/GitHub/private/Battery_management_systems/Notes.org][Nissan Leaf]] has 48 2s2p battery
+  modules = 192 cells for 24 kWh. The Nissan Leaf e+ has 62 kWh and a configurable
+  number of cells per module. However, it's not clear how many modules
+  are in a pack. See [[https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/LI_ION_EV/#:~:text=In%20the%20second%20generation%20LEAF,as%20standard%2C%20increasing%20filling%20efficiency.][Nissan page]].
+
+  [[https://media.chevrolet.com/media/us/en/chevrolet/2022-bolt-euv-bolt-ev.detail.html/content/Pages/news/us/en/2021/feb/0214-boltev-bolteuv-specifications.html][Chevy Bolt]] EV and EUV have roughly 300 cells for 65 kWh.
+
+  [[https://electricvehiclesfaqs.com/how-many-batteries-are-in-a-tesla-electric-car/#:~:text=The%20Tesla%20Model%203%20standard,groups%20(bricks)%20of%2031.][Tesla]] battery packs have 1000s of cells.

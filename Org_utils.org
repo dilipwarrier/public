@@ -15,3 +15,39 @@
       header_re = "(<[lr][0-9]+>|(----))"
       writer.writerows([entry for entry in tbl if re.search(header_re, str(entry[0]).strip()) is None])
 #+end_src
+
+
+* Add all Org files into the agenda file list
+  :PROPERTIES:
+  :CUSTOM_ID: add_files_to_agenda
+  :END:
+
+#+NAME: add_files_to_agenda
+#+BEGIN_SRC python :results output silent :var home_files=1 :var work_files=1
+  # Find all the Org files and copy them into the autogen file list
+  import os
+
+  with open('Org_agenda_files_autogen.txt', 'w') as f:
+
+      if home_files == 1:
+          private_dir = os.path.join(os.getenv("HOME"), "..","private")
+          for root, dirs, files in os.walk(private_dir):
+              for name in files:
+                  if name.endswith(".org") and not name.startswith(".#"):
+                      f.write(os.path.join(root, name) + "\n")
+
+          public_dir = os.path.join(os.getenv("HOME"), "..","public")
+          for root, dirs, files in os.walk(public_dir):
+              for name in files:
+                  if name.endswith(".org") and not name.startswith(".#"):
+                      f.write(os.path.join(root, name) + "\n")
+
+      if work_files == 1:
+          work_dir = os.path.join(os.getenv("HOME"), "..","..", "Electra_Bitbucket")
+          for root, dirs, files in os.walk(work_dir):
+              for name in files:
+                  if name.endswith(".org") and not name.startswith(".#"):
+                      f.write(os.path.join(root, name) + "\n")
+
+
+#+END_SRC

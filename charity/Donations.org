@@ -4,6 +4,7 @@
 * A list of organizations
 
 ** Give Well
+
    The Give Well organization does rigorous research on
    organizations. That's the plus. Unfortunately, since they have
    stringent requirements, there are only a few organizations that
@@ -11,14 +12,14 @@
    the main ones.
 
 
-
 * Recurring tasks
 
-** TODO Donate $1000 to [[https://www.givewell.org/donate/paypal][Give Well through Paypal]]
-   SCHEDULED: <2023-01-04 Wed 13:30 +4w>
+** TODO Donate $1100 to [[https://www.givewell.org/donate/paypal][Give Well through Paypal]]
+   SCHEDULED: <2023-02-01 Wed 13:30 +4w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-12-07 Wed 06:51]
+   :LAST_REPEAT: [2023-01-08 Sun 21:55]
    :END:
+   - State "DONE"       from "TODO"       [2023-01-08 Sun 21:55]
    - State "DONE"       from "TODO"       [2022-12-07 Wed 06:51]
    - State "DONE"       from "TODO"       [2022-11-19 Sat 20:40]
    - State "DONE"       from "TODO"       [2022-10-13 Thu 21:06]
@@ -44,3 +45,7 @@
    - State "DONE"       from "TODO"       [2021-07-28 Wed 07:09]
    - State "DONE"       from "TODO"       [2021-07-21 Wed 07:09]
    - State "DONE"       from "WAIT"       [2021-07-14 Wed 07:52]
+
+
+** TODO Increase donation amount per month (see above) by $100
+   SCHEDULED: <2024-12-20 Fri 08:00 +52w>
