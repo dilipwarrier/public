@@ -9,10 +9,14 @@ tasks to be scheduled for. The code will then create TODO tasks in Org
 format with scheduled dates that are at offset days away from
 start_date (default is the date when the code is executed).
 
+There may be an optional 3rd column. If it exists and if it is
+populated for a row, then the task is created only if the text in the
+field matches text in the tag.
+
 #+NAME: test_table
-| Task 1 | -1 |
-| Task 2 |    |
-| Task 3 |  1 |
+| Task 1 | -1 | test_tag |
+| Task 2 |    |          |
+| Task 3 |  1 |          |
 
 #+NAME: generate_tasks_from_offset
 #+BEGIN_SRC python :results output raw :var tab = test_table start_date = "" task_time="20:00" tag = ""
@@ -52,8 +56,10 @@ start_date (default is the date when the code is executed).
 
       task_date = start_date + datetime.timedelta(days = delta)
 
-      print(("*** TODO %s    %s\n    SCHEDULED: " + "<" + "%s %s>\n\n") % (t[0], tag,
-                                                                           task_date.strftime("%Y-%m-%d %a"), task_time))
+
+      if (len(t) <= 2) or (t[2] in tag):
+          print(("*** TODO %s    %s\n    SCHEDULED: " + "<" + "%s %s>\n\n") % (t[0], tag,
+                                                                               task_date.strftime("%Y-%m-%d %a"), task_time))
 #+END_SRC
 
 #+RESULTS: generate_tasks_from_offset

@@ -1304,12 +1304,13 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2023-01-21 Sat 16:00 +1w>
+   SCHEDULED: <2023-01-28 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-01-16 Mon 09:26]
+   :LAST_REPEAT: [2023-01-22 Sun 11:36]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-01-22 Sun 11:36]
    - State "DONE"       from "TODO"       [2023-01-16 Mon 09:26]
    - State "DONE"       from "TODO"       [2023-01-08 Sun 21:50]
    - State "DONE"       from "TODO"       [2023-01-03 Tue 14:46]

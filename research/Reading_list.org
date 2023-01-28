@@ -1,6 +1,10 @@
 #+TITLE: List of papers to read
 #+FILETAGS: :Learning:
 
+* TODO Complete learning exercise for 30 min
+  SCHEDULED: <2023-01-31 Tue 19:30 +7d>
+
+
 * TODO Read AWS Well-Architected [[https://drive.google.com/open?id=13pgMhYAhO6rqq8-ef4f0A5QN_hPTEX_M&authuser=dilipgwarrier%40gmail.com&usp=drive_fs][IoT lens]]
   :PROPERTIES:
   :EFFORT: 00:15
@@ -44,6 +48,12 @@
    :RATIO: 1.00
    :END:
 * TODO Read NXP [[https://drive.google.com/file/d/1CwpQtYjES7SIZdqAIBEjyhuh_g1udObI/view?usp=share_link][Software Defined Vehicles]]
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  25
+  :RATIO:    1.00
+  :END:
+* TODO Review [[https://lethain.com/measuring-engineering-organizations/?utm_source=Newsletter&utm_campaign=3b3237f0a0-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-3b3237f0a0-9546361][measurement for engineering orgs]]
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
