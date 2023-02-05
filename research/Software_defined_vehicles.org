@@ -3,4 +3,67 @@
 
 * Blackberry
 
-Video on [[https://youtu.be/yViw8Rh8T1w][Blackberry's evolution]] from mobile phones to IoT and security
+  Video on [[https://youtu.be/yViw8Rh8T1w][Blackberry's evolution]] from mobile phones to IoT and security
+
+
+* NXP presentation on [[https://drive.google.com/file/d/1CwpQtYjES7SIZdqAIBEjyhuh_g1udObI/view?usp=share_link][Software Defined Vehicles]]
+
+  OEMs are looking for reduced costs of software integration (70% of
+  software costs is in integration).
+
+  This could be achieved through:
+  - Zonal architectures where computing-intensive non-real-time
+    tasks are done in general-purpose application processors as
+    opposed to dedicated processors
+  - Applications are written in higher-level languages and use
+    off-the-shelf software components
+  - Applications in the car communicate with applications in the cloud
+    to provide maximum value
+  - Applications are deployed as microservices through efficient
+    cloud-based deployment and maintenance tools
+
+
+* Automotive software
+
+  [[https://www.youtube.com/watch?v=Ehnjhj8WFG4][100 M lines of code in a car with Munro Live]]
+
+  03:00 - Cloud software connected to high-performance embedded
+          connected to edge
+  14:00 - Tesla is very efficient in sending data back to the cloud
+  16:00 - Need for microservices
+
+
+* [[https://aws.amazon.com/blogs/industries/reinventing-automotive-engineering-for-software-defined-vehicles/][AWS/Stellantis automotive workbench]]
+
+  This web-based deployment from AWS is very similar to what they
+  provide to Blackberry IVY.
+
+
+* Software Defined Vehicles
+
+  While "software defined vehicles" is still a nebulous concept, a few
+  key factors are clear.
+
+  1. Processing distributed between applications in the cloud,
+     microservices on application processors in the car and
+     real-time critical software on edge sensors in the car
+  2. Complexity on the edge reducing over time and moving to
+     application processors in the middle
+  3. Cloud configuration and maintenance of application software through
+     over-the-air updates
+  4. Capability to deploy new features and improve existing features
+     over time
+  5. More software in the car developed in higher-level programming
+     languages rather than in C/C++.
+
+  Here's a great discussion from CES 2023 by Munro live talking about
+  all these. Note especially at the 3-min mark, the conversation about
+  (1) and (2). Tools such as AWS Workbench will help simplify (3) and
+  (4). Everything here makes sense and the economics is going to work
+  in favor of these trends - higher labor supply for higher-level
+  programming languages, reducing costs of application processors and
+  carry-over from mobile phones, availability and growth of OSs like
+  Android from the mobile industry, ease of deployment of AWS and
+  other cloud platforms etc.
+
+  Exciting times ahead for automotive software!

@@ -22,3 +22,5 @@
 
   Guilds are a collection of people across multiple tribes with
   similar interests.
+
+  [[https://www.atlassian.com/agile/agile-at-scale/spotify][Original reference]]

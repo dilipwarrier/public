@@ -33,3 +33,31 @@
   Every car has about 20 MCUs on average.
   About 70% of all MCUs are manufactured by TSMC.
   Yet, automotive chips are only 3% of TSMC revenue.
+
+
+* NXP MCUs
+
+  [[https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform:S32][S32 microcontrollers]]
+
+** S32K
+
+   These are general-purpose MCUs typically with clock rates in 100s
+   of MHz.
+
+   [[https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32k-general-purpose-mcus/s32k3-microcontrollers-for-general-purpose:S32K3][S32K3 family comparison]]
+
+   S32K344 - 4 MB flash, 512 kB SRAM, 1x lockstep Cortex M7
+   core @ 160 MHz
+
+
+** S32G
+
+   These are network processors, typically with combinations of ARM
+   Cortex-M (real-time) and Cortex-A (application) cores. Clock rates
+   are in GHz for the Cortex-A (see screenshot below).
+
+   32 KB I-cache and D-cache and 512 KB L2 per cluster.
+
+   4-8 MB SRAM.
+
+   [[file:Screenshot 2023-01-29 114928.jpg]]
