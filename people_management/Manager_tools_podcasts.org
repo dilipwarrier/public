@@ -105,23 +105,6 @@
     as opposed to phone calls.
 
 
-**** Feedback for peers
-     :PROPERTIES:
-     :CUSTOM_ID: peer_feedback
-     :END:
-
-     For peers, we leave out steps 1 and 3. We leave out step 1
-     because we are not expecting people to change behavior. We leave
-     out step 3 because, again, we do not have role power to expect
-     them to change. Step 2 remains exactly the same.
-
-     We should keep the tone casual and we should give way more
-     positive feedback than negative.
-
-     This can be used with the boss too but you need to be very
-     careful.
-
-
 *** Delegation
 
      Assume a box with 20 gray balls.  It represents your ability to be
@@ -285,193 +268,319 @@
     of the trinity (feedback, coaching etc.)
 
 
-** New hires
+** Direct reports
 
-   A culture of effective professionalism must be taught, gaining it
-   organically is slow and error-prone.
+*** New hires
 
-   Relationships matter. Your direct reports have to build relations
-   with other organizations that you do work with. They should not rely
-   on your connections. For instance, when someone from your team
-   wanted something from HR, he should talk to them directly and not
-   ask you to follow up.
+    A culture of effective professionalism must be taught, gaining it
+    organically is slow and error-prone.
 
-   Share [[file:Introduction.org][a written introduction of your management philosophy]].
+    Relationships matter. Your direct reports have to build relations
+    with other organizations that you do work with. They should not rely
+    on your connections. For instance, when someone from your team
+    wanted something from HR, he should talk to them directly and not
+    ask you to follow up.
 
-
-*** Family first
-
-   [[https://www.manager-tools.com/2022/01/first-meeting-new-direct-series-family-first-part-1][Link to podcast]]
-
-   Setup a meeting towards the end of your on-boarding 1-1 series
-   with your direct report with "Family first" as the topic.
-
-   Family and self come first, work is always second. There's always
-   going to be more work than time to do it.
-
-   Work hard and do your best during your working hours; then go home
-   and spend quality time with your family.
+    Share [[file:Introduction.org][a written introduction of your management philosophy]].
 
 
-** My direct is resigning
+**** Family first
 
-    [[https://www.manager-tools.com/2014/10/my-direct-resigning-chapter-1-never-counter-offer-part-1-hall-fame-guidance][Podcast link]]
+    [[https://www.manager-tools.com/2022/01/first-meeting-new-direct-series-family-first-part-1][Link to podcast]]
 
-    The two things a manager are responsible for are results and
-    retention.
+    Setup a meeting towards the end of your on-boarding 1-1 series
+    with your direct report with "Family first" as the topic.
 
+    Family and self come first, work is always second. There's always
+    going to be more work than time to do it.
 
-*** Congratulate them first!
-
-    We think of the negatives of the person leaving the job and become
-    defensive. Many companies don't manage your careers, people are now
-    more responsible for their own careers. They have gone out of their
-    way to do a resume and interview. So, they've achieved something. Say
-    "Congratulations! Tell me more about the offer you have!"
+    Work hard and do your best during your working hours; then go home
+    and spend quality time with your family.
 
 
-*** Gather information
+*** My direct is resigning
 
-    At this point, the direct has done a lot of work to get a
-    counter-offer without your information. You may use words like:
-    "Find out more, tell me the whole story: your job, responsibilities, etc."
+     [[https://www.manager-tools.com/2014/10/my-direct-resigning-chapter-1-never-counter-offer-part-1-hall-fame-guidance][Podcast link]]
 
-    Managers will never be able to make directs happy if they are
-    focused on just getting a better salary.
+     The two things a manager are responsible for are results and
+     retention.
 
-    You may something like "I respect you, I admire you; you make my
-    job easy. I'll miss you." Don't mention the cost of replacing the
-    person, that holds true for anyone, so it's not a factor in the
+
+**** Congratulate them first!
+
+     We think of the negatives of the person leaving the job and become
+     defensive. Many companies don't manage your careers, people are now
+     more responsible for their own careers. They have gone out of their
+     way to do a resume and interview. So, they've achieved something. Say
+     "Congratulations! Tell me more about the offer you have!"
+
+
+**** Gather information
+
+     At this point, the direct has done a lot of work to get a
+     counter-offer without your information. You may use words like:
+     "Find out more, tell me the whole story: your job, responsibilities, etc."
+
+     Managers will never be able to make directs happy if they are
+     focused on just getting a better salary.
+
+     You may something like "I respect you, I admire you; you make my
+     job easy. I'll miss you." Don't mention the cost of replacing the
+     person, that holds true for anyone, so it's not a factor in the
+     process.
+
+     At this stage, you should still not make a counter-offer. However,
+     you can ask, "Have you made a decision? If not, by when do you need
+     to make a decision?"
+
+     At this point, they may say that they have
+     already accepted the offer. That implies that you can't take any
+     action.
+
+     An offer should have the following components. You should find out
+     all these components. It can help you get industry information even
+     if you are going to lose this person.
+     - Job description, position, who you report to, location
+     - Compensation package: pay, benefits etc.
+     - Decision date
+
+
+**** Never make a counter-offer
+
+     Likelihood of success is low. You may only be able to keep them for
+     the short-term.
+
+     Cost/benefit analysis: You're paying more for essentially damage
+     control (the cost of having to go out and hire a
+     replacement). However, this person has high likelihood of leaving
+     later anyway.
+
+     Relationship damage: In order to maintain status quo (pay a person
+     more to do the same job as before), you will need to call in
+     favors. Neither you nor your boss will readily want to do
+     this. This is especially true for big companies.
+
+
+*** How to fire someone (almost)
+
+    [[https://www.manager-tools.com/2006/02/how-to-fire-someone-well-almost][Podcast link]]
+
+    The following are the steps in failure coaching.
+    - Feedback
+    - Systemic Feedback
+    - One on One Performance Discussion
+    - Coaching
+    - Formal Performance Discussion and Notification
+    - Coaching Within Your Corporate Process
+
+    At each step, you have to try to hardest to turn around the
+    performance problem.
+
+    Systemic feedback sounds like the following. You only invoke it
+    after you have given feedback multiple times.
+
+    May I give you some feedback? When I ask you to improve your slides
+    and I have to give you repeated feedback, I worry that we have a
+    bigger problem on our hands. Your performance suffers and I cannot
+    assign you special projects...
+
+    The One-on-one performance discussion is where you first document
+    the performance issue. You make it a part of the 1-1 agenda and you
+    ask if there is something going on in your direct's lives that is
+    affecting things.
+
+    If things still haven't worked out, you start a 3-month coaching
     process.
 
-    At this stage, you should still not make a counter-offer. However,
-    you can ask, "Have you made a decision? If not, by when do you need
-    to make a decision?"
-
-    At this point, they may say that they have
-    already accepted the offer. That implies that you can't take any
-    action.
-
-    An offer should have the following components. You should find out
-    all these components. It can help you get industry information even
-    if you are going to lose this person.
-    - Job description, position, who you report to, location
-    - Compensation package: pay, benefits etc.
-    - Decision date
+    The formal performance discussion comes in if even the coaching
+    process has failed. At this point, you notify the direct that they
+    could be fired if their performance does not improve.
 
 
-*** Never make a counter-offer
+** Peers
 
-    Likelihood of success is low. You may only be able to keep them for
-    the short-term.
+*** Peer one-on-ones
 
-    Cost/benefit analysis: You're paying more for essentially damage
-    control (the cost of having to go out and hire a
-    replacement). However, this person has high likelihood of leaving
-    later anyway.
+    See also [[#peer_feedback][peer feedback]].
 
-    Relationship damage: In order to maintain status quo (pay a person
-    more to do the same job as before), you will need to call in
-    favors. Neither you nor your boss will readily want to do
-    this. This is especially true for big companies.
+    Early in your career, you will need results power and expertise
+    power. However, as you grow into senior leadership roles, you need
+    to add in relationship power. This is what you gain through peer
+    1-1s.
 
+    You would have a peer 1-1 with anyone who reports to your boss, even
+    if they are a VP and you are a director. You don't need to have peer
+    1-1s with every one of your peers. You can pick and choose, based on
+    people who you need to work with most closely. It should not be
+    based on which people you like the most, nor should you spend time
+    with the people you have the worst relation with just to repair the
+    relationship.
 
-** Managing your time
+    Another consideration is whether your boss works closely with
+    another person in the org. Then, you may want to have peer 1-1s with
+    people who report to them.
 
-   You don't manage your time, you manage your priorities.
+    The general recommendation is to start with 2-3 peer 1-1s every week
+    and get to 5 peer 1-1s every week.
 
-   You don't get paid to do more things, you get paid to do the most
-   important things.
+    Be brisk and efficient; it should not be a chit-chat meeting. Spend
+    15 minutes giving operational updates. Prepare in advance to decide
+    which of your team's work is relevant to that person. Don't assume
+    that they have read your emails on a subject. Don't assume that they
+    need to know everything on the subject; make some qualitative
+    choices based on your understanding of them.
 
-   Use the following steps.
+    Use a majority of the time to give your updates and ask for
+    questions/help for a short part of the time (always at the
+    end). That way, you build a relationship by giving into it and only
+    taking from it later. Better relationships lead to improved
+    operational productivity.
 
-   1. Figure out the things you worked on in the last 3 weeks - use
-      only pen and paper
+    As part of the updates, you can also pre-wire
+    them for something you'll present to the boss. You can also talk
+    about the details of some of your directs' performance so that
+    they can defend them if it comes time for promotions/layoffs.
 
-   2. Capture your top priorities (source material: job descriptions,
-      performance reviews etc.). There should be less than 5 of these.
-      - Ask what the role requires of you, not what you want to do.
+    Make sure you end the meetings on time. Resist the urge to make this
+    a chat session.
 
-   3. Do a rough time analysis either based on your past 15 working
-      days (3 working weeks) or by timing yourself for the next 3
-      work-weeks (Drucker analysis)
-      - Put your number 1 priority on your calendar.
-
-   Yellow peanut M&M - that is your work while your self and your
-   family are the sun.  If you hold up the M&M against the sun, they
-   may seem of the same size but they are not.
-
-
-** Peer one-on-ones
-
-   See also [[#peer_feedback][peer feedback]].
-
-   As you grow into senior leadership roles, you need not just
-   results power or expertise power but also relationship power.
-
-   You would have a peer 1-1 with anyone who reports to your boss, even
-   if they are a VP and you are a director. You don't need to have peer
-   1-1s with every one of your peers. You can pick and choose, based on
-   people who you need to work with most closely. It should not be
-   based on which people you like the most, nor should you spend time
-   with the people you have the worst relation with just to repair the
-   relationsship.
-
-   Another consideration is whether your boss works closely with
-   another person in the org. Then, you may want to have peer 1-1s with
-   people who report to them.
-
-   The general recommendation is to start with 2-3 peer 1-1s every week
-   and get to 5 peer 1-1s every week.
-
-   Be brisk and efficient; it should not be a chit-chat meeting. Spend
-   15 minutes giving operational updates. Prepare in advance to decide
-   which of your team's work is relevant to that person. Don't assume
-   that they have read your emails on a subject. Don't assume that they
-   need to know everything on the subject; make some qualitative
-   choices based on your understanding of them.
-
-   Use a majority of the time to give your updates and ask for
-   questions/help for a short part of the time (always at the
-   end). That way, you build a relationship by giving into it and only
-   taking from it later. Better relationships lead to improved
-   operational productivity.
-
-   As part of the updates, you can also pre-wire
-   them for something you'll present to the boss. You can also talk
-   about the details of some of your directs' performance so that
-   they can defend them if it comes time for promotions/layoffs.
-
-   Make sure you end the meetings on time. Resist the urge to make this
-   a chat session.
-
-   [[https://www.manager-tools.com/2011/05/peer-one-ones-part-1][Podcast link]]
+    [[https://www.manager-tools.com/2011/05/peer-one-ones-part-1][Podcast link]]
 
 
-*** Manager tools: What you call politics, we call collaboration     :quotes:
+**** Manager tools: What you call politics, we call collaboration    :quotes:
 
 
-** Pinch/crunch model for a relationship
+*** Conflicts with peers
 
-   In any relation, there will be times when there are pinches in the
-   relationship. A pinch in your relation with your boss might be when
-   you fail at some deliverable that your boss had. A pinch in the
-   relation with your direct might be when a direct doesn't report to
-   you that they are going to be late for a deadline.
+    The example is one of where the peer hasn't delivered something but
+    the guidance applies more generally.
 
-   You should plan for pinches in advance e.g. let your direct know
-   that they must communicate if they are late. You should use the
-   feedback tool when there is a pinch in the relation caused by a
-   direct.
+    Use the following steps:
 
-   For a pinch caused by you to a peer or to your manager, you must
-   apologize. It's OK to have pinches and you can reset the
-   relationship after a pinch. But, it is not OK to let pinches
-   fester. If pinches continue for a long time, they turns into
-   crunches and it's very hard to recover the relationship from
-   crunches.
+    - Keep it to yourself :: Don't talk about
+      conflicts in public forums. Keep it to yourself.
 
-   See also [[#Relationships][Relationship building]] and this [[https://medium.com/@M.K.G/team-conflicts-are-unavoidable-lessons-learned-with-the-pinch-crunch-model-7e8e6bd0d7a9][related article]]
+    - Filter out the emotions :: Facts are actionable. Don't use
+      emotions as grounds for complaints.
+
+    - Focus on the work :: When you're talking to your direct,
+      focus on the work, specifically "who does what by when?". See
+      what has been impacted from that lens.
+
+    - Rise above the muck :: No matter what the provocation from your
+      peer, you should stay professional. You should also guide your
+      direct to do the same.
+
+    - Ask again :: If a task has been missed, ask the direct to ask
+      again and give a new
+      deadline. ASAP is not an option. This constitutes a second
+      instance of the problem (only if you give a new deadline and it
+      is not met).
+
+    - Help with the communications :: Review what your direct will
+      email/say. Make sure the tone is professional with no slight,
+      sarcasm etc.
+
+    - Ask to be kept posted :: Make sure you get updates from your
+      report regularly on progress, especially if the matter gets
+      resolved.
+
+    - If needed, you call :: If the matter is not resolved, you call
+      the peer with the same polite, professional approach. Your direct
+      should not have to do it more than twice. You have to take over
+      after that.
+      For instance, "Paul, just calling to ask for your
+      help on project X. We're getting behind, and need your documents
+      by net Tuesday. Please call me and let's make sure we're on the
+      same page."
+
+    - Keep copious records :: Whatever emails/Slack messages you get,
+      keep records of them. If things go well, you can throw them away
+      afterwards. If things go south, you will give your boss a
+      detailed verbal summary with facts and dates.
+
+
+*** Feedback for peers
+    :PROPERTIES:
+    :CUSTOM_ID: peer_feedback
+    :END:
+
+    For peers, we leave out steps 1 and 3. We leave out step 1
+    because we are not expecting people to change behavior. We leave
+    out step 3 because, again, we do not have role power to expect
+    them to change. Step 2 remains exactly the same.
+
+    We should keep the tone casual and we should give way more
+    positive feedback than negative.
+
+    This can be used with the boss too but you need to be very
+    careful.
+
+
+** Relationships
+
+*** Pinch/crunch model for a relationship
+
+    In any relation, there will be times when there are pinches in the
+    relationship. A pinch in your relation with your boss might be when
+    you fail at some deliverable that your boss had. A pinch in the
+    relation with your direct might be when a direct doesn't report to
+    you that they are going to be late for a deadline.
+
+    You should plan for pinches in advance e.g. let your direct know
+    that they must communicate if they are late. You should use the
+    feedback tool when there is a pinch in the relation caused by a
+    direct.
+
+    For a pinch caused by you to a peer or to your manager, you must
+    apologize. It's OK to have pinches and you can reset the
+    relationship after a pinch. But, it is not OK to let pinches
+    fester. If pinches continue for a long time, they turns into
+    crunches and it's very hard to recover the relationship from
+    crunches.
+
+    See also [[#Relationships][Relationship building]] and this [[https://medium.com/@M.K.G/team-conflicts-are-unavoidable-lessons-learned-with-the-pinch-crunch-model-7e8e6bd0d7a9][related article]]
+
+
+*** Internal customer relationships
+    :PROPERTIES:
+    :CUSTOM_ID: internal_customers
+    :END:
+
+    When you're in a new role, first focus on doing the basics well in
+    the first few weeks and months: 1-1s, feedback, coaching,
+    delegation.
+
+    In addition, [[https://www.manager-tools.com/2006/11/jump-starting-internal-customer-relationships][this podcast]] informs you how to look outside your team
+    for feedback. By becoming the voice of the customer, you gain instant
+    credibility with the team.
+
+    The steps are as follows.
+    - Who are your internal customers?
+
+    - Setup a 30 minute interview: 5 minutes for you with 1 slide,
+      25 minutes for them.
+
+    - Slide should have 4 bullets :
+      + Team's mission
+      + Where you are with respect to the mission
+      + 90-day plan
+      + This meeting's purpose
+
+    - Ask everyone the same set of standard questions:
+      + What do you or your org need from us?
+      + What metrics will you measure me by?
+      + How have we done so far on these metrics?
+      + What is your perception of my org?
+      + What guidance do you have for me?
+
+    - Analyze the data (answers across the board to the same question)
+
+    - Present the analysis to your team and ask for suggestions
+      for improvement
+
+    The tone of this meeting should be subordination. You are focusing
+    on creating relationships (personal vs formal or business relationships).
 
 
 ** Pre-wiring a presentation
@@ -540,81 +649,30 @@
    people. They decide "who will do what, by when".
 
 
-** Internal customer relationships
-   :PROPERTIES:
-   :CUSTOM_ID: internal_customers
-   :END:
+** Managing your time
 
-   When you're in a new role, first focus on doing the basics well in
-   the first few weeks and months: 1-1s, feedback, coaching,
-   delegation.
+   You don't manage your time, you manage your priorities.
 
-   In addition, [[https://www.manager-tools.com/2006/11/jump-starting-internal-customer-relationships][this podcast]] informs you how to look outside your team
-   for feedback. By becoming the voice of the customer, you gain instant
-   credibility with the team.
+   You don't get paid to do more things, you get paid to do the most
+   important things.
 
-   The steps are as follows.
-   - Who are your internal customers?
+   Use the following steps.
 
-   - Setup a 30 minute interview: 5 minutes for you with 1 slide,
-     25 minutes for them.
+   1. Figure out the things you worked on in the last 3 weeks - use
+      only pen and paper
 
-   - Slide should have 4 bullets :
-     + Team's mission
-     + Where you are with respect to the mission
-     + 90-day plan
-     + This meeting's purpose
+   2. Capture your top priorities (source material: job descriptions,
+      performance reviews etc.). There should be less than 5 of these.
+      - Ask what the role requires of you, not what you want to do.
 
-   - Ask everyone the same set of standard questions:
-     + What do you or your org need from us?
-     + What metrics will you measure me by?
-     + How have we done so far on these metrics?
-     + What is your perception of my org?
-     + What guidance do you have for me?
+   3. Do a rough time analysis either based on your past 15 working
+      days (3 working weeks) or by timing yourself for the next 3
+      work-weeks (Drucker analysis)
+      - Put your number 1 priority on your calendar.
 
-   - Analyze the data (answers across the board to the same question)
-
-   - Present the analysis to your team and ask for suggestions
-     for improvement
-
-   The tone of this meeting should be subordination. You are focusing
-   on creating relationships (personal vs formal or business relationships).
-
-
-** How to fire someone (almost)
-
-   [[https://www.manager-tools.com/2006/02/how-to-fire-someone-well-almost][Podcast link]]
-
-   The following are the steps in failure coaching.
-   - Feedback
-   - Systemic Feedback
-   - One on One Performance Discussion
-   - Coaching
-   - Formal Performance Discussion and Notification
-   - Coaching Within Your Corporate Process
-
-   At each step, you have to try to hardest to turn around the
-   performance problem.
-
-   Systemic feedback sounds like the following. You only invoke it
-   after you have given feedback multiple times.
-
-   May I give you some feedback? When I ask you to improve your slides
-   and I have to give you repeated feedback, I worry that we have a
-   bigger problem on our hands. Your performance suffers and I cannot
-   assign you special projects...
-
-   The One-on-one performance discussion is where you first document
-   the performance issue. You make it a part of the 1-1 agenda and you
-   ask if there is something going on in your direct's lives that is
-   affecting things.
-
-   If things still haven't worked out, you start a 3-month coaching
-   process.
-
-   The formal performance discussion comes in if even the coaching
-   process has failed. At this point, you notify the direct that they
-   could be fired if their performance does not improve.
+   Yellow peanut M&M - that is your work while your self and your
+   family are the sun.  If you hold up the M&M against the sun, they
+   may seem of the same size but they are not.
 
 
 ** Open door policy
@@ -656,7 +714,7 @@
    for your team to suggest ideas to change parts of the play.
 
 
-* Job search
+* Job search and career
 
 
 ** Creating an effective resume
@@ -961,9 +1019,6 @@
    shouldn't waste it on this.
 
    You should define metrics against which you are compared.
-
-
-* Career
 
 
 ** Mentoring
@@ -1304,12 +1359,13 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2023-02-04 Sat 16:00 +1w>
+   SCHEDULED: <2023-02-11 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-01-29 Sun 19:46]
+   :LAST_REPEAT: [2023-02-05 Sun 12:24]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-02-05 Sun 12:24]
    - State "DONE"       from "TODO"       [2023-01-29 Sun 19:46]
    - State "DONE"       from "TODO"       [2023-01-22 Sun 11:36]
    - State "DONE"       from "TODO"       [2023-01-16 Mon 09:26]
