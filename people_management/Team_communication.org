@@ -33,7 +33,7 @@ overall remote co-working experience.
 * Task list
 
 
-** TODO Work on asynchronous comm document                         :Learning:
+** TODO Work on asynchronous comm document                       :Confluence:
    :PROPERTIES:
    :Effort:   01:00
    :Benefit:  10

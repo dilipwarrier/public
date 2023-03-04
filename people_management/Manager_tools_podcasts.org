@@ -270,6 +270,7 @@
 
 ** Direct reports
 
+
 *** New hires
 
     A culture of effective professionalism must be taught, gaining it
@@ -399,6 +400,7 @@
 
 ** Peers
 
+
 *** Peer one-on-ones
 
     See also [[#peer_feedback][peer feedback]].
@@ -517,7 +519,62 @@
     careful.
 
 
+** Boss
+
+
+*** Managing your boss
+
+    See also [[#Boss_initial][the first few days with your boss]]
+
+    This is really about having a good relationship with your boss as
+    opposed to managing them. There are 5 topics you should be thinking
+    about.
+
+    - Goals :: You should understand all of them and not just the
+      ones that pertain to you.
+
+      Question to ask: What are your goals e.g. revenue, cost,
+      responsibilities? Always start with the financials.
+
+      Ensure that you have a quarterly performance review with your
+      boss.
+
+    - Communication style :: Are they a leader or a listener? Pace
+      of speaking, excited voice or not, gestures etc.
+
+    - Time management :: Try to stick within the time
+      limit you have for your 1-1. Be aware if there is something else
+      right after your 1-1 that the boss needs to prepare for and be
+      prepared to give up some of your 1-1 time for that. Within the
+      1-1, use only your half of the time. Then, let them take the
+      remaining time or give them the time back.
+
+      Question to ask: What, when, where are your regular meetings?
+
+      You need to match your time management to your boss' methods: for
+      instance, if they prefer to drop in on you spontaneously rather
+      than having arranged meetings, then you'll need to adjust to that.
+
+    - Working style :: Question to ask: What do they delegate and
+      what decisions do they want to be involved in?
+
+    - Relationships :: Who are their best relationships with and who not.
+
+
+*** Helping your manager decide
+
+    For big decisions, use the SOCCR model. For smaller decisions, make
+    sure you understand your manager's DISC profile first. Some people
+    prefer having a lot of information because they don't want to rule
+    out options too quickly. Some people make decisions very fast.
+
+    Your job is to present all the data and the consequences of not
+    making a decision. After that, you should learn to be OK if the
+    manager still doesn't make a decision.
+
+
 ** Relationships
+
 
 *** Pinch/crunch model for a relationship
 
@@ -583,51 +640,69 @@
     on creating relationships (personal vs formal or business relationships).
 
 
-** Pre-wiring a presentation
-   :PROPERTIES:
-   :CUSTOM_ID: pre_wire
-   :END:
+** Communication
 
-    All important presentations are pre-wired. An information briefing or
-    decision briefing must feel like a slam-dunk. However, the slam-dunk
-    doesn't happen in the presentation or briefing; it happens in the
-    pre-wiring process.
 
-    This advice also applies when your direct presents in your boss'
-    staff meeting. Your direct doesn't have enough information about
-    your boss or about your peers. You must prep them. (Give the team the
-    example of your direct's directs giving presentations during our staff
-    meetings. Your direct must be briefed first. Use this and
-    presentations in Lei's staff meeting for pre-wiring.)
+*** Pre-wiring a presentation
+    :PROPERTIES:
+    :CUSTOM_ID: pre_wire
+    :END:
 
-    - Know your time limit :: Make sure you know how much time you
-         have. Start with that, the information in the briefing matters
-         less.
+     All important presentations are pre-wired. An information briefing or
+     decision briefing must feel like a slam-dunk. However, the slam-dunk
+     doesn't happen in the presentation or briefing; it happens in the
+     pre-wiring process.
 
-    - Decide your key message :: 1 slide every 5 minutes. They don't
-         need to know every detail you know.
+     This advice also applies when your direct presents in your boss'
+     staff meeting. Your direct doesn't have enough information about
+     your boss or about your peers. You must prep them. (Give the team the
+     example of your direct's directs giving presentations during our staff
+     meetings. Your direct must be briefed first. Use this and
+     presentations in Lei's staff meeting for pre-wiring.)
 
-    - Prep slides in draft form and brief your manager
+     - Know your time limit :: Make sure you know how much time you
+          have. Start with that, the information in the briefing matters
+          less.
 
-    - Get a list of attendees :: Decide which attendees are key
-         attendees who will need pre-wiring. Make sure anybody who may
-         disagree or have a strong opinion is part of the pre-wiring
-         process.
+     - Decide your key message :: 1 slide every 5 minutes. They don't
+          need to know every detail you know.
 
-    - Brief key attendees :: Draft will go through multiple
-         revisions. Take care of curve-balls and disagreements. Request
-         30 minutes and walk through the slides (pre-reads may not be
-         read).
+     - Prep slides in draft form and brief your manager
 
-    - Re-brief your manager :: Still a draft. Tell your manager the
-         changes that you have made.
+     - Get a list of attendees :: Decide which attendees are key
+          attendees who will need pre-wiring. Make sure anybody who may
+          disagree or have a strong opinion is part of the pre-wiring
+          process.
 
-    - Finalize your slides and rehearse your presentation
+     - Brief key attendees :: Draft will go through multiple
+          revisions. Take care of curve-balls and disagreements. Request
+          30 minutes and walk through the slides (pre-reads may not be
+          read).
 
-    The goal of this exercise is to have no surprises and you want to get
-    agreement.
+     - Re-brief your manager :: Still a draft. Tell your manager the
+          changes that you have made.
 
-    [[https://www.manager-tools.com/2007/11/how-to-prewire-a-meeting%0A][Podcast link]]
+     - Finalize your slides and rehearse your presentation
+
+     The goal of this exercise is to have no surprises and you want to get
+     agreement.
+
+     [[https://www.manager-tools.com/2007/11/how-to-prewire-a-meeting%0A][Podcast link]]
+
+
+*** Open door policy
+
+    This does not mean that your door is open all the time.
+
+    It means that anyone in the company can setup time to talk to you on
+    any topic, with emphasis on management related issues.
+
+    As an executive, you're allowed to ask what the meeting is about. They
+    are not confidential or anonymous except in very rare cases of whistle
+    blowing.
+
+    The requesting employee must follow the chain of command, except when
+    retribution might be a factor.
 
 
 ** Decision making
@@ -673,21 +748,6 @@
    Yellow peanut M&M - that is your work while your self and your
    family are the sun.  If you hold up the M&M against the sun, they
    may seem of the same size but they are not.
-
-
-** Open door policy
-
-   This does not mean that your door is open all the time.
-
-   It means that anyone in the company can setup time to talk to you on
-   any topic, with emphasis on management related issues.
-
-   As an executive, you're allowed to ask what the meeting is about. They
-   are not confidential or anonymous except in very rare cases of whistle
-   blowing.
-
-   The requesting employee must follow the chain of command, except when
-   retribution might be a factor.
 
 
 ** Creating a playbook
@@ -1085,60 +1145,6 @@
    job search.
 
 
-* Working with your manager
-
-
-** Managing your boss
-
-   See also [[#Boss_initial][the first few days with your boss]]
-
-   This is really about having a good relationship with your boss as
-   opposed to managing them. There are 5 topics you should be thinking
-   about.
-
-   - Goals :: You should understand all of them and not just the
-     ones that pertain to you.
-
-     Question to ask: What are your goals e.g. revenue, cost,
-     responsibilities? Always start with the financials.
-
-     Ensure that you have a quarterly performance review with your
-     boss.
-
-   - Communication style :: Are they a leader or a listener? Pace
-     of speaking, excited voice or not, gestures etc.
-
-   - Time management :: Try to stick within the time
-     limit you have for your 1-1. Be aware if there is something else
-     right after your 1-1 that the boss needs to prepare for and be
-     prepared to give up some of your 1-1 time for that. Within the
-     1-1, use only your half of the time. Then, let them take the
-     remaining time or give them the time back.
-
-     Question to ask: What, when, where are your regular meetings?
-
-     You need to match your time management to your boss' methods: for
-     instance, if they prefer to drop in on you spontaneously rather
-     than having arranged meetings, then you'll need to adjust to that.
-
-   - Working style :: Question to ask: What do they delegate and
-     what decisions do they want to be involved in?
-
-   - Relationships :: Who are their best relationships with and who not.
-
-
-** Helping your manager decide
-
-   For big decisions, use the SOCCR model. For smaller decisions, make
-   sure you understand your manager's DISC profile first. Some people
-   prefer having a lot of information because they don't want to rule
-   out options too quickly. Some people make decisions very fast.
-
-   Your job is to present all the data and the consequences of not
-   making a decision. After that, you should learn to be OK if the
-   manager still doesn't make a decision.
-
-
 * Executive
 
 
@@ -1359,12 +1365,16 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2023-02-11 Sat 16:00 +1w>
+   SCHEDULED: <2023-03-11 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-02-05 Sun 12:24]
+   :LAST_REPEAT: [2023-03-04 Sat 16:59]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-03-04 Sat 16:59]
+   - State "DONE"       from "TODO"       [2023-02-25 Sat 06:38]
+   - State "DONE"       from "TODO"       [2023-02-20 Mon 03:14]
+   - State "DONE"       from "TODO"       [2023-02-11 Sat 17:13]
    - State "DONE"       from "TODO"       [2023-02-05 Sun 12:24]
    - State "DONE"       from "TODO"       [2023-01-29 Sun 19:46]
    - State "DONE"       from "TODO"       [2023-01-22 Sun 11:36]

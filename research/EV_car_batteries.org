@@ -1,9 +1,5 @@
-#+Title: Data on car batteries
+#+Title: EVs and batteries
 #+FILETAGS: :Learning:
-
-The [[https://cleantechnica.com/2018/09/29/nissans-long-strange-trip-with-leaf-batteries/][Nissan Leaf]] has had problems with the battery, especially in hot
-conditions. The older battery models don't have a Thermal Management
-System (TMS).
 
 * [[https://ihsmarkit.com/topic/IEBAutoTech.html#video-9-container][Battery technology trends]] - Youmin Rong, IHS Markit
 
@@ -37,6 +33,10 @@ System (TMS).
 * Battery [[https://www.youtube.com/watch?v=s3HPdv9iD00][thermal management system]] design - MathWorks
 
   [[file:research/Screenshot 2022-03-05 171057.jpg][Lifetime trend]]
+
+  The [[https://cleantechnica.com/2018/09/29/nissans-long-strange-trip-with-leaf-batteries/][Nissan Leaf]] has had problems with the battery, especially in hot
+  conditions. The older battery models don't have a Thermal Management
+  System (TMS).
 
 
 * Lithium carbonate
@@ -84,3 +84,25 @@ System (TMS).
   [[https://media.chevrolet.com/media/us/en/chevrolet/2022-bolt-euv-bolt-ev.detail.html/content/Pages/news/us/en/2021/feb/0214-boltev-bolteuv-specifications.html][Chevy Bolt]] EV and EUV have roughly 300 cells for 65 kWh.
 
   [[https://electricvehiclesfaqs.com/how-many-batteries-are-in-a-tesla-electric-car/#:~:text=The%20Tesla%20Model%203%20standard,groups%20(bricks)%20of%2031.][Tesla]] battery packs have 1000s of cells.
+
+
+* Cell manufacturing companies
+
+
+* Software companies
+
+
+** Qnovo
+
+   Qnovo has a [[https://www.qnovo.com/news/borgwarner-and-ogci-climate-investments-complete-new-investments-in-qnovo-in-24m-series-c-funding][$24M Series-C funding]] from Borg-Warner among others.
+
+   They build software for batteries but so far don't advertise any
+   automotive products. They do software for consumer batteries like
+   in cell phones.
+
+   However, they had a [[https://mobex.io/webinars/nxp-semiconductors-and-qnovo-collaborate-on-xev-battery-performance/][joint webinar with NXP]] on improving EV
+   performance.
+
+   [[file:Screenshot 2023-02-28 110603.jpg][Advantages]]
+
+   [[file:Screenshot 2023-02-28 110653.jpg][Cloud/Edge]]

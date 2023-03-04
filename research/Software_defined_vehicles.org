@@ -1,4 +1,4 @@
-#+TITLE: Software-defined vehicles
+#+TITLE: Software for cars
 #+FILETAGS: :Learning:
 
 * Blackberry
@@ -67,3 +67,19 @@
   other cloud platforms etc.
 
   Exciting times ahead for automotive software!
+
+
+* ISO 26262
+
+
+** TODO Review ISO 26262 standard (see below)
+   :PROPERTIES:
+   :EFFORT:  00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+   [[https://www.iso.org/obp/ui/#iso:std:iso:26262:-6:ed-2:v1:en][Part 6]] of ISO 26262 applies to software development
+
+   [[file:Screenshot 2023-02-07 071035.jpg][Picture overview]]
