@@ -1,6 +1,16 @@
 #+Title: A list of standard work tasks that a manager may need to do
 #+Filetags: :Manager:
 
+* Questions for performance improvement
+  :PROPERTIES:
+  :CUSTOM_ID: questions_improvement
+  :END:
+
+  - Overall, how did we do?
+  - Describe one activity that we did well
+  - Describe one activity that we can stop doing, start doing or do better
+
+
 * Schedule management
 
   - Once a week on Friday, clean up calendar for the upcoming week
@@ -8,10 +18,19 @@
 
 * Direct reports
 
+** TODO Ask the direct reports: "Overall, how are you doing?"
+   SCHEDULED: <2023-04-03 Mon 08:00 +4w>
+
+
+** Other tasks
+
   - Once a week, check if any action items are overdue
 
-  - Once a month, ask the direct reports: "Overall, how are you
-    doing?"
+
+* Manager
+
+** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]]
+   SCHEDULED: <2023-04-05 Wed 08:00 +12w>
 
 
 * Organization
