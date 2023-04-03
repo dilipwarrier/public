@@ -9,6 +9,7 @@
 | Title                                                                                                                                              | Author                                        | My Rating | Average Rating | Date Read  | Date Added | Genre                                     | Status  |
 | <l25>                                                                                                                                              | <l10>                                         |       <3> |            <3> | <l10>      | <l10>      | <l10>                                     | <l8>    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+-----------+----------------+------------+------------+-------------------------------------------+---------|
+| The culture engine                                                                                                                                 | Chris Edmonds                                 |           |            4.0 |            | 4/2/2023   | management                                | to-read |
 | How big things get done                                                                                                                            | Bent Flyvbjerg                                |           |            4.0 |            | 2/20/2023  | engineering                               | to-read |
 | The culture transplant                                                                                                                             | Garrett Jones                                 |           |            4.0 |            | 1/22/2023  | economics                                 | to-read |
 | Breakout Nations                                                                                                                                   | Ruchir Sharma                                 |           |            4.0 |            | 1/16/2023  | economics                                 | to-read |
@@ -68,7 +69,7 @@
 | Judgement in managerial decision making                                                                                                            | Bazerman, Moore                               |           |            4.0 |            | 12/22/2020 | management                                | to-read |
 | Reading the room                                                                                                                                   | David Kantor                                  |           |            4.2 |            | 11/7/2020  | management                                | to-read |
 | Sensemaking in organizations                                                                                                                       | Karl Weick                                    |           |            4.0 |            | 11/7/2020  | management                                | to-read |
-| Storytelling with data                                                                                                                             | Cole Nussbaumer Knaflic                       |           |            4.3 |            | 10/22/2020 | design, management                        | to-read |
+| Storytelling with data                                                                                                                             | Cole Nussbaumer Knaflic                       |           |            4.3 |            | 10/22/2020 | design                                    | to-read |
 | The walking dead                                                                                                                                   | Gerald Seymour                                |           |            3.9 |            | 9/26/2020  | thriller                                  | to-read |
 | Magdalena: River of dreams                                                                                                                         | Wade Davis                                    |           |            4.4 |            | 9/6/2020   | society                                   | to-read |
 | Sum                                                                                                                                                | David Eagleman                                |           |            4.1 |            | 9/6/2020   | science-fiction                           | to-read |
@@ -642,6 +643,7 @@ Working backwards                                 : Colin Bryar, Bill... (4.4, m
 The huntress                                      : Kate Quinn           (4.3, thriller)
 Jesus' Son                                        : Denis Johnson        (4.1, fiction)
 The Art of Action                                 : Stephen Bungay       (4.3, management)
+Storytelling with data                            : Cole Nussbaumer...   (4.3, design)
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Models of the mind                                : Grace Lindsay        (4.4, brain)
 Compulsion                                        : Meyer Levin          (4.1, thriller)
@@ -649,7 +651,6 @@ Nimitz at war                                     : Craig Symonds        (4.4, w
 The Christmas Virtues: A Treasury of...           : Jonathan V. Last     (4.1, society)
 Five Families: The Rise, Decline, and...          : Selwyn Raab          (4.1, western-biography)
 The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
-Storytelling with data                            : Cole Nussbaumer...   (4.3, design,management)
 Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
 Thinking in systems                               : Donella Meadows      (4.3, management)
 Spearhead                                         : Adam Makos           (4.2, western-history)
