@@ -2,15 +2,16 @@
 #+FILETAGS: :Learning:
 
 * TODO Complete learning exercise for 30 min
-  SCHEDULED: <2023-04-04 Tue 19:30 +7d>
+  SCHEDULED: <2023-04-11 Tue 19:30 +7d>
 :PROPERTIES:
 :EFFORT:  00:30
 :BENEFIT: 50
 :RATIO: 1.00
-:LAST_REPEAT: [2023-03-29 Wed 16:29]
+:LAST_REPEAT: [2023-04-05 Wed 18:08]
 :END:
 
 
+- State "DONE"       from "TODO"       [2023-04-05 Wed 18:08]
 - State "DONE"       from "TODO"       [2023-03-29 Wed 16:29]
 - State "DONE"       from "TODO"       [2023-03-23 Thu 17:08]
 - State "DONE"       from "TODO"       [2023-03-15 Wed 12:22]

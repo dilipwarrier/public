@@ -13,13 +13,25 @@
 
 * Schedule management
 
-  - Once a week on Friday, clean up calendar for the upcoming week
+
+** TODO Clean up calendar for the upcoming week through next Monday :Mobile:Offline:
+   SCHEDULED: <2023-04-14 Fri 16:00 +1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2023-04-07 Fri 11:56]
+   :END:
 
 
+   - State "DONE"       from "TODO"       [2023-04-07 Fri 11:56]
 * Direct reports
 
 ** TODO Ask the direct reports: "Overall, how are you doing?"
-   SCHEDULED: <2023-04-03 Mon 08:00 +4w>
+   SCHEDULED: <2023-05-01 Mon 08:00 +4w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2023-04-03 Mon 10:06]
+   :END:
+
+
+   - State "DONE"       from "TODO"       [2023-04-03 Mon 10:06]
 
 
 ** Other tasks
@@ -30,9 +42,13 @@
 * Manager
 
 ** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]]
-   SCHEDULED: <2023-04-05 Wed 08:00 +12w>
+   SCHEDULED: <2023-06-28 Wed 08:00 +12w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2023-04-05 Wed 18:17]
+   :END:
 
 
+   - State "DONE"       from "TODO"       [2023-04-05 Wed 18:17]
 * Organization
 
   - Once a quarter, review team succession planning list

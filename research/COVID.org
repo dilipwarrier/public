@@ -5,3 +5,18 @@
 
   This [[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fulltext#back-bib1][Lancet article]] argues against providing booster shots to the
   general community.
+
+
+* Efficacy of mask mandates
+
+  This [[https://www.economist.com/graphic-detail/2023/04/04/a-new-study-of-studies-reignites-controversy-over-mask-mandates][Economist article]] shows that most papers are inconclusive on
+  mask mandates (groups of people all wearing masks) helping reduce
+  COVID symptoms.
+
+  The only [[https://www.science.org/doi/10.1126/science.abi9069][paper]] with RCTs that showed an effect was based on a study
+  done in Bangladesh. In this study, 8.6% of the population in the
+  control group got COVID-like symptoms while 7.6% in the intervention
+  group got them. Thus, there was a 11.6% reduction attributable to
+  masks. The mask usage in the intervention arm was 42.3% as opposed
+  to 13.3% in the control arm. The reducton was most in the elderly
+  population (35.3% among individuals older than 60).

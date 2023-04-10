@@ -39,6 +39,7 @@
 
   [[https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform:S32][S32 microcontrollers]]
 
+
 ** S32K
 
    These are general-purpose MCUs typically with clock rates in 100s
@@ -61,3 +62,9 @@
    4-8 MB SRAM.
 
    [[file:Screenshot 2023-01-29 114928.jpg]]
+
+
+* Snapdragon
+
+  [[https://developer.qualcomm.com/blog/ml-training-edge-training-mobile-devices][Limited retraining]] is supported on the Snapdragon using the OpenCL
+  ML SDK on the Adreno.

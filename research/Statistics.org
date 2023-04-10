@@ -1,0 +1,7 @@
+#+TITLE: Concepts in statistics and machine learning
+#+FILETAGS: :math:
+
+* Statistical quantities
+
+  RMSE, MAE, MSE, R-squared
+  [[https://medium.com/wwblog/evaluating-regression-models-using-rmse-and-r%C2%B2-42f77400efee#:~:text=High%20RMSE%2C%20high%20R%C2%B2%20The%20model%20above%20has,of%204%3A%20High%20RMSE%20%28bad%29%2C%20low%20R%C2%B2%20%28bad%29][Statistical implications of RMSE and R-squared]]
