@@ -14,7 +14,7 @@
    :END:
 
 
-*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-state-of-charge?specialization=algorithms-for-battery-management-systems][Battery SOC estimation]]
+*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-state-of-charge?specialization=algorithms-for-battery-management-systems][Battery SOC estimation]] :Automotive:
    :PROPERTIES:
    :EFFORT:   04:00
    :BENEFIT:  1000
@@ -22,7 +22,7 @@
    :END:
 
 
-*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-state-of-health?specialization=algorithms-for-battery-management-systems][Battery SOH estimation]]
+*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-state-of-health?specialization=algorithms-for-battery-management-systems][Battery SOH estimation]] :Automotive:
    :PROPERTIES:
    :EFFORT:   04:00
    :BENEFIT:  1000
@@ -30,7 +30,7 @@
    :END:
 
 
-*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-pack-balancing-power-estimation?specialization=algorithms-for-battery-management-systems][Battery pack balancing and power estimation]]
+*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-pack-balancing-power-estimation?specialization=algorithms-for-battery-management-systems][Battery pack balancing and power estimation]] :Automotive:
    :PROPERTIES:
    :EFFORT:   04:00
    :BENEFIT:  1000
