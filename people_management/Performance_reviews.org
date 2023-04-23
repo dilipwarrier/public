@@ -8,12 +8,41 @@
   year. There are a set of steps for each performance review. In this
   note, we setup the tasks that need to be executed in each cycle.
 
-   - Make 1-1s with directs 1 hour to do quarterly performance reviews
-     and goal updates
+** Task list
 
-   - Create tasks for directs to update and submit goals and
-     development plan
+#+NAME: Performance_review_tasks
+|-------------------------------------------------------------------------+-----|
+| Ask directs to create quarter's goals                                   |  +5 |
+| Make 1-1s with directs into goal creation meetings                      |  +5 |
+| Make 1-1s with directs into mid-quarter goal progress check-in meetings | +40 |
+| Complete my mid-quarter goal progress check-in                          | +45 |
+| Run automated task creation script for next quarter's goals activities  | +80 |
+| Make 1-1s with directs into end-quarter goal progress review meetings   | +80 |
+| Complete my end-quarter goal progress                                   | +85 |
+|-------------------------------------------------------------------------+-----|
 
-   - Request quick feedback on directs from peers
+#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab = Performance_review_tasks, start_date="2023-04-01")
 
-   - Complete my quarterly performance review
+#+RESULTS:
+:results:
+*** TODO Make 1-1s with directs into mid-quarter goal progress check-in meetings
+    SCHEDULED: <2023-05-11 Thu 20:00>
+
+
+*** TODO Complete my mid-quarter goal progress check-in
+    SCHEDULED: <2023-05-16 Tue 20:00>
+
+
+*** TODO Run automated task creation script for next quarter's goals activities
+    SCHEDULED: <2023-06-20 Tue 20:00>
+
+
+*** TODO Make 1-1s with directs into end-quarter goal progress review meetings
+    SCHEDULED: <2023-06-20 Tue 20:00>
+
+
+*** TODO Complete my end-quarter goal progress
+    SCHEDULED: <2023-06-25 Sun 20:00>
+
+
+:end:

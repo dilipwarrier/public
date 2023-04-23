@@ -2,15 +2,16 @@
 #+FILETAGS: :Learning:
 
 * TODO Complete learning exercise for 30 min
-  SCHEDULED: <2023-04-18 Tue 19:30 +7d>
+  SCHEDULED: <2023-04-25 Tue 19:30 +7d>
 :PROPERTIES:
 :EFFORT:  00:30
 :BENEFIT: 50
 :RATIO: 1.00
-:LAST_REPEAT: [2023-04-12 Wed 13:19]
+:LAST_REPEAT: [2023-04-20 Thu 18:02]
 :END:
 
 
+- State "DONE"       from "TODO"       [2023-04-20 Thu 18:02]
 - State "DONE"       from "TODO"       [2023-04-12 Wed 13:19]
 - State "DONE"       from "TODO"       [2023-04-05 Wed 18:08]
 - State "DONE"       from "TODO"       [2023-03-29 Wed 16:29]
@@ -125,5 +126,11 @@
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
+  :RATIO:    1.00
+  :END:
+* TODO Review Electra [[https://drive.google.com/file/d/1V_j6t8dBajQ03q00Gs8JP0wvr-4dCOPd/view?usp=share_link][409A valuation]] from Carta                     :Electra:
+  :PROPERTIES:
+  :EFFORT:   00:30
+  :BENEFIT:  50
   :RATIO:    1.00
   :END:
