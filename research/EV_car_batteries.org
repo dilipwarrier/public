@@ -35,7 +35,7 @@
   [[file:research/Screenshot 2022-03-05 171057.jpg][Lifetime trend]]
 
   The [[https://cleantechnica.com/2018/09/29/nissans-long-strange-trip-with-leaf-batteries/][Nissan Leaf]] has had problems with the battery, especially in hot
-  conditions. The older battery models don't have a Thermal Management
+  conditions. Older battery models do not have a Thermal Management
   System (TMS).
 
 
@@ -69,6 +69,23 @@
 
   Per [[https://electrek.co/2022/12/13/worried-about-winter-range-loss-see-how-over-a-dozen-evs-compare/][this article,]] most EVs lose ~20% range at freezing temperature
   compared to 70 degrees Fahrenheit.
+
+
+* EV global trends
+
+  According to [[ev-volumes.com/#:~:text=For%20the%20full%20year%20of,are%20BEVs%20and%2030%20%25%20PHEVs][EV Volumes]], about 10.5M EVs were sold globally
+  in 2022. This was 13% of all passenger vehicles. Out of this, about
+  7.5M were BEVs and about 3M were PHEVs.
+
+  Per slide 22 of the [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view][Volta Foundation Battery Report]], this number was
+  a 57% increase from 2021. By 2030, the number is expected to be at
+  47M (about 50% of the total passenger vehicle market). This is an
+  average growth rate of 21% every year for 8 years.
+
+  About 6.2M EVs were sold in China (about 60% of the global market),
+  2.7M in Europe and 1.1m were sold in the US.
+
+  [[file:Screenshot 2023-04-23 171648.png]]
 
 
 * Cell types and counts

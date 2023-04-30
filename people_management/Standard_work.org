@@ -15,19 +15,20 @@
 
 
 ** TODO Clean up calendar for the upcoming week through next Monday :Mobile:Offline:
-   SCHEDULED: <2023-04-28 Fri 16:00 +1w>
+   SCHEDULED: <2023-05-05 Fri 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-04-22 Sat 15:53]
+   :LAST_REPEAT: [2023-04-29 Sat 08:58]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-04-29 Sat 08:58]
    - State "DONE"       from "TODO"       [2023-04-22 Sat 15:53]
    - State "DONE"       from "TODO"       [2023-04-14 Fri 08:18]
    - State "DONE"       from "TODO"       [2023-04-07 Fri 11:56]
 * Direct reports
 
 ** TODO Ask the direct reports: "Overall, how are you doing?"
-   SCHEDULED: <2023-05-01 Mon 08:00 +4w>
+   SCHEDULED: <2023-05-08 Mon 08:00 +4w>
    :PROPERTIES:
    :LAST_REPEAT: [2023-04-03 Mon 10:06]
    :END:
