@@ -2,15 +2,17 @@
 #+FILETAGS: :Learning:
 
 * TODO Complete learning exercise for 30 min
-  SCHEDULED: <2023-05-16 Tue 19:30 +7d>
+  SCHEDULED: <2023-05-30 Tue 19:30 +7d>
 :PROPERTIES:
 :EFFORT:  00:30
 :BENEFIT: 50
 :RATIO: 1.00
-:LAST_REPEAT: [2023-05-10 Wed 09:35]
+:LAST_REPEAT: [2023-05-24 Wed 11:49]
 :END:
 
 
+- State "DONE"       from "TODO"       [2023-05-24 Wed 11:49]
+- State "DONE"       from "TODO"       [2023-05-17 Wed 10:26]
 - State "DONE"       from "TODO"       [2023-05-10 Wed 09:35]
 - State "DONE"       from "TODO"       [2023-05-03 Wed 06:30]
 - State "DONE"       from "TODO"       [2023-04-26 Wed 20:31]
@@ -137,7 +139,7 @@
   :BENEFIT:  50
   :RATIO:    1.00
   :END:
-* TODO Find Rama ramakrishnan chatgpt slide deck
+* TODO Read Rama Ramakrishnan [[https://drive.google.com/file/d/1P0chJKuHdGFL_Pshl6l0wyqMJ4Gu_KQV/view?usp=share_link][ChatGPT intro]]
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
