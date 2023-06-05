@@ -71,7 +71,7 @@ following table shows CO2 emissions from various kinds of container
 ships. The Normalized Operational Efficiency (NOE) may be the
 appropriate metric to use.
 
-[[./Screenshot 2021-07-08 125645.png]]
+[[Screenshot 2021-07-08 125645.png][CO2 emissions table]]
 
 
 * Plant-based diets

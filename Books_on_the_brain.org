@@ -1,0 +1,29 @@
+#+Title: Books and research on the brain
+
+* Models of the mind by Grace Lindsay
+
+
+** Making and maintaining memories
+
+   A neural network can be configured such that it has certain
+   low-energy states that act as attractors. Such neural networks are
+   known as Hopfield networks. When an arbitrary input
+   is provided to the neural network, the neural network converges to
+   one of these attractors. This can be used to simulate the behavior
+   of the brain where certain stimuli can cause the brain to remember
+   old events or patterns.
+
+   However, Hopfield networks have discrete attractors and do not
+   match well the real-life behavior of attractors that are close to
+   each other. For instance, you may remember something to be a shade
+   of blue that is close to another shade. To simulate such behavior,
+   a ring structure where similar memories are close to each other
+   works better.
+
+   In either case, these networks are only crude approximations of
+   what really happens in the brains. The actual neural networks
+   behave in a very complicated and messy fashion that can not be
+   cleanly described through such models.
+
+
+** Excitation and inhibition
