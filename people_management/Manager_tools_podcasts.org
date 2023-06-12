@@ -1328,6 +1328,27 @@
      always be themselves), you'll get the job.
 
 
+** Culture
+
+   Culture is nothing more than the sum of all acceptable behaviors in
+   the organization - the way we do things here.
+
+   It is a result of the adaptation of our behaviors in the organization.
+
+   It is not the sum of values. The culture cannot be a caring culture
+   because caring is a value, not a behavior.
+
+   A value can be a starting point but, if the behavior is not in sync
+   with the value, then the culture is the behavior and not the value.
+
+   Managers are the guardians of the organizational culture. They must
+   model the behaviors and must give feedback to ensure that the
+   behaviors are in sync with the values.
+
+   Values are usually on the website. They should be a small
+   list. Behaviors are usually not on a website.
+
+
 * DISC profile
   :PROPERTIES:
   :CUSTOM_ID: DISC_profile

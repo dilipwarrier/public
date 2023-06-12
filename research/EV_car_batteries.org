@@ -75,15 +75,14 @@
 
   According to [[ev-volumes.com/#:~:text=For%20the%20full%20year%20of,are%20BEVs%20and%2030%20%25%20PHEVs][EV Volumes]], about 10.5M EVs were sold globally
   in 2022. This was 13% of all passenger vehicles. Out of this, about
-  7.5M were BEVs and about 3M were PHEVs.
+  7.5M were BEVs and about 3M were PHEVs. About 6.2M EVs were sold in
+  China (about 60% of the global market), 2.7M in Europe and 1.1m were
+  sold in the US.
 
   Per slide 22 of the [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view][Volta Foundation Battery Report]], this number was
   a 57% increase from 2021. By 2030, the number is expected to be at
   47M (about 50% of the total passenger vehicle market). This is an
   average growth rate of 21% every year for 8 years.
-
-  About 6.2M EVs were sold in China (about 60% of the global market),
-  2.7M in Europe and 1.1m were sold in the US.
 
   [[file:Screenshot 2023-04-23 171648.png]]
 
@@ -103,7 +102,15 @@
   [[https://electricvehiclesfaqs.com/how-many-batteries-are-in-a-tesla-electric-car/#:~:text=The%20Tesla%20Model%203%20standard,groups%20(bricks)%20of%2031.][Tesla]] battery packs have 1000s of cells.
 
 
-* Cell manufacturing companies
+* Battery costs
+
+  [[https://drive.google.com/file/d/13eYJbFfhuhuLLr7BQ0xGqkOMnjDv42LM/view?usp=drivesdk][IHS Markit report]] on battery costs
+
+  Average BEV capacity will increase to roughly 70 kWh by 2030.
+
+  Costs of batteries increase by chemistry from NCA to NMC to LFP.
+
+  Costs for LFP will drop from $170/kWh in 2020 to $110/kWh in 2030.
 
 
 * Software companies
