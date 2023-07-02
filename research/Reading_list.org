@@ -1,15 +1,7 @@
 #+TITLE: List of papers to read
 #+FILETAGS: :Learning:
 
-* TODO Read AWS Well-Architected [[https://drive.google.com/open?id=13pgMhYAhO6rqq8-ef4f0A5QN_hPTEX_M&authuser=dilipgwarrier%40gmail.com&usp=drive_fs][IoT lens]]
-  :PROPERTIES:
-  :EFFORT: 00:15
-  :BENEFIT: 25
-  :RATIO: 1.00
-  :END:
-
-
-* TODO Read battery costs and storage [[https://drive.google.com/file/d/13eYJbFfhuhuLLr7BQ0xGqkOMnjDv42LM/view][report]]                     :Automotive:
+* TODO Read AWS Well-Architected [[https://drive.google.com/open?id=13pgMhYAhO6rqq8-ef4f0A5QN_hPTEX_M&authuser=dilipgwarrier%40gmail.com&usp=drive_fs][IoT lens]]                        :Offline:PC:
   :PROPERTIES:
   :EFFORT: 00:15
   :BENEFIT: 25
@@ -33,7 +25,7 @@
   :END:
 
 
-* TODO Read [[https://about.gitlab.com/handbook/communication/][GitLab communication handbook]]                        :Management:
+* TODO Read [[https://drive.google.com/file/d/15g-hWkTRu8bUS3hAWgeBj0YT9y-T1ter/view?usp=drive_link][GitLab communication handbook]]             :Offline:PC:Management:
   :PROPERTIES:
   :EFFORT: 00:15
   :BENEFIT: 50
@@ -64,7 +56,7 @@
   :END:
 
 
-* TODO Read [[https://www.detroitnews.com/story/business/autos/2023/02/07/electric-vehicles-power-houses-tdn/69880483007/][V2X charging paper]]                                   :Automotive:
+* TODO Read [[https://www.detroitnews.com/story/business/autos/2023/02/07/electric-vehicles-power-houses-tdn/69880483007/][V2X charging paper]]                        :Offline:PC:Automotive:
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
@@ -105,13 +97,13 @@
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
-* TODO Review Electra [[https://drive.google.com/file/d/1V_j6t8dBajQ03q00Gs8JP0wvr-4dCOPd/view?usp=share_link][409A valuation]] from Carta                     :Electra:
+* TODO Review Electra [[https://drive.google.com/file/d/1V_j6t8dBajQ03q00Gs8JP0wvr-4dCOPd/view?usp=share_link][409A valuation]] from Carta          :Electra:Offline:PC:
   :PROPERTIES:
   :EFFORT:   00:30
   :BENEFIT:  50
   :RATIO:    1.00
   :END:
-* TODO Read Rama Ramakrishnan [[https://drive.google.com/file/d/1P0chJKuHdGFL_Pshl6l0wyqMJ4Gu_KQV/view?usp=share_link][ChatGPT intro]]
+* TODO Read Rama Ramakrishnan [[https://drive.google.com/file/d/1P0chJKuHdGFL_Pshl6l0wyqMJ4Gu_KQV/view?usp=share_link][ChatGPT intro]]                      :Offline:PC:
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25

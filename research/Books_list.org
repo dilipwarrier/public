@@ -18,7 +18,7 @@ List of recommended books:
 Crossing Point                                    : James Glickman       (4.3, fiction)
 Magdalena: River of dreams                        : Wade Davis           (4.4, society)
 Working backwards                                 : Colin Bryar, Bill... (4.4, management)
-The huntress                                      : Kate Quinn           (4.3, thriller)
+The diamond eye                                   : Kate Quinn           (4.3, thriller)
 Jesus' Son                                        : Denis Johnson        (4.1, fiction)
 The Art of Action                                 : Stephen Bungay       (4.3, management)
 Storytelling with data                            : Cole Nussbaumer...   (4.3, design)
@@ -219,6 +219,36 @@ Shyam Selvadurai
 :end:
 
 
+** Books to read by genre
+
+#+begin_src shell :results drawer
+  ../item_recommender/recommend_book.py -g thriller books_list.csv
+#+end_src
+
+#+RESULTS:
+:results:
+List of recommended books:
+
+The huntress                                      : Kate Quinn           (4.3, thriller)
+Compulsion                                        : Meyer Levin          (4.1, thriller)
+Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
+Thus Bad Begins                                   : Javier Marias        (4.0, thriller)
+Conviction                                        : Denise Mina          (4.1, thriller)
+The Prague Sonata                                 : Bradford Morrow      (4.0, thriller)
+The Woman in the Window                           : A. J. Finn           (4.0, thriller)
+The burden of proof                               : Scott Turow          (4.1, thriller)
+Freshwater                                        : Akwaeke Emezi        (4.0, thriller)
+The Far Empty                                     : J. Todd Scott        (4.0, thriller)
+A nearly normal family                            : M. T. Edvardsson     (4.0, scandinavian-thriller)
+Bull Mountain                                     : Brian Panowich       (4.0, thriller)
+Clean hands                                       : Patrick Hoffman      (3.9, thriller)
+The walking dead                                  : Gerald Seymour       (3.9, thriller)
+Devil in a blue dress                             : Walter Mosley        (3.9, thriller)
+Before she knew him                               : Peter Swanson        (3.9, thriller)
+Girl gone missing                                 : Marcie Rendon        (3.8, thriller)
+:end:
+
+
 ** Options
 
 #+begin_src shell :results drawer
@@ -238,7 +268,7 @@ books to read next.
 positional arguments:
   books_file
 
-optional arguments:
+options:
   -h, --help            show this help message and exit
   -l, --list_genres
   -s NUM_READ_BOOKS, --list_read_books NUM_READ_BOOKS

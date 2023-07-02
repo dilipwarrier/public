@@ -1330,23 +1330,34 @@
 
 ** Culture
 
-   Culture is nothing more than the sum of all acceptable behaviors in
-   the organization - the way we do things here.
+*** What is culture?
 
-   It is a result of the adaptation of our behaviors in the organization.
+    Culture is nothing more than the sum of all acceptable behaviors in
+    the organization - the way we do things here.
 
-   It is not the sum of values. The culture cannot be a caring culture
-   because caring is a value, not a behavior.
+    It is a result of the adaptation of our behaviors in the organization.
 
-   A value can be a starting point but, if the behavior is not in sync
-   with the value, then the culture is the behavior and not the value.
+    It is not the sum of values. The culture cannot be a caring culture
+    because caring is a value, not a behavior.
 
-   Managers are the guardians of the organizational culture. They must
-   model the behaviors and must give feedback to ensure that the
-   behaviors are in sync with the values.
+    A value can be a starting point but, if the behavior is not in sync
+    with the value, then the culture is the behavior and not the value.
 
-   Values are usually on the website. They should be a small
-   list. Behaviors are usually not on a website.
+    Managers are the guardians of the organizational culture. They must
+    model the behaviors and must give feedback to ensure that the
+    behaviors are in sync with the values.
+
+    Values are usually on the website. They should be a small
+    list. They are meant as an external marketing tool to hire people.
+
+    Behaviors are usually not on a website.
+
+    Behaviors are usually simple statements of the form "We do x"
+    e.g. we over-communicate, we document our procedures carefully, etc.
+
+    Each manager decides the sub-culture of their organization. They
+    should derive such sub-cultures from the company's reason for
+    existence and the change that it wants to implement in society.
 
 
 * DISC profile
@@ -1386,71 +1397,13 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2023-06-17 Sat 16:00 +1w>
+   SCHEDULED: <2023-07-01 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-06-11 Sun 09:36]
+   :LAST_REPEAT: [2023-06-24 Sat 12:08]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-06-24 Sat 12:08]
+   - State "DONE"       from "TODO"       [2023-06-18 Sun 01:06]
    - State "DONE"       from "TODO"       [2023-06-11 Sun 09:36]
    - State "DONE"       from "TODO"       [2023-06-05 Mon 08:46]
-   - State "DONE"       from "TODO"       [2023-05-27 Sat 08:54]
-   - State "DONE"       from "TODO"       [2023-05-21 Sun 12:09]
-   - State "DONE"       from "TODO"       [2023-05-17 Wed 05:50]
-   - State "DONE"       from "TODO"       [2023-05-06 Sat 12:09]
-   - State "DONE"       from "TODO"       [2023-04-29 Sat 15:28]
-   - State "DONE"       from "TODO"       [2023-04-23 Sun 08:15]
-   - State "DONE"       from "TODO"       [2023-04-17 Mon 10:31]
-   - State "DONE"       from "TODO"       [2023-04-09 Sun 21:21]
-   - State "DONE"       from "TODO"       [2023-04-02 Sun 09:59]
-   - State "DONE"       from "TODO"       [2023-03-26 Sun 08:54]
-   - State "DONE"       from "TODO"       [2023-03-18 Sat 15:45]
-   - State "DONE"       from "TODO"       [2023-03-12 Sun 13:58]
-   - State "DONE"       from "TODO"       [2023-03-04 Sat 16:59]
-   - State "DONE"       from "TODO"       [2023-02-25 Sat 06:38]
-   - State "DONE"       from "TODO"       [2023-02-20 Mon 03:14]
-   - State "DONE"       from "TODO"       [2023-02-11 Sat 17:13]
-   - State "DONE"       from "TODO"       [2023-02-05 Sun 12:24]
-   - State "DONE"       from "TODO"       [2023-01-29 Sun 19:46]
-   - State "DONE"       from "TODO"       [2023-01-22 Sun 11:36]
-   - State "DONE"       from "TODO"       [2023-01-16 Mon 09:26]
-   - State "DONE"       from "TODO"       [2023-01-08 Sun 21:50]
-   - State "DONE"       from "TODO"       [2023-01-03 Tue 14:46]
-   - State "DONE"       from "TODO"       [2022-12-25 Sun 22:38]
-   - State "DONE"       from "TODO"       [2022-12-25 Sun 22:38]
-   - State "DONE"       from "TODO"       [2022-12-25 Sun 22:03]
-   - State "DONE"       from "TODO"       [2022-12-03 Sat 17:05]
-   - State "DONE"       from "TODO"       [2022-11-27 Sun 08:54]
-   - State "DONE"       from "TODO"       [2022-11-18 Fri 17:14]
-   - State "DONE"       from "TODO"       [2022-11-14 Mon 01:59]
-   - State "DONE"       from "TODO"       [2022-11-05 Sat 17:01]
-   - State "DONE"       from "TODO"       [2022-10-30 Sun 19:11]
-   - State "DONE"       from "TODO"       [2022-10-23 Sun 12:41]
-   - State "DONE"       from "TODO"       [2022-10-15 Sat 14:20]
-   - State "DONE"       from "TODO"       [2022-10-08 Sat 15:08]
-   - State "DONE"       from "TODO"       [2022-10-02 Sun 17:01]
-   - State "DONE"       from "TODO"       [2022-09-24 Sat 08:35]
-   - State "DONE"       from "TODO"       [2022-09-17 Sat 16:31]
-   - State "DONE"       from "TODO"       [2022-09-10 Sat 15:43]
-   - State "DONE"       from "TODO"       [2022-09-10 Sat 11:43]
-   - State "DONE"       from "TODO"       [2022-08-27 Sat 11:32]
-   - State "DONE"       from "TODO"       [2022-08-20 Sat 08:36]
-   - State "DONE"       from "TODO"       [2022-08-15 Mon 20:40]
-   - State "DONE"       from "TODO"       [2022-08-06 Sat 19:19]
-   - State "DONE"       from "TODO"       [2022-07-31 Sun 09:55]
-   - State "DONE"       from "TODO"       [2022-07-24 Sun 20:50]
-   - State "DONE"       from "TODO"       [2022-07-18 Mon 07:55]
-   - State "DONE"       from "TODO"       [2022-07-15 Fri 16:09]
-   - State "DONE"       from "TODO"       [2022-07-05 Tue 19:04]
-   - State "DONE"       from "TODO"       [2022-06-26 Sun 15:51]
-   - State "DONE"       from "TODO"       [2022-06-26 Sun 15:50]
-   - State "DONE"       from "TODO"       [2022-06-12 Sun 17:56]
-   - State "DONE"       from "TODO"       [2022-06-06 Mon 12:19]
-   - State "DONE"       from "TODO"       [2022-05-28 Sat 19:19]
-   - State "DONE"       from "TODO"       [2022-05-22 Sun 15:29]
-   - State "DONE"       from "TODO"       [2022-05-15 Sun 18:24]
-   - State "DONE"       from "TODO"       [2022-05-09 Mon 16:49]
-   - State "DONE"       from "TODO"       [2022-05-01 Sun 15:28]
-   - State "DONE"       from "TODO"       [2022-04-25 Mon 11:36]
-   - State "DONE"       from "TODO"       [2022-04-17 Sun 11:35]
-   - State "DONE"       from "TODO"       [2022-04-10 Sun 11:20]

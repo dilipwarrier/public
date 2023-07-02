@@ -14,11 +14,12 @@
 
 * Recurring tasks
 
-** TODO Donate $1100 to [[https://www.givewell.org/donate/paypal][Give Well through Paypal]]
-   SCHEDULED: <2023-06-21 Wed 13:30 +4w>
+** TODO Donate $1100 to [[https://secure.givewell.org/][Give Well through Paypal]]
+   SCHEDULED: <2023-07-19 Wed 13:30 +4w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-05-24 Wed 11:49]
+   :LAST_REPEAT: [2023-06-21 Wed 08:13]
    :END:
+   - State "DONE"       from "TODO"       [2023-06-21 Wed 08:13]
    - State "DONE"       from "TODO"       [2023-05-24 Wed 11:49]
    - State "DONE"       from "TODO"       [2023-04-26 Wed 20:31]
    - State "DONE"       from "TODO"       [2023-03-29 Wed 09:53]

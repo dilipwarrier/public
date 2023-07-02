@@ -15,12 +15,15 @@
 
 
 ** TODO Clean up calendar for the upcoming week through next Monday :Mobile:Offline:
-   SCHEDULED: <2023-06-16 Fri 16:00 +1w>
+   SCHEDULED: <2023-07-07 Fri 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-06-11 Sun 09:11]
+   :LAST_REPEAT: [2023-06-30 Fri 10:24]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-06-30 Fri 10:24]
+   - State "DONE"       from "TODO"       [2023-06-23 Fri 21:33]
+   - State "DONE"       from "TODO"       [2023-06-18 Sun 01:06]
    - State "DONE"       from "TODO"       [2023-06-11 Sun 09:11]
    - State "DONE"       from "TODO"       [2023-06-05 Mon 08:43]
    - State "DONE"       from "TODO"       [2023-05-27 Sat 09:11]
@@ -52,7 +55,7 @@
 * Manager
 
 ** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]]
-   SCHEDULED: <2023-06-28 Wed 08:00 +12w>
+   SCHEDULED: <2023-07-12 Wed 08:00 +12w>
    :PROPERTIES:
    :LAST_REPEAT: [2023-04-05 Wed 18:17]
    :END:
