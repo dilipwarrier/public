@@ -51,10 +51,3 @@
 
 *** TODO Complete my end-quarter goal progress
     SCHEDULED: <2023-09-24 Sun 20:00>
-
-
-*** DONE Complete my end-quarter goal progress
-    SCHEDULED: <2023-06-25 Sun 20:00>
-
-
-:end:
