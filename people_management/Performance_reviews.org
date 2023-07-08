@@ -25,11 +25,11 @@
 
 #+RESULTS:
 :results:
-*** TODO Ask directs to create quarter's goals
+*** DONE Ask directs to create quarter's goals
     SCHEDULED: <2023-07-06 Thu 20:00>
 
 
-*** TODO Make 1-1s with directs into goal creation meetings
+*** DONE Make 1-1s with directs into goal creation meetings
     SCHEDULED: <2023-07-06 Thu 20:00>
 
 
