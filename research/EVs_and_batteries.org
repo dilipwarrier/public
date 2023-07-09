@@ -86,6 +86,12 @@
 
   [[file:Screenshot 2023-04-23 171648.png]]
 
+  The total car sales (BEV, ICE etc.) in the US in CY23 is estimated
+  to be at about 15M. This is down from a high in CY19 (pre-pandemic)
+  of about 17M.
+
+  Tesla expects to sell about 1.8M vehicles world-wide in CY23.
+
 
 * Cell types and counts
 
