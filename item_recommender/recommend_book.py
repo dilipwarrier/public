@@ -39,7 +39,6 @@ parser.add_argument('-a', '--list_best_authors',
                     type=int,
                     dest='num_authors',
                     default=None)
-parser.add_argument(dest = 'books_file', type = str)
 parser.add_argument('-g', '--restrict_by_genre',
                     type=str,
                     dest='genre',
@@ -47,20 +46,19 @@ parser.add_argument('-g', '--restrict_by_genre',
 parser.add_argument('-ra', '--restrict_by_author',
                     dest='author',
                     default=None)
+parser.add_argument(dest = 'books_file', type = str)
 args = parser.parse_args()
 
 books_file = args.books_file
-if ("." in books_file) and (books_file.split("."))[1] == "xlsx":
-    file_type = "excel"
-else:
-    file_type = "csv"
+if ("." in books_file) and ((books_file.split("."))[1] != "csv"):
+    raise ValueError("Books file must be in csv format")
 
 blist = parse_items.items_list(books_file,
                                creator_field_name="Author",
                                genre_field_names=["Genre"],
                                read_date_field_name="Date Read",
                                added_date_field_name="Date Added",
-                               file_type=file_type)
+                               file_type="csv")
 
 # If no actions are picked, recommend books as the default action
 if not (args.list_genres or

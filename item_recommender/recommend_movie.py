@@ -15,20 +15,25 @@ import parse_items
 
 __default_num_movies = 20
 
-def shorten(str, width):
+def shorten(str_or_list, width):
     # Clean up string for printing: ensure it's exactly of width length with
     # ellipsis as needed
+    if (type(str_or_list) == list):
+        str = ','.join(str_or_list)
+    else:
+        str = str_or_list
+
     return textwrap.shorten(str, width=width, placeholder="...").ljust(width)
 
 
-movies_xlsx_file = "C:/Users/Dilip/Google Drive/Personal/Movies_list.xlsx"
+movies_xlsx_file = "c:/Users/dwarr/Documents/GitHub/public/research/movies_list.csv"
 movie_list = parse_items.items_list(movies_xlsx_file,
                                     creator_field_name="Director",
                                     genre_field_names=["Genre",
                                                        "Language",
                                                        "Type"],
                                     read_date_field_name="Date Watched",
-                                    file_type="excel")
+                                    file_type="csv")
 
 description_str = "Search for and recommend movies.\nBy default, show the %d best movies to watch next." % (__default_num_movies)
 
@@ -76,7 +81,7 @@ if args.num_watched_movies:
                                        author=args.director)
     for movie in hlist:
         print("%s: %s (%s, %.1f)" % (shorten(movie["Title"], 50),
-                                     shorten(movie["Author"], 20),
+                                     shorten(movie["Authors"], 20),
                                      movie["Read date"].strftime("%d-%b-%y"),
                                      movie["My Rating"]))
 
@@ -89,6 +94,6 @@ if args.num_recommend_movies:
 
     for movie in best_movies:
         print("%s: %s (%.1f, %s)" % (shorten(movie["Title"], 50),
-                                     shorten(movie["Author"], 20),
+                                     shorten(movie["Authors"], 20),
                                      movie["Average Rating"],
                                      ",".join(movie["Genre"])))
