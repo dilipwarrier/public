@@ -56,12 +56,13 @@
 * Manager
 
 ** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]]
-   SCHEDULED: <2023-07-12 Wed 08:00 +12w>
+   SCHEDULED: <2023-10-04 Wed 08:00 +12w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-04-05 Wed 18:17]
+   :LAST_REPEAT: [2023-07-12 Wed 13:02]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-07-12 Wed 13:02]
    - State "DONE"       from "TODO"       [2023-04-05 Wed 18:17]
 * Organization
 
