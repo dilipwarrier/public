@@ -15,12 +15,14 @@
 
 
 ** TODO Clean up calendar for the upcoming week through next Monday :Mobile:Offline:
-   SCHEDULED: <2023-07-14 Fri 16:00 +1w>
+   SCHEDULED: <2023-07-28 Fri 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-07-08 Sat 16:23]
+   :LAST_REPEAT: [2023-07-21 Fri 19:00]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-07-21 Fri 19:00]
+   - State "DONE"       from "TODO"       [2023-07-16 Sun 18:53]
    - State "DONE"       from "TODO"       [2023-07-08 Sat 16:23]
    - State "DONE"       from "TODO"       [2023-06-30 Fri 10:24]
    - State "DONE"       from "TODO"       [2023-06-23 Fri 21:33]
