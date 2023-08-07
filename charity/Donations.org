@@ -14,7 +14,7 @@
 
 * Recurring tasks
 
-** TODO Donate $1100 to [[https://secure.givewell.org/][Give Well through Paypal]]                         :PC:
+** TODO Donate $1110 to [[https://secure.givewell.org/][Give Well through Paypal]]                         :PC:
    SCHEDULED: <2023-08-16 Wed 13:30 +4w>
    :PROPERTIES:
    :LAST_REPEAT: [2023-07-20 Thu 18:43]

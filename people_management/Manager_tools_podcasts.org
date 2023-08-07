@@ -1287,6 +1287,7 @@
    is dispositive. Think of the scene from "Men In Black": You put on a
    black suit and it's the only suit you'll ever wear.
 
+*** Jane Austen: It isn't what we say or think that defines us, but what we do. :quotes:
 
 ** Ditch the ladder
 
@@ -1397,12 +1398,15 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2023-07-22 Sat 16:00 +1w>
+   SCHEDULED: <2023-08-12 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-07-16 Sun 08:49]
+   :LAST_REPEAT: [2023-08-06 Sun 21:34]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-08-06 Sun 21:34]
+   - State "DONE"       from "TODO"       [2023-07-30 Sun 11:08]
+   - State "DONE"       from "TODO"       [2023-07-24 Mon 06:44]
    - State "DONE"       from "TODO"       [2023-07-16 Sun 08:49]
    - State "DONE"       from "TODO"       [2023-07-08 Sat 22:25]
    - State "DONE"       from "TODO"       [2023-07-03 Mon 14:29]
