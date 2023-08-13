@@ -109,3 +109,11 @@
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+
+
+** TODO Learn grafana
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:

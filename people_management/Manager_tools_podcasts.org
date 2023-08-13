@@ -642,6 +642,62 @@
 
 ** Communication
 
+*** Listening to others
+
+    [[https://www.manager-tools.com/print/353111?pod=353116][How to listen better]]
+
+
+*** Reporting status of tasks
+
+    [[https://www.manager-tools.com/2018/04/relationship-errors-not-reporting-no-news][Not reporting "no news"]]
+
+    - Communicate frequently even if there is no news
+    - Report the actions you've taken. This shows that you are being
+      proactive. For instance, "I haven't heard from x, so I have
+      setup a Zoom call with them for tomorrow to resolve it."
+    - Report intended actions. This goes one step beyond the previous
+      point. You report it as "I haven't heard from x. If I don't
+      hear back by tomorrow, I will call them on Zoom to resolve it."
+
+
+*** Reporting status of projects on demand
+
+   [[https://www.manager-tools.com/print/176761?pod=176766][Status-on-demand communication]] can happen either to your boss or to
+   someone higher up in the hierarchy. Always have a crisp summary ready.
+
+**** Current status
+
+    The typical way to communicate status in an elevator pitch is the
+    Red/Amber/Green method.
+
+    Red: You have come to a stop. There is a blocker on the critical
+    path on the project, and you need external intervention to
+    clear a roadblock. This is not a bad thing; it's good to ask for
+    external intervention when you need it. Just don't ask for it too
+    often.
+
+    Amber: You have come to a stop. There is a blocker on the critical
+    path on the project,  but you are trying to resolve the
+    issue by yourself. Amber status can change to Red status if
+    whatever you are trying does not work or to Green status if it
+    does.
+
+    Green: Project is ongoing; there are issues but they are not
+    blocking the critical path(s) in the project.
+
+    This alone is not enough.
+
+
+**** Next steps
+
+     Communicating current status on a project alone is not enough. You
+     have to communicate what will happen in the future i.e. the next
+     steps and the trigger condition for a change.
+
+     For Red or Amber status, communicate what you are doing and what
+     will trigger the next change (Red to Amber, Amber to
+     Green, etc).
+
 
 *** Pre-wiring a presentation
     :PROPERTIES:
@@ -715,13 +771,14 @@
 
    Drucker: "No decision has been made unless carrying it out in
    specific steps has become someone's work assignment and
-   responsibility. Until then there are only good intentions."
+   responsibility. Until then they are only good intentions."
 
    For example, you can make a choice to invest more in Asia. However,
    you have to then decide how to plan that work.
 
-   Individuals complete tasks, managers assign tasks, executives assign
-   people. They decide "who will do what, by when".
+   Individuals complete tasks
+   Managers assign tasks
+   Executives assign people. They decide "who will do what, by when".
 
 
 ** Managing your time
@@ -1288,6 +1345,7 @@
    black suit and it's the only suit you'll ever wear.
 
 *** Jane Austen: It isn't what we say or think that defines us, but what we do. :quotes:
+
 
 ** Ditch the ladder
 
