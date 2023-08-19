@@ -642,6 +642,7 @@
 
 ** Communication
 
+
 *** Listening to others
 
     [[https://www.manager-tools.com/print/353111?pod=353116][How to listen better]]
@@ -664,6 +665,7 @@
 
    [[https://www.manager-tools.com/print/176761?pod=176766][Status-on-demand communication]] can happen either to your boss or to
    someone higher up in the hierarchy. Always have a crisp summary ready.
+
 
 **** Current status
 
@@ -832,6 +834,25 @@
 
 
 * Job search and career
+
+
+** Setting career goals
+
+   [[https://www.manager-tools.com/2023/07/what-goes-career-development-plan-part-1][Podcast link]]
+
+   You don't need to be able to connect the dots to the future. Just
+   follow your instinct and pick an area of career development for,
+   say, the next year. It's much easier to connect the dots from the
+   past.
+
+   Set goals in 5 areas (DRUMS)
+   - D: Develop Relationships
+   - R: Receive and Act On Feedback
+   - U: Understand The Industry
+   - M: Master Job Responsibilities
+   - S: Seek Additional Responsibilities
+
+   Make your goals Measurable and Time-bound
 
 
 ** Creating an effective resume
@@ -1344,6 +1365,7 @@
    is dispositive. Think of the scene from "Men In Black": You put on a
    black suit and it's the only suit you'll ever wear.
 
+
 *** Jane Austen: It isn't what we say or think that defines us, but what we do. :quotes:
 
 
@@ -1388,6 +1410,7 @@
 
 
 ** Culture
+
 
 *** What is culture?
 
