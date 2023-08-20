@@ -1327,7 +1327,7 @@
      external networks, connections and knowledge-seeking.
 
    - Future ::
-     A manager becoming an executive must not just capture results but
+     A manager becoming an executive must not just get results, but
      must also invest the proceeds of those results in the
      future. Thus, by definition, executives must have a longer time
      horizon in their thinking.
@@ -1346,13 +1346,13 @@
    As a manager getting promoted to an executive, you are moving from
    one S-curve to another.
 
-   You now have certain freedoms and certain
-   responsibilities. Try to constrain yourself on the freedoms/role
-   powers that you have. Focus instead on the responsibilities. Your
-   responsibilities are towards the entire organization, even if it
-   means at the loss of your own sub-organization (see [[#purpose_focus_horizon][Purpose]]). You
-   have to give up on building your fiefdoms and focus on the greater
-   good of the organization.
+   You now have certain freedoms and certain responsibilities. Try to
+   constrain yourself on the freedoms and role powers that you
+   have. Focus instead on the responsibilities. Your responsibilities
+   are towards the entire organization, even if it means at the loss
+   of your own sub-organization (see [[#purpose_focus_horizon][Purpose]]). You have to give up on
+   building your fiefdoms and focus on the greater good of the
+   organization.
 
 
 ** The hallmark of an executive
@@ -1479,12 +1479,13 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2023-08-19 Sat 16:00 +1w>
+   SCHEDULED: <2023-08-26 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-08-13 Sun 15:28]
+   :LAST_REPEAT: [2023-08-19 Sat 17:36]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-08-19 Sat 17:36]
    - State "DONE"       from "TODO"       [2023-08-13 Sun 15:28]
    - State "DONE"       from "TODO"       [2023-08-06 Sun 21:34]
    - State "DONE"       from "TODO"       [2023-07-30 Sun 11:08]
