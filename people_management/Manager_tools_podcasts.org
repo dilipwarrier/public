@@ -835,6 +835,28 @@
 
 * Job search and career
 
+** Promotions
+   :PROPERTIES:
+   :CUSTOM_ID: Promotions
+   :END:
+
+
+*** A company change with a promotion is unlikely
+
+    [[https://www.manager-tools.com/2023/08/company-change-promotion-unlikely][Podcast link]]
+
+
+    It is extremely unlikely that you will get a promotion with a
+    company change. There are only two exceptions to this rule and
+    they hold in very rare circumstances.
+
+    1. You are moving from a big company to a smaller one. In a
+       smaller company, management expects that you have learnt
+       processes better through internal and on-the-job training than
+       any one who may be within the smaller company.
+    2. You are being directly sought by the hiring manager in the new
+       company.
+
 
 ** Setting career goals
 
@@ -1370,6 +1392,8 @@
 
 
 ** Ditch the ladder
+
+   See also [[#Promotions][the guidance on promotions]]
 
    Junior executives think there is a career ladder but there isn't.
 
