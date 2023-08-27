@@ -835,10 +835,19 @@
 
 * Job search and career
 
+
 ** Promotions
    :PROPERTIES:
    :CUSTOM_ID: Promotions
    :END:
+
+   7 podcasts/chapters on [[https://www.manager-tools.com/get-answers/getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted?search=getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted&f%5B0%5D=im_field_content_domain%3A5&f%5B1%5D=ss_mt_bundle%3Apodcast_item&f%5B2%5D=is_mt_date%3A2014][Getting ready to get promoted]]
+
+
+*** The 150% rule
+
+    Manager tools expects that, in order to be ready to be promoted,
+    you should do 100% of your job and 50% of your manager's job.
 
 
 *** A company change with a promotion is unlikely
@@ -847,15 +856,29 @@
 
 
     It is extremely unlikely that you will get a promotion with a
-    company change. There are only two exceptions to this rule and
-    they hold in very rare circumstances.
+    company change. There are at least five reasons why.
+    - If you were brought into a new company, you would be managing
+      people with many years of experience in that company. Many of
+      your recommendations while managing them just won't work!
+    - Your competition for the new job are people in the company with
+      all the implicit knowledge required to do the job.
+    - Most companies prefer to hire from within.
+    - Most companies don't have good manager training. They are taking
+      a significant risk by taking you on and not being able to train
+      you well.
 
-    1. You are moving from a big company to a smaller one. In a
-       smaller company, management expects that you have learnt
-       processes better through internal and on-the-job training than
-       any one who may be within the smaller company.
-    2. You are being directly sought by the hiring manager in the new
-       company.
+    If you feel you are ready for a promotion, first ask your boss for
+    it. However, remember that your manager's manager is the one who
+    has to decide that you should be promoted.
+
+    There are only two exceptions to this rule and they hold in very
+    rare circumstances.
+    - You are moving from a big company to a smaller one. In a
+      smaller company, management expects that you have learnt
+      processes better through internal and on-the-job training than
+      any one who may be within the smaller company.
+    - You are being directly sought by the hiring manager in the new
+      company.
 
 
 ** Setting career goals
@@ -1502,13 +1525,14 @@
   [[https://www.manager-tools.com/map-of-the-universe][Map of the podcast universe]]
 
 
-** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2023-08-26 Sat 16:00 +1w>
+** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]] (See [[#Promotions][Promotions - 7 chapters]])
+   SCHEDULED: <2023-09-02 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-08-19 Sat 17:36]
+   :LAST_REPEAT: [2023-08-26 Sat 16:48]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-08-26 Sat 16:48]
    - State "DONE"       from "TODO"       [2023-08-19 Sat 17:36]
    - State "DONE"       from "TODO"       [2023-08-13 Sun 15:28]
    - State "DONE"       from "TODO"       [2023-08-06 Sun 21:34]
