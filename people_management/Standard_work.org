@@ -15,12 +15,13 @@
 
 
 ** TODO Clean up calendar for the upcoming week through next Monday :Mobile:Offline:
-   SCHEDULED: <2023-09-01 Fri 16:00 +1w>
+   SCHEDULED: <2023-09-08 Fri 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-08-25 Fri 13:47]
+   :LAST_REPEAT: [2023-09-04 Mon 10:47]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-09-04 Mon 10:47]
    - State "DONE"       from "TODO"       [2023-08-25 Fri 13:47]
    - State "DONE"       from "TODO"       [2023-08-18 Fri 17:00]
    - State "DONE"       from "TODO"       [2023-08-11 Fri 20:53]
@@ -42,15 +43,19 @@
    - State "DONE"       from "TODO"       [2023-04-22 Sat 15:53]
    - State "DONE"       from "TODO"       [2023-04-14 Fri 08:18]
    - State "DONE"       from "TODO"       [2023-04-07 Fri 11:56]
+
+
 * Direct reports
 
-** TODO Ask the direct reports: "Overall, how are you doing?"
-   SCHEDULED: <2023-08-28 Mon 08:00 +12w>
+
+** TODO Ask the direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?"
+   SCHEDULED: <2023-11-20 Mon 08:00 +12w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-06-05 Mon 13:09]
+   :LAST_REPEAT: [2023-08-28 Mon 06:43]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-08-28 Mon 06:43]
    - State "DONE"       from "TODO"       [2023-06-05 Mon 13:09]
    - State "DONE"       from "TODO"       [2023-04-03 Mon 10:06]
 
@@ -62,6 +67,7 @@
 
 * Manager
 
+
 ** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]]
    SCHEDULED: <2023-10-04 Wed 08:00 +12w>
    :PROPERTIES:
@@ -71,6 +77,8 @@
 
    - State "DONE"       from "TODO"       [2023-07-12 Wed 13:02]
    - State "DONE"       from "TODO"       [2023-04-05 Wed 18:17]
+
+
 * Organization
 
   - Once a quarter, review team succession planning list
@@ -88,7 +96,7 @@
   every quarter.
 
 
-** Task list for town hall meetings [3/9]
+** Task list for town hall meetings
 
 #+NAME: town_hall_tasks
 |--------------------------------------------------------------------------------+-----|
