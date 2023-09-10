@@ -1526,12 +1526,13 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]] (See [[#Promotions][Promotions - 7 chapters]])
-   SCHEDULED: <2023-09-02 Sat 16:00 +1w>
+   SCHEDULED: <2023-09-09 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-08-26 Sat 16:48]
+   :LAST_REPEAT: [2023-09-05 Tue 09:44]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-09-05 Tue 09:44]
    - State "DONE"       from "TODO"       [2023-08-26 Sat 16:48]
    - State "DONE"       from "TODO"       [2023-08-19 Sat 17:36]
    - State "DONE"       from "TODO"       [2023-08-13 Sun 15:28]

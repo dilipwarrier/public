@@ -153,4 +153,20 @@ time most valuably?
 * Execution of task management
 
    All this philosophy needs to be translated into an execution
-   mechanism.
+   mechanism. This section describes a reasonable execution
+   mechanism for tasks.
+
+   This is heavily influenced by David Allen's "Getting Things Done"
+   book.
+
+
+** Tasks and projects
+
+   First, consider projects. Projects have a defined date by which
+   they must be completed and a defined deliverable or goal to be
+   completed. The deliverable or goal and the reason for the defined
+   date should be explainable to someone outside the project
+   team. Note that, by definition, recurring activities don't count as
+   projects. Those should be considered as tasks.
+
+   Projects get further sub-divided into tasks.
