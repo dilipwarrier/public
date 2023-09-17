@@ -1,5 +1,5 @@
 #+TITLE: Concepts in statistics and machine learning
-#+FILETAGS: :math:
+#+FILETAGS: :math:Learning:
 
 * Statistical quantities
 

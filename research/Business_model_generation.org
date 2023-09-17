@@ -1,5 +1,5 @@
 #+Title: Business model generation by Alex Osterwalder et al
-#+Filetags: :BookNotes:Management:
+#+Filetags: :BookNotes:Management:Learning:
 
 * Business model canvas
 

@@ -1,5 +1,5 @@
 #+Title: Chip industry
-#+FILETAGS: :Technology:Semiconductors:Chips:
+#+FILETAGS: :Technology:Semiconductors:Chips:Learning:
 
 * PC chip industry
 

@@ -1,11 +1,14 @@
 #+TITLE: The culture map by Erin Meyer
-#+FILETAGS: :BookNotes:
+#+FILETAGS: :BookNotes:Learning:
 
-Different cultures fall in different places on the scales of various
-activities. We can divide them into a few specific activities. Note
-that a culture or country's position on one activity may not correlate
-with the expected position on another activity. Hence, each activity
-must be considered separately.
+* Introduction
+
+  Different cultures fall in different places on the scales of various
+  activities. We can divide them into a few specific activities. Note
+  that a culture or country's position on one activity may not correlate
+  with the expected position on another activity. Hence, each activity
+  must be considered separately.
+
 
 * Communication (low-context vs high-context)
 

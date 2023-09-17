@@ -1,5 +1,5 @@
 #+TITLE: Interesting facts/news in neural networks/AI
-#+FILETAGS: :AI:
+#+FILETAGS: :AI:Learning:
 
 * Generative AI
 
@@ -30,6 +30,7 @@
   for a year), and cost OpenAI an estimated $4.6M. GPT-4, which is a
   much larger model, will have cost disproportionately more (in the
   realm of $100M) to train.
+
 
 ** Solving math problems
 

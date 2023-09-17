@@ -398,6 +398,25 @@
     could be fired if their performance does not improve.
 
 
+*** How to respond to "Can I get promoted?"
+
+    [[https://www.manager-tools.com/2019/05/how-do-i-respond-how-do-i-get-promoted-part-1-hall-fame-guidance][Podcast link]]
+
+    It's a legitimate question.
+
+    Explain that performance rules - you have to ace several key
+    projects.
+
+    After that you have to build relationships - with your peers and
+    your boss' peers. This is particular important because your boss
+    has to fight for your promotion with others who are vying for the
+    same budget. So, if they agree that you deserve it, the battle is
+    much easier.
+
+    Finally, even if you're ready for a promotion, it may not happen
+    due to economic conditions, reorganizations, etc.
+
+
 ** Peers
 
 
@@ -769,7 +788,7 @@
    making a choice, communicating it and managing its implementation.
 
    Executives cannot make a choice and then walk away and let others take
-   care of the details. Ideas are important but not enough.
+   care of the details. Ideas are important but they are not enough.
 
    Drucker: "No decision has been made unless carrying it out in
    specific steps has become someone's work assignment and
@@ -778,9 +797,11 @@
    For example, you can make a choice to invest more in Asia. However,
    you have to then decide how to plan that work.
 
-   Individuals complete tasks
-   Managers assign tasks
-   Executives assign people. They decide "who will do what, by when".
+   Individuals complete tasks.
+   Managers assign tasks.
+   Executives assign people.
+
+   They decide "who will do what, by when".
 
 
 ** Managing your time
@@ -841,7 +862,44 @@
    :CUSTOM_ID: Promotions
    :END:
 
-   7 podcasts/chapters on [[https://www.manager-tools.com/get-answers/getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted?search=getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted&f%5B0%5D=im_field_content_domain%3A5&f%5B1%5D=ss_mt_bundle%3Apodcast_item&f%5B2%5D=is_mt_date%3A2014][Getting ready to get promoted]]
+
+*** Getting ready to get promoted
+
+    Podcasts/chapters on [[https://www.manager-tools.com/get-answers/getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted?search=getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted&f%5B0%5D=im_field_content_domain%3A5&f%5B1%5D=ss_mt_bundle%3Apodcast_item&f%5B2%5D=is_mt_date%3A2014][Getting ready to get promoted]]
+
+
+**** Results
+
+     - Find Out What Results You Are Responsible For
+     - Quantify The Results
+     - Set An Action Plan To Achieve The Results
+     - Report On The Results
+     - Go Beyond What You're Responsible For
+     - Do Not Achieve Results At The Expense Of Relationships
+
+
+**** Experience
+
+     Get experience in the following areas to prepare for being a
+     manager
+     - Running a meeting
+     - Managing a project
+     - Managing a budget
+
+
+**** Volunteer
+
+     Hit all of your objectives and results. After that, volunteer to
+     go the extra mile. It need not be a lot of things but volunteer
+     for some key projects.
+
+
+**** Accept delegations from your boss
+
+     Say yes when your boss wants to delegate something. Then, make it
+     fit within your existing workload (find things to delegate to
+     your directs or to the floor). Report early and often on
+     progress.
 
 
 *** The 150% rule
@@ -1525,13 +1583,15 @@
   [[https://www.manager-tools.com/map-of-the-universe][Map of the podcast universe]]
 
 
-** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]] (See [[#Promotions][Promotions - 7 chapters]])
-   SCHEDULED: <2023-09-09 Sat 16:00 +1w>
+** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
+   SCHEDULED: <2023-09-16 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-09-05 Tue 09:44]
+   :LAST_REPEAT: [2023-09-10 Sun 18:31]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-09-10 Sun 18:31]
+   - State "DONE"       from "TODO"       [2023-09-10 Sun 18:00]
    - State "DONE"       from "TODO"       [2023-09-05 Tue 09:44]
    - State "DONE"       from "TODO"       [2023-08-26 Sat 16:48]
    - State "DONE"       from "TODO"       [2023-08-19 Sat 17:36]

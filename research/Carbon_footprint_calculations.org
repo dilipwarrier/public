@@ -1,5 +1,6 @@
 #+title: Calculation of carbon footprints
 #+author: Dilip Warrier
+#+FILETAGS: :Learning:
 
 * CO2 emissions due to driving
 

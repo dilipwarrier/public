@@ -1,5 +1,5 @@
 #+Title: Meditation and its effects
-#+FILETAGS: :Meditation:
+#+FILETAGS: :Meditation:Learning:
 
 ** My meditation practices
 

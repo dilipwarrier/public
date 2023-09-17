@@ -1,5 +1,5 @@
 #+Title: Articles related to COVID-19
-#+Filetags: :Health:
+#+Filetags: :Health:Learning:
 
 * Efficacy of booster shots
 

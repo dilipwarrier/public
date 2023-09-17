@@ -26,14 +26,14 @@ Models of the mind                                : Grace Lindsay        (4.4, b
 Nimitz at war                                     : Craig Symonds        (4.4, western-history)
 Compulsion                                        : Meyer Levin          (4.1, thriller)
 The Christmas Virtues: A Treasury of...           : Jonathan V. Last     (4.1, society)
-Five Families: The Rise, Decline, and...          : Selwyn Raab          (4.1, western-biography)
+Five Families: The Rise,Decline,and Resurgence... : Selwyn Raab          (4.1, western-biography)
 The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
 Scaling people                                    : Claire Hughes...     (4.4, management)
 Say Nothing                                       : Patrick Keefe        (4.4, western-history)
 Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
 Spearhead                                         : Adam Makos           (4.2, western-history)
 A different drummer                               : William Melvin...    (4.2, fiction)
-Economic Hierarchies, Organization and the...     : Gordon Tullock       (4.0, economics)
+Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics)
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
 :end:
 
@@ -52,11 +52,29 @@ Marketing Management                              : Philip Kotler        (4.1, m
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
 Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
 Bayesian data analysis                            : Bruce Gelman         (4.2, maths,textbook)
-Knowledge, reality and value                      : Michael Huemer       (4.1, philosophy,textbook)
+Knowledge,reality and value                       : Michael Huemer       (4.1, philosophy,textbook)
 :end:
 
 
-** Recenly read
+*** Books that I have read before but should read again
+
+#+begin_src shell :results drawer
+../item_recommender/recommend_book.py -r 5 -g books-to-read-again books_list.csv
+#+end_src
+
+#+RESULTS:
+:results:
+List of recommended books:
+
+Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
+Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
+Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
+Bayesian data analysis                            : Bruce Gelman         (4.2, maths,textbook)
+Knowledge,reality and value                       : Michael Huemer       (4.1, philosophy,textbook)
+:end:
+
+
+** Recently read
 
 #+begin_src shell :results drawer
 ../item_recommender/recommend_book.py -s 50 books_list.csv
@@ -66,6 +84,8 @@ Knowledge, reality and value                      : Michael Huemer       (4.1, p
 :results:
 List of read books:
 
+Ponniyil Selvan - book 1                          : Kalki                (20-Jul-23, 5.0)
+The diamond eye                                   : Kate Quinn           (05-Jul-23, 3.0)
 A failed empire                                   : Vladislav Zubok      (15-Feb-23, 3.0)
 Lenin the dictator                                : Victor Sebestyen     (25-Nov-22, 5.0)
 Nuclear Folly                                     : Serhii Plokhy        (04-Oct-22, 5.0)
@@ -114,8 +134,6 @@ The art of war                                    : Sun Tzu              (20-Apr
 On Grand Strategy                                 : John Lewis Gaddis    (17-Apr-21, 2.0)
 Still Alice                                       : Lisa Genova          (16-Apr-21, 4.0)
 Napoleon: A Life                                  : Andrew Roberts       (05-Apr-21, 4.0)
-Superforecasting: The Art and Science of...       : Philip E. Tetlock    (06-Mar-21, 5.0)
-Scale: The Universal Laws of Growth,...           : Geoffrey West        (03-Mar-21, 2.0)
 :end:
 
 

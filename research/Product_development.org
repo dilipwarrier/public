@@ -1,5 +1,5 @@
 #+Title: Notes on the discipline of product development/planning/management
-#+Filetags: :Product:
+#+Filetags: :Product:Learning:
 
 * Problem versus solution                                        :MartyCagan:
 
@@ -47,9 +47,9 @@
 ** Competencies for a product manager
 
    A deep knowledge of:
-   - your users and customers;
-   - the data that’s generated about your products;
-   - your industry; and
+   - your users and customers
+   - the data that's generated about your products
+   - your industry, and
    - how your business works.
 
 
@@ -62,7 +62,7 @@
    - Empathy
 
 
-* Feature prioritization
+* Feature prioritization                                           :LinkedIn:
 
   I was recently introduced to the Kano method of prioritization of
   features for a product (hat tip: Melissa Perri's product management

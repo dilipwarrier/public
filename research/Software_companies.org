@@ -1,4 +1,6 @@
 #+TITLE: Software company news and analysis
+#+FILETAGS: :Learning:
+
 
 * 2023 layoffs in software companies
 
