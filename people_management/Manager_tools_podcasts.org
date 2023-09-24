@@ -1,5 +1,5 @@
-#+Title: Notes on podcasts and other content from [[https://www.manager-tools.com/all-podcasts][Manager Tools]]
-#+Filetags: :ManagerTools:Learning:
+#+Title: Notes on management, job searches, and your career
+#+Filetags: :Management:Learning:
 
 * Manager
 
@@ -221,7 +221,7 @@
 
      Coaching is most effective when it's collaborative. It's like a
      treasure hunt where two players each hold half of the map.  There
-     is a relaxed feel to coaching. (Is this contradictory
+     is a relaxed feel to coaching.
 
      Goal, resources, plan, act.
 
@@ -852,6 +852,13 @@
    then describe the play to your team and say, "Here's the play we
    are going to run". Then, you must ask the team for ideas. It is OK
    for your team to suggest ideas to change parts of the play.
+
+
+** Leadership
+
+   Link to [[https://youtu.be/ocSw1m30UBI?si=qk8wayvBbmq-d1yQ][Colin Powell's video]] on leadership
+
+*** Colin Powell: You know you are a leader if your team will follow you, if only out of curiosity :quotes:
 
 
 * Job search and career
@@ -1584,12 +1591,13 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2023-09-16 Sat 16:00 +1w>
+   SCHEDULED: <2023-09-23 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-09-10 Sun 18:31]
+   :LAST_REPEAT: [2023-09-19 Tue 08:25]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-09-19 Tue 08:25]
    - State "DONE"       from "TODO"       [2023-09-10 Sun 18:31]
    - State "DONE"       from "TODO"       [2023-09-10 Sun 18:00]
    - State "DONE"       from "TODO"       [2023-09-05 Tue 09:44]

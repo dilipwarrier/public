@@ -5,7 +5,7 @@
 * Books analysis
 
 
-** Next reads
+** Next few books to read overall
 
 #+begin_src shell :results drawer
 ../item_recommender/recommend_book.py -r 20 books_list.csv
@@ -33,12 +33,12 @@ Say Nothing                                       : Patrick Keefe        (4.4, w
 Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
 Spearhead                                         : Adam Makos           (4.2, western-history)
 A different drummer                               : William Melvin...    (4.2, fiction)
-Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics)
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
+Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics)
 :end:
 
 
-*** Next textbook to read
+** Next textbook to read
 
 #+begin_src shell :results drawer
 ../item_recommender/recommend_book.py -r 5 -g textbook books_list.csv
@@ -50,13 +50,13 @@ List of recommended books:
 
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
-Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
 Bayesian data analysis                            : Bruce Gelman         (4.2, maths,textbook)
+Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
 Knowledge,reality and value                       : Michael Huemer       (4.1, philosophy,textbook)
 :end:
 
 
-*** Books that I have read before but should read again
+** Books that I have read before but should read again
 
 #+begin_src shell :results drawer
 ../item_recommender/recommend_book.py -r 5 -g books-to-read-again books_list.csv
@@ -66,11 +66,11 @@ Knowledge,reality and value                       : Michael Huemer       (4.1, p
 :results:
 List of recommended books:
 
-Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
-Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
-Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
-Bayesian data analysis                            : Bruce Gelman         (4.2, maths,textbook)
-Knowledge,reality and value                       : Michael Huemer       (4.1, philosophy,textbook)
+A Fine Balance                                    : Rohinton Mistry      (4.4, indian-fiction,books-to-read-again)
+Good Strategy Bad Strategy: The Difference and... : Richard P. Rumelt    (4.2, strategy,management,books-to-read-again)
+Free to Choose: A Personal Statement              : Milton Friedman      (4.2, economics,books-to-read-again)
+The Effective Executive: The Definitive Guide...  : Peter F. Drucker     (4.1, management,books-to-read-again)
+The Essential Deming: Leadership Principles...    : W. Edwards Deming    (4.1, management,books-to-read-again)
 :end:
 
 

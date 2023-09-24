@@ -1,5 +1,5 @@
 #+Title: Automatic setup of performance review steps
-#+FILETAGS: :Manager:
+#+FILETAGS: :Manager:Work:
 
 * Performance reviews
 
@@ -12,8 +12,8 @@
 
 #+NAME: Performance_review_tasks
 |--------------------------------------------------------------------------------+-----|
-| Ask directs to create quarter's goals based on department goals                |   0 |
-| Make 1-1s with directs into goal creation meetings                             |   0 |
+| Make 1-1s with directs into goal creation meetings                             |   4 |
+| Ask directs to create quarter's goals based on department goals                |   4 |
 | Make 1-1s with directs into mid-quarter goal progress check-in meetings        | +40 |
 | Ask directs to complete mid-quarter goals and hold meetings with their directs | +40 |
 | Complete my mid-quarter goal progress check-in                                 | +45 |
@@ -24,18 +24,52 @@
 | Complete my end-quarter goal progress                                          | +85 |
 |--------------------------------------------------------------------------------+-----|
 
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab = Performance_review_tasks, start_date="2023-07-01")
+#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab = Performance_review_tasks, start_date="2023-10-01")
 
 #+RESULTS:
 :results:
+*** TODO Ask directs to create quarter's goals based on department goals
+    SCHEDULED: <2023-10-03 Tue 20:00>
+
+
+*** TODO Make 1-1s with directs into goal creation meetings
+    SCHEDULED: <2023-10-03 Tue 20:00>
+
+
+*** TODO Make 1-1s with directs into mid-quarter goal progress check-in meetings
+    SCHEDULED: <2023-11-10 Fri 20:00>
+
+
+*** TODO Ask directs to complete mid-quarter goals and hold meetings with their directs
+    SCHEDULED: <2023-11-10 Fri 20:00>
+
+
+*** TODO Complete my mid-quarter goal progress check-in
+    SCHEDULED: <2023-11-15 Wed 20:00>
+
 
 *** TODO Run automated task creation script for next quarter's goals activities
-    SCHEDULED: <2023-09-19 Tue 20:00>
+    SCHEDULED: <2023-12-20 Wed 20:00>
 
 
 *** TODO Make 1-1s with directs into end-quarter goal progress review meetings
-    SCHEDULED: <2023-09-19 Tue 20:00>
+    SCHEDULED: <2023-12-20 Wed 20:00>
 
+
+*** TODO Ask directs to complete end-quarter goals and hold meetings with their directs
+    SCHEDULED: <2023-12-20 Wed 20:00>
+
+
+*** TODO Review skip-level goal progress
+    SCHEDULED: <2023-12-25 Mon 20:00>
+
+
+*** TODO Complete my end-quarter goal progress
+    SCHEDULED: <2023-12-25 Mon 20:00>
+
+
+:end:
+:results:
 
 *** TODO Complete my end-quarter goal progress
     SCHEDULED: <2023-09-24 Sun 20:00>

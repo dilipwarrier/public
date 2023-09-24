@@ -1,4 +1,5 @@
 #+FILE: The philosophy of task management
+#+FILETAGS: :Work:Tasks:
 
 * Generation of a set of tasks with an offset from a deadline
 
@@ -173,64 +174,70 @@ time most valuably?
 
 
 ** TODO Book focus time slots for tomorrow
-   SCHEDULED: <2023-09-18 Mon 16:00 +1w>
+   SCHEDULED: <2023-09-25 Mon 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2023-09-11 Mon 15:10]
+   :LAST_REPEAT: [2023-09-19 Tue 16:23]
    :END:
+   - State "DONE"       from "TODO"       [2023-09-19 Tue 16:23]
    - State "DONE"       from "TODO"       [2023-09-11 Mon 15:10]
    - State "DONE"       from "TODO"       [2023-09-04 Mon 10:46]
    - State "DONE"       from "TODO"       [2023-08-28 Mon 17:47]
 
 ** TODO Book focus time slots for tomorrow
-   SCHEDULED: <2023-09-19 Tue 16:00 +1w>
+   SCHEDULED: <2023-09-26 Tue 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2023-09-13 Wed 06:39]
+   :LAST_REPEAT: [2023-09-19 Tue 17:15]
    :END:
+   - State "DONE"       from "TODO"       [2023-09-19 Tue 17:15]
    - State "DONE"       from "TODO"       [2023-09-13 Wed 06:39]
    - State "DONE"       from "TODO"       [2023-09-05 Tue 16:37]
    - State "DONE"       from "TODO"       [2023-08-29 Tue 10:20]
    - State "DONE"       from "TODO"       [2023-08-22 Tue 20:56]
 
 ** TODO Book focus time slots for tomorrow
-   SCHEDULED: <2023-09-20 Wed 16:00 +1w>
+   SCHEDULED: <2023-09-27 Wed 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-09-13 Wed 17:08]
+   :LAST_REPEAT: [2023-09-20 Wed 07:43]
    :END:
+   - State "DONE"       from "TODO"       [2023-09-20 Wed 07:43]
    - State "DONE"       from "TODO"       [2023-09-13 Wed 17:08]
    - State "DONE"       from "TODO"       [2023-09-06 Wed 15:22]
    - State "DONE"       from "TODO"       [2023-08-31 Thu 07:02]
    - State "DONE"       from "TODO"       [2023-08-23 Wed 17:07]
 
 ** TODO Book focus time slots for tomorrow
-   SCHEDULED: <2023-09-21 Thu 16:00 +1w>
+   SCHEDULED: <2023-09-28 Thu 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-09-15 Fri 08:40]
+   :LAST_REPEAT: [2023-09-21 Thu 06:38]
    :END:
+   - State "DONE"       from "TODO"       [2023-09-21 Thu 06:38]
    - State "DONE"       from "TODO"       [2023-09-15 Fri 08:40]
    - State "DONE"       from "TODO"       [2023-09-07 Thu 13:35]
    - State "DONE"       from "TODO"       [2023-08-31 Thu 14:38]
    - State "DONE"       from "TODO"       [2023-08-24 Thu 21:44]
 
 ** TODO Book focus time slots for tomorrow
-   SCHEDULED: <2023-09-17 Sun 16:00 +1w>
+   SCHEDULED: <2023-10-01 Sun 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-09-10 Sun 14:30]
+   :LAST_REPEAT: [2023-09-24 Sun 09:14]
    :END:
+   - State "DONE"       from "TODO"       [2023-09-24 Sun 09:14]
+   - State "DONE"       from "TODO"       [2023-09-17 Sun 11:38]
    - State "DONE"       from "TODO"       [2023-09-10 Sun 14:30]
    - State "DONE"       from "TODO"       [2023-09-04 Mon 10:48]
    - State "DONE"       from "TODO"       [2023-08-27 Sun 09:37]

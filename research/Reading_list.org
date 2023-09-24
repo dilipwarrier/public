@@ -117,3 +117,41 @@
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+
+
+** TODO AI's Growing Legal Troubles https://www.wsj.com/articles/ais-growing-legal-troubles-section-230-publisher-class-action-9efaf374
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+** TODO thought crime as a mind virus https://open.substack.com/pub/fakenous/p/thought-crime?utm_source=share&utm_medium=android&r=pbwnl
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+** TODO Amazon fourth pillar https://wsj-article-webview-generator-prod.sc.onservo.com/webview/WP-WSJ-0001208087?wsj_native_webview=android&ace_environment=androidtablet%2Cwebview&ace_config=%7B%22wsj%22%3A%7B%22djcmp%22%3A%7B%22propertyHref%22%3A%22https%3A%2F%2Fwsj.android.app%22%7D%7D%7D
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+* TODO Read [[https://drive.google.com/drive/folders/1nIdPNmKO5UkypkhKDLw6xR47EsmoCWk-?usp=drive_link][papers from Guglielmo]]                            :Electra:Mobile:
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  25
+  :RATIO:    1.00
+  :END:
+
+
+** TODO Read Mozilla foundation car privacy article https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
