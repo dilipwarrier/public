@@ -174,26 +174,28 @@ time most valuably?
 
 
 ** TODO Book focus time slots for tomorrow
-   SCHEDULED: <2023-09-25 Mon 16:00 +1w>
+   SCHEDULED: <2023-10-02 Mon 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2023-09-19 Tue 16:23]
+   :LAST_REPEAT: [2023-09-27 Wed 10:17]
    :END:
+   - State "DONE"       from "TODO"       [2023-09-27 Wed 10:17]
    - State "DONE"       from "TODO"       [2023-09-19 Tue 16:23]
    - State "DONE"       from "TODO"       [2023-09-11 Mon 15:10]
    - State "DONE"       from "TODO"       [2023-09-04 Mon 10:46]
    - State "DONE"       from "TODO"       [2023-08-28 Mon 17:47]
 
 ** TODO Book focus time slots for tomorrow
-   SCHEDULED: <2023-09-26 Tue 16:00 +1w>
+   SCHEDULED: <2023-10-03 Tue 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2023-09-19 Tue 17:15]
+   :LAST_REPEAT: [2023-09-27 Wed 10:16]
    :END:
+   - State "DONE"       from "TODO"       [2023-09-27 Wed 10:16]
    - State "DONE"       from "TODO"       [2023-09-19 Tue 17:15]
    - State "DONE"       from "TODO"       [2023-09-13 Wed 06:39]
    - State "DONE"       from "TODO"       [2023-09-05 Tue 16:37]
@@ -201,13 +203,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-22 Tue 20:56]
 
 ** TODO Book focus time slots for tomorrow
-   SCHEDULED: <2023-09-27 Wed 16:00 +1w>
+   SCHEDULED: <2023-10-04 Wed 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-09-20 Wed 07:43]
+   :LAST_REPEAT: [2023-09-27 Wed 19:24]
    :END:
+   - State "DONE"       from "TODO"       [2023-09-27 Wed 19:24]
    - State "DONE"       from "TODO"       [2023-09-20 Wed 07:43]
    - State "DONE"       from "TODO"       [2023-09-13 Wed 17:08]
    - State "DONE"       from "TODO"       [2023-09-06 Wed 15:22]
@@ -215,13 +218,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-23 Wed 17:07]
 
 ** TODO Book focus time slots for tomorrow
-   SCHEDULED: <2023-09-28 Thu 16:00 +1w>
+   SCHEDULED: <2023-10-05 Thu 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-09-21 Thu 06:38]
+   :LAST_REPEAT: [2023-09-28 Thu 22:20]
    :END:
+   - State "DONE"       from "TODO"       [2023-09-28 Thu 22:20]
    - State "DONE"       from "TODO"       [2023-09-21 Thu 06:38]
    - State "DONE"       from "TODO"       [2023-09-15 Fri 08:40]
    - State "DONE"       from "TODO"       [2023-09-07 Thu 13:35]

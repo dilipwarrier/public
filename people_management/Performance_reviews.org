@@ -71,5 +71,5 @@
 :end:
 :results:
 
-*** TODO Complete my end-quarter goal progress
+*** DONE Complete my end-quarter goal progress
     SCHEDULED: <2023-09-24 Sun 20:00>
