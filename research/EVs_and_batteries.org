@@ -108,6 +108,30 @@
   [[https://electricvehiclesfaqs.com/how-many-batteries-are-in-a-tesla-electric-car/#:~:text=The%20Tesla%20Model%203%20standard,groups%20(bricks)%20of%2031.][Tesla]] battery packs have 1000s of cells.
 
 
+* Battery aging
+
+  Source: [[https://www.accure.net/battery-knowledge/blog-battery-aging][Accure]]
+
+  [[file:Screenshot 2023-10-03 114415.png][Typical battery aging profile]]
+
+  Aging is caused by SEI (Surface Electrolyte Interface)
+  formation. This forms on the graphite anode and accumulates over
+  time, resulting in increased resistance.
+
+  Biggest causes of accelerated aging are:
+  - Temperature
+    [[file:Screenshot 2023-10-03 115732.png][Aging due to temperature]]
+
+  - High SoC
+    [[file:Screenshot 2023-10-03 120047.png][Aging due to SoC]]
+
+  - Number of cycles and average depth of discharge per cycle -> high
+    average SoC -> aging
+    [[file:Screenshot 2023-10-03 120242.png][Faster aging due to higher average DoD]]
+
+  - Fast charging -> increased temperature -> aging
+
+
 * Battery costs
 
   [[https://drive.google.com/file/d/13eYJbFfhuhuLLr7BQ0xGqkOMnjDv42LM/view?usp=drivesdk][IHS Markit report]] on battery costs

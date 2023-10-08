@@ -29,11 +29,7 @@
 #+RESULTS:
 :results:
 *** TODO Ask directs to create quarter's goals based on department goals
-    SCHEDULED: <2023-10-03 Tue 20:00>
-
-
-*** TODO Make 1-1s with directs into goal creation meetings
-    SCHEDULED: <2023-10-03 Tue 20:00>
+    SCHEDULED: <2023-10-13 Fri 20:00>
 
 
 *** TODO Make 1-1s with directs into mid-quarter goal progress check-in meetings
@@ -70,6 +66,3 @@
 
 :end:
 :results:
-
-*** DONE Complete my end-quarter goal progress
-    SCHEDULED: <2023-09-24 Sun 20:00>
