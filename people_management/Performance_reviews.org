@@ -28,7 +28,7 @@
 
 #+RESULTS:
 :results:
-*** TODO Ask directs to create quarter's goals based on department goals
+*** DONE Ask directs to create quarter's goals based on department goals
     SCHEDULED: <2023-10-13 Fri 20:00>
 
 

@@ -51,18 +51,18 @@ From [[https://ourworldindata.org/travel-carbon-footprint][Our World in data]],
 # Assume a certain distance in miles flown per year
 # One-way distance from Boston, MA to Chennai, India is 8000 miles
 # One-way distance from Boston, MA to Chicago, IL is 1000 miles
-miles_per_year = [3000, 15000, 30000]
+miles_per_year = [3000, 15000]
 
 total_CO2 = 0
 for f_type in range(len(miles_per_year)):
    # Convert table data from km to miles
-   total_CO2 = total_CO2 + miles_per_year[f_type] * tab[f_type][1] * 1.6
+   total_CO2 = total_CO2 + miles_per_year[f_type] * tab[f_type+1][1] * 1.6
 
 print("Tons of CO2 per year from flying = %.2f" % (total_CO2/(1e6)))
 #+END_SRC
 
 #+RESULTS:
-: Tons of CO2 per year from flying = 10.36
+: Tons of CO2 per year from flying = 4.82
 
 
 * CO2 emissions from container shipping
@@ -72,7 +72,7 @@ following table shows CO2 emissions from various kinds of container
 ships. The Normalized Operational Efficiency (NOE) may be the
 appropriate metric to use.
 
-[[Screenshot 2021-07-08 125645.png][CO2 emissions table]]
+[[./Screenshot 2021-07-08 125645.png][CO2 emissions table]]
 
 
 * Plant-based diets
@@ -98,7 +98,7 @@ appropriate metric to use.
   for a majority of GHG emission. All stages after the farm account
   for 10% or less (see [[./Screenshot Environmental impact.png][this picture]]). So, "eating local" doesn't help
   with GHGs. Removing meat and milk-based products as seen in
-  [[Plant-based diets]].
+  [[Plant-based diets]] does help.
 
   The only exception is that you shouldn't eat
   air-freighted foods: those tend to be foods that need to stay fresh

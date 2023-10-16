@@ -1,0 +1,49 @@
+#+NAME: Company strategy
+#+FILETAGS: :Learning:Strategy:
+
+* Purpose, vision, mission, and strategy
+
+  [[https://www.youtube.com/watch?v=u4ZoJKF_VuA][Simon Sinek video]] on "Start with why"
+
+  Accordingly:
+  - Company purpose - answers the why - 50-100 year timeline
+  - Company vision - answers the how - 25 year timeline
+  - Company mission - anwers the what - 10 year timeline
+  - Company strategy - Set of goals and actions - 3 year timeline
+
+  - Why are we doing what we are doing?
+
+  - How are we addressing our customer needs?
+    + Skills, technology, knowledge, competencies
+
+  - What is our business?
+    1. Who are we satisfying? (Customer groups)
+    2. What needs are we satisfying? (Customer needs)
+
+  This is a customer-oriented business definition rather than a
+  product-oriented business definition.  A product-oriented definition
+  can obscure the true mission. For instance, many typewriter companies
+  missed that their organization's business was satisfying the customer
+  need of information processing. When IBM redefined information
+  processing by moving into computers, these typewriter companies lost
+  out.
+
+  The vision of the company is a high level statement for where the
+  company wants to be. It articulates, often in broad terms, what a
+  company hopes to achieve. The vision often includes values which
+  describe how the company will operate.
+
+  The goals or strategy break down the vision into SMART objectives.
+
+
+** Financial metrics for success of a company
+
+   A company is usually focused on providing value to shareholders while
+   maintaining ethics and values. The valuation of a company is driven
+   by:
+   1. ROIC (Return on Invested Capital) = NOPLAT (Net Operating Profit Less Applicable Taxes) divided by IC = equity + debt
+   2. Growth rate of profitability = rate at which NOPLAT increases per year
+
+   Together, these two factors and the Weighted Average Cost of Capital
+   (WACC) determine the valuation of the company. This can be calculated
+   using cash flow analysis.

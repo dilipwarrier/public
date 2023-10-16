@@ -161,3 +161,9 @@
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
+* TODO Read [[https://www.digital-auto.org/sdv-report][Bosch SDV eBook]] forwarded by John Moloney
+  :PROPERTIES:
+  :EFFORT:   01:00
+  :BENEFIT:  25
+  :RATIO:    0.15
+  :END:
