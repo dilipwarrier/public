@@ -198,10 +198,9 @@ time most valuably?
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2023-10-31 Tue 10:28]
+   :LAST_REPEAT: [2023-10-25 Wed 06:15]
    :END:
-   - State "DONE"       from "TODO"       [2023-10-31 Tue 10:28]
-   - State "DONE"       from "WAIT"       [2023-10-29 Sun 11:54]
+   - State "DONE"       from "TODO"       [2023-10-25 Wed 06:15]
    - State "DONE"       from "TODO"       [2023-10-17 Tue 06:31]
    - State "DONE"       from "TODO"       [2023-10-10 Tue 09:43]
    - State "DONE"       from "TODO"       [2023-10-03 Tue 20:38]

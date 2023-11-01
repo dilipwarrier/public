@@ -167,3 +167,11 @@
   :BENEFIT:  25
   :RATIO:    0.15
   :END:
+
+
+** TODO https://www.economist.com/science-and-technology/2023/10/25/firms-are-exploring-sodium-batteries-as-an-alternative-to-lithium
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
