@@ -173,7 +173,7 @@ time most valuably?
    Projects get further sub-divided into tasks.
 
 
-** TODO Book focus time slots for tomorrow
+** TODO Book focus time slots and end-of-day updates for tomorrow
    SCHEDULED: <2023-11-06 Mon 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
@@ -192,7 +192,7 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-09-04 Mon 10:46]
    - State "DONE"       from "TODO"       [2023-08-28 Mon 17:47]
 
-** TODO Book focus time slots for tomorrow
+** TODO Book focus time slots and end-of-day updates for tomorrow
    SCHEDULED: <2023-11-07 Tue 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
@@ -211,14 +211,15 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-29 Tue 10:20]
    - State "DONE"       from "TODO"       [2023-08-22 Tue 20:56]
 
-** TODO Book focus time slots for tomorrow
-   SCHEDULED: <2023-11-01 Wed 16:00 +1w>
+** TODO Book focus time slots and end-of-day updates for tomorrow
+   SCHEDULED: <2023-11-08 Wed 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-10-29 Sun 11:53]
+   :LAST_REPEAT: [2023-11-01 Wed 18:10]
    :END:
+   - State "DONE"       from "TODO"       [2023-11-01 Wed 18:10]
    - State "DONE"       from "WAIT"       [2023-10-29 Sun 11:53]
    - State "DONE"       from "TODO"       [2023-10-12 Thu 14:25]
    - State "DONE"       from "TODO"       [2023-10-12 Thu 14:25]
@@ -230,14 +231,15 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-31 Thu 07:02]
    - State "DONE"       from "TODO"       [2023-08-23 Wed 17:07]
 
-** TODO Book focus time slots for tomorrow
-   SCHEDULED: <2023-11-02 Thu 16:00 +1w>
+** TODO Book focus time slots and end-of-day updates for tomorrow
+   SCHEDULED: <2023-11-09 Thu 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-10-29 Sun 11:53]
+   :LAST_REPEAT: [2023-11-02 Thu 17:28]
    :END:
+   - State "DONE"       from "TODO"       [2023-11-02 Thu 17:28]
    - State "DONE"       from "WAIT"       [2023-10-29 Sun 11:53]
    - State "DONE"       from "TODO"       [2023-10-20 Fri 06:15]
    - State "DONE"       from "TODO"       [2023-10-12 Thu 14:26]
@@ -249,7 +251,7 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-31 Thu 14:38]
    - State "DONE"       from "TODO"       [2023-08-24 Thu 21:44]
 
-** TODO Book focus time slots for tomorrow
+** TODO Book focus time slots and end-of-day updates for tomorrow
    SCHEDULED: <2023-11-05 Sun 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15

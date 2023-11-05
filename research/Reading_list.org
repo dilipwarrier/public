@@ -175,3 +175,9 @@
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+* TODO Review [[https://www.gartner.com/smarterwithgartner/power-challenger-sales-model][Challenger Sales]] model
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  25
+  :RATIO:    1.00
+  :END:
