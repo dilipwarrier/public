@@ -35,7 +35,7 @@
   Yet, automotive chips are only 3% of TSMC revenue.
 
 
-* NXP MCUs
+* NXP
 
   [[https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform:S32][S32 microcontrollers]]
 
@@ -64,7 +64,30 @@
    [[file:Screenshot 2023-01-29 114928.jpg]]
 
 
-* Snapdragon
+* Qualcomm Snapdragon
 
   [[https://developer.qualcomm.com/blog/ml-training-edge-training-mobile-devices][Limited retraining]] is supported on the Snapdragon using the OpenCL
   ML SDK on the Adreno.
+
+
+* ASML                                                             :LinkedIn:
+
+  I came across [[https://www.visualcapitalist.com/the-50-most-valuable-companies-in-the-world-in-2023/?utm_source=Newsletter&utm_campaign=37abfa8c9a-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-37abfa8c9a-9546361][this infographic]] on the 50 most valuable companies in
+  the world. Most of the names in the IT sector are household names,
+  but ASML?
+
+  Netherlands-based ASML is the world leader in lithography
+  techniques for etching chips and deserves to be better known.
+
+  Companies like Applied Materials and Lam Research combine their
+  technology with layering techniques to build the multiple layers that
+  are needed for today's chips. For example, today's logic chips can
+  have up to 20 wiring layers stacked up, one on top of another.
+
+  Manufacturers like TSMC (also on that list) then manufacture
+  #semiconductor chips using this layering technology.
+
+  Source: [[https://www.wsj.com/articles/applied-materials-chips-61bbed0e][WSJ article]]
+
+
+** When everybody is digging for gold, it’s good to be in the pick and shovel business - Anonymous :Quotes:
