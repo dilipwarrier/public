@@ -70,6 +70,8 @@
   Per [[https://electrek.co/2022/12/13/worried-about-winter-range-loss-see-how-over-a-dozen-evs-compare/][this article,]] most EVs lose ~20% range at freezing temperature
   compared to 70 degrees Fahrenheit.
 
+  See also [[id:84072c13-b58e-4984-b83a-ccd6396da1bb][Range]].
+
 
 * EV global trends
 
@@ -141,6 +143,27 @@
   Costs of batteries increase by chemistry from NCA to NMC to LFP.
 
   Costs for LFP will drop from $170/kWh in 2020 to $110/kWh in 2030.
+
+
+* Range
+  :PROPERTIES:
+  :ID:       84072c13-b58e-4984-b83a-ccd6396da1bb
+  :END:
+
+  [[https://www.recurrentauto.com/news/real-world-range-for-tesla][Recurrent]], a company that does EV analytics, did an in-depth study
+  of real-life range from EVs. It showed that, in real life, the Tesla
+  Model S provides 90% of its EPA range at 90 deg F but only 50% of
+  its EPA range at 30 deg F. However, the estimated range on the
+  dashboard remains relatively constant at 90% of the EPA range at
+  these temperatures. Thus, Tesla owners are promised a much higher
+  range on the dashboard than they actually get.
+
+  Other vehicle brands also show a variation in real-life range with
+  temperature but none are as drastic as the Tesla.
+
+  The article cautions, though, that newer Tesla models have heating
+  pumps and advanced thermal management that may reduce this
+  variation.
 
 
 * Software companies

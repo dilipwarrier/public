@@ -36,7 +36,7 @@
     SCHEDULED: <2023-11-10 Fri 20:00>
 
 
-*** TODO Complete my mid-quarter goal progress check-in
+*** DONE Complete my mid-quarter goal progress check-in
     SCHEDULED: <2023-11-15 Wed 20:00>
 
 

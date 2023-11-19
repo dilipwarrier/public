@@ -667,59 +667,6 @@
     [[https://www.manager-tools.com/print/353111?pod=353116][How to listen better]]
 
 
-*** Reporting status of tasks
-
-    [[https://www.manager-tools.com/2018/04/relationship-errors-not-reporting-no-news][Not reporting "no news"]]
-
-    - Communicate frequently even if there is no news
-    - Report the actions you've taken. This shows that you are being
-      proactive. For instance, "I haven't heard from x, so I have
-      setup a Zoom call with them for tomorrow to resolve it."
-    - Report intended actions. This goes one step beyond the previous
-      point. You report it as "I haven't heard from x. If I don't
-      hear back by tomorrow, I will call them on Zoom to resolve it."
-
-
-*** Reporting status of projects on demand
-
-   [[https://www.manager-tools.com/print/176761?pod=176766][Status-on-demand communication]] can happen either to your boss or to
-   someone higher up in the hierarchy. Always have a crisp summary ready.
-
-
-**** Current status
-
-    The typical way to communicate status in an elevator pitch is the
-    Red/Amber/Green method.
-
-    Red: You have come to a stop. There is a blocker on the critical
-    path on the project, and you need external intervention to
-    clear a roadblock. This is not a bad thing; it's good to ask for
-    external intervention when you need it. Just don't ask for it too
-    often.
-
-    Amber: You have come to a stop. There is a blocker on the critical
-    path on the project,  but you are trying to resolve the
-    issue by yourself. Amber status can change to Red status if
-    whatever you are trying does not work or to Green status if it
-    does.
-
-    Green: Project is ongoing; there are issues but they are not
-    blocking the critical path(s) in the project.
-
-    This alone is not enough.
-
-
-**** Next steps
-
-     Communicating current status on a project alone is not enough. You
-     have to communicate what will happen in the future i.e. the next
-     steps and the trigger condition for a change.
-
-     For Red or Amber status, communicate what you are doing and what
-     will trigger the next change (Red to Amber, Amber to
-     Green, etc).
-
-
 *** Pre-wiring a presentation
     :PROPERTIES:
     :CUSTOM_ID: pre_wire
@@ -804,6 +751,77 @@
    They decide "who will do what, by when".
 
 
+** Project communication
+
+   The [[https://www.manager-tools.com/2009/01/2nd-rule-effective-project-team-members][second rule]] of project work: Meet all of your deadlines. If you
+   want to gain the respect of your colleagues, be the team member who
+   always delivers on deadlines.
+
+   Schedule project work early - set aside focused time 90 minutes at
+   a time to make progress on the project. Set aside this time well
+   ahead of the deadline as opposed to just before it.
+
+   Resist meetings that conflict with scheduled project work.
+
+   Be clear on precisely what you need from other team members, when
+   you need it, and why you need it by that time. After that, insert
+   tension by asking for a date by which they will complete their
+   action and follow up.
+
+
+*** Reporting status of tasks
+
+    [[https://www.manager-tools.com/2018/04/relationship-errors-not-reporting-no-news][Not reporting "no news"]]
+
+    - Communicate frequently even if there is no news
+    - Report the actions you've taken. This shows that you are being
+      proactive. For instance, "I haven't heard from x, so I have
+      setup a Zoom call with them for tomorrow to resolve it."
+    - Report intended actions. This goes one step beyond the previous
+      point. You report it as "I haven't heard from x. If I don't
+      hear back by tomorrow, I will call them on Zoom to resolve it."
+
+
+*** Reporting status of projects on demand
+
+   [[https://www.manager-tools.com/print/176761?pod=176766][Status-on-demand communication]] can happen either to your boss or to
+   someone higher up in the hierarchy. Always have a crisp summary ready.
+
+
+**** Current status
+
+    The typical way to communicate status in an elevator pitch is the
+    Red/Amber/Green method.
+
+    Red: You have come to a stop. There is a blocker on the critical
+    path on the project, and you need external intervention to
+    clear a roadblock. This is not a bad thing; it's good to ask for
+    external intervention when you need it. Just don't ask for it too
+    often.
+
+    Amber: You have come to a stop. There is a blocker on the critical
+    path on the project,  but you are trying to resolve the
+    issue by yourself. Amber status can change to Red status if
+    whatever you are trying does not work or to Green status if it
+    does.
+
+    Green: Project is ongoing; there are issues but they are not
+    blocking the critical path(s) in the project.
+
+    This alone is not enough.
+
+
+**** Next steps
+
+     Communicating current status on a project alone is not enough. You
+     have to communicate what will happen in the future i.e. the next
+     steps and the trigger condition for a change.
+
+     For Red or Amber status, communicate what you are doing and what
+     will trigger the next change (Red to Amber, Amber to
+     Green, etc).
+
+
 ** Managing your time
 
    You don't manage your time, you manage your priorities.
@@ -857,6 +875,7 @@
 ** Leadership
 
    Link to [[https://youtu.be/ocSw1m30UBI?si=qk8wayvBbmq-d1yQ][Colin Powell's video]] on leadership
+
 
 *** Colin Powell: You know you are a leader if your team will follow you, if only out of curiosity :quotes:
 
@@ -1591,12 +1610,13 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2023-11-18 Sat 16:00 +1w>
+   SCHEDULED: <2023-11-25 Sat 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-11-11 Sat 10:18]
+   :LAST_REPEAT: [2023-11-19 Sun 13:44]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-11-19 Sun 13:44]
    - State "DONE"       from "TODO"       [2023-11-11 Sat 10:18]
    - State "DONE"       from "TODO"       [2023-11-05 Sun 13:38]
    - State "DONE"       from "WAIT"       [2023-10-29 Sun 11:53]
