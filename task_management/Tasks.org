@@ -174,13 +174,14 @@ time most valuably?
 
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-11-20 Mon 16:00 +1w>
+   SCHEDULED: <2023-11-27 Mon 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2023-11-13 Mon 18:22]
+   :LAST_REPEAT: [2023-11-22 Wed 20:23]
    :END:
+   - State "DONE"       from "TODO"       [2023-11-22 Wed 20:23]
    - State "DONE"       from "TODO"       [2023-11-13 Mon 18:22]
    - State "DONE"       from "TODO"       [2023-11-07 Tue 07:50]
    - State "DONE"       from "TODO"       [2023-10-31 Tue 07:02]
@@ -195,13 +196,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-28 Mon 17:47]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-11-21 Tue 16:00 +1w>
+   SCHEDULED: <2023-11-28 Tue 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2023-11-15 Wed 09:07]
+   :LAST_REPEAT: [2023-11-22 Wed 09:45]
    :END:
+   - State "DONE"       from "TODO"       [2023-11-22 Wed 09:45]
    - State "DONE"       from "TODO"       [2023-11-15 Wed 09:07]
    - State "DONE"       from "TODO"       [2023-11-07 Tue 18:18]
    - State "DONE"       from "TODO"       [2023-10-25 Wed 06:15]
@@ -216,13 +218,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-22 Tue 20:56]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-11-22 Wed 16:00 +1w>
+   SCHEDULED: <2023-11-29 Wed 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-11-15 Wed 11:23]
+   :LAST_REPEAT: [2023-11-22 Wed 20:19]
    :END:
+   - State "DONE"       from "TODO"       [2023-11-22 Wed 20:19]
    - State "DONE"       from "TODO"       [2023-11-15 Wed 11:23]
    - State "DONE"       from "TODO"       [2023-11-09 Thu 09:10]
    - State "DONE"       from "TODO"       [2023-11-01 Wed 18:10]
@@ -238,13 +241,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-23 Wed 17:07]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-11-23 Thu 16:00 +1w>
+   SCHEDULED: <2023-11-30 Thu 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-11-16 Thu 20:09]
+   :LAST_REPEAT: [2023-11-26 Sun 11:23]
    :END:
+   - State "DONE"       from "TODO"       [2023-11-26 Sun 11:23]
    - State "DONE"       from "TODO"       [2023-11-16 Thu 20:09]
    - State "DONE"       from "TODO"       [2023-11-09 Thu 16:39]
    - State "DONE"       from "TODO"       [2023-11-02 Thu 17:28]
@@ -260,13 +264,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-24 Thu 21:44]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-11-26 Sun 16:00 +1w>
+   SCHEDULED: <2023-12-03 Sun 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-11-19 Sun 15:30]
+   :LAST_REPEAT: [2023-11-26 Sun 11:28]
    :END:
+   - State "DONE"       from "TODO"       [2023-11-26 Sun 11:28]
    - State "DONE"       from "TODO"       [2023-11-19 Sun 15:30]
    - State "DONE"       from "TODO"       [2023-11-12 Sun 11:44]
    - State "DONE"       from "TODO"       [2023-11-05 Sun 17:09]
