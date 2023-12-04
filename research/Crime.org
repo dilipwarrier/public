@@ -3,6 +3,6 @@
 
 * US violent crime and proven deterrence techniques
 
-  [[private/][This WSJ article]] talks about "focused deterrence" as a proven way of
+  A WSJ article talks about "focused deterrence" as a proven way of
   reducing US urban crime. US urban violent crime decreased from roughly
   1990-2020 but then started going up again.

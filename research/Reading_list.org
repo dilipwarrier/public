@@ -17,28 +17,12 @@
   :END:
 
 
-* TODO Read [[https://drive.google.com/file/d/1d09N7rv0u_u_LJxe7G0xzPi-2m2JSBIh/view?usp=sharing][Paradox of small probabilities]]                       :Philosophy:
-  :PROPERTIES:
-  :EFFORT: 00:15
-  :BENEFIT: 25
-  :RATIO: 1.00
-  :END:
-
-
 * TODO Read [[https://drive.google.com/file/d/15g-hWkTRu8bUS3hAWgeBj0YT9y-T1ter/view?usp=drive_link][GitLab communication handbook]]             :Offline:PC:Management:
   :PROPERTIES:
   :EFFORT: 00:15
   :BENEFIT: 50
   :RATIO: 2.00
   :END:
-
-
-* TODO Read [[https://www.theguardian.com/business/2022/apr/14/a-day-in-the-life-of-almost-every-vending-machine-in-the-world?utm_source=Newsletter&utm_campaign=e90d2f0036-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-e90d2f0036-9546361][article on vending machines]]                                :News:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
 
 
 * TODO Review [[https://lethain.com/measuring-engineering-organizations/?utm_source=Newsletter&utm_campaign=3b3237f0a0-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-3b3237f0a0-9546361][measurement for engineering orgs]]                   :Management:
@@ -141,40 +125,12 @@
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
-* TODO Read [[https://drive.google.com/drive/folders/1nIdPNmKO5UkypkhKDLw6xR47EsmoCWk-?usp=drive_link][papers from Guglielmo]]                            :Electra:Mobile:
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  25
-  :RATIO:    1.00
-  :END:
-
-
-** TODO Read Mozilla foundation car privacy article https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
 * TODO Look up options for Scrum Product Owner certification         :Mobile:
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
-* TODO Read [[https://www.digital-auto.org/sdv-report][Bosch SDV eBook]] forwarded by John Moloney
-  :PROPERTIES:
-  :EFFORT:   01:00
-  :BENEFIT:  25
-  :RATIO:    0.15
-  :END:
-
-
-** TODO https://www.economist.com/science-and-technology/2023/10/25/firms-are-exploring-sodium-batteries-as-an-alternative-to-lithium
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
 * TODO Review [[https://www.gartner.com/smarterwithgartner/power-challenger-sales-model][Challenger Sales]] model
   :PROPERTIES:
   :EFFORT:   00:15

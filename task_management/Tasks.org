@@ -59,10 +59,11 @@ field matches text in the tag.
               continue
 
       task_date = start_date + datetime.timedelta(days = delta)
+      task_date_str = task_date.strftime("%Y-%m-%d %a")
 
       if (len(t) <= 2) or (t[2] in tags):
-          print(("*** TODO %s    %s\n    SCHEDULED: " + "<" + "%s %s>\n\n") % (t[0], tags,
-                                                                               task_date.strftime("%Y-%m-%d %a"), task_time))
+          print(("*** TODO %s    %s\n    SCHEDULED: " + "<" + "%s %s>") % (t[0], tags, task_date_str, task_time))
+          print("   :PROPERTIES:\n   :EFFORT: 00:15\n   :BENEFIT: 10\n   :RATIO: 0.40\n   :END:\n\n")
 #+END_SRC
 
 #+RESULTS: generate_tasks_from_offset
@@ -150,6 +151,10 @@ time most valuably?
    For instance, to save 1 min/day for 3 years, you can spend up to
    1000 min or 16 hours.
 
+   Assuming 50% usage for an excellent gain, a
+   good and easy-to-remember rule of thumb is 1 day of work to save 1
+   min/day.
+
 
 * Execution of task management
 
@@ -174,13 +179,15 @@ time most valuably?
 
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-11-27 Mon 16:00 +1w>
+   SCHEDULED: <2023-12-11 Mon 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2023-11-22 Wed 20:23]
+   :LAST_REPEAT: [2023-12-04 Mon 15:34]
    :END:
+   - State "DONE"       from "TODO"       [2023-12-04 Mon 15:34]
+   - State "DONE"       from "TODO"       [2023-11-27 Mon 07:58]
    - State "DONE"       from "TODO"       [2023-11-22 Wed 20:23]
    - State "DONE"       from "TODO"       [2023-11-13 Mon 18:22]
    - State "DONE"       from "TODO"       [2023-11-07 Tue 07:50]
@@ -196,13 +203,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-28 Mon 17:47]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-11-28 Tue 16:00 +1w>
+   SCHEDULED: <2023-12-05 Tue 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2023-11-22 Wed 09:45]
+   :LAST_REPEAT: [2023-11-30 Thu 19:19]
    :END:
+   - State "DONE"       from "TODO"       [2023-11-30 Thu 19:19]
    - State "DONE"       from "TODO"       [2023-11-22 Wed 09:45]
    - State "DONE"       from "TODO"       [2023-11-15 Wed 09:07]
    - State "DONE"       from "TODO"       [2023-11-07 Tue 18:18]
@@ -218,13 +226,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-22 Tue 20:56]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-11-29 Wed 16:00 +1w>
+   SCHEDULED: <2023-12-06 Wed 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-11-22 Wed 20:19]
+   :LAST_REPEAT: [2023-11-30 Thu 19:19]
    :END:
+   - State "DONE"       from "TODO"       [2023-11-30 Thu 19:19]
    - State "DONE"       from "TODO"       [2023-11-22 Wed 20:19]
    - State "DONE"       from "TODO"       [2023-11-15 Wed 11:23]
    - State "DONE"       from "TODO"       [2023-11-09 Thu 09:10]
@@ -241,13 +250,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-23 Wed 17:07]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-11-30 Thu 16:00 +1w>
+   SCHEDULED: <2023-12-07 Thu 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-11-26 Sun 11:23]
+   :LAST_REPEAT: [2023-11-30 Thu 19:20]
    :END:
+   - State "DONE"       from "TODO"       [2023-11-30 Thu 19:20]
    - State "DONE"       from "TODO"       [2023-11-26 Sun 11:23]
    - State "DONE"       from "TODO"       [2023-11-16 Thu 20:09]
    - State "DONE"       from "TODO"       [2023-11-09 Thu 16:39]
@@ -264,13 +274,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-24 Thu 21:44]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-12-03 Sun 16:00 +1w>
+   SCHEDULED: <2023-12-10 Sun 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-11-26 Sun 11:28]
+   :LAST_REPEAT: [2023-12-03 Sun 20:18]
    :END:
+   - State "DONE"       from "TODO"       [2023-12-03 Sun 20:18]
    - State "DONE"       from "TODO"       [2023-11-26 Sun 11:28]
    - State "DONE"       from "TODO"       [2023-11-19 Sun 15:30]
    - State "DONE"       from "TODO"       [2023-11-12 Sun 11:44]
