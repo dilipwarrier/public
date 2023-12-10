@@ -75,18 +75,20 @@
 
 * EV global trends
 
-  According to [[https://ev-volumes.com/#:~:text=For%20the%20full%20year%20of,are%20BEVs%20and%2030%20%25%20PHEVs][EV Volumes]], about 10.5M EVs were sold globally
+  According to [[https://www.ev-volumes.com/country/total-world-plug-in-vehicle-volumes/][EV Volumes]], about 10.5M EVs were sold globally
   in 2022. This was 13% of all passenger vehicles. Out of this, about
-  7.5M were BEVs and about 3M were PHEVs. About 6.2M EVs were sold in
-  China (about 60% of the global market), 2.7M in Europe and 1.1m were
-  sold in the US.
-
-  Per slide 22 of the [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view][Volta Foundation Battery Report]], this number was
-  a 57% increase from 2021. By 2030, the number is expected to be at
-  47M (about 50% of the total passenger vehicle market). This is an
-  average growth rate of 21% every year for 8 years.
+  7.5M were BEVs and about 3M were PHEVs. By 2030, the
+  number is expected to be at 46M (about 45% of the total light
+  vehicle market). This is an average growth rate of 21% every year
+  for 8 years.
 
   [[file:Screenshot 2023-04-23 171648.png]]
+
+  [[file:Screenshot 2023-12-07 130520.png]]
+
+  According to slide 22 of the [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view][Battery Health Report]], about 6.2M EVs were sold in
+  China (about 60% of the global market), 2.7M in Europe and 1.1m were
+  sold in the US. This was a 55% increase from 2021.
 
   The total car sales (BEV, ICE etc.) in the US in CY23 is estimated
   to be at about 15M. This is down from a high in CY19 (pre-pandemic)

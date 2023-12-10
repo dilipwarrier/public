@@ -203,13 +203,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-28 Mon 17:47]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-12-05 Tue 16:00 +1w>
+   SCHEDULED: <2023-12-12 Tue 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2023-11-30 Thu 19:19]
+   :LAST_REPEAT: [2023-12-05 Tue 16:50]
    :END:
+   - State "DONE"       from "TODO"       [2023-12-05 Tue 16:50]
    - State "DONE"       from "TODO"       [2023-11-30 Thu 19:19]
    - State "DONE"       from "TODO"       [2023-11-22 Wed 09:45]
    - State "DONE"       from "TODO"       [2023-11-15 Wed 09:07]
@@ -226,13 +227,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-22 Tue 20:56]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-12-06 Wed 16:00 +1w>
+   SCHEDULED: <2023-12-13 Wed 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-11-30 Thu 19:19]
+   :LAST_REPEAT: [2023-12-06 Wed 12:03]
    :END:
+   - State "DONE"       from "TODO"       [2023-12-06 Wed 12:03]
    - State "DONE"       from "TODO"       [2023-11-30 Thu 19:19]
    - State "DONE"       from "TODO"       [2023-11-22 Wed 20:19]
    - State "DONE"       from "TODO"       [2023-11-15 Wed 11:23]
@@ -250,13 +252,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-23 Wed 17:07]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2023-12-07 Thu 16:00 +1w>
+   SCHEDULED: <2023-12-14 Thu 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2023-11-30 Thu 19:20]
+   :LAST_REPEAT: [2023-12-07 Thu 17:51]
    :END:
+   - State "DONE"       from "TODO"       [2023-12-07 Thu 17:51]
    - State "DONE"       from "TODO"       [2023-11-30 Thu 19:20]
    - State "DONE"       from "TODO"       [2023-11-26 Sun 11:23]
    - State "DONE"       from "TODO"       [2023-11-16 Thu 20:09]

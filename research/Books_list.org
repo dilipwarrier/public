@@ -19,22 +19,22 @@ Crossing Point                                    : James Glickman       (4.3, f
 Magdalena: River of dreams                        : Wade Davis           (4.4, society)
 Working backwards                                 : Colin Bryar, Bill... (4.4, management)
 Jesus' Son                                        : Denis Johnson        (4.1, fiction)
-The Art of Action                                 : Stephen Bungay       (4.3, management)
 Storytelling with data                            : Cole Nussbaumer...   (4.3, design)
-Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
-Models of the mind                                : Grace Lindsay        (4.4, brain)
 Nimitz at war                                     : Craig Symonds        (4.4, western-history)
+Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Compulsion                                        : Meyer Levin          (4.1, thriller)
 The Christmas Virtues: A Treasury of...           : Jonathan V. Last     (4.1, society)
 Five Families: The Rise,Decline,and Resurgence... : Selwyn Raab          (4.1, western-biography)
 The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
-Scaling people                                    : Claire Hughes...     (4.4, management)
 Say Nothing                                       : Patrick Keefe        (4.4, western-history)
-Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
+Scaling people                                    : Claire Hughes...     (4.4, management)
 Spearhead                                         : Adam Makos           (4.2, western-history)
+Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
 A different drummer                               : William Melvin...    (4.2, fiction)
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
+A cartoon history of the universe                 : Larry Gonick         (4.3, eastern-history,western-history)
 Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics)
+The Medici: Godfathers of the Renaissance         : Paul Strathern       (4.1, western-biography)
 :end:
 
 
@@ -310,8 +310,9 @@ options:
 
 
 ** TODO Review [[https://www.nationalbook.org/national-book-awards/][National Book Award winners]] for fiction and non-fiction and add to book list
-   SCHEDULED: <2023-11-30 Thu 08:00 +52w>
+   SCHEDULED: <2024-11-28 Thu 08:00 +52w>
    :PROPERTIES:
-   :LAST_REPEAT: [2022-12-03 Sat 17:10]
+   :LAST_REPEAT: [2023-12-08 Fri 13:01]
    :END:
+   - State "DONE"       from "TODO"       [2023-12-08 Fri 13:01]
    - State "DONE"       from "TODO"       [2022-12-03 Sat 17:10]
