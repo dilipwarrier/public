@@ -168,6 +168,12 @@
   variation.
 
 
+* EV fires
+
+  According to [[https://spectrum.ieee.org/lithium-ion-battery-fires][IEEE Spectrum]], fires in batteries in EVs have a lower incidence rate
+  than fires in vehicles in general.
+
+
 * Software companies
 
 

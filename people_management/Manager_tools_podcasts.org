@@ -1544,6 +1544,22 @@
      always be themselves), you'll get the job.
 
 
+** Executive development
+
+   [[https://www.manager-tools.com/2023/10/executive-development-different-part-1][Podcast link]]
+
+   - Exec Development is About Broadening
+   - Exec Development Is About Externalities
+   - It Won't Happen Without Planning
+   - Read In Several Forms
+   - Regularly Attend An Industry Conference
+   - Your Network Pays Off Now
+   - Do An Executive 360 Evaluation
+
+     They recommend a 360 evaluation from [[https://www.ccl.org/leadership-solutions/leadership-development-tools/leadership-assessments/][Center for Creative
+     Leadership]].
+
+
 ** Culture
 
 
@@ -1613,16 +1629,17 @@
   [[https://www.manager-tools.com/map-of-the-universe][Map of the podcast universe]]
 
 
-** TODO Listen to the next Executive tools [[https://www.manager-tools.com/all-podcasts][podcast]]
-   SCHEDULED: <2023-12-16 Sat 16:00 +2w>
+** TODO Listen to the next Executive tools [[https://www.manager-tools.com/user?destination=all-podcasts][podcast]]
+   SCHEDULED: <2023-12-30 Sat 16:00 +2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-12-02 Sat 13:16]
+   :LAST_REPEAT: [2023-12-17 Sun 10:22]
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-12-17 Sun 10:22]
    - State "DONE"       from "TODO"       [2023-12-02 Sat 13:16]
    - State "DONE"       from "TODO"       [2023-11-26 Sun 11:24]
    - State "DONE"       from "TODO"       [2023-11-19 Sun 13:44]
@@ -1654,9 +1671,11 @@
 
 
 ** TODO Read an existing Manager Tools section from above
-   SCHEDULED: <2023-12-09 Sat 16:00 +2w>
+   SCHEDULED: <2023-12-23 Sat 16:00 +2w>
    :PROPERTIES:
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
+   :LAST_REPEAT: [2023-12-11 Mon 08:10]
    :END:
+   - State "DONE"       from "TODO"       [2023-12-11 Mon 08:10]
