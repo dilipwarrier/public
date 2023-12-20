@@ -94,3 +94,8 @@
   you must think about introducing delighters. The hard work, of course,
   is in identifying what those delighters are and how to accomplish them
   such that they serve both your customers and your business.
+
+
+* Software Tools
+
+  Jira Product Discovery

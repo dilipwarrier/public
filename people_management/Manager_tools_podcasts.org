@@ -682,7 +682,7 @@
      your boss or about your peers. You must prep them. (Give the team the
      example of your direct's directs giving presentations during our staff
      meetings. Your direct must be briefed first. Use this and
-     presentations in Lei's staff meeting for pre-wiring.)
+     presentations in your manager's staff meeting for pre-wiring.)
 
      - Know your time limit :: Make sure you know how much time you
           have. Start with that, the information in the briefing matters
@@ -767,6 +767,86 @@
    you need it, and why you need it by that time. After that, insert
    tension by asking for a date by which they will complete their
    action and follow up.
+
+
+*** Running effective meetings
+
+    [[https://www.manager-tools.com/2021/04/effective-meetings-part-1-hof-2021][Podcast link]]
+
+    - Pre-Publish An Agenda
+
+      A meeting agenda should have a list of discussion items. Each
+      item has a topic, an owner, and a start time. The stop time is
+      the start time of the next item.
+
+      The first item in the agenda should be a review of any overdue
+      [[#action_item_format][action items]]. The last item in the agenda should be a wrap-up
+      and a list of the new action items. Once the team is operating
+      efficiently, these should be quick, lasting no more than 2
+      minutes each.
+
+      The agenda should be published at least 24 hours prior to the
+      meeting and included in the meeting invitation.
+
+    - Start On Time
+
+      This is respectful to the attendees who joined on time. If
+      someone joins late, you don't need to acknowledge them. If they
+      ask to get a recap of what happened, offer to get them up to
+      speed offline.
+
+    - Stick To Your Agenda
+
+      If a new item for discussion comes up, put it in the "parking
+      lot" i.e. you will take action on it after the meeting. Such
+      items should generally not hijack the agenda. On very rare
+      occasions, you may decide that the new topic is so urgent that
+      it changes the meeting agenda. However, this should not happen
+      too often.
+
+    - Assign action items
+
+      At the end of each agenda item, wrap up the discussion and
+      summarize the action items. The full list of action items can be
+      reviewed at the end.
+
+    - Finish On Time
+
+      Even if you start late, have the discipline to adjust the agenda
+      and end on time.
+
+    - Publish Notes
+
+      Meeting notes can be very short. They only need to record key
+      decisions and action items. Anything else is redundant. Those
+      who read the meeting notes are not looking for a
+      sentence-by-sentence recreation of the meeting.
+
+    - Continuously Improve
+
+      Monitor how you are doing with the meetings. Are they starting
+      and ending on time? Does everyone engage in the conversation?
+      Are action items recorded and monitored?
+
+
+**** Action item format
+     :PROPERTIES:
+     :CUSTOM_ID: action_item_format
+     :END:
+
+     An action item should always answer the question "Who does what
+     by when?" Specifically, the format should be "X to do task Y by
+     date Z"
+
+     X should be one person (if multiple people are involved, there
+     should be one person responsible for the completion of the task).
+
+     Y should have a clear "Definition of Done" i.e. it should have a
+     specific deliverable.
+
+     Z should be a clear date. If the time frame for the action item
+     is short, you may specify a time in addition to the date e.g. by
+     6 pm today.
 
 
 *** Reporting status of tasks
