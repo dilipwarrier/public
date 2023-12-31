@@ -22,8 +22,8 @@
 
 * Relative sizes of market
 
-  In 2022, the units sold ever year are as follows.
-     - 1.5B smart phones (~150M smart-phones/OEM)
+  In 2022, the units sold every year are as follows.
+     - 1.5B smart phones (~150M smart phones/OEM)
      - 340M PCs/laptops
      - 80M cars
 

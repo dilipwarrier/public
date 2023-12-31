@@ -975,7 +975,7 @@
 
 *** Getting ready to get promoted
 
-    Podcasts/chapters on [[https://www.manager-tools.com/get-answers/getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted?search=getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted&f%5B0%5D=im_field_content_domain%3A5&f%5B1%5D=ss_mt_bundle%3Apodcast_item&f%5B2%5D=is_mt_date%3A2014][Getting ready to get promoted]]
+    [[https://www.manager-tools.com/get-answers/getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted?search=getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted&f%5B0%5D=im_field_content_domain%3A5&f%5B1%5D=ss_mt_bundle%3Apodcast_item&f%5B2%5D=is_mt_date%3A2014][Podcast links]]
 
 
 **** Results
@@ -1710,15 +1710,16 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/user?destination=all-podcasts][podcast]]
-   SCHEDULED: <2023-12-30 Sat 16:00 +2w>
+   SCHEDULED: <2024-01-13 Sat 16:00 +2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-12-17 Sun 10:22]
+   :LAST_REPEAT: [2023-12-31 Sun 10:28]
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
    :END:
 
 
+   - State "DONE"       from "TODO"       [2023-12-31 Sun 10:28]
    - State "DONE"       from "TODO"       [2023-12-17 Sun 10:22]
    - State "DONE"       from "TODO"       [2023-12-02 Sat 13:16]
    - State "DONE"       from "TODO"       [2023-11-26 Sun 11:24]
@@ -1751,11 +1752,12 @@
 
 
 ** TODO Read an existing Manager Tools section from above
-   SCHEDULED: <2023-12-23 Sat 16:00 +2w>
+   SCHEDULED: <2024-01-06 Sat 16:00 +2w>
    :PROPERTIES:
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
-   :LAST_REPEAT: [2023-12-11 Mon 08:10]
+   :LAST_REPEAT: [2023-12-27 Wed 08:48]
    :END:
+   - State "DONE"       from "TODO"       [2023-12-27 Wed 08:48]
    - State "DONE"       from "TODO"       [2023-12-11 Mon 08:10]
