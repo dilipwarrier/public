@@ -1,0 +1,29 @@
+#+Title: Market analysis
+#+Filetags: :Learning:
+
+* Market analysis
+
+  Usually, a market analysis should contain the following sections.
+
+  - Executive Summary :: This section contains a brief summary of the
+    market analysis with key findings and recommendations for
+    stakeholders.
+
+  - Market Overview :: An introduction to the industry or market segment.
+    Current market size, growth potential, and key trends.
+
+  - Customer segments and customer needs
+
+  - Partners :: Overview of major players in the market and their
+    market shares
+
+  - Competitors and their market shares
+
+  - SWOT Analysis
+
+
+* Next steps after a market analysis
+
+  Once a market analysis is done and approved, if the stakeholders
+  decide to move forward in that market, the next step is to build a
+  [[file:Business_model_generation.org][business model canvas]].

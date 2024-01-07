@@ -1,6 +1,14 @@
 #+NAME: Company strategy
 #+FILETAGS: :Learning:Strategy:
 
+** TODO Add remaining sections from converted HTML file in Downloads dir :Offline:
+   :PROPERTIES:
+   :EFFORT:  00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
 * Purpose, vision, mission, and strategy
 
   [[https://www.youtube.com/watch?v=u4ZoJKF_VuA][Simon Sinek video]] on "Start with why"
@@ -13,7 +21,8 @@
 
   - Why are we doing what we are doing?
 
-  - How are we addressing our customer needs?
+  - How are we addressing our customer needs? This is usually covered
+    in a business plan or [[file:Business_model_generation.org][business model canvas]].
     + Skills, technology, knowledge, competencies
 
   - What is our business?
@@ -36,14 +45,15 @@
   The goals or strategy break down the vision into SMART objectives.
 
 
-** Financial metrics for success of a company
+* Financial metrics for a company
 
-   A company is usually focused on providing value to shareholders while
-   maintaining ethics and values. The valuation of a company is driven
-   by:
-   1. ROIC (Return on Invested Capital) = NOPLAT (Net Operating Profit Less Applicable Taxes) divided by IC = equity + debt
-   2. Growth rate of profitability = rate at which NOPLAT increases per year
+  A company is usually focused on providing value to shareholders while
+  maintaining ethics and values. The valuation of a company is driven
+  by:
+  1. ROIC (Return on Invested Capital) = NOPLAT (Net Operating Profit
+     Less Applicable Taxes) divided by IC = equity + debt
+  2. Growth rate of profitability = rate at which NOPLAT increases per year
 
-   Together, these two factors and the Weighted Average Cost of Capital
-   (WACC) determine the valuation of the company. This can be calculated
-   using cash flow analysis.
+  Together, these two factors and the Weighted Average Cost of Capital
+  (WACC) determine the valuation of the company. This can be calculated
+  using cash flow analysis.

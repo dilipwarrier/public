@@ -30,7 +30,7 @@
    See Osterwalder's [[https://www.youtube.com/watch?v%3DReM1uqmVfP0&ab_channel%3DStrategyzer][value proposition canvas]] for more.
 
 
-** Channels (for communication, distribution and sales)
+** Channels (for communication, distribution, and sales)
 
    Companies should use a mix of owned channels and partner
    channels to reach their customers. The channel strategy should be
@@ -53,8 +53,7 @@
    What key resources will the company use to support the business
    model? e.g. intellectual property, brand, people etc.
 
-   See also discussion of the VRIO resource framework in the
-   Strategic Management textbook.
+   See also discussion of the [[file:Business_strategy.org][VRIO resource framework]].
 
 
 ** Key activities

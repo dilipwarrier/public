@@ -6,23 +6,6 @@
   Video on [[https://youtu.be/yViw8Rh8T1w][Blackberry's evolution]] from mobile phones to IoT and security
 
 
-* NXP presentation on [[https://drive.google.com/file/d/1CwpQtYjES7SIZdqAIBEjyhuh_g1udObI/view?usp=share_link][Software Defined Vehicles]]
-
-  OEMs are looking for reduced costs of software integration (70% of
-  software costs is in integration).
-
-  This could be achieved through:
-  - Zonal architectures where computing-intensive non-real-time
-    tasks are done in general-purpose application processors as
-    opposed to dedicated processors
-  - Applications are written in higher-level languages and use
-    off-the-shelf software components
-  - Applications in the car communicate with applications in the cloud
-    to provide maximum value
-  - Applications are deployed as microservices through efficient
-    cloud-based deployment and maintenance tools
-
-
 * Automotive software
 
   [[https://www.youtube.com/watch?v=Ehnjhj8WFG4][100 M lines of code in a car with Munro Live]]
@@ -40,6 +23,25 @@
 
 
 * Software Defined Vehicles
+
+** NXP presentation on [[https://drive.google.com/file/d/1CwpQtYjES7SIZdqAIBEjyhuh_g1udObI/view?usp=share_link][Software Defined Vehicles]]
+
+   OEMs are looking for reduced costs of software integration (70% of
+   software costs is in integration).
+
+   This could be achieved through:
+   - Zonal architectures where computing-intensive non-real-time
+     tasks are done in general-purpose application processors as
+     opposed to dedicated processors
+   - Applications are written in higher-level languages and use
+     off-the-shelf software components
+   - Applications in the car communicate with applications in the cloud
+     to provide maximum value
+   - Applications are deployed as microservices through efficient
+     cloud-based deployment and maintenance tools
+
+
+** Trends                                                          :LinkedIn:
 
   While "software defined vehicles" is still a nebulous concept, a few
   key factors are clear.

@@ -27,7 +27,7 @@
   - Value risk :: Will people use it?
   - Viability risk :: Will the solution work for our business?
   - Usability risk :: Will people figure out how to use it?
-  - Feasibility risk :: Can we build it with the time, skills and technology we have?
+  - Feasibility risk :: Can we build it with the time, skills, and technology we have?
 
   Risks 1 and 2 are owned by the product manager, risk 3 by the designer
   and risk 4 by the engineer.
