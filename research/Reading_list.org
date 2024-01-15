@@ -137,3 +137,19 @@
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
+
+
+** TODO https://ethereum.org/en/developers/docs/intro-to-ethereum/
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+** TODO https://ethereum.org/en/developers/docs/intro-to-ethereum/
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:

@@ -1,9 +1,7 @@
 Title,Author,My Rating,Average Rating,Date Read,Date Added,Genre,Status
-The law of innocence,Michael Connelly,,4.0,,12/08/2023,thriller,reading
 The words that remain, Stenio Gardel,,4.0,,12/08/2023,fiction,to-read
 The silk roads, Peter Frankopan,,4.0,,08/11/2023,eastern-history,to-read
 The Rediscovery of America, Ned Blackhawk,,4.0,,12/08/2023,western-history,to-read
-Difficult Conversations,Douglas Stone,,4.0,,09/19/2023,management,to-read
 The garden of tales,Vijaydan Detha,,4.0,,09/10/2023,indian-fiction,to-read
 Sovereigns of the sea,Seema Alavi,,4.0,,09/10/2023,eastern-history,to-read
 The sense of style,Steven Pinker,,4.0,,09/10/2023,society,to-read
@@ -35,8 +33,6 @@ Build: An unorthodox guide to making things,Tony Fadell,,4.0,,06/25/2022,"manage
 Why it's OK to eat meat,Dan Shahar,,4.0,,06/13/2022,philosophy,to-read
 Nimitz at war,Craig Symonds,,4.4,,05/30/2022,western-history,to-read
 Loved: How to market tech products customers adore,Martina Lauchengco,,4.0,,05/14/2022,"marketing,product",to-read
-Models of the mind,Grace Lindsay,5.0,4.4,06/01/2023,03/13/2022,brain,read
-The big picture,Sean B. Carroll,5.0,4.2,07/01/2023,02/12/2022,"biology,science",read
 Life on a young planet: the first 3 billion years,Andrew Knoll,,4.0,,02/09/2022,biology,to-read
 Fundamentals of software architecture,"Mark Richards,Neal Ford",,4.3,,01/29/2022,"software,engineering,textbook",to-read
 A country unmasked,Alex Boraine,,3.6,,01/01/2022,eastern-history,to-read
@@ -121,6 +117,9 @@ Jesus' Son,Denis Johnson,,4.1,,11/1/2014,fiction,to-read
 The whys of a political scrivener,Martin Gardner,,4.0,,11/23/2013,philosophy,to-read
 The elegant universe,Brian Greene,,4.1,,3/20/2022,physics,to-read
 Business model generation,Alex Osterwalder,,4.2,,02/27/2022,management,to-read
+King, Jonathan Eig,5,4.0,1/12/2024,1/12/2024,black-biography,read
+Models of the mind,Grace Lindsay,5.0,4.4,06/01/2023,03/13/2022,brain,read
+The big picture,Sean B. Carroll,5.0,4.2,07/01/2023,02/12/2022,"biology,science",read
 Ponniyil Selvan - book 1,Kalki,5.0,5.0,7/20/2023,7/20/2023,indian-fiction,read
 The diamond eye,Kate Quinn,3.0,4.3,7/5/2023,2/17/2019,thriller,read
 A failed empire,Vladislav Zubok,3,3.9,02/15/2023,11/14/2022,eastern-history,read
