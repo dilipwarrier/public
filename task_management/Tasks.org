@@ -179,13 +179,14 @@ time most valuably?
 
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2024-01-15 Mon 16:00 +1w>
+   SCHEDULED: <2024-01-22 Mon 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2024-01-08 Mon 08:08]
+   :LAST_REPEAT: [2024-01-15 Mon 15:46]
    :END:
+   - State "DONE"       from "TODO"       [2024-01-15 Mon 15:46]
    - State "DONE"       from "TODO"       [2024-01-08 Mon 08:08]
    - State "DONE"       from "TODO"       [2024-01-01 Mon 16:23]
    - State "DONE"       from "TODO"       [2023-12-25 Mon 15:22]
@@ -208,13 +209,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-28 Mon 17:47]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2024-01-16 Tue 16:00 +1w>
+   SCHEDULED: <2024-01-23 Tue 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2024-01-14 Sun 15:17]
+   :LAST_REPEAT: [2024-01-17 Wed 05:15]
    :END:
+   - State "DONE"       from "TODO"       [2024-01-17 Wed 05:15]
    - State "DONE"       from "TODO"       [2024-01-14 Sun 15:17]
    - State "DONE"       from "TODO"       [2024-01-03 Wed 13:21]
    - State "DONE"       from "TODO"       [2023-12-27 Wed 08:48]
@@ -237,13 +239,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-22 Tue 20:56]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2024-01-17 Wed 16:00 +1w>
+   SCHEDULED: <2024-01-24 Wed 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2024-01-11 Thu 07:14]
+   :LAST_REPEAT: [2024-01-17 Wed 05:16]
    :END:
+   - State "DONE"       from "TODO"       [2024-01-17 Wed 05:16]
    - State "DONE"       from "TODO"       [2024-01-11 Thu 07:14]
    - State "DONE"       from "TODO"       [2024-01-04 Thu 06:37]
    - State "DONE"       from "TODO"       [2023-12-27 Wed 08:48]
@@ -267,13 +270,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-23 Wed 17:07]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2024-01-18 Thu 16:00 +1w>
+   SCHEDULED: <2024-01-25 Thu 16:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2024-01-14 Sun 15:17]
+   :LAST_REPEAT: [2024-01-18 Thu 20:15]
    :END:
+   - State "DONE"       from "TODO"       [2024-01-18 Thu 20:15]
    - State "DONE"       from "TODO"       [2024-01-14 Sun 15:17]
    - State "DONE"       from "TODO"       [2024-01-04 Thu 18:55]
    - State "DONE"       from "TODO"       [2023-12-30 Sat 08:27]
