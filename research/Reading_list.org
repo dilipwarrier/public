@@ -17,7 +17,7 @@
   :END:
 
 
-* TODO Read [[https://drive.google.com/file/d/15g-hWkTRu8bUS3hAWgeBj0YT9y-T1ter/view?usp=drive_link][GitLab communication handbook]]             :Offline:PC:Management:
+* DONE Read [[https://drive.google.com/file/d/15g-hWkTRu8bUS3hAWgeBj0YT9y-T1ter/view?usp=drive_link][GitLab communication handbook]]             :Offline:PC:Management:
   :PROPERTIES:
   :EFFORT: 00:15
   :BENEFIT: 50
@@ -31,6 +31,7 @@
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
+
 
 * TODO Read an article from the [[https://blog.creativesafetysupply.com/category/kaizen/][Kaizen continuous improvement blog]]
   :PROPERTIES:
@@ -47,12 +48,17 @@
   :RATIO:    1.00
   :END:
 
-* TODO Read [[https://www.globalbattery.org/battery-passport/][battery passport]] introduction                        :Automotive:
+
+* DONE Read [[https://www.globalbattery.org/battery-passport/][battery passport]] introduction                        :Automotive:
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
+  :LOGBOOK:
+  CLOCK: [2024-02-03 Sat 12:07]--[2024-02-03 Sat 13:02] =>  0:55
+  :END:
+
 
 * TODO Review Tim Walsh article on [[https://www.linkedin.com/pulse/20140701133816-8705591-big-data-the-new-big-tobacco/][big data - big tobacco]]
   :PROPERTIES:
@@ -61,12 +67,14 @@
   :RATIO:    1.00
   :END:
 
+
 * TODO Read article on [[https://www.linkedin.com/pulse/startups-have-employees-offices-grow-3-12-times-faster-steve-blank%3FtrackingId=ACnnIGcK1aN1g%252F%252FearafqA%253D%253D/?trackingId=ACnnIGcK1aN1g%2F%2FearafqA%3D%3D][startups going remote]]
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
+
 
 * TODO Review NXP/QNovo [[https://automotiveworld.us1.list-manage.com/track/click?u=93bc9c845f0eb3045db4a6b82&id=462c4c3e07&e=6287757aeb][slides and recording]] and update [[file:EV_car_batteries.org][Org notes]]
   :PROPERTIES:
@@ -75,18 +83,23 @@
   :RATIO:    1.00
   :END:
 
+
 * TODO Read [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view?usp=share_link][2022 Battery report]]                                  :Automotive:
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
+
+
 * TODO Review Electra [[https://drive.google.com/file/d/1V_j6t8dBajQ03q00Gs8JP0wvr-4dCOPd/view?usp=share_link][409A valuation]] from Carta          :Electra:Offline:PC:
   :PROPERTIES:
   :EFFORT:   00:30
   :BENEFIT:  50
   :RATIO:    1.00
   :END:
+
+
 * TODO Find out more about $500B semiconductor industry doubling by 2030 Nvidia's Challengers in the AI Chip Revolution https://www.wsj.com/articles/the-next-challengers-joining-nvidia-in-the-ai-chip-revolution-e0055485
    :PROPERTIES:
    :EFFORT: 00:15
@@ -95,42 +108,46 @@
    :END:
 
 
-** TODO Learn grafana
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
+* TODO Learn grafana
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  10
+  :RATIO:    0.40
+  :END:
 
 
-** TODO AI's Growing Legal Troubles https://www.wsj.com/articles/ais-growing-legal-troubles-section-230-publisher-class-action-9efaf374
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
+* TODO AI's Growing Legal Troubles https://www.wsj.com/articles/ais-growing-legal-troubles-section-230-publisher-class-action-9efaf374
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  10
+  :RATIO:    0.40
+  :END:
 
 
-** TODO thought crime as a mind virus https://open.substack.com/pub/fakenous/p/thought-crime?utm_source=share&utm_medium=android&r=pbwnl
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
+* TODO thought crime as a mind virus https://open.substack.com/pub/fakenous/p/thought-crime?utm_source=share&utm_medium=android&r=pbwnl
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  10
+  :RATIO:    0.40
+  :END:
 
 
-** TODO Amazon fourth pillar https://wsj-article-webview-generator-prod.sc.onservo.com/webview/WP-WSJ-0001208087?wsj_native_webview=android&ace_environment=androidtablet%2Cwebview&ace_config=%7B%22wsj%22%3A%7B%22djcmp%22%3A%7B%22propertyHref%22%3A%22https%3A%2F%2Fwsj.android.app%22%7D%7D%7D
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
+* TODO Amazon fourth pillar https://wsj-article-webview-generator-prod.sc.onservo.com/webview/WP-WSJ-0001208087?wsj_native_webview=android&ace_environment=androidtablet%2Cwebview&ace_config=%7B%22wsj%22%3A%7B%22djcmp%22%3A%7B%22propertyHref%22%3A%22https%3A%2F%2Fwsj.android.app%22%7D%7D%7D
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  10
+  :RATIO:    0.40
+  :END:
+
+
 * TODO Look up options for Scrum Product Owner certification         :Mobile:
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
+
+
 * TODO Review [[https://www.gartner.com/smarterwithgartner/power-challenger-sales-model][Challenger Sales]] model
   :PROPERTIES:
   :EFFORT:   00:15
@@ -139,17 +156,9 @@
   :END:
 
 
-** TODO https://ethereum.org/en/developers/docs/intro-to-ethereum/
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-** TODO https://ethereum.org/en/developers/docs/intro-to-ethereum/
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
+* TODO https://ethereum.org/en/developers/docs/intro-to-ethereum/
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  10
+  :RATIO:    0.40
+  :END:

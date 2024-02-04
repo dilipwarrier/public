@@ -70,7 +70,7 @@
   Per [[https://electrek.co/2022/12/13/worried-about-winter-range-loss-see-how-over-a-dozen-evs-compare/][this article,]] most EVs lose ~20% range at freezing temperature
   compared to 70 degrees Fahrenheit.
 
-  See also [[id:84072c13-b58e-4984-b83a-ccd6396da1bb][Range]].
+  See also [[#EV_range][Range]].
 
 
 * EV global trends
@@ -149,7 +149,7 @@
 
 * Range
   :PROPERTIES:
-  :ID:       84072c13-b58e-4984-b83a-ccd6396da1bb
+  :CUSTOM_ID: EV_range
   :END:
 
   [[https://www.recurrentauto.com/news/real-world-range-for-tesla][Recurrent]], a company that does EV analytics, did an in-depth study

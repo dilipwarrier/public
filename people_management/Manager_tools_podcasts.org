@@ -615,7 +615,7 @@
     crunches and it's very hard to recover the relationship from
     crunches.
 
-    See also [[id:fddbdcf6-ab70-4e33-a563-3f73790ed1c9][relationship building]] and this [[https://medium.com/@M.K.G/team-conflicts-are-unavoidable-lessons-learned-with-the-pinch-crunch-model-7e8e6bd0d7a9][related article]]
+    See also [[#Relationship_building][relationship building]] and this [[https://medium.com/@M.K.G/team-conflicts-are-unavoidable-lessons-learned-with-the-pinch-crunch-model-7e8e6bd0d7a9][related article]]
 
 
 *** Internal customer relationships
@@ -680,7 +680,7 @@
      This advice also applies when your direct presents in your boss'
      staff meeting. Your direct doesn't have enough information about
      your boss or about your peers. You must prep them. (Give the team the
-     example of your direct's directs giving presentations during our staff
+     example of your direct's directs giving presentations during your staff
      meetings. Your direct must be briefed first. Use this and
      presentations in your manager's staff meeting for pre-wiring.)
 
@@ -747,7 +747,7 @@
    They decide "who will do what, by when".
 
 
-*** No decision has been made unless carrying it out has become someone's work assignment. - Peter Drucker :quotes:
+*** Peter Drucker: No decision has been made unless carrying it out has become someone's work assignment. :quotes:
 
 
 ** Project communication
@@ -1345,7 +1345,7 @@
 
 *** Relationship building
     :PROPERTIES:
-    :ID:       fddbdcf6-ab70-4e33-a563-3f73790ed1c9
+    :CUSTOM_ID: Relationship_building
     :END:
 
     Building relationships is one of the most important things you need
@@ -1615,7 +1615,7 @@
 
    - Results and relationships :: As a manager, your goals are results
      and retention. You might get away because you are very good at
-     what you do. However, as an executive, [[id:fddbdcf6-ab70-4e33-a563-3f73790ed1c9][great relationships]] are the only
+     what you do. However, as an executive, [[#Relationship_building][great relationships]] are the only
      way you will get good results. Executive results are still critical but
      they are mostly achieved through relationships. Executive
      relations are not just among peers and certainly not with just
@@ -1725,15 +1725,16 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/user?destination=all-podcasts][podcast]]
-   SCHEDULED: <2024-01-27 Sat 16:00 +2w>
+   SCHEDULED: <2024-02-10 Sat 16:00 +2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-01-14 Sun 15:17]
+   :LAST_REPEAT: [2024-01-28 Sun 06:45]
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-01-28 Sun 06:45]
    - State "DONE"       from "TODO"       [2024-01-14 Sun 15:17]
    - State "DONE"       from "TODO"       [2023-12-31 Sun 10:28]
    - State "DONE"       from "TODO"       [2023-12-17 Sun 10:22]
@@ -1768,13 +1769,14 @@
 
 
 ** TODO Read an existing Manager Tools section from above
-   SCHEDULED: <2024-02-03 Sat 16:00 +2w>
+   SCHEDULED: <2024-02-17 Sat 16:00 +2w>
    :PROPERTIES:
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
-   :LAST_REPEAT: [2024-01-21 Sun 11:49]
+   :LAST_REPEAT: [2024-02-03 Sat 15:04]
    :END:
+   - State "DONE"       from "TODO"       [2024-02-03 Sat 15:04]
    - State "DONE"       from "TODO"       [2024-01-21 Sun 11:49]
    - State "DONE"       from "TODO"       [2024-01-07 Sun 10:33]
    - State "DONE"       from "TODO"       [2023-12-27 Wed 08:48]

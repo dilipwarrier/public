@@ -1,41 +1,27 @@
 #+title: Team communication
-#+FILETAGS: :Manager:
+#+FILETAGS: :Manager:Learning:
 
 * Introduction
 
-Post the pandemic of 2020-21, teams are increasingly working
-remotely. This is in general a healthy phenomenon. It allows us to
-find talented people irrespective of where they choose to live. It
-encourages diversity of thought as people in different locations may
-think differently about issues. It eliminates the wasteful activity of
-commuting from your home to your workplace, thus saving time, personal
-energy and carbon emissions.
+  Post the pandemic of 2020-21, teams are increasingly working
+  remotely. This is in general a healthy phenomenon. It allows us to
+  find talented people irrespective of where they choose to live. It
+  encourages diversity of thought as people in different locations may
+  think differently about issues. It eliminates the wasteful activity of
+  commuting from your home to your workplace, thus saving time, personal
+  energy and carbon emissions.
 
-On the negative side, working with team members who are not near you
-has not been evolutionarily programmed into you. Also, working with
-remote teams can potentially wear you out due to different time
-zones. This can lead to added work-related stress. To mitigate these
-disadvantages, we must cultivate some habits to make it a better
-experience. This note suggests some guidelines on improving the
-overall remote co-working experience.
+  On the negative side, working with team members who are not near you
+  has not been evolutionarily programmed into you. Also, working with
+  remote teams can potentially wear you out due to different time
+  zones. This can lead to added work-related stress. To mitigate these
+  disadvantages, we must cultivate some habits to make it a better
+  experience. This note suggests some guidelines on improving the
+  overall remote co-working experience.
 
 
 * Synchronous and asynchronous communication
 
-
-* References
-
   [[https://medium.com/levelshealth/how-to-intentionally-structure-scale-company-communications-2c4774e1f8c8][This post]] describes a thoughtful approach to team communication.
 
   Gitlab also has a [[https://about.gitlab.com/handbook/communication/][memo on the topic]].
-
-
-* Task list
-
-
-** TODO Work on asynchronous comm document
-   :PROPERTIES:
-   :Effort:   01:00
-   :Benefit:  10
-   :RATIO: 0.10
-   :END:

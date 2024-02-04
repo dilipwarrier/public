@@ -29,6 +29,7 @@
   - [[file:research/Books_list.org][List of books to read]]
   - [[file:research/Reading_list.org][List of papers to read]]
   - [[file:research/Courses.org][Lists of possible courses]]
+  - [[file:research/Market_analysis.org][Market analysis]]
   - [[file:research/Product_development.org][Notes on the discipline of product development/planning/management]]
   - [[file:research/Spotify_agile_scaling.org][Scaling Agile at Spotify]]
   - [[file:research/Research_sites.org][Sites to use for research]]
