@@ -21,11 +21,13 @@
 ** Value propositions
 
    There may be many value propositions that an organization provides
-   e.g. newness i.e. products that haven't existed before, brand
-   i.e. value in the act of using a brand, design etc. Accessibility
-   can be a good value proposition. For instance, mutual funds allow
-   investors with modest investments to have access to a wider range of
-   stocks than previously possible.
+   Some examples are
+   - Newness i.e. products that haven't existed before
+   - Brand i.e. value in the act of using a brand
+   - Design
+   - Accessibility, for instance, mutual funds allow investors with
+     modest investments to have access to a wider range of stocks than
+     previously possible.
 
    See Osterwalder's [[https://www.youtube.com/watch?v%3DReM1uqmVfP0&ab_channel%3DStrategyzer][value proposition canvas]] for more.
 
@@ -37,7 +39,7 @@
    integrated across [[file:Screenshot 2022-03-23 110022.jpg][all types of channels]] to reach the right customer
    mix.
 
-
+u
 ** Customer relationships
 
    Customers may look for a varied extent of customer relations
@@ -68,5 +70,5 @@
 ** Cost structure
 
    What are the key cost drivers? Is your firm a high-value
-   proposition like exclusive hotels or is it a cost effective
+   proposition like exclusive hotels or is it a cost-effective
    proposition?

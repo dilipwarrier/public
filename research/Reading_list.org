@@ -17,14 +17,6 @@
   :END:
 
 
-* DONE Read [[https://drive.google.com/file/d/15g-hWkTRu8bUS3hAWgeBj0YT9y-T1ter/view?usp=drive_link][GitLab communication handbook]]             :Offline:PC:Management:
-  :PROPERTIES:
-  :EFFORT: 00:15
-  :BENEFIT: 50
-  :RATIO: 2.00
-  :END:
-
-
 * TODO Review [[https://lethain.com/measuring-engineering-organizations/?utm_source=Newsletter&utm_campaign=3b3237f0a0-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-3b3237f0a0-9546361][measurement for engineering orgs]]                   :Management:
   :PROPERTIES:
   :EFFORT:   00:15
@@ -46,17 +38,6 @@
   :EFFORT:   00:15
   :BENEFIT:  25
   :RATIO:    1.00
-  :END:
-
-
-* DONE Read [[https://www.globalbattery.org/battery-passport/][battery passport]] introduction                        :Automotive:
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  25
-  :RATIO:    1.00
-  :END:
-  :LOGBOOK:
-  CLOCK: [2024-02-03 Sat 12:07]--[2024-02-03 Sat 13:02] =>  0:55
   :END:
 
 

@@ -25,7 +25,7 @@
        will have less questions for you. They'll wait for the 1-1
        instead.
 
-     - Make sure you make notes during your 1-1.
+     - Take notes during your 1-1.
 
      - Ask the same question each time to your direct
        (e.g. "How is it going?")
@@ -33,8 +33,8 @@
      - 1-1s are not micro-management. Micro-management means telling
        people when, what and how to do something.
 
-     - If your direct wants to talk about family, then you probably want to
-       talk about that too.
+     - If your direct wants to talk about their family, then you
+       should talk about your family too.
 
 
 *** Feedback
@@ -96,13 +96,10 @@
      performers. This matches well with the guideline of spending more
      time on your star performers.
 
-
-**** Feedback for remote directs
-
-    Whether the direct is remote or not, feedback should work exactly
-    the same as above: frequent, short, mostly positive occasionally
-    negative. Insist on giving feedback with face-to-face Zoom calls
-    as opposed to phone calls.
+     Even if the direct is remote, your method of feedback should work
+     exactly the same as above: frequent, short, mostly positive
+     occasionally negative. For remote directs, you must give feedback
+     with face-to-face Zoom calls as opposed to phone calls.
 
 
 *** Delegation
@@ -253,7 +250,7 @@
     - Delegation
 
     Never introduce (implement) a managerial change without first
-    introducing (communicate) that change
+    introducing (communicate) that change.
 
     Great executives have:
     - Great relationships with directs through 1-1s
@@ -1725,15 +1722,16 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/user?destination=all-podcasts][podcast]]
-   SCHEDULED: <2024-02-10 Sat 16:00 +2w>
+   SCHEDULED: <2024-02-24 Sat 16:00 +2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-01-28 Sun 06:45]
+   :LAST_REPEAT: [2024-02-11 Sun 13:28]
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-02-11 Sun 13:28]
    - State "DONE"       from "TODO"       [2024-01-28 Sun 06:45]
    - State "DONE"       from "TODO"       [2024-01-14 Sun 15:17]
    - State "DONE"       from "TODO"       [2023-12-31 Sun 10:28]
@@ -1769,13 +1767,14 @@
 
 
 ** TODO Read an existing Manager Tools section from above
-   SCHEDULED: <2024-02-17 Sat 16:00 +2w>
+   SCHEDULED: <2024-03-02 Sat 16:00 +2w>
    :PROPERTIES:
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
-   :LAST_REPEAT: [2024-02-03 Sat 15:04]
+   :LAST_REPEAT: [2024-02-17 Sat 15:35]
    :END:
+   - State "DONE"       from "TODO"       [2024-02-17 Sat 15:35]
    - State "DONE"       from "TODO"       [2024-02-03 Sat 15:04]
    - State "DONE"       from "TODO"       [2024-01-21 Sun 11:49]
    - State "DONE"       from "TODO"       [2024-01-07 Sun 10:33]

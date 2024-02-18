@@ -6,3 +6,5 @@ with the public. If you would like to use any material here, please
 feel free to do so under the license terms.
 
 These documents are available to the public in [[https://github.com/dilipwarrier/public][this Github repository]].
+
+See the [[file:sitemap.org][site map]] for details.

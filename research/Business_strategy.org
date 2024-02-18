@@ -1,7 +1,7 @@
 #+NAME: Company strategy
 #+FILETAGS: :Learning:Strategy:
 
-** TODO Add remaining sections from converted HTML file in Downloads dir :Offline:
+* TODO Add remaining sections from [[file:c:/Users/dwarr/Downloads/Strategic management textbook notes/temp_notes.org][converted text file]] in Downloads dir :Offline:
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
@@ -54,6 +54,161 @@
      Less Applicable Taxes) divided by IC = equity + debt
   2. Growth rate of profitability = rate at which NOPLAT increases per year
 
+  ROIC = Net profit/Invested capital = (Net profit/Sales) * (Sales/invested capital)
+
+  That can further be divided up as follows, to understand where the
+  firm stands in terms of competitive advantage on each factor.
+
   Together, these two factors and the Weighted Average Cost of Capital
   (WACC) determine the valuation of the company. This can be calculated
   using cash flow analysis.
+
+  [[file:Screenshot 2024-02-17 1610.jpg]]
+
+
+* External analysis
+
+  Each of these competitive forces could be a strength or a weakness.
+  - Risk of entry
+  - Rivalry among established firms
+  - Bargaining power of buyers
+  - Bargaining power of suppliers
+  - Threat of substitutes
+  - Power of complement providers
+
+  Risk of entry or barrier to entry includes brand loyalty along with
+  factors such as government regulation, switching costs etc.
+
+  Rivalry among established firms is usually high in industries with low
+  switching costs and solutions that are undifferentiated. This usually
+  results in boom-and-bust cycles where new entrants try to flood the
+  market with low-cost products in hopes to unseat the incumbents. This
+  creates excess capacity reducing prices which forces the incumbents to
+  react. A fragmented industry structure constitutes a threat rather
+  than an opportunity.
+
+  Complement providers are those who provide complementary products
+  using your products. For instance, gaming companies provide game
+  cartridges on platforms like Xbox and Nintendo. These can determine
+  the success of the platforms.
+
+  The problems with analyses like the competitive forces analysis are as
+  follows. These problems indicate that just a competitive force
+  analysis won't suffice.
+
+  - They may not apply during times of significant innovation and
+    disruption. They are more applicable in steady state for the
+    industry.
+  - According to some research, they only account for 10-20% of the
+    variance in performance of companies. Thus, being in an attractive
+    industry alone does not guarantee success. Internal factors within
+    the company are much more important.
+  - The macroenvironment can change the market forces significantly.
+
+  [[file:Screenshot 2024-02-17.jpg]]
+
+  A case study is the industry for large commercial airline jets. This
+  market is dominated by Boeing and Airbus. However, pre-COVID19, the
+  market for international travel was growing significantly as people
+  from developing countries travel more (see [[https://www.evernote.com/shard/s104/nl/11741856/b716c243-abb9-4edc-807d-a6b75f11ac3e/][this talk]] for how other
+  countries are fast becoming able to afford flights). This was making
+  it more attractive for small companies like Embraer and Bombardier
+  to enter the market.  The additional competition could intensify
+  rivalry.
+
+
+* Internal Analysis
+
+  Case study: For 4 decades, Southwest airlines has consistently
+  outperformed the airline market. Even in 2001-05, it returned almost
+  6% on invested capital. It has distinct features from other
+  airlines: point to point flights from smaller airports as opposed to
+  spoke and hub models, only one type of jet used, no seat
+  reservations, no participation in external ticketing sites, no
+  baggage transfers to other airlines etc.
+
+  A firm has competitive advantage when it has better than the average
+  profitability of other firms in the industry. It has sustained
+  competitive advantage when it maintains that profitability for a
+  long period.
+
+  Competitive advantage may be gained through one or more unique
+  competencies. Competencies could be a firm's access to basic resources
+  (land, labor, capital, equipment). It could be process
+  knowledge. Process knowledge is the organization's equivalent of human
+  skills ie the routines and behaviors through which an organization
+  creates output. It could be the organizational architecture eg Apple
+  has a strong industrial design group that coordinates hardware,
+  software and manufacturing for a product. Finally, it could be unique
+  IP that a firm possesses.
+
+  The VRIO framework gives a good way of thinking about which
+  resources can be a sustainable competitive advantage.  VRIO stands
+  for Value, Rarity, Inimitability and Organization.
+
+  Typically, the advanced resources (IP, process knowledge and
+  organizational architecture) are the ones that confer a sustained
+  competitive advantage. Those can be valuable, rare and inimitable.
+
+
+* Competitive Advantage Through Functional Strategy
+
+  All functions such as R&D, marketing, sales, manufacturing etc can
+  contribute towards strategies of higher efficiency, quality,
+  innovation, and customer responsiveness. These functional strategies
+  allow companies to achieve competitive advantages that drive value
+  creation. Quality can be quality as reliability or quality as
+  excellence.
+
+  [[file:Screenshot 2024-02-17 1616.jpg]]
+
+
+* Business level strategy
+
+  The cost and differentiation axes provide a frontier that industries
+  operate at. It is possible to move the frontier out through technology,
+  processes etc. Dell did this most famously in the computer industry and
+  Toyota in the automotive industry. This process is called value
+  innovation.
+
+  [[file:Screenshot 2024-02-17 1619.jpg]]
+
+  The cost/differentiation and market segmentation gives four broad
+  choices of business level strategy, as shown below.
+
+  [[file:Screenshot 2024-02-17 1612.jpg]]
+
+  Kim and Maugborne ("Blue ocean strategy") say that, for true value
+  innovation, companies must think through the following four
+  aspects.
+
+  - Eliminate: What factors do rivals take for granted that can be
+    eliminated, reducing costs?
+
+  - Reduce: What factors can be reduced, reducing costs?
+
+  - Raise: What factors can be raised above the standard in the
+    industry, increasing value?
+
+  - Create: What factors can be created that don't exist, increasing
+    value?
+
+  [[file:Screenshot 2024-02-17 1624.jpg]]
+
+
+* Business Strategy And Market Environment
+
+  An industry goes from an embryonic stage to a mass market stage when
+  the following events happen.
+
+  - Technology progresses so that the average consumer finds value in
+    the product.
+
+  - Complementary products are developed so that the product value
+    increases.
+
+  - Many companies join the industry and drive down prices.
+
+  Market adoption usually follows an S-curve as below.
+
+  [[file:Screenshot 2024-02-17 1634.jpg]]

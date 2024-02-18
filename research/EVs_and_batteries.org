@@ -112,6 +112,24 @@
   [[https://electricvehiclesfaqs.com/how-many-batteries-are-in-a-tesla-electric-car/#:~:text=The%20Tesla%20Model%203%20standard,groups%20(bricks)%20of%2031.][Tesla]] battery packs have 1000s of cells.
 
 
+* SoC and SoH estimation
+
+  According to [[https://ieeexplore.ieee.org/document/9036949][this paper]]:
+  - SoC and SoH can be estimated to < 1% error through ML methods.
+  - Most of the documented methods have not been validated against real-world EV data.
+  - Most methods haven't used data at temperatures less than 0 degrees Celsius. All
+  estimation methods will have challenges at those temperatures.
+
+
+* Fault prediction
+
+  According to [[https://www.nature.com/articles/s41467-023-41226-5][this paper]]:
+  Dynamical Auto-Encoding and Decoding (DyAD) is an effective method
+  for predicting faults. They optimize for total inspection and
+  maintenance costs. They also provide a large public dataset of
+  charging snippets from three car brands.
+
+
 * Battery aging
 
   Source: [[https://www.accure.net/battery-knowledge/blog-battery-aging][Accure]]
@@ -172,22 +190,3 @@
 
   According to [[https://spectrum.ieee.org/lithium-ion-battery-fires][IEEE Spectrum]], fires in batteries in EVs have a lower incidence rate
   than fires in vehicles in general.
-
-
-* Software companies
-
-
-** Qnovo
-
-   Qnovo has a [[https://www.qnovo.com/news/borgwarner-and-ogci-climate-investments-complete-new-investments-in-qnovo-in-24m-series-c-funding][$24M Series-C funding]] from Borg-Warner among others.
-
-   They build software for batteries but so far don't advertise any
-   automotive products. They do software for consumer batteries like
-   in cell phones.
-
-   However, they had a [[https://mobex.io/webinars/nxp-semiconductors-and-qnovo-collaborate-on-xev-battery-performance/][joint webinar with NXP]] on improving EV
-   performance.
-
-   [[file:Screenshot 2023-02-28 110603.jpg][Advantages]]
-
-   [[file:Screenshot 2023-02-28 110653.jpg][Cloud/Edge]]
