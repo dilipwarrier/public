@@ -149,3 +149,9 @@
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
+* TODO Read [[https://drive.google.com/file/d/1seCBvpkBCgD5ePGnJh9H8ek39lmf6JCi/view?usp=drive_link][Ocean Web3.0 protocol]] whitepaper
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  25
+  :RATIO:    1.00
+  :END:

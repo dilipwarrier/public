@@ -102,6 +102,8 @@ class items_list:
                     glist = genre_entry.split(",")
                 genre_list.extend([x.strip() for x in glist])
 
+            assert item["Status"] is not None, "Item %s does not have a status" % (item["Title"])
+
             # Potential items to read consist of:
             # 1. Items with the status not marked as read, or
             # 2. Items in a genre called "books-to-read-again"

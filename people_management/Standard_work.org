@@ -75,12 +75,13 @@
 
 
 ** TODO Ask the direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?"
-   SCHEDULED: <2024-02-25 Sun 08:00 +12w>
+   SCHEDULED: <2024-05-19 Sun 08:00 +12w>
    :PROPERTIES:
-   :LAST_REPEAT: [2023-11-20 Mon 08:50]
+   :LAST_REPEAT: [2024-03-03 Sun 17:56]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-03-03 Sun 17:56]
    - State "DONE"       from "TODO"       [2023-11-20 Mon 08:50]
    - State "DONE"       from "TODO"       [2023-08-28 Mon 06:43]
    - State "DONE"       from "TODO"       [2023-06-05 Mon 13:09]
