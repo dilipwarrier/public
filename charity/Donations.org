@@ -18,10 +18,11 @@
 * Recurring tasks
 
 ** TODO Donate $1200 to [[https://secure.givewell.org/][Give Well through Paypal]] :PC:
-   SCHEDULED: <2024-03-27 Wed 13:30 +4w>
+   SCHEDULED: <2024-04-24 Wed 13:30 +4w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-02-28 Wed 17:29]
+   :LAST_REPEAT: [2024-03-27 Wed 12:43]
    :END:
+   - State "DONE"       from "TODO"       [2024-03-27 Wed 12:43]
    - State "DONE"       from "TODO"       [2024-02-28 Wed 17:29]
    - State "DONE"       from "TODO"       [2024-02-01 Thu 18:47]
    - State "DONE"       from "TODO"       [2024-01-04 Thu 18:56]
