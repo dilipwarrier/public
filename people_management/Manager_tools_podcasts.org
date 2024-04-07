@@ -739,12 +739,30 @@
 
    Individuals complete tasks.
    Managers assign tasks.
-   Executives assign people.
+   Executives assign people (see also [[#change_mgmt][Change management]]).
 
    They decide "who will do what, by when".
 
 
 *** Peter Drucker: No decision has been made unless carrying it out has become someone's work assignment. :quotes:
+
+
+** Change management
+   :PROPERTIES:
+   :CUSTOM_ID: change_mgmt
+   :END:
+
+   According to [[https://www.linkedin.com/pulse/big-change-always-takes-six-steps-brad-porter/][Brad Porter]], big changes take six steps.
+   - Problem identified
+   - Problem widely understood
+   - Owner identified
+   - Plan in place
+   - Execution
+   - Adoption of solution
+
+   You cannot skip any of these stpes nor can you prematurely end
+   it. If you do either of those, you risk backsliding to the first
+   stage.
 
 
 ** Project communication
@@ -910,7 +928,7 @@
    Use the following steps.
 
    1. Figure out the things you worked on in the last 3 weeks - use
-      only pen and paper
+      only pen and paper.
 
    2. Capture your top priorities (source material: job descriptions,
       performance reviews etc.). There should be less than 5 of these.
@@ -1722,15 +1740,16 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/user?destination=all-podcasts][podcast]]
-   SCHEDULED: <2024-04-06 Sat 16:00 +2w>
+   SCHEDULED: <2024-04-20 Sat 16:00 +2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-03-24 Sun 20:56]
+   :LAST_REPEAT: [2024-04-07 Sun 09:00]
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-04-07 Sun 09:00]
    - State "DONE"       from "TODO"       [2024-03-24 Sun 20:56]
    - State "DONE"       from "TODO"       [2024-03-10 Sun 14:54]
    - State "DONE"       from "TODO"       [2024-02-25 Sun 16:38]
@@ -1770,13 +1789,14 @@
 
 
 ** TODO Read an existing Manager Tools section from above
-   SCHEDULED: <2024-03-30 Sat 16:00 +2w>
+   SCHEDULED: <2024-04-13 Sat 16:00 +2w>
    :PROPERTIES:
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
-   :LAST_REPEAT: [2024-03-17 Sun 09:01]
+   :LAST_REPEAT: [2024-03-31 Sun 12:21]
    :END:
+   - State "DONE"       from "TODO"       [2024-03-31 Sun 12:21]
    - State "DONE"       from "TODO"       [2024-03-17 Sun 09:01]
    - State "DONE"       from "TODO"       [2024-03-03 Sun 17:48]
    - State "DONE"       from "TODO"       [2024-02-17 Sat 15:35]
