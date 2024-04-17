@@ -5,7 +5,7 @@
 
   As of early 2022, the PC chip industry has seen significant growth
   in the first two years of the COVID pandemic (2020-22).  AMD has
-  ~20% share in the industry and has gained a large market share from
+  about 20% share in the industry and has gained a large market share from
   Intel.
 
   PC shipments increased to about 340M units in CY21, compared
@@ -90,4 +90,4 @@
   Source: [[https://www.wsj.com/articles/applied-materials-chips-61bbed0e][WSJ article]]
 
 
-** Anonymous: When everybody is digging for gold, it’s good to be in the pick and shovel business :quotes:
+** Anonymous: When everybody is digging for gold, it's good to be in the pick and shovel business :quotes:
