@@ -744,7 +744,7 @@
    They decide "who will do what, by when".
 
 
-*** Peter Drucker: No decision has been made unless carrying it out has become someone's work assignment. :quotes:
+*** Peter Drucker: No decision has been made unless carrying it out has become someone's work assignment :quotes:
 
 
 ** Change management
@@ -1740,15 +1740,16 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/user?destination=all-podcasts][podcast]]
-   SCHEDULED: <2024-04-20 Sat 16:00 +2w>
+   SCHEDULED: <2024-05-04 Sat 16:00 +2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-04-07 Sun 09:00]
+   :LAST_REPEAT: [2024-04-20 Sat 19:46]
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-04-20 Sat 19:46]
    - State "DONE"       from "TODO"       [2024-04-07 Sun 09:00]
    - State "DONE"       from "TODO"       [2024-03-24 Sun 20:56]
    - State "DONE"       from "TODO"       [2024-03-10 Sun 14:54]
