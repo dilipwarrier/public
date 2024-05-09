@@ -1,5 +1,14 @@
-#+Title: EVs and batteries
+#+Title: Articles on automotive technology
 #+FILETAGS: :Learning:
+
+* Picture of automotive engine
+
+  [[file:Screenshot 2023-08-26 173914.jpg][Diagram of engine]]
+
+
+* Autonomous driving levels
+
+  [[file:Screenshot 2023-08-26 183025.jpg][Levels and what they mean]]
 
 * [[https://ihsmarkit.com/topic/IEBAutoTech.html#video-9-container][Battery technology trends]] - Youmin Rong, IHS Markit
 
@@ -73,7 +82,7 @@
   See also [[#EV_range][Range]].
 
 
-* EV global trends
+* EV global market trends
 
   According to [[https://www.ev-volumes.com/country/total-world-plug-in-vehicle-volumes/][EV Volumes]], about 10.5M EVs were sold globally
   in 2022. This was 13% of all passenger vehicles. Out of this, about
@@ -165,7 +174,7 @@
   Costs for LFP will drop from $170/kWh in 2020 to $110/kWh in 2030.
 
 
-* Range
+* EV range
   :PROPERTIES:
   :CUSTOM_ID: EV_range
   :END:
@@ -190,3 +199,11 @@
 
   According to [[https://spectrum.ieee.org/lithium-ion-battery-fires][IEEE Spectrum]], fires in batteries in EVs have a lower incidence rate
   than fires in vehicles in general.
+
+
+* Automotive Tier-1 suppliers
+
+  [[https://www.autonews.com/live-blog/2023-top-auto-suppliers-giants-grow-new-era][In 2023]], Bosch was the largest Automotive Tier-1 with an annual
+  revenue of $50B.
+
+  [[file:Screenshot 2024-05-09 080435.png]]
