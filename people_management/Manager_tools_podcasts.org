@@ -993,6 +993,446 @@
 *** Colin Powell: You know you are a leader if your team will follow you, if only out of curiosity :quotes:
 
 
+** First 90 days in a new job
+
+   The theme of [[https://www.manager-tools.com/2012/06/90-day-new-job-plan-overview][the first 90 days]] is to "fit in". It is wrong to change
+   a lot of things, there is already a disruption due to your
+   joining. A new person (you) changes the relationship structure.
+
+   You may start 1-1s in the first 90 days but you may not start giving
+   negative feedback. Crises that require immediate solutions are
+   rare. Don't make changes based on role power because, then, you are
+   only relying on compliance energy and not relationship energy.
+
+   1. Fit in, fit in, fit in. Go slow.
+
+   2. Take notes throughout your meetings.
+
+      Who do you interact with (including your boss)?
+
+      How do they behave?
+      Where do they fit in the DISC profiles?
+      Personal details
+
+      What processes does your company use?
+
+      Who are your [[#internal_customers][internal customers]]?
+
+   3. Think about what your top priority will be but don't roll
+      it out yet. Do some cost-benefit analysis. You should only have
+      1-2 priorities.
+
+      Your top priority must be something that your boss cares about.
+
+   4. Establish some measurement baselines so that you can measure
+      improvements.  Otherwise, you do not know that the changes you
+      are implementing are actually improving things.
+
+   5. At the end of 90 days, make one change at a time, not many
+      changes together. Remember changes need to be [[#pre_wire][pre-wired]].
+
+
+*** The boss                                                           :Boss:
+    :PROPERTIES:
+    :CUSTOM_ID: Boss_initial
+    :END:
+
+    1. Peers
+
+       Learn all your boss' peers' names. Look at the org chart. Work
+       with the admin.
+
+    2. Preferences
+
+       - Is your boss generally a reader or a listener?
+
+       - Early morning meetings or late stayer?
+
+       - Well-thought out plan or fly by the seat of the pants?
+
+       - Want you to make decisions or want to be aware of decisions?
+
+       Make notes from joint meetings on insight on these preferences.
+
+    3. Strengths and weaknesses
+
+       - If the boss is abrasive, smooth things out afterwards.
+
+       - Become a safety net for him/her, so that you smooth over his/her
+         vulnerabilities.
+
+       It's not good to make your boss look bad. It's good to bail your
+       boss out when it is needed. You are tainted by any inadequacies
+       of your boss.
+
+       Make notes from joint meetings on insight on these strengths and
+       weaknesses.
+
+    4. [Bonus] DISC profile
+
+       Do a DISC profile of your boss, using their communications.
+
+
+*** Relationship building
+    :PROPERTIES:
+    :CUSTOM_ID: Relationship_building
+    :END:
+
+    Building relationships is one of the most important things you need
+    to do.
+
+    First step, ask. Ask what people do, ask about processes
+    etc. Asking questions is not a sign of weakness.
+
+    Make them gentle open-ended questions, not questions intended to be
+    transactional information-gathering. e.g. How long have you worked
+    here? Where do you live? Can you tell me how what you do relates to
+    what Jill does? Who's the expert on X?
+
+    It's OK to ask personal questions. Ask people's family members'
+    names. Make sure you write down the names and birth years. It's not
+    rude. On the contrary, not asking about a person's family after
+    knowing them on a sustained professional basis is rude.
+
+    This is particularly important for the people/services you will need
+    e.g. security, admin, catering, etc. A list from your previous job
+    will help you. The best statement you can make is "I don't need
+    anything right now; I just wanted to say hello".
+
+
+*** Setting priorities
+
+   Begin to think about what your top priority will be but don't roll
+   it out yet. Do some cost-benefit analysis.
+
+   You should only have 1 or a maximum of 2 priorities.
+
+   Your top priority must be something that your boss cares about.
+
+   Make sure you understand what your "unofficial" job description
+   is. If you come in to a job that already has some priorities, don't
+   fight it. You have limited political capital in the beginning; you
+   shouldn't waste it on this.
+
+   You should define metrics against which you are compared.
+
+
+** Mentoring
+
+   [[https://www.manager-tools.com/2006/06/basics-mentoring-part-1-2][Podcast link]]
+
+   The mentor-mentee relationship is a 2-person relation. When
+   Corporate HR gets involved, the value can be diluted. It's better
+   for you to manage that relationship yourself.
+
+   Later in your life, you may want a personal board of directors.
+
+   - Choose someone whom you admire who will be helpful in achieving
+     your goals. Your boss cannot be your mentor. In a big company, you
+     can find a mentor within.
+
+     Decide what your goals are, before you approach a mentor.
+
+   - Decide how long the relation will last. It shouldn't last any more
+     than 3 years. It shouldn't be for a short period of the order of
+     weeks. It shouldn't be for specific challenges you face right now,
+     such as getting a promotion etc.
+
+   - Make a specific ask to someone to be your mentor. Specify the time
+     commitment. Nominally, this may be quarterly in-person meetings
+     with periodic phone/email conversations. You have to trust your
+     mentor and open up to feedback. You should be ready to share
+     details with them that you would not share with your boss, both on
+     the professional and personal level.
+
+     You are responsible for the operational part e.g. scheduling
+     meetings, sending information for pre-reads, rescheduling as
+     necessary etc.
+
+   - For the first meeting, have a resume, performance evaluations,
+     key projects etc. Set an agenda. Mix professional and personal
+     e.g. a one hour meeting in the office on the professional topics
+     followed by a lunch outside to get to know each other personally:
+     family, life goals etc.
+
+   - Don't try to educate your mentor
+     on the feedback model etc., just take feedback as they give
+     you. Listen to the feedback, take notes, make changes.
+
+     Ask specific questions so that you are respectful of their
+     time. Make sure you close the loop on guidance they have given
+     you. e.g. "Help me learn from what just happened".
+
+     Hand-written thank-you notes are the gold standard of saying
+     thanks.
+
+
+* Executive
+
+
+** How to structure an organization
+
+   Don't start with people. The names in the boxes should be the last
+   step. The purpose of the organization is found outside the
+   organization.
+
+   The rules are as follows.
+   1. Ask what results are expected of the organization
+   2. Make it as small as possible
+   3. Only one person in a box
+
+   The steps are as follows.
+   1. Draw out the org with boxes below it. Calculate a rough
+      cumulative cost and make sure it is within budget.
+   2. Decide who goes in the top box. Then, iterate all the boxes
+      below based on that person's strengths and weaknesses.
+
+
+** Leader's intent
+
+   [[https://www.manager-tools.com/2015/08/leaders-intent-part-1-hall-fame-guidance][Link to podcast]]
+
+   Communicate less about the how and more about the why. This is the
+   only way to get growth out of your team.
+
+   Communicate your plans and why. For instance, if you are looking for
+   cost-cutting, communicate at a high-level why costs need to be cut
+   and roughly how much. You want to stay out of the weeds in terms of
+   details and communicate only the intent.
+
+
+*** Dwight Eisenhower: Plans are nothing; planning is everything.    :quotes:
+
+
+*** Manager tools: Good judgement comes from experience, experience comes from bad judgement. :quotes:
+
+
+** Executive waypoint
+
+   Have conversations and prepare notes from manager, stakeholders,
+   loved ones, customers: ask them what your goals should be, ask them
+   what your blind spots are.
+
+   Then, reflect on this: Who do you want to be? You can absolutely
+   change any of your behaviors. You can make conscious choices to
+   change.
+
+   Use the following 4 growth perspectives:
+   - Personal/family
+   - Company/industry
+   - Organizational
+   - Professional/career
+
+   Based on these, write down "I will..." kind of statements. There can
+   be 3-5 of these.
+
+   Use a state of isolation (a state in which your mind is isolated
+   from the output of other people's minds) to think through this.
+
+   At the end of the day, determine the set of insights/actions/initiatives
+   that you are going ahead with.
+
+   An insight should be actionable. For instance:
+   "You need to build a better relation with your top customer"
+   ->
+   "I will build a better relation with my top customer"
+
+   Org charts and resulting organizations are a good source for
+   actionable insights. So are succession plans.
+
+   Connect with your DISC profile so that actions stretch you on the
+   DISC profile.
+
+   You should end up with no more than 3 goals.
+
+   Important next step: Plan out a set of tasks for each of the 3
+   goals.
+
+
+** Purpose of the executive
+   :PROPERTIES:
+   :CUSTOM_ID: purpose_focus_horizon
+   :END:
+
+   An executive is generally defined by three characteristics.
+
+   - Purpose ::
+     The executive exists only to serve the purpose of the entire
+     organization, not to serve one's own purposes or one's own
+     sub-organization's purposes.
+
+   - Focus ::
+     The executive must shift their focus from inside the organization
+     to outside the organization. The results of an organization are
+     generally found outside it. Costs are internal to the
+     organization, including yourself.
+
+     Executives must give up on internal politics etc. and focus on
+     external networks, connections and knowledge-seeking.
+
+   - Future ::
+     A manager becoming an executive must not just get results, but
+     must also invest the proceeds of those results in the
+     future. Thus, by definition, executives must have a longer time
+     horizon in their thinking.
+
+   A CEO should not be the only executive in the company. That's
+   unhealthy for large organizations.
+
+   A typical mistake that executives make is doing more of the same
+   thing that they have been doing on getting promoted. You have to
+   make a phase transition in your thinking i.e. move to a different
+   S-curve.
+
+
+** Executive S-curve and the box
+
+   As a manager getting promoted to an executive, you are moving from
+   one S-curve to another.
+
+   You now have certain freedoms and certain responsibilities. Try to
+   constrain yourself on the freedoms and role powers that you
+   have. Focus instead on the responsibilities. Your responsibilities
+   are towards the entire organization, even if it means at the loss
+   of your own sub-organization (see [[#purpose_focus_horizon][Purpose]]). You have to give up on
+   building your fiefdoms and focus on the greater good of the
+   organization.
+
+
+** The hallmark of an executive
+
+   The number one hallmark is the discipline to determine what needs
+   to be done in the organization and then the discipline to do it.
+
+   The classic assumption is that executives know more about business,
+   strategy, finance etc. Instead, discipline is the one quality that
+   is dispositive. Think of the scene from "Men In Black": You put on a
+   black suit and it's the only suit you'll ever wear.
+
+
+*** Jane Austen: It isn't what we say or think that defines us, but what we do. :quotes:
+
+
+** Ditch the ladder
+
+   See also [[#Promotions][the guidance on promotions]]
+
+   Junior executives think there is a career ladder but there isn't.
+
+   - Ditch the ladder :: Ladders have rungs equally spaced and, if you
+     slip, you'll just move to the lower rung. None of this is true of
+     a career. You do not need to aspire to reach the top rung. Being
+     the CEO is a tough job; it's not for everyone. Ladders exist but
+     they do not go all the way up to the top.
+
+   - Embrace the matrix :: At the top, it's a matrix, not a
+     ladder. You may move laterally multiple times. In this domain,
+     things are non-linear and you do not move straight up.
+
+   - Results and relationships :: As a manager, your goals are results
+     and retention. You might get away because you are very good at
+     what you do. However, as an executive, [[#Relationship_building][great relationships]] are the only
+     way you will get good results. Executive results are still critical but
+     they are mostly achieved through relationships. Executive
+     relations are not just among peers and certainly not with just
+     your boss. They are up, down and broadly sideways
+     and even outside your company (donors, board of directors,
+     investors, research universities etc.).
+
+   - Open to opportunities :: Never be stuck in the philosophy of
+     "This is the only job I want to do". When an acquaintance
+     mentions an opportunity and ask if you know someone, they are
+     actually asking if you are interested. Take recruiter calls. You
+     are not winning loyalty points by saying you are OK in your
+     current job. The advantage of being "open to opportunities"
+     is that you can have several informal conversations without it
+     being an actual interview.
+
+   - Who should be the next...? :: You would only be asked this
+     question if you were being considered for the position. You
+     should not push too hard but you should make your case. If you
+     are the number 2 choice from many people (their #1 choice will
+     always be themselves), you'll get the job.
+
+
+** Executive development
+
+   [[https://www.manager-tools.com/2023/10/executive-development-different-part-1][Podcast link]]
+
+   - Exec Development is About Broadening
+   - Exec Development Is About Externalities
+   - It Won't Happen Without Planning
+   - Read In Several Forms
+   - Regularly Attend An Industry Conference
+   - Your Network Pays Off Now
+   - Do An Executive 360 Evaluation
+
+     They recommend a 360 evaluation from [[https://www.ccl.org/leadership-solutions/leadership-development-tools/leadership-assessments/][Center for Creative
+     Leadership]].
+
+
+** Culture
+
+
+*** What is culture?
+
+    Culture is nothing more than the sum of all acceptable behaviors in
+    the organization - the way we do things here.
+
+    It is a result of the adaptation of our behaviors in the organization.
+
+    It is not the sum of values. The culture cannot be a caring culture
+    because caring is a value, not a behavior.
+
+    A value can be a starting point but, if the behavior is not in sync
+    with the value, then the culture is the behavior and not the value.
+
+    Managers are the guardians of the organizational culture. They must
+    model the behaviors and must give feedback to ensure that the
+    behaviors are in sync with the values.
+
+    Values are usually on the website. They should be a small
+    list. They are meant as an external marketing tool to hire people.
+
+    Behaviors are usually not on a website.
+
+    Behaviors are usually simple statements of the form "We do x"
+    e.g. we over-communicate, we document our procedures carefully, etc.
+
+    Each manager decides the sub-culture of their organization. They
+    should derive such sub-cultures from the company's reason for
+    existence and the change that it wants to implement in society.
+
+
+* DISC profile
+  :PROPERTIES:
+  :CUSTOM_ID: DISC_profile
+  :END:
+
+  [[file:Screenshot 2022-09-17 174158.jpg][DISC quadrants]]
+
+  [[https://drive.google.com/file/d/11EE5LYTqOXHLssYnScXwgrpfcRZFVyQ3/view?usp%3Dsharing][My DISC profile - high C]]
+
+  DISC elaborates on "how you behave when you're not thinking about
+  how you behave". Note that you can operate in any of the quadrants
+  if you practise and you can change where you are to adapt to a
+  situation.
+
+  Dominant, Influencing, Supportive, Conscientious (DISC)
+
+  High Ds tend to be leaders, brash. Feedback to them should be about
+  how others will value them less as leaders.
+
+  High Is tend to be eager to please and influence. Feedback should be
+  about how other people may choose not to work in a team with them.
+
+  High Ss tend to be team-oriented. Feedback should be about how their
+  behavior makes the team less successful.
+
+  High Cs tend to be diligent and process-driven. Feedback should be
+  about how their behaviors makes them less effective.
+
+
 * Job search and career
 
 
@@ -1278,180 +1718,6 @@
     you will be working with later.
 
 
-** First 90 days in a new job
-
-   The theme of [[https://www.manager-tools.com/2012/06/90-day-new-job-plan-overview][the first 90 days]] is to "fit in". It is wrong to change
-   a lot of things, there is already a disruption due to your
-   joining. A new person (you) changes the relationship structure.
-
-   You may start 1-1s in the first 90 days but you may not start giving
-   negative feedback. Crises that require immediate solutions are
-   rare. Don't make changes based on role power because, then, you are
-   only relying on compliance energy and not relationship energy.
-
-   1. Fit in, fit in, fit in. Go slow.
-
-   2. Take notes throughout your meetings.
-
-      Who do you interact with (including your boss)?
-
-      How do they behave?
-      Where do they fit in the DISC profiles?
-      Personal details
-
-      What processes does your company use?
-
-      Who are your [[#internal_customers][internal customers]]?
-
-   3. Think about what your top priority will be but don't roll
-      it out yet. Do some cost-benefit analysis. You should only have
-      1-2 priorities.
-
-      Your top priority must be something that your boss cares about.
-
-   4. Establish some measurement baselines so that you can measure
-      improvements.  Otherwise, you do not know that the changes you
-      are implementing are actually improving things.
-
-   5. At the end of 90 days, make one change at a time, not many
-      changes together. Remember changes need to be [[#pre_wire][pre-wired]].
-
-
-*** The boss                                                           :Boss:
-    :PROPERTIES:
-    :CUSTOM_ID: Boss_initial
-    :END:
-
-    1. Peers
-
-       Learn all your boss' peers' names. Look at the org chart. Work
-       with the admin.
-
-    2. Preferences
-
-       - Is your boss generally a reader or a listener?
-
-       - Early morning meetings or late stayer?
-
-       - Well-thought out plan or fly by the seat of the pants?
-
-       - Want you to make decisions or want to be aware of decisions?
-
-       Make notes from joint meetings on insight on these preferences.
-
-    3. Strengths and weaknesses
-
-       - If the boss is abrasive, smooth things out afterwards.
-
-       - Become a safety net for him/her, so that you smooth over his/her
-         vulnerabilities.
-
-       It's not good to make your boss look bad. It's good to bail your
-       boss out when it is needed. You are tainted by any inadequacies
-       of your boss.
-
-       Make notes from joint meetings on insight on these strengths and
-       weaknesses.
-
-    4. [Bonus] DISC profile
-
-       Do a DISC profile of your boss, using their communications.
-
-
-*** Relationship building
-    :PROPERTIES:
-    :CUSTOM_ID: Relationship_building
-    :END:
-
-    Building relationships is one of the most important things you need
-    to do.
-
-    First step, ask. Ask what people do, ask about processes
-    etc. Asking questions is not a sign of weakness.
-
-    Make them gentle open-ended questions, not questions intended to be
-    transactional information-gathering. e.g. How long have you worked
-    here? Where do you live? Can you tell me how what you do relates to
-    what Jill does? Who's the expert on X?
-
-    It's OK to ask personal questions. Ask people's family members'
-    names. Make sure you write down the names and birth years. It's not
-    rude. On the contrary, not asking about a person's family after
-    knowing them on a sustained professional basis is rude.
-
-    This is particularly important for the people/services you will need
-    e.g. security, admin, catering, etc. A list from your previous job
-    will help you. The best statement you can make is "I don't need
-    anything right now; I just wanted to say hello".
-
-
-*** Setting priorities
-
-   Begin to think about what your top priority will be but don't roll
-   it out yet. Do some cost-benefit analysis.
-
-   You should only have 1 or a maximum of 2 priorities.
-
-   Your top priority must be something that your boss cares about.
-
-   Make sure you understand what your "unofficial" job description
-   is. If you come in to a job that already has some priorities, don't
-   fight it. You have limited political capital in the beginning; you
-   shouldn't waste it on this.
-
-   You should define metrics against which you are compared.
-
-
-** Mentoring
-
-   [[https://www.manager-tools.com/2006/06/basics-mentoring-part-1-2][Podcast link]]
-
-   The mentor-mentee relationship is a 2-person relation. When
-   Corporate HR gets involved, the value can be diluted. It's better
-   for you to manage that relationship yourself.
-
-   Later in your life, you may want a personal board of directors.
-
-   - Choose someone whom you admire who will be helpful in achieving
-     your goals. Your boss cannot be your mentor. In a big company, you
-     can find a mentor within.
-
-     Decide what your goals are, before you approach a mentor.
-
-   - Decide how long the relation will last. It shouldn't last any more
-     than 3 years. It shouldn't be for a short period of the order of
-     weeks. It shouldn't be for specific challenges you face right now,
-     such as getting a promotion etc.
-
-   - Make a specific ask to someone to be your mentor. Specify the time
-     commitment. Nominally, this may be quarterly in-person meetings
-     with periodic phone/email conversations. You have to trust your
-     mentor and open up to feedback. You should be ready to share
-     details with them that you would not share with your boss, both on
-     the professional and personal level.
-
-     You are responsible for the operational part e.g. scheduling
-     meetings, sending information for pre-reads, rescheduling as
-     necessary etc.
-
-   - For the first meeting, have a resume, performance evaluations,
-     key projects etc. Set an agenda. Mix professional and personal
-     e.g. a one hour meeting in the office on the professional topics
-     followed by a lunch outside to get to know each other personally:
-     family, life goals etc.
-
-   - Don't try to educate your mentor
-     on the feedback model etc., just take feedback as they give
-     you. Listen to the feedback, take notes, make changes.
-
-     Ask specific questions so that you are respectful of their
-     time. Make sure you close the loop on guidance they have given
-     you. e.g. "Help me learn from what just happened".
-
-     Hand-written thank-you notes are the gold standard of saying
-     thanks.
-
-
 ** Planning for layoffs
 
    [[https://www.manager-tools.com/2007/11/getting-laid-off-finances-rule][Finances rule podcast]]
@@ -1466,272 +1732,6 @@
    job search.
 
 
-* Executive
-
-
-** How to structure an organization
-
-   Don't start with people. The names in the boxes should be the last
-   step. The purpose of the organization is found outside the
-   organization.
-
-   The rules are as follows.
-   1. Ask what results are expected of the organization
-   2. Make it as small as possible
-   3. Only one person in a box
-
-   The steps are as follows.
-   1. Draw out the org with boxes below it. Calculate a rough
-      cumulative cost and make sure it is within budget.
-   2. Decide who goes in the top box. Then, iterate all the boxes
-      below based on that person's strengths and weaknesses.
-
-
-** Leader's intent
-
-   [[https://www.manager-tools.com/2015/08/leaders-intent-part-1-hall-fame-guidance][Link to podcast]]
-
-   Communicate less about the how and more about the why. This is the
-   only way to get growth out of your team.
-
-   Communicate your plans and why. For instance, if you are looking for
-   cost-cutting, communicate at a high-level why costs need to be cut
-   and roughly how much. You want to stay out of the weeds in terms of
-   details and communicate only the intent.
-
-
-*** Dwight Eisenhower: Plans are nothing; planning is everything.    :quotes:
-
-
-*** Manager tools: Good judgement comes from experience, experience comes from bad judgement. :quotes:
-
-
-** Executive waypoint
-
-   Have conversations and prepare notes from manager, stakeholders,
-   loved ones, customers: ask them what your goals should be, ask them
-   what your blind spots are.
-
-   Then, reflect on this: Who do you want to be? You can absolutely
-   change any of your behaviors. You can make conscious choices to
-   change.
-
-   Use the following 4 growth perspectives:
-   - Personal/family
-   - Company/industry
-   - Organizational
-   - Professional/career
-
-   Based on these, write down "I will..." kind of statements. There can
-   be 3-5 of these.
-
-   Use a state of isolation (a state in which your mind is isolated
-   from the output of other people's minds) to think through this.
-
-   At the end of the day, determine the set of insights/actions/initiatives
-   that you are going ahead with.
-
-   An insight should be actionable. For instance:
-   "You need to build a better relation with your top customer"
-   ->
-   "I will build a better relation with my top customer"
-
-   Org charts and resulting organizations are a good source for
-   actionable insights. So are succession plans.
-
-   Connect with your DISC profile so that actions stretch you on the
-   DISC profile.
-
-   You should end up with no more than 3 goals.
-
-   Important next step: Plan out a set of tasks for each of the 3
-   goals.
-
-
-** Purpose of the executive
-   :PROPERTIES:
-   :CUSTOM_ID: purpose_focus_horizon
-   :END:
-
-   An executive is generally defined by three characteristics.
-
-   - Purpose ::
-     The executive exists only to serve the purpose of the entire
-     organization, not to serve one's own purposes or one's own
-     sub-organization's purposes.
-
-   - Focus ::
-     The executive must shift their focus from inside the organization
-     to outside the organization. The results of an organization are
-     generally found outside it. Costs are internal to the
-     organization, including yourself.
-
-     Executives must give up on internal politics etc. and focus on
-     external networks, connections and knowledge-seeking.
-
-   - Future ::
-     A manager becoming an executive must not just get results, but
-     must also invest the proceeds of those results in the
-     future. Thus, by definition, executives must have a longer time
-     horizon in their thinking.
-
-   A CEO should not be the only executive in the company. That's
-   unhealthy for large organizations.
-
-   A typical mistake that executives make is doing more of the same
-   thing that they have been doing on getting promoted. You have to
-   make a phase transition in your thinking i.e. move to a different
-   S-curve.
-
-
-** Executive S-curve and the box
-
-   As a manager getting promoted to an executive, you are moving from
-   one S-curve to another.
-
-   You now have certain freedoms and certain responsibilities. Try to
-   constrain yourself on the freedoms and role powers that you
-   have. Focus instead on the responsibilities. Your responsibilities
-   are towards the entire organization, even if it means at the loss
-   of your own sub-organization (see [[#purpose_focus_horizon][Purpose]]). You have to give up on
-   building your fiefdoms and focus on the greater good of the
-   organization.
-
-
-** The hallmark of an executive
-
-   The number one hallmark is the discipline to determine what needs
-   to be done in the organization and then the discipline to do it.
-
-   The classic assumption is that executives know more about business,
-   strategy, finance etc. Instead, discipline is the one quality that
-   is dispositive. Think of the scene from "Men In Black": You put on a
-   black suit and it's the only suit you'll ever wear.
-
-
-*** Jane Austen: It isn't what we say or think that defines us, but what we do. :quotes:
-
-
-** Ditch the ladder
-
-   See also [[#Promotions][the guidance on promotions]]
-
-   Junior executives think there is a career ladder but there isn't.
-
-   - Ditch the ladder :: Ladders have rungs equally spaced and, if you
-     slip, you'll just move to the lower rung. None of this is true of
-     a career. You do not need to aspire to reach the top rung. Being
-     the CEO is a tough job; it's not for everyone. Ladders exist but
-     they do not go all the way up to the top.
-
-   - Embrace the matrix :: At the top, it's a matrix, not a
-     ladder. You may move laterally multiple times. In this domain,
-     things are non-linear and you do not move straight up.
-
-   - Results and relationships :: As a manager, your goals are results
-     and retention. You might get away because you are very good at
-     what you do. However, as an executive, [[#Relationship_building][great relationships]] are the only
-     way you will get good results. Executive results are still critical but
-     they are mostly achieved through relationships. Executive
-     relations are not just among peers and certainly not with just
-     your boss. They are up, down and broadly sideways
-     and even outside your company (donors, board of directors,
-     investors, research universities etc.).
-
-   - Open to opportunities :: Never be stuck in the philosophy of
-     "This is the only job I want to do". When an acquaintance
-     mentions an opportunity and ask if you know someone, they are
-     actually asking if you are interested. Take recruiter calls. You
-     are not winning loyalty points by saying you are OK in your
-     current job. The advantage of being "open to opportunities"
-     is that you can have several informal conversations without it
-     being an actual interview.
-
-   - Who should be the next...? :: You would only be asked this
-     question if you were being considered for the position. You
-     should not push too hard but you should make your case. If you
-     are the number 2 choice from many people (their #1 choice will
-     always be themselves), you'll get the job.
-
-
-** Executive development
-
-   [[https://www.manager-tools.com/2023/10/executive-development-different-part-1][Podcast link]]
-
-   - Exec Development is About Broadening
-   - Exec Development Is About Externalities
-   - It Won't Happen Without Planning
-   - Read In Several Forms
-   - Regularly Attend An Industry Conference
-   - Your Network Pays Off Now
-   - Do An Executive 360 Evaluation
-
-     They recommend a 360 evaluation from [[https://www.ccl.org/leadership-solutions/leadership-development-tools/leadership-assessments/][Center for Creative
-     Leadership]].
-
-
-** Culture
-
-
-*** What is culture?
-
-    Culture is nothing more than the sum of all acceptable behaviors in
-    the organization - the way we do things here.
-
-    It is a result of the adaptation of our behaviors in the organization.
-
-    It is not the sum of values. The culture cannot be a caring culture
-    because caring is a value, not a behavior.
-
-    A value can be a starting point but, if the behavior is not in sync
-    with the value, then the culture is the behavior and not the value.
-
-    Managers are the guardians of the organizational culture. They must
-    model the behaviors and must give feedback to ensure that the
-    behaviors are in sync with the values.
-
-    Values are usually on the website. They should be a small
-    list. They are meant as an external marketing tool to hire people.
-
-    Behaviors are usually not on a website.
-
-    Behaviors are usually simple statements of the form "We do x"
-    e.g. we over-communicate, we document our procedures carefully, etc.
-
-    Each manager decides the sub-culture of their organization. They
-    should derive such sub-cultures from the company's reason for
-    existence and the change that it wants to implement in society.
-
-
-* DISC profile
-  :PROPERTIES:
-  :CUSTOM_ID: DISC_profile
-  :END:
-
-  [[file:Screenshot 2022-09-17 174158.jpg][DISC quadrants]]
-
-  [[https://drive.google.com/file/d/11EE5LYTqOXHLssYnScXwgrpfcRZFVyQ3/view?usp%3Dsharing][My DISC profile - high C]]
-
-  DISC elaborates on "how you behave when you're not thinking about
-  how you behave". Note that you can operate in any of the quadrants
-  if you practise and you can change where you are to adapt to a
-  situation.
-
-  Dominant, Influencing, Supportive, Conscientious (DISC)
-
-  High Ds tend to be leaders, brash. Feedback to them should be about
-  how others will value them less as leaders.
-
-  High Is tend to be eager to please and influence. Feedback should be
-  about how other people may choose not to work in a team with them.
-
-  High Ss tend to be team-oriented. Feedback should be about how their
-  behavior makes the team less successful.
-
-  High Cs tend to be diligent and process-driven. Feedback should be
-  about how their behaviors makes them less effective.
-
-
 * Links and other logistics
 
   [[https://roadmap.manager-tools.com/home][Roadmap site]]
@@ -1740,15 +1740,16 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/user?destination=all-podcasts][podcast]]
-   SCHEDULED: <2024-05-18 Sat 16:00 +2w>
+   SCHEDULED: <2024-06-01 Sat 16:00 +2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-05-05 Sun 09:41]
+   :LAST_REPEAT: [2024-05-18 Sat 10:38]
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-05-18 Sat 10:38]
    - State "DONE"       from "TODO"       [2024-05-05 Sun 09:41]
    - State "DONE"       from "TODO"       [2024-04-20 Sat 19:46]
    - State "DONE"       from "TODO"       [2024-04-07 Sun 09:00]
@@ -1791,13 +1792,14 @@
 
 
 ** TODO Read an existing Manager Tools section from above
-   SCHEDULED: <2024-05-11 Sat 16:00 +2w>
+   SCHEDULED: <2024-05-25 Sat 16:00 +2w>
    :PROPERTIES:
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
-   :LAST_REPEAT: [2024-04-28 Sun 09:40]
+   :LAST_REPEAT: [2024-05-13 Mon 08:15]
    :END:
+   - State "DONE"       from "TODO"       [2024-05-13 Mon 08:15]
    - State "DONE"       from "TODO"       [2024-04-28 Sun 09:40]
    - State "DONE"       from "TODO"       [2024-04-17 Wed 09:38]
    - State "DONE"       from "TODO"       [2024-03-31 Sun 12:21]
