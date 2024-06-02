@@ -28,15 +28,6 @@
 
 #+RESULTS:
 :results:
-*** DONE Complete my mid-quarter goal progress check-in
-    SCHEDULED: <2024-05-16 Thu 20:00>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
 *** TODO Run automated task creation script for next quarter's goals activities
     SCHEDULED: <2024-06-10 Mon 20:00>
    :PROPERTIES:

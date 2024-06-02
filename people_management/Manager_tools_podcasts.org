@@ -1,5 +1,6 @@
 #+Title: Notes on management, job searches, and your career
 #+Filetags: :Management:Learning:
+#+startup: overview
 
 * Manager
 
@@ -1170,6 +1171,32 @@
 * Executive
 
 
+** Executive aspects as an egg
+
+   - Workload and Prioritization ::
+     Executives face a significant increase in workload, necessitating
+     effective priority management and delegation. The increase in
+     workload is polynomial, so you have to make a polynomial increase
+     in productivity to handle it.
+
+   - Balancing Professional and Personal Life ::
+     Balancing professional responsibilities with personal life,
+     including family, is crucial to prevent long-term negative
+     effects.
+
+   - Egg Analogy for Focus ::
+     The egg analogy underscores the importance of focusing on core
+     responsibilities, delegating less critical tasks, and
+     prioritizing family as a protective shell.
+
+   - Time Management and Sustainability ::
+     Implementing sustainable work practices and effective time
+     management are vital for handling increased responsibilities
+     sustainably.
+
+   [[https://www.manager-tools.com/2024/03/executive-priorities-delegate-egg-white-part-1][Link to podcast]]
+
+
 ** How to structure an organization
 
    Don't start with people. The names in the boxes should be the last
@@ -1367,14 +1394,21 @@
    - Your Network Pays Off Now
    - Do An Executive 360 Evaluation
 
-     They recommend a 360 evaluation from [[https://www.ccl.org/leadership-solutions/leadership-development-tools/leadership-assessments/][Center for Creative
-     Leadership]].
+   They recommend a 360 evaluation from:
+   [[https://www.ccl.org/leadership-solutions/leadership-development-tools/leadership-assessments/][Center for Creative Leadership]].
+
+
+*** TODO Do an executive 360 evaluation from the recommendation above
+    SCHEDULED: <2024-12-20 Fri 08:00>
+    :PROPERTIES:
+    :EFFORT:   01:00
+    :BENEFIT:  100
+    :RATIO:    1.00
+    :END:
 
 
 ** Culture
 
-
-*** What is culture?
 
     Culture is nothing more than the sum of all acceptable behaviors in
     the organization - the way we do things here.
@@ -1402,35 +1436,6 @@
     Each manager decides the sub-culture of their organization. They
     should derive such sub-cultures from the company's reason for
     existence and the change that it wants to implement in society.
-
-
-* DISC profile
-  :PROPERTIES:
-  :CUSTOM_ID: DISC_profile
-  :END:
-
-  [[file:Screenshot 2022-09-17 174158.jpg][DISC quadrants]]
-
-  [[https://drive.google.com/file/d/11EE5LYTqOXHLssYnScXwgrpfcRZFVyQ3/view?usp%3Dsharing][My DISC profile - high C]]
-
-  DISC elaborates on "how you behave when you're not thinking about
-  how you behave". Note that you can operate in any of the quadrants
-  if you practise and you can change where you are to adapt to a
-  situation.
-
-  Dominant, Influencing, Supportive, Conscientious (DISC)
-
-  High Ds tend to be leaders, brash. Feedback to them should be about
-  how others will value them less as leaders.
-
-  High Is tend to be eager to please and influence. Feedback should be
-  about how other people may choose not to work in a team with them.
-
-  High Ss tend to be team-oriented. Feedback should be about how their
-  behavior makes the team less successful.
-
-  High Cs tend to be diligent and process-driven. Feedback should be
-  about how their behaviors makes them less effective.
 
 
 * Job search and career
@@ -1590,6 +1595,7 @@
          ones you are comfortable working with and work with them
          regularly.
 
+
     [[https://www.manager-tools.com/2016/06/search-big-picture-part-1][Podcast]]
 
 
@@ -1732,6 +1738,35 @@
    job search.
 
 
+* DISC profile
+  :PROPERTIES:
+  :CUSTOM_ID: DISC_profile
+  :END:
+
+  [[file:Screenshot 2022-09-17 174158.jpg][DISC quadrants]]
+
+  [[https://drive.google.com/file/d/11EE5LYTqOXHLssYnScXwgrpfcRZFVyQ3/view?usp%3Dsharing][My DISC profile - high C]]
+
+  DISC elaborates on "how you behave when you're not thinking about
+  how you behave". Note that you can operate in any of the quadrants
+  if you practise and you can change where you are to adapt to a
+  situation.
+
+  Dominant, Influencing, Supportive, Conscientious (DISC)
+
+  High Ds tend to be leaders, brash. Feedback to them should be about
+  how others will value them less as leaders.
+
+  High Is tend to be eager to please and influence. Feedback should be
+  about how other people may choose not to work in a team with them.
+
+  High Ss tend to be team-oriented. Feedback should be about how their
+  behavior makes the team less successful.
+
+  High Cs tend to be diligent and process-driven. Feedback should be
+  about how their behaviors makes them less effective.
+
+
 * Links and other logistics
 
   [[https://roadmap.manager-tools.com/home][Roadmap site]]
@@ -1740,15 +1775,16 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/user?destination=all-podcasts][podcast]]
-   SCHEDULED: <2024-06-01 Sat 16:00 +2w>
+   SCHEDULED: <2024-06-15 Sat 16:00 +2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-05-18 Sat 10:38]
+   :LAST_REPEAT: [2024-06-02 Sun 06:02]
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-06-02 Sun 06:02]
    - State "DONE"       from "TODO"       [2024-05-18 Sat 10:38]
    - State "DONE"       from "TODO"       [2024-05-05 Sun 09:41]
    - State "DONE"       from "TODO"       [2024-04-20 Sat 19:46]

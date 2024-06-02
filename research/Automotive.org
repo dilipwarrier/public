@@ -1,5 +1,6 @@
 #+Title: Articles on automotive technology
 #+FILETAGS: :Learning:
+#+STARTUP: content
 
 * Picture of automotive engine
 
@@ -9,6 +10,7 @@
 * Autonomous driving levels
 
   [[file:Screenshot 2023-08-26 183025.jpg][Levels and what they mean]]
+
 
 * [[https://ihsmarkit.com/topic/IEBAutoTech.html#video-9-container][Battery technology trends]] - Youmin Rong, IHS Markit
 
@@ -84,26 +86,46 @@
 
 * EV global market trends
 
-  According to [[https://www.ev-volumes.com/country/total-world-plug-in-vehicle-volumes/][EV Volumes]], about 10.5M EVs were sold globally
-  in 2022. This was 13% of all passenger vehicles. Out of this, about
-  7.5M were BEVs and about 3M were PHEVs. By 2030, the
-  number is expected to be at 46M (about 45% of the total light
-  vehicle market). This is an average growth rate of 21% every year
-  for 8 years.
 
-  [[file:Screenshot 2023-04-23 171648.png]]
+** Goldman Sachs report June 2024
 
-  [[file:Screenshot 2023-12-07 130520.png]]
+   [[file:Screenshot 2024-06-01 122638.png]]
 
-  According to slide 22 of the [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view][Battery Health Report]], about 6.2M EVs were sold in
-  China (about 60% of the global market), 2.7M in Europe and 1.1m were
-  sold in the US. This was a 55% increase from 2021.
+   This [[https://www.goldmansachs.com/intelligence/pages/why-are-ev-sales-slowing.html][report]] argues that the bear case for EVs is more likely. The
+   bear case is that BEVs will account for 25M (25% of world-wide
+   market) by 2030. The hyper-adoption case was that BEVs would
+   account for 45M (45% of world-wide market) by 2030. The
+   hyper-adoption case in the GS article is the same as the numbers in
+   the EV Volumes case below.
 
-  The total car sales (BEV, ICE etc.) in the US in CY23 is estimated
-  to be at about 15M. This is down from a high in CY19 (pre-pandemic)
-  of about 17M.
+   Roughly 10M EVs were sold in 2023. So, this is a CAGR of 14% up to 2030.
 
-  Tesla expects to sell about 1.8M vehicles world-wide in CY23.
+   The CAGRs for the base and hyper-adoption cases are 19% and 24%
+   respectively.
+
+
+** EV Volumes 2023
+
+   According to [[https://www.ev-volumes.com/country/total-world-plug-in-vehicle-volumes/][EV Volumes]], about 10.5M EVs were sold globally
+   in 2022. This was 13% of all passenger vehicles. Out of this, about
+   7.5M were BEVs and about 3M were PHEVs. By 2030, the
+   number is expected to be at 46M (about 45% of the total light
+   vehicle market). This is an average growth rate of 21% every year
+   for 8 years.
+
+   [[file:Screenshot 2023-04-23 171648.png]]
+
+   [[file:Screenshot 2023-12-07 130520.png]]
+
+   According to slide 22 of the [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view][Battery Health Report]], about 6.2M EVs were sold in
+   China (about 60% of the global market), 2.7M in Europe and 1.1m were
+   sold in the US. This was a 55% increase from 2021.
+
+   The total car sales (BEV, ICE etc.) in the US in CY23 is estimated
+   to be at about 15M. This is down from a high in CY19 (pre-pandemic)
+   of about 17M.
+
+   Tesla expects to sell about 1.8M vehicles world-wide in CY23.
 
 
 * Cell types and counts

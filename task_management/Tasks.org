@@ -228,13 +228,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-28 Mon 17:47]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2024-05-28 Tue 20:00 +1w>
+   SCHEDULED: <2024-06-04 Tue 20:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2024-05-22 Wed 06:35]
+   :LAST_REPEAT: [2024-05-29 Wed 10:51]
    :END:
+   - State "DONE"       from "TODO"       [2024-05-29 Wed 10:51]
    - State "DONE"       from "TODO"       [2024-05-22 Wed 06:35]
    - State "DONE"       from "TODO"       [2024-05-14 Tue 21:01]
    - State "DONE"       from "TODO"       [2024-05-07 Tue 20:16]
@@ -276,13 +277,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-22 Tue 20:56]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2024-05-29 Wed 20:00 +1w>
+   SCHEDULED: <2024-06-05 Wed 20:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2024-05-22 Wed 18:34]
+   :LAST_REPEAT: [2024-05-29 Wed 10:51]
    :END:
+   - State "DONE"       from "TODO"       [2024-05-29 Wed 10:51]
    - State "DONE"       from "TODO"       [2024-05-22 Wed 18:34]
    - State "DONE"       from "TODO"       [2024-05-15 Wed 21:13]
    - State "DONE"       from "TODO"       [2024-05-08 Wed 21:43]
@@ -325,13 +327,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-23 Wed 17:07]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2024-05-30 Thu 20:00 +1w>
+   SCHEDULED: <2024-06-06 Thu 20:00 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2024-05-23 Thu 07:50]
+   :LAST_REPEAT: [2024-05-30 Thu 17:46]
    :END:
+   - State "DONE"       from "TODO"       [2024-05-30 Thu 17:46]
    - State "DONE"       from "TODO"       [2024-05-23 Thu 07:50]
    - State "DONE"       from "TODO"       [2024-05-17 Fri 08:30]
    - State "DONE"       from "TODO"       [2024-05-10 Fri 09:31]

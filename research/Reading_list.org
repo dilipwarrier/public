@@ -1,14 +1,6 @@
 #+TITLE: List of papers to read
 #+FILETAGS: :Learning:
 
-* DONE Read AWS Well-Architected [[https://drive.google.com/open?id=13pgMhYAhO6rqq8-ef4f0A5QN_hPTEX_M&authuser=dilipgwarrier%40gmail.com&usp=drive_fs][IoT lens]] :Offline:PC:
-  :PROPERTIES:
-  :EFFORT: 00:15
-  :BENEFIT: 25
-  :RATIO: 1.00
-  :END:
-
-
 * TODO Read about [[https://github.com/yuya373/emacs-slack][Emacs Slack integration]]                          :Software:
   :PROPERTIES:
   :EFFORT: 00:15
