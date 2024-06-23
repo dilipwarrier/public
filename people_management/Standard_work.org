@@ -15,12 +15,14 @@
 
 
 ** TODO Clean up calendar for the upcoming week through next Monday :Mobile:Offline:
-   SCHEDULED: <2024-06-14 Fri 16:00 +1w>
+   SCHEDULED: <2024-06-28 Fri 16:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-06-09 Sun 13:03]
+   :LAST_REPEAT: [2024-06-21 Fri 20:04]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-06-21 Fri 20:04]
+   - State "DONE"       from "TODO"       [2024-06-14 Fri 13:52]
    - State "DONE"       from "TODO"       [2024-06-09 Sun 13:03]
    - State "DONE"       from "TODO"       [2024-05-31 Fri 16:31]
    - State "DONE"       from "TODO"       [2024-05-25 Sat 14:33]
@@ -112,12 +114,13 @@
 
 
 ** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]]
-   SCHEDULED: <2024-06-13 Thu 08:00 +12w>
+   SCHEDULED: <2024-09-05 Thu 08:00 +12w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-03-24 Sun 20:58]
+   :LAST_REPEAT: [2024-06-14 Fri 07:54]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-06-14 Fri 07:54]
    - State "DONE"       from "TODO"       [2024-03-24 Sun 20:58]
    - State "DONE"       from "TODO"       [2023-12-30 Sat 08:27]
    - State "DONE"       from "TODO"       [2023-10-05 Thu 16:15]

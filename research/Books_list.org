@@ -1,8 +1,41 @@
 #+Title: List of books to read
 #+FILETAGS: :Books:
-#+STARTUP: shrink
+#+STARTUP: content
 
 * Books analysis
+
+
+** Usual process to use this tool
+
+   - Check the next 3 textbooks to read
+   - Pick the next 3 non-textbooks to read from the list of 20 below
+   - Put holds in Libby for any of the 6 above that are available
+   - Have at least one textbook and one non-textbook to read at all times
+
+
+** TODO Add an option in recommend_book.py to exclude a genre (e.g. -xg textbook)
+   :PROPERTIES:
+   :EFFORT:  00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+** TODO Allow multiple genres in recommend_book.py (e.g. -g"textbook,management")
+   :PROPERTIES:
+   :EFFORT:  00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+** TODO Add an option in recommend_book.py to list by status (e.g. -s reading)
+   :PROPERTIES:
+   :EFFORT:  00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
 
 
 ** Next few books to read overall
@@ -23,25 +56,25 @@ Nimitz at war                                     : Craig Symonds        (4.4, w
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Compulsion                                        : Meyer Levin          (4.1, thriller)
 The Christmas Virtues: A Treasury of...           : Jonathan V. Last     (4.1, society)
-Five Families: The Rise,Decline,and Resurgence... : Selwyn Raab          (4.1, western-biography)
 The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
 Say Nothing                                       : Patrick Keefe        (4.4, western-history)
-Scaling people                                    : Claire Hughes...     (4.4, management)
+Five Families: The Rise,Decline,and Resurgence... : Selwyn Raab          (4.1, western-biography)
 Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
 Spearhead                                         : Adam Makos           (4.2, western-history)
 A different drummer                               : William Melvin...    (4.2, fiction)
-Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
 A cartoon history of the universe                 : Larry Gonick         (4.3, eastern-history,western-history)
 Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics)
-The Medici: Godfathers of the Renaissance         : Paul Strathern       (4.1, western-biography)
+Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
 The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society)
+Life 3.0: Being Human in the Age of Artificial... : Max Tegmark          (4.1, brain)
+The Man Who Mistook His Wife for a Hat and...     : Oliver Sacks         (4.1, science)
 :end:
 
 
 ** Next textbook to read
 
 #+begin_src shell :results drawer
-../item_recommender/recommend_book.py -r 5 -g textbook books_list.csv
+../item_recommender/recommend_book.py -r 3 -g textbook books_list.csv
 #+end_src
 
 #+RESULTS:
@@ -50,9 +83,7 @@ List of recommended books:
 
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
-Bayesian data analysis                            : Bruce Gelman         (4.2, maths,textbook)
-Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
-Knowledge,reality and value                       : Michael Huemer       (4.1, philosophy,textbook)
+Bayesian data analysis                            : Andrew Gelman        (4.2, maths,textbook)
 :end:
 
 
@@ -84,9 +115,16 @@ The Essential Deming: Leadership Principles...    : W. Edwards Deming    (4.1, m
 :results:
 List of read books:
 
+The silk roads                                    : Peter Frankopan      (12-Jun-24, 2.0)
+Trillion dollar coach                             : Eric Schmidt,...     (05-Jun-24, 4.0)
+High output management                            : Andrew Grove         (30-May-24, 5.0)
+Measure what matters                              : John Doerr           (10-Apr-24, 4.0)
+Bubble or revolution?                             : Neel Mehta           (30-Mar-24, 5.0)
 Working backwards                                 : Colin Bryar, Bill... (01-Feb-24, 5.0)
 King                                              : Jonathan Eig         (12-Jan-24, 5.0)
 The rebellious life of Mrs. Rosa Parks            : Jeanne Theoharis     (10-Jan-24, 5.0)
+Business model generation                         : Alex Osterwalder     (01-Jan-24, 5.0)
+How the world really works                        : Vaclav Smil          (01-Jan-24, 5.0)
 An honorable man                                  : Paul Vidich          (15-Dec-23, 4.0)
 The Art of Action                                 : Stephen Bungay       (01-Dec-23, 2.0)
 Ponniyil Selvan - book 1                          : Kalki                (20-Jul-23, 5.0)
@@ -127,13 +165,6 @@ Why Meditate?: Working with Thoughts and Emotions : Matthieu Ricard      (25-Aug
 Climate Change: What everyone needs to know       : Joseph Romm          (20-Aug-21, 4.0)
 False Alarm                                       : Bjorn Lomborg        (10-Aug-21, 5.0)
 The Happiness Hypothesis                          : Jonathan Haidt       (25-Jul-21, 4.0)
-The white man's burden                            : William Easterly     (07-Jul-21, 2.0)
-Heat: How to stop the planet from burning         : George Monbiot       (05-Jul-21, 3.0)
-Open borders                                      : Bryan Caplan         (26-Jun-21, 5.0)
-Poor economics                                    : Abhijit Banerjee,... (23-Jun-21, 5.0)
-Practical Ethics                                  : Peter Singer         (18-Jun-21, 5.0)
-The life you can save                             : Peter Singer         (29-May-21, 5.0)
-Dialogues on ethical vegetarianism                : Michael Huemer       (21-May-21, 5.0)
 :end:
 
 
@@ -147,26 +178,27 @@ Dialogues on ethical vegetarianism                : Michael Huemer       (21-May
 #+RESULTS:
 :results:
 List of categories and read-dates:
-science                       : 08-Mar-24
-management                    : 08-Mar-24
+maths                         : 12-Jun-24
+eastern-history               : 12-Jun-24
+textbook                      : 12-Jun-24
+western-biography             : 12-Jun-24
+finance                       : 12-Jun-24
+management                    : 05-Jun-24
 black-biography               : 12-Jan-24
+science                       : 01-Jan-24
 espionage                     : 15-Dec-23
 books-to-read-again           : 01-Nov-23
 indian-fiction                : 20-Jul-23
 thriller                      : 05-Jul-23
 biology                       : 01-Jul-23
 brain                         : 01-Jun-23
-eastern-history               : 15-Feb-23
 western-history               : 04-Oct-22
 economics                     : 15-Sep-22
 games                         : 15-Sep-22
 fiction                       : 15-Apr-22
-textbook                      : 22-Mar-22
 strategy                      : 22-Mar-22
-maths                         : 27-Jan-22
 software                      : 15-Jan-22
 engineering                   : 15-Jan-22
-western-biography             : 12-Jan-22
 physics                       : 25-Dec-21
 black-history                 : 26-Nov-21
 eastern-biography             : 30-Sep-21
@@ -257,15 +289,15 @@ Sensemaking in organizations                      : Karl Weick           (4.0, m
 Questions are the answer                          : Hal Gregersen        (4.0, management)
 Judgement in managerial decision making           : Bazerman, Moore      (4.0, management)
 Strategy: A history                               : Lawrence Freedman    (4.0, strategy,management)
-The Essential Deming: Leadership Principles...    : W. Edwards Deming    (4.1, management,books-to-read-again)
 Build: An unorthodox guide to making things       : Tony Fadell          (4.0, management,product)
+The Essential Deming: Leadership Principles...    : W. Edwards Deming    (4.1, management,books-to-read-again)
 How big things get done                           : Bent Flyvbjerg       (4.0, management)
 The culture engine                                : Chris Edmonds        (4.0, management)
 Crossing the Chasm: Marketing and Selling High-...: Geoffrey A. Moore    (4.0, management,books-to-read-again)
-Measure what matters                              : John Doerr           (4.0, management)
 The first 90 days                                 : Michael Watkins      (3.9, management)
 How to Measure Anything: Finding the Value of...  : Douglas W. Hubbard   (4.0, management,books-to-read-again)
 Thinking Strategically: The Competitive Edge in...: Avinash K. Dixit     (4.0, strategy,management,books-to-read-again)
+The Halo Effect: ... and the Eight Other...       : Philip M. Rosenzweig (3.9, management,books-to-read-again)
 :end:
 
 
@@ -309,14 +341,3 @@ options:
   - [[https://en.wikipedia.org/wiki/DSC_Prize_for_South_Asian_Literature][DSC prize for South Asian literature]]
   - [[https://www.thejcbprize.org/#list][JCB prize for Indian fiction]]
   - [[https://en.wikipedia.org/wiki/Crossword_Book_Award][Crossword award for Indian literature]]
-
-
-  Remove the following action for now.
-
-** Review [[https://www.nationalbook.org/national-book-awards/][National Book Award winners]] for fiction and non-fiction and add to book list
-   SCHEDULED: <2024-11-28 Thu 08:00 +52w>
-   :PROPERTIES:
-   :LAST_REPEAT: [2023-12-08 Fri 13:01]
-   :END:
-   - State "DONE"       from "TODO"       [2023-12-08 Fri 13:01]
-   - State "DONE"       from "TODO"       [2022-12-03 Sat 17:10]

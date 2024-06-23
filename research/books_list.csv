@@ -1,9 +1,9 @@
 Title,Author,My Rating,Average Rating,Date Read,Date Added,Genre,Status
+Investment under uncertainty,"Avinash Dixit,Robert Pindyck",,4.0,,06/12/2024,maths,to-read
 Bangkok 8, John Burdett,,4.0,,03/08/2024,eastern-fiction,to-read
 Thinking in bets, Annie Duke,,4.0,,03/08/2024,brain,to-read
 Pragmatic thinking and learning, Andy Hunt,,4.0,,03/08/2024,brain,to-read
 The words that remain, Stenio Gardel,,4.0,,12/08/2023,fiction,to-read
-The silk roads, Peter Frankopan,,4.0,,08/11/2023,eastern-history,to-read
 The Rediscovery of America, Ned Blackhawk,,4.0,,12/08/2023,western-history,to-read
 The garden of tales,Vijaydan Detha,,4.0,,09/10/2023,indian-fiction,to-read
 Sovereigns of the sea,Seema Alavi,,4.0,,09/10/2023,eastern-history,to-read
@@ -11,9 +11,7 @@ The sense of style,Steven Pinker,,4.0,,09/10/2023,society,to-read
 From strength to strength,Arthur Brooks,,4.0,,09/10/2023,philosophy,to-read
 Thing Explainer,Randall Monroe,,4.0,,09/10/2023,science,to-read
 Deep work,Cal Newport,,4.0,,09/10/2023,brain,to-read
-Measure what matters,John Doerr,,4.0,,7/8/2023,management,to-read
 A history of burning,Janika Oza,,4.3,,7/8/2023,indian-fiction,to-read
-Scaling people,Claire Hughes Johnson,,4.4,,7/8/2023,management,to-read
 Say Nothing,Patrick Keefe,,4.4,,7/8/2023,western-history,to-read
 Statistics as principled argument,Robert Abelson,,4.1,,6/23/2023,maths,to-read
 The culture engine,Chris Edmonds,,4.0,,4/2/2023,management,to-read
@@ -94,7 +92,6 @@ Fatherland,Robert Harris,,4.0,,1/13/2018,fiction,to-read
 Life 3.0: Being Human in the Age of Artificial Intelligence,Max Tegmark,,4.1,,11/18/2017,brain,to-read
 The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks,,4.1,,10/22/2017,science,to-read
 The Prague Sonata,Bradford Morrow,,4.0,,10/15/2017,thriller,to-read
-The Medici: Godfathers of the Renaissance,Paul Strathern,,4.1,,10/1/2017,western-biography,to-read
 Behold the Dreamers,Imbolo Mbue,,4.0,,10/1/2017,african-fiction,to-read
 Watergate: The Corruption of American Politics and the Fall of Richard Nixon,Fred Emery,,4.0,,8/19/2017,western-history,to-read
 In Gods We Trust: The Evolutionary Landscape of Religion,Scott Atran,,4.0,,7/29/2017,genetics,to-read
@@ -113,8 +110,16 @@ Marketing Management,Philip Kotler,,4.1,,2/22/2015,"marketing,management,textboo
 Jesus' Son,Denis Johnson,,4.1,,11/1/2014,fiction,to-read
 The whys of a political scrivener,Martin Gardner,,4.0,,11/23/2013,philosophy,to-read
 The elegant universe,Brian Greene,,4.1,,3/20/2022,physics,to-read
-Business model generation,Alex Osterwalder,5.0,4.2,01/01/2024,02/27/2022,management,read
+Scaling people,Claire Hughes Johnson,,4.4,,7/8/2023,management,reading
+The missing billionaires,Victor Haghani,,4.0,,05/01/2024,"maths,finance,textbook",reading
+The Florentines,Paul Strathern,,4.1,,10/1/2017,western-biography,reading
 An introduction to decision theory,Martin Peterson,,3.8,,12/18/2021,"maths,textbook",reading
+Trillion dollar coach,"Eric Schmidt,Jonathan Rosenberg",4.0,4.0,06/05/2024,06/05/2024,management,read
+High output management,Andrew Grove,5.0,4.0,05/30/2024,05/30/2024,management,read
+Measure what matters,John Doerr,4.0,4.0,04/10/2024,7/8/2023,management,read
+Bubble or revolution?,Neel Mehta,5.0,4.0,03/30/2024,03/30/2024,finance,read
+Business model generation,Alex Osterwalder,5.0,4.2,01/01/2024,02/27/2022,management,read
+The silk roads, Peter Frankopan,2.0,4.0,06/12/2024,08/11/2023,eastern-history,read
 How the world really works,Vaclav Smil,5.0,4.0,01/01/2024,7/8/2023,science,read
 The rebellious life of Mrs. Rosa Parks,Jeanne Theoharis,5.0,4.0,01/10/2024,01/10/2024,black-biography,read
 Working backwards,"Colin Bryar,Bill Carr",5.0,4.4,02/01/2024,3/20/2021,management,read
