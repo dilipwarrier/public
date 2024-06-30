@@ -20,6 +20,65 @@
   overall remote co-working experience.
 
 
+* Holding a team workshop
+
+
+** 1 month before
+
+   Prepare to spend roughly 10% of the attendee-hours during the workshop
+   in planning for the workshop. For instance, if you invite 10 people
+   for 1 day, you should plan for 1 person-day of planning effort.
+
+   Decide agenda & attendees for workshop
+
+   Decide if you need external facilitators
+
+   Setup Outlook invitations
+
+   Arrange travel plans
+
+
+** 1 week before
+
+   Hold pre-workshop meeting
+
+   Share agenda
+
+   Clarify homework to be done before the workshop
+
+   Create templates for easy reporting out for the teams
+
+   Setup Survey Monkey survey for each day
+
+   Setup guidelines for discussion:
+   - JENTM (just enough, not too much)
+   - Have a healthy discussion then decide whether you have a strong enough opinion that you want to block the action (Be flexible)
+   - Humor is mandatory
+   - Laptops/mobile will be turned off
+   - There will be breaks with fixed times and timer running on the laptop
+
+
+** 1 day before
+
+   Reminder email to travel to workshop
+
+
+** During workshop
+
+   Prepare report out
+
+   If there are multiple teams, reports need to be reconciled to form final report
+
+   Get feedback using Survey Monkey on each day how the workshop is going
+
+
+** 1 day after
+
+   Email thanking attendees, send location of meeting notes, followup action items
+
+   Create survey and get feedback
+
+
 * Synchronous and asynchronous communication
 
   [[https://medium.com/levelshealth/how-to-intentionally-structure-scale-company-communications-2c4774e1f8c8][This post]] describes a thoughtful approach to team communication.
