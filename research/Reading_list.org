@@ -147,3 +147,27 @@
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
+
+
+** TODO https://www.goldmansachs.com/intelligence/pages/how-india-services-economy-became-a-world-leader.html?chl=em&plt=briefings&cid=0628&plc=body
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+** TODO https://www.raptitude.com/2018/01/if-its-important-learn-it-repeatedly/?utm_source=Newsletter&utm_campaign=84ec8dedbd-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-84ec8dedbd-9546361
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+** TODO https://drive.google.com/file/d/1GHcVBuoLA9SYPBb1m0WJqcb6PP5F_YwS/view?usp=drivesdk
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
