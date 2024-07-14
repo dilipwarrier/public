@@ -1,5 +1,6 @@
 #+title: Team communication
 #+FILETAGS: :Manager:Learning:
+#+STARTUP: content
 
 * Introduction
 
@@ -77,6 +78,18 @@
    Email thanking attendees, send location of meeting notes, followup action items
 
    Create survey and get feedback
+
+
+* Group brainstorming through De Bono's six-hat thinking
+
+  De Bono recommends that all members of a team should think in one
+  direction at a time. However, they should alternate the direction
+  every few minutes.
+
+  The direction is determined by the hat that is worn, green hat, blue
+  hat, etc.
+
+  https://www.atlassian.com/blog/productivity/six-thinking-hats
 
 
 * Synchronous and asynchronous communication

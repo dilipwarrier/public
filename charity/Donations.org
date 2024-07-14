@@ -1,7 +1,9 @@
 #+Title: Organizations to make donations to
 #+FILETAGS: :Society:
+#+STARTUP: content
 
 * A list of organizations
+
 
 ** Give Well
    :PROPERTIES:
@@ -16,6 +18,7 @@
 
 
 * Recurring tasks
+
 
 ** TODO Donate $1200 to [[https://secure.givewell.org/][Give Well through Paypal]] :PC:
    SCHEDULED: <2024-07-17 Wed 13:30 +4w>
