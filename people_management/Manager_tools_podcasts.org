@@ -1775,15 +1775,16 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/user?destination=all-podcasts][podcast]]
-   SCHEDULED: <2024-07-13 Sat 16:00 +2w>
+   SCHEDULED: <2024-07-27 Sat 16:00 +2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-06-30 Sun 19:38]
+   :LAST_REPEAT: [2024-07-15 Mon 08:03]
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-07-15 Mon 08:03]
    - State "DONE"       from "TODO"       [2024-06-30 Sun 19:38]
    - State "DONE"       from "TODO"       [2024-06-16 Sun 07:41]
    - State "DONE"       from "TODO"       [2024-06-02 Sun 06:02]
@@ -1830,13 +1831,14 @@
 
 
 ** TODO Read an existing Manager Tools section from above
-   SCHEDULED: <2024-07-20 Sat 16:00 +2w>
+   SCHEDULED: <2024-08-03 Sat 16:00 +2w>
    :PROPERTIES:
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
-   :LAST_REPEAT: [2024-07-06 Sat 20:30]
+   :LAST_REPEAT: [2024-07-23 Tue 08:00]
    :END:
+   - State "DONE"       from "TODO"       [2024-07-23 Tue 08:00]
    - State "DONE"       from "TODO"       [2024-07-06 Sat 20:30]
    - State "DONE"       from "TODO"       [2024-06-23 Sun 15:39]
    - State "DONE"       from "TODO"       [2024-06-09 Sun 13:04]
