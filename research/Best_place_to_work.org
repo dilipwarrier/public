@@ -1,5 +1,6 @@
 #+TITLE: The best place to work by Ron Friedman
 #+FILETAGAS: :Management:BookNotes:Learning:
+#+STARTUP: :content:
 
 * Problem statement
 
@@ -41,8 +42,9 @@
   Modern leaders should consider themselves less as designers and more
   as gardeners who help the seeds of ideas in employees' minds grow.
 
-  The subconscious mind is better at processing complex problems. Taking
-  30 min to step away from a problem can lead to more insights.
+  The subconscious mind is better at processing complex
+  problems. Taking some time to step away from a problem can lead to
+  more insights.
 
   Distractions can also help. Hence, it is worthwhile to have book
   clubs or TED talk discussions for the organization. Similarly,
@@ -114,8 +116,7 @@
 * Lessons of listening
 
   Increase your listening-to-talking ratio and your
-  questions-to-answers ratio. You do not progress in your career by
-  winning arguments; you progress by finding common ground.
+  questions-to-answers ratio.
 
   Find a PEARLS (Partnership, Empathy, Acknowledgement, Respect, Legitimacy,
   Support) item to add in every workplace conversation.
@@ -124,3 +125,6 @@
   task channel. For instance, if you are having a heated conversation
   over a tactical issue, let your colleague know that you respect
   their overall capability.
+
+
+** Ron Friedman: You do not progress in your career by winning arguments; you progress by finding common ground. :quotes:

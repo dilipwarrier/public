@@ -1,5 +1,6 @@
 #+Title: Chip industry
 #+FILETAGS: :Technology:Semiconductors:Chips:Learning:
+#+STARTUP: content
 
 * PC chip industry
 

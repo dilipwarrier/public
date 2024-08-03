@@ -1,0 +1,166 @@
+#+TITLE: Vacation policy sample
+#+FILETAGS: :management:
+
+* Tools
+
+  Typically, your workplace will use:
+  - A calendar tool: Google Calendar or Outlook
+  - A messaging tool: Slack or Teams
+  - A conferencing tool: Zoom or Teams or Google Meet
+
+  In this article, we use the generic names. The details may vary
+  based on the tool you use but the general principles should apply.
+
+
+* Going on vacation
+
+  It's important to take vacation time to maintain a work-life
+  balance. It's also important for business continuity that you plan who
+  will complete any activities that need to happen during your vacation
+  time.
+
+  Here is a list of actions to take.
+
+  - Notify your manager and get approval ::
+    You should provide roughly 1 week of notice for every day of vacation.
+
+    You should take no more than 2 weeks of vacation at a time. See the
+    corporate SOP for details on this.
+
+  - Inform your project team, direct reports, etc. ::
+    Once your manager has approved the vacation, inform your project
+    team about the dates.
+
+  - Update your meetings for the vacation period ::
+    If you are the organizer of a meeting that will occur during your
+    vacation, ask someone else to host the meeting in your absence.
+
+    For meetings on your calendar that you are not an organizer, RSVP
+    to each meeting and decline it with a short note saying that you
+    are on vacation during that time.
+
+    Update your vacation dates in your calendar tool and confirm that
+    those dates get blocked out in your calendar as "Busy".
+
+    If you are working during part of the vacation and will be in a
+    different time zone, please follow the instructions in the section
+    [[#Working_diff_time_zone][Working in a different time zone]].
+
+
+* Working in a different time zone
+  :PROPERTIES:
+  :CUSTOM_ID: Working_diff_time_zone
+  :END:
+
+  We are committed to the idea of remote work. We support
+  your working from anywhere in the world through cloud-based
+  tools. In order to make your working efficient, there are several
+  steps you should take when you are in a different time zone.
+
+  - Set your primary time zone and working times in the calendar ::
+    You should always set your primary time zone in your calendar tool
+    based on where in the world you are. This allows people to know
+    when you are working and when you are not. In addition, set the
+    check box so that the calendar will auto-detect when you are
+    traveling and update your primary time zone.
+
+    Also, ensure that your working hours in the calendar tool are set
+    appropriately.
+
+  - Set your status in the messaging tool ::
+    You should set your location in your messaging tool at all
+    times. This can usually be done from your messaging profile.
+
+    If you're temporarily in a different location, you should set the
+    status to the new location. You can also set the status to
+    automatically clear after some time. This makes it easy for your
+    colleagues to know where in the world you are.
+
+  - Set your status for out-of-office times ::
+    Sometimes, you will need to take time off during regular working
+    hours for a personal errand, a doctor’s appointment, etc. Please
+    mark your status in your calendar as "Out of Office". This
+    automatically blocks the time in your calendar, so that meetings
+    don't get booked with you in that time slot.
+
+
+* Emergency time off
+
+  If you have a personal emergency and need to take some days off from
+  work, we fully understand. Please notify your manager as soon as you
+  can and state the estimated duration of your time away. The manager
+  will communicate with HR to mark your status for you. Please keep
+  your manager updated on your plan for returning to work.
+
+
+
+
+Open image-20230309-192754.png
+
+Video conferencing
+Recording Zoom meetings
+Since we are a global team, not everyone can attend every meeting. So, it’s a good idea to record Zoom meetings and make the recordings available for later viewing.
+
+Zoom allows recordings to either be in the Zoom cloud or locally on your computer. You are encouraged to use the local recording option because we have a limitation on the storage we are allowed in Zoom cloud.
+
+After using local recording, please make sure that you upload the files to an appropriate sub-folder in the Engineering shared Google Drive.
+
+Adding an Electra Virtual Background in Teams
+You can choose your virtual background in Microsoft Teams if you have an authorized Teams account. In that case, follow the steps below. Note that they will not work with a generic free Teams account.
+
+After you join the meeting, at the right hand corner look for 'more' options button as seen in screenshot 1, click on it and you will see bunch of options including 'Apply background effects'. Click on it
+
+Once you click, you should see a new side menu popped up similar to that of screenshot 2. Here, you can either add Electra's background image by clicking '+ Add new' button on the top or you can select from the available options from Teams.
+
+Once you are done, you can see how it looks before starting your video by clicking preview or you can directly click 'Apply and turn on video' at the bottom.
+
+Open image-20220815-181721.png
+
+Open image-20220815-181754.png
+
+Expenses and reimbursement
+The full Electra reimbursement policy for travel and non-travel expenses is here. The travel expense policy is here. Please read through these SOPs carefully.
+
+In particular, please note that travel-related expenses (air travel, lodging etc.) should be paid out-of-pocket and reimbursed through Expensify as much as possible.
+
+The ApprovalMax tool should be used prior to other expenses such as purchase of software/hardware, course subscriptions, etc. When ApprovalMax is used, Operations will complete the order after the request is approved.
+
+Engineering Brex card
+There is an Electra Brex credit card issued to the Engineering team. It can be used for large purchases for work-related travel if you prefer not to pay out-of-pocket. You’ll need to submit a request for purchase in ApprovalMax in that case. After approval of your purchase in ApprovalMax, Michelle will provide you temporary usage of that card.
+
+After you are done with your purchase, please make sure that you e-mail a soft copy of the receipt (for purchases > $10) for your purchase with a link to the ApprovalMax procurement request to accounting@electravehicles.com and cc Dilip. The Accounting team will then take care of uploading this receipt to the Brex system and linking it to the procurement request.
+
+Daylight savings time
+Since we have employees and customers in various countries, the start and end of Daylight Savings Time can cause confusion.
+
+Please note the following.
+
+
+
+Start of DST
+
+End of DST
+
+
+
+Start of DST
+
+End of DST
+
+EU and UK
+
+Last Sunday in March
+
+Last Sunday in October
+
+US, Canada
+
+Second Sunday in March
+
+First Sunday in November
+
+India, China
+
+NA
+
+NA

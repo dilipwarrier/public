@@ -50,24 +50,24 @@ List of recommended books:
 
 Crossing Point                                    : James Glickman       (4.3, fiction)
 Magdalena: River of dreams                        : Wade Davis           (4.4, society)
-Jesus' Son                                        : Denis Johnson        (4.1, fiction)
 Storytelling with data                            : Cole Nussbaumer...   (4.3, design)
+Jesus' Son                                        : Denis Johnson        (4.1, fiction)
 Nimitz at war                                     : Craig Symonds        (4.4, western-history)
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Compulsion                                        : Meyer Levin          (4.1, thriller)
 The Christmas Virtues: A Treasury of...           : Jonathan V. Last     (4.1, society)
-The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
 Say Nothing                                       : Patrick Keefe        (4.4, western-history)
+The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
 Five Families: The Rise,Decline,and Resurgence... : Selwyn Raab          (4.1, western-biography)
-Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
 Spearhead                                         : Adam Makos           (4.2, western-history)
+Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
 A different drummer                               : William Melvin...    (4.2, fiction)
 A cartoon history of the universe                 : Larry Gonick         (4.3, eastern-history,western-history)
 Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics)
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
 The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society)
-Life 3.0: Being Human in the Age of Artificial... : Max Tegmark          (4.1, brain)
-The Man Who Mistook His Wife for a Hat and...     : Oliver Sacks         (4.1, science)
+The Man Who Mistook His Wife for a Hat and...     : Oliver Sacks         (4.1, brain)
+A World Undone: A History of World War I          : G J Meyer            (4.2, western-history)
 :end:
 
 
@@ -90,7 +90,7 @@ Bayesian data analysis                            : Andrew Gelman        (4.2, m
 ** Books that I have read before but should read again
 
 #+begin_src shell :results drawer
-../item_recommender/recommend_book.py -r 5 -g books-to-read-again books_list.csv
+../item_recommender/recommend_book.py -r 100 -g books-to-read-again books_list.csv
 #+end_src
 
 #+RESULTS:
@@ -102,6 +102,18 @@ Good Strategy Bad Strategy: The Difference and... : Richard P. Rumelt    (4.2, s
 Free to Choose: A Personal Statement              : Milton Friedman      (4.2, economics,books-to-read-again)
 The Effective Executive: The Definitive Guide...  : Peter F. Drucker     (4.1, management,books-to-read-again)
 The Essential Deming: Leadership Principles...    : W. Edwards Deming    (4.1, management,books-to-read-again)
+A People's History of the United States           : Howard Zinn          (4.1, society,books-to-read-again)
+Crossing the Chasm: Marketing and Selling High-...: Geoffrey A. Moore    (4.0, management,books-to-read-again)
+How to Measure Anything: Finding the Value of...  : Douglas W. Hubbard   (4.0, management,books-to-read-again)
+Thinking Strategically: The Competitive Edge in...: Avinash K. Dixit     (4.0, strategy,management,books-to-read-again)
+Guns,Germs,and Steel: The Fates of Human Societies: Jared Diamond        (4.0, society,books-to-read-again)
+Capitalism and Freedom                            : Milton Friedman      (3.9, economics,books-to-read-again)
+The Myth of the Rational Voter: Why Democracies...: Bryan Caplan         (3.9, society,books-to-read-again)
+The Halo Effect: ... and the Eight Other...       : Philip M. Rosenzweig (3.9, management,books-to-read-again)
+The God Delusion                                  : Richard Dawkins      (3.9, science,books-to-read-again)
+Crucial Conversations                             : Kerry Patterson      (4.0, management,books-to-read-again)
+How big things get done                           : Bent Flyvbjerg       (4.0, management,books-to-read-again)
+Armchair Economist: Economics & Everyday Life     : Steven E. Landsburg  (3.8, economics,books-to-read-again)
 :end:
 
 
@@ -115,6 +127,9 @@ The Essential Deming: Leadership Principles...    : W. Edwards Deming    (4.1, m
 :results:
 List of read books:
 
+The Florentines                                   : Paul Strathern       (02-Aug-24, 5.0)
+Scaling people                                    : Claire Hughes...     (05-Jul-24, 3.0)
+The missing billionaires                          : Victor Haghani       (20-Jun-24, 4.0)
 The silk roads                                    : Peter Frankopan      (12-Jun-24, 2.0)
 Trillion dollar coach                             : Eric Schmidt,...     (05-Jun-24, 4.0)
 High output management                            : Andrew Grove         (30-May-24, 5.0)
@@ -162,9 +177,6 @@ The spy and the traitor                           : Ben MacIntyre        (30-Sep
 Osman's dream: A history of the Ottoman Empire    : Carolin Finkel       (22-Sep-21, 2.0)
 Transcendent kingdom                              : Yaa Gyasi            (08-Sep-21, 3.0)
 Why Meditate?: Working with Thoughts and Emotions : Matthieu Ricard      (25-Aug-21, 3.0)
-Climate Change: What everyone needs to know       : Joseph Romm          (20-Aug-21, 4.0)
-False Alarm                                       : Bjorn Lomborg        (10-Aug-21, 5.0)
-The Happiness Hypothesis                          : Jonathan Haidt       (25-Jul-21, 4.0)
 :end:
 
 
@@ -178,16 +190,16 @@ The Happiness Hypothesis                          : Jonathan Haidt       (25-Jul
 #+RESULTS:
 :results:
 List of categories and read-dates:
-maths                         : 12-Jun-24
+maths                         : 02-Aug-24
+textbook                      : 02-Aug-24
+western-biography             : 02-Aug-24
+management                    : 25-Jul-24
+books-to-read-again           : 25-Jul-24
+finance                       : 20-Jun-24
 eastern-history               : 12-Jun-24
-textbook                      : 12-Jun-24
-western-biography             : 12-Jun-24
-finance                       : 12-Jun-24
-management                    : 05-Jun-24
 black-biography               : 12-Jan-24
 science                       : 01-Jan-24
 espionage                     : 15-Dec-23
-books-to-read-again           : 01-Nov-23
 indian-fiction                : 20-Jul-23
 thriller                      : 05-Jul-23
 biology                       : 01-Jul-23

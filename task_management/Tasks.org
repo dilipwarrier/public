@@ -237,13 +237,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-28 Mon 17:47]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2024-07-30 Tue 19:30 +1w>
+   SCHEDULED: <2024-08-06 Tue 19:30 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2024-07-23 Tue 20:32]
+   :LAST_REPEAT: [2024-07-30 Tue 11:06]
    :END:
+   - State "DONE"       from "TODO"       [2024-07-30 Tue 11:06]
    - State "DONE"       from "TODO"       [2024-07-23 Tue 20:32]
    - State "DONE"       from "TODO"       [2024-07-17 Wed 17:36]
    - State "DONE"       from "TODO"       [2024-07-09 Tue 06:49]
@@ -294,13 +295,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-22 Tue 20:56]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2024-07-31 Wed 19:30 +1w>
+   SCHEDULED: <2024-08-07 Wed 19:30 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2024-07-25 Thu 18:23]
+   :LAST_REPEAT: [2024-08-02 Fri 10:06]
    :END:
+   - State "DONE"       from "TODO"       [2024-08-02 Fri 10:06]
    - State "DONE"       from "TODO"       [2024-07-25 Thu 18:23]
    - State "DONE"       from "TODO"       [2024-07-17 Wed 17:38]
    - State "DONE"       from "TODO"       [2024-07-11 Thu 11:45]
@@ -352,13 +354,14 @@ time most valuably?
    - State "DONE"       from "TODO"       [2023-08-23 Wed 17:07]
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2024-08-01 Thu 19:30 +1w>
+   SCHEDULED: <2024-08-08 Thu 19:30 +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2024-07-25 Thu 18:23]
+   :LAST_REPEAT: [2024-08-02 Fri 10:06]
    :END:
+   - State "DONE"       from "TODO"       [2024-08-02 Fri 10:06]
    - State "DONE"       from "TODO"       [2024-07-25 Thu 18:23]
    - State "DONE"       from "TODO"       [2024-07-18 Thu 19:30]
    - State "DONE"       from "TODO"       [2024-07-11 Thu 11:47]
