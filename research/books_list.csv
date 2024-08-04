@@ -30,7 +30,6 @@ She who became the Sun,Shelley Parker-Chan,,3.9,,08/22/2022,eastern-fiction,to-r
 A memory called Empire,Arkady Martine,,4.1,,08/22/2022,science-fiction,to-read
 What we owe the future,William MacAskill,,4.1,,08/16/2022,philosophy,to-read
 Over the edge of the world,Laurence Bergreen,,4.1,,08/15/2022,eastern-history,to-read
-The rise of the mammals,Steve Brusatte,,4.0,,07/25/2022,biology,to-read
 Build: An unorthodox guide to making things,Tony Fadell,,4.0,,06/25/2022,"management,product",to-read
 Why it's OK to eat meat,Dan Shahar,,4.0,,06/13/2022,philosophy,to-read
 Nimitz at war,Craig Symonds,,4.4,,05/30/2022,western-history,to-read
@@ -41,9 +40,9 @@ A country unmasked,Alex Boraine,,3.6,,01/01/2022,eastern-history,to-read
 The overstory,Richard Powers,,4.1,,01/01/2022,fiction,to-read
 A cartoon history of the universe,Larry Gonick,,4.3,,12/17/2021,"eastern-history,western-history",to-read
 Moral tribes,Joshua Greene,,4.0,,12/10/2021,philosophy,to-read
-The genetic lottery,Kathryn Paige Harden,,4.1,,12/06/2021,genetics,to-read
+The genetic lottery,Kathryn Paige Harden,,4.1,,12/06/2021,"genetics,biology",to-read
 Subliminal: how your unconscious behavior...,Leonard Mlodinow,,4.1,,12/04/2021,science,to-read
-Blueprint: How DNA makes us who we are,Robert Plomin,,4.0,,11/13/2021,genetics,to-read
+Blueprint: How DNA makes us who we are,Robert Plomin,,4.0,,11/13/2021,"genetics,biology",to-read
 Winter Tide,Ruthanna Emrys,,3.8,,11/07/2021,science-fiction,to-read
 Games of life,Karl Sigmund,,4.0,,10/31/2021,maths,to-read
 Bayesian data analysis,Andrew Gelman,,4.2,,10/17/2021,"maths,textbook",to-read
@@ -60,7 +59,6 @@ Strategy: A history,Lawrence Freedman,,4.0,,4/18/2021,"strategy,management",to-r
 Lost kingdom: a history of Ukraine,Serhii Plokhy,,4.0,,4/16/2021,eastern-history,to-read
 Quicksand: America's pursuit of power in the Middle East,Geoffrey Wawro,,4.1,,4/8/2021,western-history,to-read
 "Management 3.0: Leading Agile Developers,Developing Agile Leaders",Jurgen Appelo,,4.1,,4/8/2021,"process,management",to-read
-"The vital question: Energy,evolution and the origins of complex life",Nick Lane,,4.2,,10/3/2021,genetics,to-read
 Before she knew him,Peter Swanson,,3.9,,3/20/2021,thriller,to-read
 Rise of the West,William McNeill,,4.1,,2/20/2021,western-history,to-read
 Devil in a blue dress,Walter Mosley,,3.9,,2/20/2021,thriller,to-read
@@ -93,7 +91,7 @@ Fatherland,Robert Harris,,4.0,,1/13/2018,fiction,to-read
 The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks,,4.1,,10/22/2017,brain,to-read
 The Prague Sonata,Bradford Morrow,,4.0,,10/15/2017,thriller,to-read
 Watergate: The Corruption of American Politics and the Fall of Richard Nixon,Fred Emery,,4.0,,8/19/2017,western-history,to-read
-In Gods We Trust: The Evolutionary Landscape of Religion,Scott Atran,,4.0,,7/29/2017,genetics,to-read
+In Gods We Trust: The Evolutionary Landscape of Religion,Scott Atran,,4.0,,7/29/2017,"genetics,biology",to-read
 The Makioka Sisters,Junichiro Tanizaki,,4.0,,5/13/2017,japanese-fiction,to-read
 "Ivan's War: Life and Death in the Red Army,1939-1945",Catherine Merridale,,4.0,,4/1/2017,eastern-history,to-read
 Crossing Point,James Glickman,,4.3,,11/12/2017,fiction,to-read
@@ -108,43 +106,46 @@ Marketing Management,Philip Kotler,,4.1,,2/22/2015,"marketing,management,textboo
 Jesus' Son,Denis Johnson,,4.1,,11/1/2014,fiction,to-read
 The whys of a political scrivener,Martin Gardner,,4.0,,11/23/2013,philosophy,to-read
 The elegant universe,Brian Greene,,4.1,,3/20/2022,physics,to-read
-Life 3.0: Being Human in the Age of Artificial Intelligence,Max Tegmark,,4.1,,11/18/2017,brain,reading
+The rise of the mammals,Steve Brusatte,,4.0,,07/25/2022,biology,to-read
+"The vital question: Energy, evolution and the origins of complex life",Nick Lane,,4.2,,10/3/2021,"genetics,biology",reading
 An introduction to decision theory,Martin Peterson,,3.8,,12/18/2021,"maths,textbook",reading
 "Knowledge,reality and value",Michael Huemer,,4.1,,4/8/2021,"philosophy,textbook",reading
+Life 3.0: Being Human in the Age of Artificial Intelligence,Max Tegmark,1,4.1,8/2/2024,11/18/2017,brain,read
 The Florentines,Paul Strathern,5,4.1,8/2/2024,10/1/2017,western-biography,read
+Shape,Jordan Ellenberg,5,4.0,7/20/2024,7/20/2024,maths,read
 How big things get done,Bent Flyvbjerg,5,4.0,7/25/2024,2/20/2023,"management,books-to-read-again",read
 Scaling people,Claire Hughes Johnson,3.0,4.4,7/5/2024,7/8/2023,management,read
 The missing billionaires,Victor Haghani,4.0,4.0,6/20/2024,05/01/2024,"maths,finance,textbook",read
 Trillion dollar coach,"Eric Schmidt,Jonathan Rosenberg",4.0,4.0,06/05/2024,06/05/2024,management,read
-High output management,Andrew Grove,5.0,4.0,05/30/2024,05/30/2024,management,read
+High output management,Andrew Grove,5,4.0,05/30/2024,05/30/2024,management,read
 Measure what matters,John Doerr,4.0,4.0,04/10/2024,7/8/2023,management,read
-Bubble or revolution?,Neel Mehta,5.0,4.0,03/30/2024,03/30/2024,finance,read
-Business model generation,Alex Osterwalder,5.0,4.2,01/01/2024,02/27/2022,management,read
+Bubble or revolution?,Neel Mehta,5,4.0,03/30/2024,03/30/2024,"finance,maths,books-to-read-again",read
+Business model generation,Alex Osterwalder,5,4.2,01/01/2024,02/27/2022,"management,books-to-read-again",read
 The silk roads, Peter Frankopan,2.0,4.0,06/12/2024,08/11/2023,eastern-history,read
-How the world really works,Vaclav Smil,5.0,4.0,01/01/2024,7/8/2023,science,read
-The rebellious life of Mrs. Rosa Parks,Jeanne Theoharis,5.0,4.0,01/10/2024,01/10/2024,black-biography,read
-Working backwards,"Colin Bryar,Bill Carr",5.0,4.4,02/01/2024,3/20/2021,management,read
-King, Jonathan Eig,5,4.0,1/12/2024,1/12/2024,black-biography,read
-Crucial Conversations,Kerry Patterson,5.0,4.0,11/01/2023,08/09/2017,"management,books-to-read-again",read
-An honorable man, Paul Vidich, 4.0,4.0,12/15/2023,12/01/2022,espionage,read
+How the world really works,Vaclav Smil,5,4.0,01/01/2024,7/8/2023,science,read
+The rebellious life of Mrs. Rosa Parks,Jeanne Theoharis,5,4.0,01/10/2024,01/10/2024,black-biography,read
+Working backwards,"Colin Bryar,Bill Carr",5,4.4,02/01/2024,3/20/2021,"management,books-to-read-again",read
+King, Jonathan Eig,5,4.0,1/12/2024,1/12/2024,"black-biography,books-to-read-again",read
+Crucial Conversations,Kerry Patterson,5,4.0,11/01/2023,08/09/2017,"management,books-to-read-again",read
+An honorable man, Paul Vidich,4.0,4.0,12/15/2023,12/01/2022,espionage,read
 The Art of Action,Stephen Bungay,2.0,4.3,12/01/2023,8/9/2019,management,read
-Models of the mind,Grace Lindsay,5.0,4.4,06/01/2023,03/13/2022,brain,read
-The big picture,Sean B. Carroll,5.0,4.2,07/01/2023,02/12/2022,"biology,science",read
-Ponniyil Selvan - book 1,Kalki,5.0,5.0,7/20/2023,7/20/2023,indian-fiction,read
+Models of the mind,Grace Lindsay,5,4.4,06/01/2023,03/13/2022,"brain,books-to-read-again",read
+The big picture,Sean B. Carroll,5,4.2,07/01/2023,02/12/2022,"biology,science,books-to-read-again",read
+Ponniyil Selvan - book 1,Kalki,5,5.0,7/20/2023,7/20/2023,indian-fiction,read
 The diamond eye,Kate Quinn,3.0,4.3,7/5/2023,2/17/2019,thriller,read
 A failed empire,Vladislav Zubok,3,3.9,02/15/2023,11/14/2022,eastern-history,read
 Lenin the dictator,Victor Sebestyen,5,4.2,11/25/2022,01/13/2022,eastern-history,read
 Nuclear Folly,Serhii Plokhy,5,4.2,10/04/2022,09/15/2022,western-history,read
 Who gets what and why,Alvin Roth,3,3.9,09/15/2022,08/14/2022,"economics,games",read
-Culture map,Erin Meyer,5,4.4,9/5/2022,12/22/2020,management,read
+Culture map,Erin Meyer,5,4.4,9/5/2022,12/22/2020,"management,books-to-read-again",read
 These women,Ivy Pochoda,5,4.3,7/25/2022,5/11/2020,thriller,read
 The Elephant in the Brain,Kevin Simler,5,4.2,7/18/2022,7/30/2018,brain,read
 Tumbling,Diane McKinney-Whetstone,4,4.2,4/15/2022,4/5/2017,fiction,read
 Infectious: Pathogens and how we fight them,John Tregoning,1,4.0,04/10/2022,12/12/2021,biology,read
 The Best Place to Work: The Art and Science of Creating an Extraordinary Workplace,Ron Friedman,5,4.2,7/7/2022,4/12/2015,management,read
-Strategic Management,"Charles Hill,Gareth Jones,Melissa Schilling",5,4.5,3/22/2022,10/2/2019,"strategy,management,textbook",read
+Strategic Management,"Charles Hill,Gareth Jones,Melissa Schilling",5,4.5,3/22/2022,10/2/2019,"strategy,management,textbook,books-to-read-again",read
 Confessions,Kanae Minato,4,4.1,2/21/2022,8/16/2014,thriller,read
-Your inner fish,Neil Shubin,5,4.0,2/12/2022,12/04/2021,biology,read
+Your inner fish,Neil Shubin,5,4.0,2/12/2022,12/04/2021,"biology,books-to-read-again",read
 Sync: the emerging science of social order,Steven Strogatz,2,4.0,1/27/2022,12/04/2021,maths,read
 The dead are arising: The life of Malcolm X,Les Payne,4,4.3,01/24/2022,3/20/2021,black-biography,read
 Alan Turing: The Enigma,Andrew Hodges,4,3.7,01/12/2022,01/12/2022,"western-biography,maths",read
@@ -157,8 +158,8 @@ I contain multitudes: the microbes within us,Ed Yong,2,4.1,11/12/2021,10/3/2021,
 Shuggie Bain,Douglas Stuart,3,4.4,12/07/2021,12/22/2020,fiction,read
 The Transformation of the World: A Global History of the Nineteenth Century,Jurgen Osterhammel,2,4.2,12/18/2021,5/24/2014,western-history,read
 Seiobo There Below,Laszlo Krasznahorkai,1,4.3,11/30/2021,11/2/2013,fiction,read
-Game theory: an introduction,Steve Tadelis,5,4.0,11/20/2021,8/30/2020,"maths,textbook",read
-Algorithms to Live By: The Computer Science of Human Decisions,Brian Christian,5,4.2,10/10/2021,1/22/2017,science,read
+Game theory: an introduction,Steve Tadelis,5,4.0,11/20/2021,8/30/2020,"maths,textbook,books-to-read-again",read
+Algorithms to Live By: The Computer Science of Human Decisions,Brian Christian,5,4.2,10/10/2021,1/22/2017,"maths,books-to-read-again",read
 The spy and the traitor,Ben MacIntyre,5,4.5,9/30/2021,9/30/2021,eastern-biography,read
 Osman's dream: A history of the Ottoman Empire,Carolin Finkel,2,3.7,9/22/2021,12/22/2020,eastern-history,read
 Transcendent kingdom,Yaa Gyasi,3,4.2,9/8/2021,9/8/2021,fiction,read
@@ -170,8 +171,8 @@ The white man's burden,William Easterly,2,3.8,7/7/2021,7/7/2021,economics,read
 Heat: How to stop the planet from burning,George Monbiot,3,4.1,7/5/2021,7/5/2021,science,read
 Open borders,Bryan Caplan,5,4.2,6/26/2021,6/26/2021,society,read
 Poor economics,"Abhijit Banerjee,Esther Duflo",5,4.2,6/23/2021,6/23/2021,economics,read
-Practical Ethics,Peter Singer,5,4.1,6/18/2021,6/18/2021,philosophy,read
-The life you can save,Peter Singer,5,4.5,5/29/2021,5/29/2021,philosophy,read
+Practical Ethics,Peter Singer,5,4.1,6/18/2021,6/18/2021,"philosophy,books-to-read-again",read
+The life you can save,Peter Singer,5,4.5,5/29/2021,5/29/2021,"philosophy,books-to-read-again",read
 Dialogues on ethical vegetarianism,Michael Huemer,5,4.6,5/21/2021,7/8/2019,philosophy,read
 You Are Not a Stranger Here,Adam Haslett,5,4.0,5/20/2021,5/1/2016,fiction,read
 Consciousness and the social brain,Michael Graziano,3,4.2,5/10/2021,9/15/2019,brain,read
@@ -180,10 +181,10 @@ The art of war,Sun Tzu,3,4.0,4/20/2021,4/20/2021,"strategy,management",read
 On Grand Strategy,John Lewis Gaddis,2,3.8,4/17/2021,4/17/2021,"strategy,management",read
 Still Alice,Lisa Genova,4,4.3,4/16/2021,5/13/2018,fiction,read
 Napoleon: A Life,Andrew Roberts,4,4.1,4/5/2021,10/14/2018,western-history,read
-Superforecasting: The Art and Science of Prediction,Philip E. Tetlock,5,4.1,3/6/2021,9/26/2015,science,read
+Superforecasting: The Art and Science of Prediction,Philip E. Tetlock,5,4.1,3/6/2021,9/26/2015,"science,books-to-read-again",read
 "Scale: The Universal Laws of Growth,Innovation,Sustainability",Geoffrey West,2,4.2,3/3/2021,11/18/2017,science,read
 The Cold War: A new history,John Lewis Gaddis,5,4,2/20/2021,12/27/2020,western-history,read
-Imperial twilight: the opium war,Stephen Platt,5,4.3,2/15/2021,1/14/2020,eastern-history,read
+Imperial twilight: the opium war,Stephen Platt,5,4.3,2/15/2021,1/14/2020,"eastern-history,books-to-read-again",read
 A burning,Megha Majumdar,4,3.9,2/13/2021,7/21/2020,indian-fiction,read
 The Crossing,Michael Connelly,4,4.2,2/10/2021,2/10/2021,thriller,read
 Bismarck: the man and the statesman,A. P. J. Taylor,2,3.8,1/15/2021,1/15/2021,western-history,read
@@ -191,7 +192,7 @@ Good talk,Mira Jacob,4,4.0,1/12/2021,1/12/2021,indian-society,read
 Emperor of Japan: Meiji and his world,Gordon Keene,2,4,1/10/2021,12/22/2020,eastern-history,read
 A Peace to End All Peace: The Fall Of The Ottoman Empire And The Creation Of The Modern Middle East,David Fromkin,3,4.2,1/10/2021,6/18/2017,eastern-history,read
 "Old Man's War (Old Man's War,#1)",John Scalzi,4,4.2,1/5/2021,10/22/2017,science-fiction,read
-The War That Ended Peace: The Road to 1914,Margaret MacMillan,5,4.2,12/27/2020,12/30/2018,western-history,read
+The War That Ended Peace: The Road to 1914,Margaret MacMillan,5,4.2,12/27/2020,12/30/2018,"western-history,books-to-read-again",read
 Identical,Scott Turow,3,4.1,12/25/2020,5/11/2020,thriller,read
 The wrong side of goodbye,Michael Connelly,4,4,12/16/2020,12/16/2020,thriller,read
 Half of a yellow sun,Chimamanda Ngozi Adichie,3,4,12/11/2020,12/1/2020,african-fiction,read
@@ -251,7 +252,7 @@ Unfinished Empire: The Global Expansion of Britain,John Darwin,5,4.0,8/13/2018,7
 "Broken Promise (Promise Falls,#1)",Linwood Barclay,4,3.9,5/26/2018,12/10/2017,thriller,read
 Maximum City: Bombay Lost and Found,Suketu Mehta,4,3.9,5/11/2018,3/25/2018,indian-society,read
 Why the Law Is So Perverse,Leo Katz,3,3.4,2/21/2018,12/3/2011,society,read
-A Fine Balance,Rohinton Mistry,5,4.4,2/13/2020,10/10/2011,"indian-fiction,books-to-read-again",read
+A Fine Balance,Rohinton Mistry,5,4.4,2/13/2020,10/10/2011,indian-fiction,read
 "ADKAR: A Model for Change in Business,Government and our Community",Jeffrey Hiatt,5,3.9,2/10/2018,1/18/2018,management,read
 "The Hostage (Presidential Agent,#2)",W.E.B. Griffin,1,4.1,1/8/2018,10/14/2017,thriller,read
 "Warcross (Warcross,#1)",Marie Lu,4,4.2,11/30/2017,11/9/2017,kids,read
@@ -275,7 +276,7 @@ Sociobiology: The New Synthesis,Edward O. Wilson,1,4.1,1/1/2014,4/8/2012,"scienc
 "Ender's Game (Ender's Saga,#1)",Orson Scott Card,2,4.3,1/1/2014,12/19/2011,science-fiction,read
 "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy,#1)",Douglas Adams,5,4.2,1/1/2014,12/19/2011,fiction,read
 A People's History of the United States,Howard Zinn,5,4.1,1/1/2014,12/19/2011,"society,books-to-read-again",read
-Genome: the Autobiography of a Species in 23 Chapters,Matt Ridley,4,4.0,1/1/2014,12/19/2011,genetics,read
+Genome: the Autobiography of a Species in 23 Chapters,Matt Ridley,4,4.0,1/1/2014,12/19/2011,"genetics,biology",read
 "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics,#1)",Steven D. Levitt,4,4.0,1/1/2014,12/19/2011,economics,read
 Bel Canto,Ann Patchett,2,3.9,1/1/2014,12/19/2011,fiction,read
 Eye of the Needle,Ken Follett,4,4.2,1/1/2014,12/5/2011,thriller,read
@@ -353,7 +354,7 @@ Cinnamon Gardens,Shyam Selvadurai,4,3.8,1/1/2014,10/29/2011,fiction,read
 Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,3,3.8,1/1/2014,10/29/2011,philosophy,read
 Swimming in the Monsoon Sea,Shyam Selvadurai,4,3.7,1/1/2014,10/29/2011,fiction,read
 Ravan & Eddie,Kiran Nagarkar,4,3.7,1/1/2014,10/29/2011,indian-fiction,read
-Why Is Sex Fun? The Evolution of Human Sexuality (Science Masters),Jared Diamond,4,3.7,1/1/2014,10/29/2011,genetics,read
+Why Is Sex Fun? The Evolution of Human Sexuality (Science Masters),Jared Diamond,4,3.7,1/1/2014,10/29/2011,"genetics,biology",read
 Vaikom Muhammad Basheer (Katha Classics),Vaikom Muhammad Basheer,4,3.5,1/1/2014,10/29/2011,indian-fiction,read
 The Day of the Jackal,Frederick Forsyth,5,4.3,1/1/2014,10/19/2011,thriller,read
 The Odessa File,Frederick Forsyth,4,4.1,1/1/2014,10/19/2011,thriller,read
@@ -376,7 +377,7 @@ On Chesil Beach,Ian McEwan,4,3.6,1/1/2014,10/18/2011,fiction,read
 Amsterdam,Ian McEwan,4,3.4,1/1/2014,10/18/2011,fiction,read
 Solar,Ian McEwan,4,3.2,1/1/2014,10/18/2011,fiction,read
 The Mythical Man-Month: Essays on Software Engineering,Frederick P. Brooks Jr.,4,4.1,1/1/2014,10/16/2011,software,read
-The Pragmatic Programmer: From Journeyman to Master,Andy Hunt,5,4.3,1/1/2014,10/15/2011,software,read
+The Pragmatic Programmer: From Journeyman to Master,Andy Hunt,5,4.3,1/1/2014,10/15/2011,"software,books-to-read-again",read
 Software Craftsmanship: The New Imperative,Pete McBreen,5,3.9,1/1/2014,10/15/2011,software,read
 The Systems Bible: The Beginner's Guide to Systems Large and Small: Being the Third Edition of Systemantics,John Gall,1,4.0,1/1/2014,10/10/2011,engineering,read
 The Risk Pool,Richard Russo,4,4.0,1/1/2014,10/10/2011,fiction,read
@@ -390,11 +391,11 @@ Bridge of Sighs,Richard Russo,4,3.8,1/1/2014,10/10/2011,fiction,read
 The Whore's Child and Other Stories,Richard Russo,4,3.7,1/1/2014,10/10/2011,fiction,read
 That Old Cape Magic,Richard Russo,4,3.3,1/1/2014,10/10/2011,fiction,read
 Free to Choose: A Personal Statement,Milton Friedman,5,4.2,1/1/2014,10/8/2011,"economics,books-to-read-again",read
-The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design,Richard Dawkins,4,4.1,1/1/2014,10/8/2011,genetics,read
+The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design,Richard Dawkins,4,4.1,1/1/2014,10/8/2011,"genetics,biology",read
 The God Delusion,Richard Dawkins,5,3.9,1/1/2014,10/8/2011,"science,books-to-read-again",read
 Truman,David McCullough,5,4.1,1/1/2014,10/7/2011,western-biography,read
-The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology,Robert Wright,5,4.1,1/1/2014,10/7/2011,genetics,read
-The Third Chimpanzee: The Evolution and Future of the Human Animal,Jared Diamond,4,4.1,1/1/2014,10/7/2011,genetics,read
+The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology,Robert Wright,5,4.1,1/1/2014,10/7/2011,"genetics,biology,books-to-read-again",read
+The Third Chimpanzee: The Evolution and Future of the Human Animal,Jared Diamond,4,4.1,1/1/2014,10/7/2011,"genetics,biology",read
 John Adams,David McCullough,5,4.1,1/1/2014,10/7/2011,western-biography,read
 The Structure of Scientific Revolutions,Thomas S. Kuhn,2,4.0,1/1/2014,10/7/2011,science,read
 How the Mind Works,Steven Pinker,2,4.0,1/1/2014,10/7/2011,brain,read
@@ -438,7 +439,7 @@ What If?: The World's Foremost Historians Imagine What Might Have Been (What If 
 The Honourable Company: a History of the English East India Company,John Keay,2,3.7,8/27/2012,10/29/2011,eastern-history,read
 The Halo Effect: ... and the Eight Other Business Delusions That Deceive Managers,Philip M. Rosenzweig,4,3.9,6/19/2012,2/17/2012,"management,books-to-read-again",read
 The Sweet Hereafter,Russell Banks,4,3.9,6/13/2012,12/18/2015,fiction,read
-The Selfish Gene,Richard Dawkins,5,4.1,6/13/2012,10/8/2011,genetics,read
+The Selfish Gene,Richard Dawkins,5,4.1,6/13/2012,10/8/2011,"genetics,biology",read
 Life of Pi,Yann Martel,4,3.9,5/26/2012,12/18/2015,indian-fiction,read
 Los Alamos,Joseph Kanon,5,3.8,5/17/2012,12/6/2015,espionage,read
 The Odd Number: Thirteen Tales by Guy de Maupassant,Guy de Maupassant,3,3.5,5/17/2012,11/30/2015,fiction,read
@@ -458,7 +459,7 @@ Freedomnomics: Why the Free Market Works and Other Half-baked Theories Don't,Joh
 Invasion of the Body,Nicholas L. Tilney,2,3.5,3/1/2012,10/10/2011,biology,read
 Beyond the Grave (The 39 Clues #4),Jude Watson,3,3.9,2/26/2012,2/25/2012,kids,read
 Fair Play,Steven E. Landsburg,4,3.7,2/24/2012,11/22/2011,economics,read
-"Thinking,Fast and Slow",Daniel Kahneman,5,4.1,2/19/2012,10/15/2011,brain,read
+"Thinking,Fast and Slow",Daniel Kahneman,5,4.1,2/19/2012,10/15/2011,"brain,books-to-read-again",read
 "The House of Silk (Sherlock Holmes,#1)",Anthony Horowitz,5,4.0,1/30/2012,12/25/2011,thriller,read
 Thomas Jefferson: The Art of Power,Jon Meacham,4,4.0,1/20/2012,7/19/2015,western-biography,read
 The Marriage Plot,Jeffrey Eugenides,3,3.4,1/20/2012,10/18/2011,fiction,read
@@ -524,10 +525,10 @@ The Kill List,Frederick Forsyth,4,3.8,10/29/2011,12/17/2013,thriller,read
 Freedom's Forge: How American Business Built the Arsenal of Democracy That Won World War II,Arthur Herman,4,4.3,10/29/2011,12/14/2013,western-history,read
 Slaughterhouse-Five,Kurt Vonnegut,1,4.1,10/29/2011,11/7/2013,fiction,read
 The Lowland,Jhumpa Lahiri,3,3.8,10/29/2011,9/21/2013,indian-fiction,read
-The Essential Deming: Leadership Principles from the Father of Quality,W. Edwards Deming,4,4.1,10/29/2011,9/13/2013,"management,books-to-read-again",read
+The Essential Deming: Leadership Principles from the Father of Quality,W. Edwards Deming,4,4.1,10/29/2011,9/13/2013,"management,process",read
 Creating a Lean Culture: Tools to Sustain Lean Conversions,David Mann,3,3.9,10/29/2011,9/3/2013,management,read
 "Potsdam Station (John Russell,#4)",David Downing,5,4.1,10/29/2011,8/24/2013,espionage,read
-The Extended Phenotype: The Long Reach of the Gene,Richard Dawkins,4,4.1,10/29/2011,8/11/2013,genetics,read
+The Extended Phenotype: The Long Reach of the Gene,Richard Dawkins,4,4.1,10/29/2011,8/11/2013,"genetics,biology",read
 "The Neon Rain (Dave Robicheaux,#1)",James Lee Burke,3,4.0,10/29/2011,8/10/2013,thriller,read
 "The Talented Mr. Ripley (Ripley,#1)",Patricia Highsmith,5,3.9,10/29/2011,8/5/2013,thriller,read
 The Trinity Six,Charles Cumming,4,3.8,10/29/2011,7/24/2013,espionage,read
@@ -623,7 +624,7 @@ They Made America: From the Steam Engine to the Search Engine: Two Centuries of 
 Gitanjali,Rabindranath Tagore,5,4.3,1/1/2009,1/15/2019,poetry,read
 Chemmeen,Thakazhi Sivasankara Pillai,4,3.9,1/1/2009,11/13/2011,indian-fiction,read
 Capitalism and Freedom,Milton Friedman,5,3.9,1/1/2009,10/8/2011,"economics,books-to-read-again",read
-Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers,Geoffrey A. Moore,5,4.0,1/1/2007,12/5/2011,"management,books-to-read-again",read
+Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers,Geoffrey A. Moore,5,4.0,1/1/2007,12/5/2011,"marketing,books-to-read-again",read
 Code Complete,Steve McConnell,5,4.3,1/1/2007,10/15/2011,software,read
 Good to Great: Why Some Companies Make the Leap... and Others Don't,James C. Collins,4,4.1,10/30/2006,11/22/2011,management,read
 The Effective Executive: The Definitive Guide to Getting the Right Things Done,Peter F. Drucker,4,4.1,1/1/2005,12/5/2011,"management,books-to-read-again",read
