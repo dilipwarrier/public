@@ -1,5 +1,6 @@
 #+TITLE: List of papers to read
 #+FILETAGS: :Learning:
+#+STARTUP: content
 
 * TODO Read about [[https://github.com/yuya373/emacs-slack][Emacs Slack integration]]                          :Software:
   :PROPERTIES:
@@ -33,60 +34,12 @@
   :END:
 
 
-* TODO Review Tim Walsh article on [[https://www.linkedin.com/pulse/20140701133816-8705591-big-data-the-new-big-tobacco/][big data - big tobacco]]
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  25
-  :RATIO:    1.00
-  :END:
-
-
-* TODO Read article on [[https://www.linkedin.com/pulse/startups-have-employees-offices-grow-3-12-times-faster-steve-blank%3FtrackingId=ACnnIGcK1aN1g%252F%252FearafqA%253D%253D/?trackingId=ACnnIGcK1aN1g%2F%2FearafqA%3D%3D][startups going remote]]
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  25
-  :RATIO:    1.00
-  :END:
-
-
-* TODO Review NXP/QNovo [[https://automotiveworld.us1.list-manage.com/track/click?u=93bc9c845f0eb3045db4a6b82&id=462c4c3e07&e=6287757aeb][slides and recording]] and update [[file:EV_car_batteries.org][Org notes]]
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  25
-  :RATIO:    1.00
-  :END:
-
-
-* TODO Read [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view?usp=share_link][2022 Battery report]]                                  :Automotive:
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  25
-  :RATIO:    1.00
-  :END:
-
-
-* TODO Review Electra [[https://drive.google.com/file/d/1V_j6t8dBajQ03q00Gs8JP0wvr-4dCOPd/view?usp=share_link][409A valuation]] from Carta          :Electra:Offline:PC:
-  :PROPERTIES:
-  :EFFORT:   00:30
-  :BENEFIT:  50
-  :RATIO:    1.00
-  :END:
-
-
 * TODO Find out more about $500B semiconductor industry doubling by 2030 Nvidia's Challengers in the AI Chip Revolution https://www.wsj.com/articles/the-next-challengers-joining-nvidia-in-the-ai-chip-revolution-e0055485
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
-
-
-* TODO Learn grafana
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  10
-  :RATIO:    0.40
-  :END:
 
 
 * TODO AI's Growing Legal Troubles https://www.wsj.com/articles/ais-growing-legal-troubles-section-230-publisher-class-action-9efaf374
@@ -113,14 +66,6 @@
   :END:
 
 
-* TODO Look up options for Scrum Product Owner certification         :Mobile:
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  25
-  :RATIO:    1.00
-  :END:
-
-
 * TODO Review [[https://www.gartner.com/smarterwithgartner/power-challenger-sales-model][Challenger Sales]] model
   :PROPERTIES:
   :EFFORT:   00:15
@@ -135,26 +80,14 @@
   :BENEFIT:  10
   :RATIO:    0.40
   :END:
-* TODO Review IEEE paper recommended by Mina on SoH (Downloads folder)
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  25
-  :RATIO:    1.00
-  :END:
+
+
 * TODO Read [[https://drive.google.com/file/d/1seCBvpkBCgD5ePGnJh9H8ek39lmf6JCi/view?usp=drive_link][Ocean Web3.0 protocol]] whitepaper
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
-
-
-** TODO https://www.goldmansachs.com/intelligence/pages/how-india-services-economy-became-a-world-leader.html?chl=em&plt=briefings&cid=0628&plc=body
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
 
 
 ** TODO https://www.raptitude.com/2018/01/if-its-important-learn-it-repeatedly/?utm_source=Newsletter&utm_campaign=84ec8dedbd-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-84ec8dedbd-9546361
@@ -166,6 +99,22 @@
 
 
 ** TODO https://drive.google.com/file/d/1GHcVBuoLA9SYPBb1m0WJqcb6PP5F_YwS/view?usp=drivesdk
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+* TODO https://www.wsj.com/articles/the-scary-math-behind-the-worlds-safest-assets-a22069f9
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  10
+  :RATIO:    0.40
+  :END:
+
+
+** TODO http://www.spglobal.com/mobility/en/research-analysis/ev-battery-plants-slowdown.html
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10

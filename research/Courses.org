@@ -1,36 +1,22 @@
 #+Title: Lists of possible courses
 #+FILETAGS: :Learning:
+#+STARTUP: content
 
 * Useful Coursera courses
 
 
 ** Courses in priority
 
+
+*** TODO Learn Grafana
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  10
+  :RATIO:    0.40
+  :END:
+
+
 *** TODO Complete Coursera course [[https://www.coursera.org/learn/containerized-applications-on-aws][Containerized applications on AWS]] (audit)
-   :PROPERTIES:
-   :EFFORT:   04:00
-   :BENEFIT:  1000
-   :RATIO:    2.50
-   :END:
-
-
-*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-state-of-charge?specialization=algorithms-for-battery-management-systems][Battery SOC estimation]] :Automotive:
-   :PROPERTIES:
-   :EFFORT:   04:00
-   :BENEFIT:  1000
-   :RATIO:    2.50
-   :END:
-
-
-*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-state-of-health?specialization=algorithms-for-battery-management-systems][Battery SOH estimation]] :Automotive:
-   :PROPERTIES:
-   :EFFORT:   04:00
-   :BENEFIT:  1000
-   :RATIO:    2.50
-   :END:
-
-
-*** TODO Complete Coursera course [[https://www.coursera.org/learn/battery-pack-balancing-power-estimation?specialization=algorithms-for-battery-management-systems][Battery pack balancing and power estimation]] :Automotive:
    :PROPERTIES:
    :EFFORT:   04:00
    :BENEFIT:  1000

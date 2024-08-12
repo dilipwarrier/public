@@ -13,7 +13,7 @@
    - Have at least one textbook and one non-textbook to read at all times
 
 
-** TODO Add an option in recommend_book.py to exclude a genre (e.g. -xg textbook)
+** TODO Add an option in recommend_book.py to exclude a genre (e.g. -xg textbook) :Software:
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
@@ -21,7 +21,7 @@
    :END:
 
 
-** TODO Allow multiple genres in recommend_book.py (e.g. -g"textbook,management")
+** TODO Allow multiple genres in recommend_book.py (e.g. -g"textbook,management") :Software:
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
@@ -29,7 +29,7 @@
    :END:
 
 
-** TODO Add an option in recommend_book.py to list by status (e.g. -s reading)
+** TODO Add an option in recommend_book.py to list by status (e.g. -s reading) :Software:
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10

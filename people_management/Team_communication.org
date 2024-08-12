@@ -5,12 +5,12 @@
 * Introduction
 
   Post the pandemic of 2020-21, teams are increasingly working
-  remotely. This is in general a healthy phenomenon. It allows us to
+  remotely. This is generally a healthy phenomenon. It allows us to
   find talented people irrespective of where they choose to live. It
   encourages diversity of thought as people in different locations may
-  think differently about issues. It eliminates the wasteful activity of
-  commuting from your home to your workplace, thus saving time, personal
-  energy and carbon emissions.
+  think differently about issues. It eliminates the wasteful activity
+  of commuting from your home to your workplace, thus saving time,
+  personal energy and carbon emissions.
 
   On the negative side, working with team members who are not near you
   has not been evolutionarily programmed into you. Also, working with
@@ -19,6 +19,68 @@
   disadvantages, we must cultivate some habits to make it a better
   experience. This note suggests some guidelines on improving the
   overall remote co-working experience.
+
+
+* Synchronous and asynchronous communication
+
+  [[https://medium.com/levelshealth/how-to-intentionally-structure-scale-company-communications-2c4774e1f8c8][This post]] describes a thoughtful approach to team communication.
+
+  Gitlab also has a [[https://about.gitlab.com/handbook/communication/][memo on the topic]].
+
+
+* Meeting etiquette
+
+  If you need to schedule a meeting with colleagues, please feel free
+  to do so.  However, meetings are hard to schedule. Hence, we request
+  that you follow discipline regarding the creation, planning and
+  running of meetings. This SOP guides you through the process.
+
+  As far as possible, ensure that your meeting doesn't conflict with
+  people's blocked time slots or focus time slots. If it does, then
+  you should be OK with their not attending the meeting. Check
+  everyone's schedule carefully before booking a meeting.  If you
+  absolutely must schedule a meeting on top of an existing meeting,
+  reach out to those people ahead of time and apologize and ask if
+  they can move their existing meeting.
+
+  Set up your calendar to leave breathing room between meetings -
+  25-minute meetings instead of 30, 50-minute meetings instead of 60.
+
+
+** Hosting a meeting
+
+   Plan an agenda and publish it.  Make sure everyone knows what you
+   need to talk about.  If your agenda is short, you can put it in the
+   calendar invitation. If it's a long agenda, write up a Wiki page
+   and provide a link to it in the calendar invitation.
+
+   Be prepared and have the material for the meeting ready.
+
+   If another conflict comes up, please make sure you delete or reschedule the
+   meeting. Not showing up for a meeting that you organized is
+   unprofessional and makes your colleagues grumpy.
+
+   Stick to the agenda.  If you need to plan another meeting for
+   additional topics, plan another meeting. If an attendee introduces
+   a new topic, politely suggest that it should go in the parking lot
+   to be addressed later and stick to the previous agenda.
+
+   Capture action items (who does what by when?) and track them to
+   completion after the meeting.
+
+
+** Attending a meeting
+
+   Make sure that you respond to meeting invitations with a "Yes",
+   "No" or "Maybe". If your response is "No", please send a polite
+   note as to why you can't make it. Bonus points if you "propose a new time".
+
+   Be punctual. Show up a couple of minutes before the meeting so that
+   the actual agenda of the meeting can be started on time.
+
+   You are free to leave the meeting at the scheduled end time even if
+   there is an ongoing conversation. That way, meeting delays don't stack
+   up over the course of the day.
 
 
 * Holding a team workshop
@@ -64,7 +126,7 @@
    Reminder email to travel to workshop
 
 
-** During workshop
+** During the workshop
 
    Prepare report out
 
@@ -80,20 +142,14 @@
    Create survey and get feedback
 
 
-* Group brainstorming through De Bono's six-hat thinking
+* Brainstorming
 
-  De Bono recommends that all members of a team should think in one
-  direction at a time. However, they should alternate the direction
+  In his six thinking hats method, De Bono recommends that all members
+  of a team should think in one direction at a time. However, they
+  should alternate the direction
   every few minutes.
 
   The direction is determined by the hat that is worn, green hat, blue
   hat, etc.
 
   https://www.atlassian.com/blog/productivity/six-thinking-hats
-
-
-* Synchronous and asynchronous communication
-
-  [[https://medium.com/levelshealth/how-to-intentionally-structure-scale-company-communications-2c4774e1f8c8][This post]] describes a thoughtful approach to team communication.
-
-  Gitlab also has a [[https://about.gitlab.com/handbook/communication/][memo on the topic]].
