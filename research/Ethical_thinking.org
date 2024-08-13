@@ -1,0 +1,197 @@
+#+TITLE: Books and notes on ethical thinking
+#+FILETAGS: :Ethics:
+
+* Practical Ethics by Peter Singer                                     :BookNotes:
+
+  Preference utilitarianism says that, if a person has a preference,
+  then that preference should not be tampered with, all other things
+  being equal. All people have a preference to stay alive, desires that
+  they want to fulfill etc. So, killing them is not acceptable. (John
+  Harsanyi suggests an amendment of manifest preference vs innate or
+  natural preference. For instance, someone may outwardly suggest a
+  preference for something irrational or based on faulty logic. That
+  person may act upon that personal preference. However, when
+  considering social utility, you should consider the innate or natural
+  preference.)
+
+  We can assume such preferences exist for beings that are aware of
+  themselves and have an image of themselves in the past, present and
+  future. Note that, for instance, a fish doesn't necessarily have this
+  self-image. However, it may still struggle when it's about to
+  die. That's self-preservation which is separate from having a
+  self-image in the future.
+
+  For self-aware beings with a sense of past, present and future and a
+  set of preferences, it may not be ok to kill such a person even if you
+  introduce a new person with preferences. On the other hand, for a
+  being with no sense of time and self-image, it may be OK to kill such
+  a person if you substitute with another person who also has
+  preferences and if the killing can be done instantaneously without
+  suffering.
+
+  This raises the question of when it is OK to kill a person. If the person
+  has explicitly declared that they would like to be killed, then
+  euthanasia should be allowed based on preference utilitarianism. It
+  should also be allowed based on other philosophical models like rights
+  (the living person has a right to life and an option to give up that
+  right). This is voluntary euthanasia.
+
+  If the person has not requested death but it is clear that they will
+  face intense and irredeemable pain and suffering, then euthanasia
+  should be ethical if the person who administers it has done a
+  probabilistic calculation that leads to this conclusion. On the flip
+  side, it is unethical to let such a person die passively (through
+  non-intervention) if that causes significant suffering. Just as, if a
+  dog is in distress, we may take it to the vet to administer a lethal
+  injection, so also, if a baby suffers an incurable disease that is
+  guaranteed to cause lifelong suffering, it should be ethical to kill the
+  baby.
+
+  The one case in which this would be unethical is if the person had
+  expressed a desire to continue to live. In that case, that person's
+  preferences take precedence.
+
+  Contrary to popular opinion, a human life may not always be worth
+  living.
+
+  John Locke and Robert Nozick argue from a theory of rights ie the
+  right against interference. By their argument, everyone has a right
+  against interference from others but not a right to assistance from
+  others. However, this may not hold due to problems like buying
+  resources from despots, global warming and purchasing products the
+  manufacture of which causes suffering to others.
+
+
+* The Life you can save by Peter Singer                                :BookNotes:
+
+  10% of the world's population lives in extreme poverty (< $2/day) as
+  of 2015. 85% lives on $30 or less per day.
+
+  If you can reduce the suffering of one other person without much
+  suffering for yourself, you should do so. Giving aid to charitable
+  organizations that work with poor people will help alleviate their
+  suffering. So, you must give as much money as you can spare to such
+  organizations. Anything less can be considered unethical.
+
+  In FY19, [[https://explorer.usaid.gov/][US foreign aid]] was $49B and US GDP was $2T. So, foreign aid
+  was roughly 2.5% of GDP.  The US is one of the highest contributors of
+  donations in absolute numbers but it is one of the lowest contributors
+  as a percentage of GDP or income. A lot of this aid goes to countries
+  that the US has political interests in and are not the poorest
+  countries in the world. A large part of the poorest people in the
+  world live in South Asia and in sub-Saharan Africa. Our charitable
+  donations should go to them.
+
+  A donation of $50 can help with avoidable problems like cataracts. A
+  donation of $3000 san save a life in a poor country. A donation of
+  $2/year can bring chlorinated water to one poor person. In contrast,
+  the cost of saving a life in the US is estimated at $2M.
+
+  According to [[https://givingusa.org/giving-usa-2020-charitable-giving-showed-solid-growth-climbing-to-449-64-billion-in-2019-one-of-the-highest-years-for-giving-on-record/][Giving USA]], in 2020, private donors (individuals,
+  foundations, companies) in the US gave $470B in charity. Out of that,
+  giving to international affairs was about $20B. That amounts to about
+  $1600/year of total charity per person and $70/year of international
+  charity. People generally prefer to give to causes that are dear to
+  their heart and not necessarily to causes that bring the most value.
+
+  A [[https://howrichami.givingwhatwecan.org/how-rich-am-i?income=200000&countryCode=USA&household%5Badults%5D=2&household%5Bchildren%5D=2][US household income]] of $200k for a family of four can put you in the
+  top 1% of the world. Donating 10% of your income still keeps you in
+  the top 1% and potentially saves about 20 human lives/year.
+
+  People in rich countries are already doing harm to those in poor
+  countries eg through global warming, buying goods from companies that
+  bribe officials to gain resources from poor countries, blocking
+  immigration and trade from other countries etc. The US subsidizes its
+  own farmers and applies tariffs on imports from other countries, thus
+  making it harder for farmers from poor countries to sell their goods
+  here.
+
+  Generally speaking, you should not give money to poor people directly
+  because it may cause dependence. Instead, money should be spent on
+  organizations that provide healthcare, education, housing etc.
+
+  People do things based on what other people in their peer group are
+  doing. So, if you're doing something moral like going vegetarian or
+  donating a large part of your income to charity, you should announce
+  it publicly and talk about it so that your peers are induced to do the
+  same.
+
+  People already show altruism in some forms eg leaving tips in
+  restaurants that they may never go back to. However, more altruism
+  needs to be directed to the world's poorest people.
+
+  Warren Buffett donated a large part of his income after he became a
+  billionaire. It would have been a mistake if he had donated the first
+  million he made because then he wouldn't be able to donate billions in
+  later life. However, not all of us are expert investors like
+  Buffett. Most of us should donate money now rather than later, because
+  the benefit of a lesser sum now outweighs the benefit of a slightly
+  larger sum later.
+
+  Instead of giving a small amount of charity and using the rest of the
+  money for discretionary expenses, we should be cutting out many
+  discretionary expenses and giving more to charity.
+
+  There are many reasons why it's not in human nature to give to poor
+  people on the other side of the world: no identifiable victim,
+  parochialism in generosity, illusion of futility, notion of fairness,
+  distributed responsibility etc.
+
+  Economists like William Easterly have argued that giving aid can be a wasteful
+  effort. However, this is usually concerned with large donors such as
+  governments, World Bank etc. An individual or a group's donations are
+  unlikely to be affected by this. However, individuals should try to
+  find the best use of their money through reasonable study.
+
+  Moral consequentialist theory may suggest that you should save a
+  reasonable amount for your discretionary expenses and donate
+  everything else. However, in the real world, people seldom implement
+  such extreme measures. So, advocating for such extreme measures are
+  unlikely to succeed. Further, this may not hold true in the
+  deontological view.
+
+  Even donating 5-10% of your net income and spreading the word to
+  others can make a significant difference. There is higher chance of
+  adoption of this level too.
+
+
+* Effective Altruism
+
+  Ajeya Cotra has a heart-felt introduction to [[https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL][effective altruism]].
+
+
+** Why you should maximize your impact
+
+  The average doctor in the UK may add about 150 healthy
+  years over their career. The World Bank has a conversion rate of one
+  life for every 30 healthy years, so a doctor in a developed country
+  can save about 5 human lives over the course of their career.
+
+  Some doctors have had 100,000 times that much impact in their lives
+  e.g. the doctors who helped eradicate small-pox. Similarly, the
+  Soviet bureaucrat [[http://www.bbc.com/news/world-europe-24280831][Stanislav Petrov]] may have saved a billion lives by refusing to
+  launch nuclear missiles according to protocol. Some of this was luck
+  but, by making choices of which areas you focus on, you can get
+  100-1000 times the impact of an average person in your field.
+
+  You can [[https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/hk9Xh6xK5j3SQmkcn][increase your benefit to society]] in one of three ways.
+    - Helping more people
+    - Helping the same number of people to a greater extent, or
+    - Doing something which has benefits that last for a longer time.
+
+
+** The world is much better and can be much better
+
+   All three of the following are true.
+     - The world is much better
+     - The world is awful
+     - The world can be much better
+
+     [[./Screenshot children saved.png]]
+
+   However, according to the [[http://www.fao.org/3/ca9692en/online/ca9692en.html#][State of Food Security report]] in 2020,
+   the number of undernourished has been going up since 2014. In 2020,
+   nearly 700 million people or about 9% of the world population
+   were hungry. This number has been increasing since 2014 and COVID
+   has the potential to make the trend worse. Most of the world's
+   hungry population are in Asia and Africa.

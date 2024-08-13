@@ -1,5 +1,6 @@
 #+Title: The science of happiness and well-being
 #+FILETAGS: :society:science:psychology:Learning:
+#+STARTUP: content
 
 * Positive psychology
 

@@ -1,0 +1,123 @@
+#+Title: Books and research on the brain
+#+FILETAGS: :Learning:
+#+STARTUP: content
+
+* Models of the mind by Grace Lindsay
+
+
+** Making and maintaining memories
+
+   A neural network can be configured such that it has certain
+   low-energy states that act as attractors. Such neural networks are
+   known as Hopfield networks. When an arbitrary input
+   is provided to the neural network, the neural network converges to
+   one of these attractors. This can be used to simulate the behavior
+   of the brain where certain stimuli can cause the brain to remember
+   old events or patterns.
+
+   However, Hopfield networks have discrete attractors and do not
+   match well the real-life behavior of attractors that are close to
+   each other. For instance, you may remember something to be a shade
+   of blue that is close to another shade. To simulate such behavior,
+   a ring structure where similar memories are close to each other
+   works better.
+
+   In either case, these networks are only crude approximations of
+   what really happens in the brains. The actual neural networks
+   behave in a very complicated and messy fashion that can not be
+   cleanly described through such models.
+
+
+** Bertrand Russell: The trouble with the world is that the stupid are cocksure and the intelligent full of doubt. :quotes:
+
+
+* Types of bias
+
+  This note lists some key biases that affect our thinking. Methods to overcome bias are noted here.
+
+  The acronym to remember is FFRACASS (Focusing, first conclusion,
+  confirmation, representativeness, availability, social desirability,
+  survivorship)
+
+
+** Focusing bias
+
+   Nothing In life is as important or as useful as you think it is.
+
+   For instance, there is not a lot of correlation between wealth and
+   happiness. Paraplegics are not as unhappy as non-paraplegics think
+   they are. Living in California won't make you as happy as you think
+   it will.
+
+   Similarly, people tend to look at new initiatives or new processes
+   as cure-alls. They are usually not.
+
+
+** First conclusion bias
+
+   When we see a first conclusion that matches our inherent biases,
+   our mind shuts down to other possible explanations.  As Charlie
+   Munger famously pointed out, the mind works a bit like a sperm and
+   egg: the first idea gets in and then the mind shuts.
+
+
+** Representativeness bias
+
+   We tend to not use base rates in our forecasting.
+
+   For example, when determining the success of a new project, we
+   discount the failure rate of previous similar projects.
+
+   Another example: when asked "Donald Jones is of a retiring
+   nature. Is it more likely that he is a salesman or a
+   librarian?", most people guess that he is a
+   librarian. However, by Bayes' theorem:
+
+   P[librarian/retiring] > P[salesman/retiring] <=>
+   P[retiring/librarian] / P[retiring/salesman] > P[salesman] /
+   P[librarian]
+
+   In the base population of all men, salesmen are much more
+   likely than librarians. The probability of a male librarian
+   being retiring would have to be significantly higher than that
+   of a male salesman being retiring to overcome that.
+
+
+** Availability bias
+
+   We tend to more easily recall what is more vivid and more recent.
+   For instance, people tend to overestimate the danger of an air
+   crash or a terror attack.
+
+
+** Confirmation bias
+
+   We tend to look for confirmations of long-held wisdom rather than violations.
+   Jonathan Haidt makes this point in the context of morality.
+
+
+** Attribution bias
+
+   We tend to believe that what people do reflects who they are. As a
+   consequence, we overestimate how consistent others' behavior will
+   be.
+
+
+** Social desirability bias
+
+   We tend to seek safety in numbers and will look for social guidance
+   of our behavior.
+
+   This instinct creates a cohesive sense of cooperation and culture
+   which would not otherwise be possible but also leads us to do
+   foolish things if our group is doing them as well.
+
+
+** Survivorship bias
+
+   We over-attribute success to things done by a successful agent
+   rather than to randomness or luck. Also, we often learn false
+   lessons by exclusively studying victors without seeing all the
+   accompanying losers who acted in the same way but did not
+   succeed. This has been highlighted in the business world by Phil
+   Rosenzweig.

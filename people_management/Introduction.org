@@ -1,5 +1,6 @@
 #+Title: Introduction to me as a manager
 #+FILETAGS: :Manager:
+#+STARTUP: content
 
 * Introduction
 
@@ -123,7 +124,8 @@
   you have too much on your plate, we should talk about what can
   be delegated or dropped. While there may be occasions when you work
   late or over the weekends, those should be rare and you should have
-  time to spend outside work with your friends and family.
+  time to spend outside work with your friends and family. Seth Godin
+  described it best in his [[https://seths.blog/2019/09/two-kinds-of-9-to-5-job/][blog post]].
 
   Finally, don't sweat it. Most people won't change the world; most
   people are OK with that. Take a moment to make a joke, defuse a tense

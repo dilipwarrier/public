@@ -1,0 +1,171 @@
+#+TITLE: Books on European history
+#+FILETAGS: :BookNotes:Learning:
+#+STARTUP: content
+
+* The War That Ended Peace by Margaret McMillan
+
+  At the start of the 20th century, there was no indication of an
+  impending Great War. Europe had had nearly a century of peace.
+
+  Wilhelm II took over as the Kaiser of Germany around 1900. Germany did
+  not have a constitutional monarchy unlike England. The Kaiser wielded
+  all the power. Wilhelm wanted to build a German navy to compete with
+  Britain. This led to an escalation of tensions between Britain
+  and Germany. Britain could not agree to a strong hostile navy in the
+  North sea.
+
+  In Russia, Tsar Nicholas II was in power. He had not been adequately
+  trained for his role and was unaware of the true state of the Russian
+  people - a deep divide existed between the poor peasants and the
+  landed Russian nobility. He believed in the continuity of rule of the
+  tsar and believed that it was divinely ordained. In spite of public
+  opinion to the contrary, he tried his best to undermine the Russian
+  parliament, the Duma.
+
+  The British and the Russians were playing the Great Game in Asia for
+  imperialist expansion. In 1906, thanks to powerful foreign ministers
+  on both sides and in spite of the Tsar, they were able to come to an
+  agreement on that front, specifically on Persia, Tibet and
+  Afghanistan. As was typical, this agreement was formed without any
+  consultation with the local governments of those areas. The agreement
+  cleared the way for Germany and the Austro-Hungarian empire to be
+  isolated. France and Russia had already built an agreement; France's
+  interest was in cordoning off Germany while Russia received
+  significant financial investment from France in return. Although there
+  was no formal establishment of the Triple Entente (Britain, France,
+  Russia), after this pact, the officials of the three countries were
+  starting to talk to each other and build relations.
+
+  The Austro-Hungarian empire was quite prosperous. Vienna, Budapest and
+  Prague were the great capitals. Skoda was already a successful company
+  as was Diamler. 80% of the population was educated. The emperor, Franz
+  Joseph, wasn't quite as free as Nicholas (no male suffrage in Russia)
+  but not as fettered as King Edward VII of Britain either (Austria had
+  full male suffrage, Hungary only 10%). Franz Joseph, unlike Nicholas,
+  had a sense that the world was changing around him and was somewhat
+  resigned to that change. Further, his empire had 10 official languages
+  and had several internal fault lines.
+
+  Meanwhile, there were also significant cultural changes happening
+  throughout Europe. On the one hand, personal honor that quickly
+  translated to national honor was still an important concept. Duels to
+  vindicate honor were commonplace in the military. Violent anarchy and
+  terrorist incidents were occurring. Economic and cultural
+  divides existed between a large peasant population and a small but
+  wealthy set of beneficiaries of the Industrial Revolution. Although
+  there are groups like socialists who were canvassing for peace,
+  nationalism trumped all such concerns.
+
+  The nature of war strategy was changing. The scale of armies were an
+  order of magnitude greater than previous wars thanks to conscription
+  in Prussia and matching plans elsewhere. Logistics, movements of
+  trains for equipment, etc had to be carefully managed.
+
+  The decline of the Ottoman empire led to many European nations
+  circling that wagon. Italy had invaded and taken over Libya, France
+  had similarly taken over Morocco. In 1911, Bulgaria and Serbia came
+  together to invade the empire and carve it up among Balkan
+  nations. This caused concerns among the great powers as the existing
+  fragile power equilibrium was being rapidly broken up. The Balkan
+  nations had just as much unity as dissent among them. While there were
+  nearly formed nations invoking nationalism, languages, cultures and
+  religions were dispersed among the nations and had their own
+  loyalties.
+
+  In early 1914, Britain was focused largely on internal issues
+  (suffragette movement, Irish self government etc). Germany and
+  Austria-Hungary may have believed that this would prevent them from
+  focusing too much on the continent. Officially, Britain tried to keep
+  the terms of its alliance very loose. However, the previous decade of
+  naval and military conversations, the diplomatic cooperation, and the
+  public acceptance in France and Britain of the Entente Cordiale
+  created a web of links which would be difficult to ignore when the
+  crisis came. The nature of British government was slow: a Prime
+  Minister has to get agreement from his cabinet and then from the
+  parliament for any major decision and the monarchy was in name
+  only. Further, the British did not want to be pulled into a
+  continental war but, at the same time, wanted to ensure that the low
+  countries (Belgium, Netherlands, Luxembourg) were protected from
+  German aggression to ensure that ships could land freely in those
+  ports. This led to a lot of waffling on Britain's part that may have
+  emboldened Germany.
+
+  The immediate reason for the war was the assassination of Arch Duke
+  Ferdinand in Sarajevo in independent Bosnia. Austria blamed Serbia for
+  this act without official evidence and declared war against Serbia. At
+  least some of this was triggered by racism. The Germans and Austrians
+  were concerned about their Teutonic race being increased by the Slavic
+  race (Russia, Serbia etc). Russia was committed to protecting Serbian
+  interests.
+
+  Although a part of the Triple Entente, France was adamant about not
+  starting a war. It was careful to define its alliance with Russia as a
+  defensive alliance against aggression from Germany. It was essentially
+  let off the hook when Germany declared war against it first. Germany
+  had the Schlieffen plan that required a two-front war with Russia and
+  France. Further, the plan required German forces to advance through
+  Belgium. The Schlieffen plan was not adequately questioned by the then
+  chief of staff, General Moltke the younger, or by civilian leadership
+  or the Kaiser. As a result, Germany's military deployment of its war
+  strategy caused other European powers to join the war against it.
+
+  The relations between royalty in the European countries was
+  deep. Kaiser Wilhelm II of Germany was the grandson of queen Victoria,
+  as was Tsar Nicholas II. The Kaiser, the Tsar and King George V were
+  cousins. France had just turned a republic and hence had suspicions
+  about royalty in general.
+
+  Trading relations had little bearing on decisions to go to war. For
+  instance, leading up to 1914, Germany was the largest trading partner
+  for Great Britain.
+
+  "If we want to point fingers from the twenty-first century we can
+  accuse those who took Europe into war of two things. First, a failure
+  of imagination in not seeing how destructive such a conflict would be
+  and second, their lack of courage to stand up to those who said there
+  was no choice left but to go to war. There are always choices."
+
+
+* Napoleon by Andrew Roberts
+
+In 1795, Napoleon was appointed to the strategy division of the
+French army.
+
+He was a prominent figure in the French revolution and was an
+anti-royalist. However, by 1805, he had crowned himself the emperor of
+France. The people of France themselves had gone through a complete
+change of opinion and supported his becoming Emperor within a decade
+of the revolution. This was probably due to the popularity he had
+gained by defeating Austria in multiple wars.
+
+Although Napoleon had significant military success through the early
+1800s, Britain had already pulled ahead significantly in economic,
+industrial and naval power. He fabled economic isolationism and severe
+tariffs as a policy and thus may have led to further decline in the
+French economy. From 1795 to around 1810, Napoleon won several wars,
+notably against Austria and Italy. He annexed large parts of what is
+now Germany and of Italy and Spain.
+
+Throughout his empire, Napoleon changed the social order and
+administration. Tolerance of religious minorities increased,
+appointments to the civil service were based on merit, feudalism was
+eliminated etc. His social changes were a big part of his legacy.
+
+He could get down to very low levels of detail while deciding grand
+strategy for wars. Many of Napoleon's generals complained of his micro
+management.
+
+Napoleon made several requests to the Russian Tsar Alexander to avoid
+a Franco-Russian war. Even when those were not heeded, he intended the
+war to be a short affair. Marching to Moscow was not part of his
+initial plan.
+
+The Russians used a "Scorched Earth" policy to burn everything in their
+retreat so that the invading French army would not have any
+supplies. Their plan was to prolong the war and get Napoleon farther
+into Russian territory without any significant battles. The first
+major battle was fought in the village of Borodin, 65 miles from
+Moscow. There were heavy casualties on both sides but the Russians
+finally retreated and marched back through Moscow, allowing the French
+army to occupy the city. By now, typhus fever, the lack of supplies,
+the death of thousands of horses, etc. had decimated the French army.

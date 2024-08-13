@@ -1,5 +1,6 @@
 #+TITLE: An introduction to game theory by Steven Tadelis
 #+FILETAGS: :economics:games:mathematics:probability:BookNotes:Learning:
+#+STARTUP: content
 
 * Three factors to making a decision
 
@@ -68,11 +69,10 @@
   strategies of all the other players. A dominant strategy is an NE
   but not vice versa.
 
-  The attraction of the NE is that it can be proven to exist
-  under fairly general conditions of finite normal-form games if you
-  allow mixed strategies (see section below). Note
-  that, even though an NE may exist, it may not be easily
-  computable.
+  The attraction of the NE is that it can be proven to exist under
+  fairly general conditions of finite normal-form games if you allow
+  mixed strategies (see section below). However, even though an NE may
+  exist, it may not be easily computable.
 
 
 * Prisoner's dilemma

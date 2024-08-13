@@ -281,13 +281,14 @@ time most valuably?
 
 
 ** TODO Book focus time slots and end-of-day updates for tomorrow
-   SCHEDULED: <2024-08-13 Tue 19:30 +1w>
+   SCHEDULED: <2024-08-20 Tue 19:30 +1w>
    :PROPERTIES:
    :EFFORT: 00:05
    :BENEFIT: 10
    :RATIO: 1.20
-   :LAST_REPEAT: [2024-08-06 Tue 15:41]
+   :LAST_REPEAT: [2024-08-13 Tue 12:11]
    :END:
+   - State "DONE"       from "TODO"       [2024-08-13 Tue 12:11]
    - State "DONE"       from "TODO"       [2024-08-06 Tue 15:41]
    - State "DONE"       from "TODO"       [2024-07-30 Tue 11:06]
    - State "DONE"       from "TODO"       [2024-07-23 Tue 20:32]

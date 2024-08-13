@@ -1,0 +1,118 @@
+#+TITLE: Notes on marketing
+#+FILETAGS: :Learning:
+#+STARTUP: content
+
+* Marketing management by Philip Kotler
+
+To be useful, market segments must be measurable, substantial (large
+enough to be profitably served), differentiable (one segment is
+different enough from another) and actionable (segment can be
+effectively attracted and served).
+
+In 2000, the following picture held.  If the world were a village of
+1000 people, it would consist of 520 women and 480 men. 330 children
+and people over age 65. 10 college graduates and 335 illiterate
+adults. 52 North Americans, 95 Europeans and 584 Asians. 165 people
+would speak Mandarin, 86 English and 83 Hindi.  There would be 329
+Christians, 178 Muslims, and 132 Hindus.
+
+Successful companies recognize and respond profitably to unmet needs
+and trends. A trend is different from a fad: it has longevity, is
+observable across several market areas and consumer activities and is
+consistent with other significant indicators emerging at the same
+time.
+
+The available market for the product is the set of consumers who have
+interest, income and access to that product.
+
+Marketing information systems are required so that companies can make
+more data-based decisions with more reliable information. For
+instance, Coca-Cola knows how many ice cubes the average consumer
+likes to have in a glass and at what temperature the average consumer
+likes their can dispensed from a vending machine.
+
+SWOT analysis is useful to identify (internal) strengths and
+weaknesses and match them with (external) opportunities (new product
+ideas) and threats (competitors, economy, cultural trends etc.)
+
+Honeywell asks each department to rate its own strengths and
+weaknesses and those of the other departments with which it interacts.
+
+Winning companies have achieved superior in-company capabilities, not
+just core competencies. Core competencies may exist within departments
+e.g. Bose engineering, but we must develop competitive capabilities in
+specific processes e.g. New product development.  (see similar note by
+Michael Porter on strategy)
+
+A core competency has three characteristics:
+  - It is a source of competitive advantage in that it makes a
+    significant contribution to perceived customer benefits.
+  - It has a breadth of applications to a wide variety of markets.
+  - It is difficult for competitors to imitate.
+
+A definition of quality is "the totality of features and
+characteristics of a product that determine its ability to satisfy
+stated or implied needs". Note the emphasis on stated and implied
+needs.
+
+It is important to distinguish between conformance quality and
+performance quality. A Mercedes-Benz has performance quality but even
+a Hyundai may have conformance quality.
+
+A business must be a user-satisfying process and not a goods-producing
+process. For instance, Xerox is in the business of improving employee
+productivity and not in the business of making copying equipment.
+
+Five stage model of the customer buying process:
+1. Problem recognition
+2. Information search
+3. Evaluation of alternatives
+4. Purchase decision
+5. Post-purchase behavior
+
+Usually, customers exhibit complex buying behavior when the product is
+expensive, bought infrequently, risky, and highly self-expressive,
+like an automobile. Also, there are usually significant differences
+between brands in this case. A complex buying behavior involves a
+three-step process: develop beliefs about the product, develop
+attitudes about the product, make a thoughtful choice.
+
+For products sold to businesses, the orientation of the purchasing
+departments of those businesses need to be considered. Their
+orientation may be:
+1. Tactical when the focus is commodification and multi sourcing.
+2. Procurement orientation when the focus is joint quality improvement and cost reduction.
+3. Supply chain management orientation when the focus of purchasing is to be a strategic value addition operation.
+
+The orientation may depend on the type of product being acquired. The
+product has two dimensions: amount of value or cost to the supplier
+and amount of risk of supply.
+
+Today's economy has a lot of surplus as opposed to deficit (eg a
+toothpaste from just one company in 10 flavors). This implies hyper
+competition for the suppliers and over choice for the
+consumer. However, companies are guilty of strategy convergence and
+lack of differentiation. Companies must successfully differentiate
+themselves based on a coherent strategy.
+
+All marketing strategy is based on segmentation, targeting and
+positioning.  A company segments the market based on needs and groups,
+targets those needs that it can satisfy in a superior way and
+positions its offering so that the market recognized it distinctively.
+
+The end result of positioning is a value proposition, a cogent reason
+why the target market should buy the product.
+
+Treacy and Wiersema propose three value disciplines: product
+leadership, operational excellence and customer intimacy. A firm
+should become the best in one of these value disciplines and achieve
+adequate performance in the other two.
+
+Generally, market experts recommend positioning 1 to 2 benefits. One
+benefit if the market is new. However, the auto market is mature, so
+Volvo might position itself as safer and more durable. However,
+positioning more benefits is harder because the customer may not
+believe you and the clear positioning is lost.
+
+
+** Scott Galloway: You are not as smart as you thought; they are not as dumb as you hoped. :quotes:
