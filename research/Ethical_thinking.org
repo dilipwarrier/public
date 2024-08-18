@@ -1,7 +1,8 @@
 #+TITLE: Books and notes on ethical thinking
-#+FILETAGS: :Ethics:
+#+FILETAGS: :Ethics:BookNotes:Learning:
+#+STARTUP: content
 
-* Practical Ethics by Peter Singer                                     :BookNotes:
+* Practical Ethics by Peter Singer
 
   Preference utilitarianism says that, if a person has a preference,
   then that preference should not be tampered with, all other things
@@ -62,7 +63,7 @@
   manufacture of which causes suffering to others.
 
 
-* The Life you can save by Peter Singer                                :BookNotes:
+* The Life you can save by Peter Singer
 
   10% of the world's population lives in extreme poverty (< $2/day) as
   of 2015. 85% lives on $30 or less per day.
@@ -195,3 +196,41 @@
    were hungry. This number has been increasing since 2014 and COVID
    has the potential to make the trend worse. Most of the world's
    hungry population are in Asia and Africa.
+
+
+* Poor Economics by Abhijit Banerjee and Esther Duflo
+
+Poor people don't generally want more food. In many cases, giving them
+grain etc is not helpful. Instead, providing more micronutrients,
+iron, iodine etc may be more helpful.
+
+Immunization is often not successful. This may be because poor people
+don't easily see the benefits of long term interventions like
+immunization. They may also distinguish between diseases that they use
+traditional healing versus ones for which they see a doctor. However,
+sometimes these beliefs are not strongly held. A little incentive
+(some dal for each immunization and a set of stainless steel plates to
+complete the course) can overcome it.
+
+We naturally tend to postpone small costs and discount the benefits
+that may accrue from them. The reverse holds for rewards. This is
+called time inconsistency. Small incentives like the one above can
+compensate for time inconsistency effects. While such nudges sound
+paternalistic, the truth is that even citizens in developed countries
+need such nudges and take them for granted. For instance, we get our
+kids vaccinated because, if not, schools won't accept them. We go to
+gyms partly because our insurance subsidizes it.
+
+Although poor people could generally benefit from risk insurance, t
+they generally don't buy it. Some of this may be due to the nature of
+product (you post for something that you hope you never use). Trust in
+the insurance agent may also be a factor.
+
+Microfinance institutions work reasonably well but are not
+transformative. They rely on strict loan repayment rules and usually
+lend to a group of people. The group emerges through social pressure
+that everyone in the group makes payments on time. Due to these strict
+rules, it's harder for example to borrow for health related
+emergencies where people may not be able to pay back
+immediately. Moneylenders continue tu operate k and charge much higher
+interests even in areas where such insuring are active.

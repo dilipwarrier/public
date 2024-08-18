@@ -40,12 +40,12 @@
 
 ** Next few books to read overall
 
-#+begin_src shell :results drawer
+#+begin_src shell :results output :wrap "EXPORT html" :exports both
 ../item_recommender/recommend_book.py -r 20 books_list.csv
 #+end_src
 
 #+RESULTS:
-:results:
+#+begin_EXPORT html
 List of recommended books:
 
 Storytelling with data                            : Cole Nussbaumer...   (4.3, design)
@@ -58,23 +58,23 @@ Nimitz at war                                     : Craig Symonds        (4.4, w
 Compulsion                                        : Meyer Levin          (4.1, thriller)
 The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society)
 A different drummer                               : William Melvin...    (4.2, fiction)
-Say Nothing                                       : Patrick Keefe        (4.4, western-history)
 Spearhead                                         : Adam Makos           (4.2, western-history)
+Say Nothing                                       : Patrick Keefe        (4.4, western-history)
 Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics)
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
-Five Families: The Rise,Decline,and Resurgence... : Selwyn Raab          (4.1, western-biography)
 The WEIRDest people in the world                  : Joseph Heinrick      (4.2, society)
+Five Families: The Rise,Decline,and Resurgence... : Selwyn Raab          (4.1, western-biography)
 The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
 Sum                                               : David Eagleman       (4.1, science-fiction)
 A World Undone: A History of World War I          : G J Meyer            (4.2, western-history)
-:end:
+#+end_EXPORT
 
 
 ** Next textbook to read
 
-#+begin_src shell :results drawer
-../item_recommender/recommend_book.py -r 3 -g textbook books_list.csv
+#+begin_src shell :results drawer :exports both
+../item_recommender/recommend_book.py -r 5 -g textbook books_list.csv
 #+end_src
 
 #+RESULTS:
@@ -84,13 +84,15 @@ List of recommended books:
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
 Strategic Management                              : Charles Hill,...     (4.5, strategy,management,textbook,books-to-read-again)
+Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
+Bayesian data analysis                            : Andrew Gelman        (4.2, maths,textbook)
 :end:
 
 
 ** Books that I have read before but should read again
 
-#+begin_src shell :results drawer
-../item_recommender/recommend_book.py -r 100 -g books-to-read-again books_list.csv
+#+begin_src shell :results drawer :exports both
+../item_recommender/recommend_book.py -r 10 -g books-to-read-again books_list.csv
 #+end_src
 
 #+RESULTS:
@@ -107,35 +109,12 @@ Imperial twilight: the opium war                  : Stephen Platt        (4.3, e
 Good Strategy Bad Strategy: The Difference and... : Richard P. Rumelt    (4.2, strategy,management,books-to-read-again)
 The Effective Executive: The Definitive Guide...  : Peter F. Drucker     (4.1, management,books-to-read-again)
 Free to Choose: A Personal Statement              : Milton Friedman      (4.2, economics,books-to-read-again)
-The War That Ended Peace: The Road to 1914        : Margaret MacMillan   (4.2, western-history,books-to-read-again)
-Thinking,Fast and Slow                            : Daniel Kahneman      (4.1, brain,books-to-read-again)
-Algorithms to Live By: The Computer Science of... : Brian Christian      (4.2, maths,books-to-read-again)
-A People's History of the United States           : Howard Zinn          (4.1, society,books-to-read-again)
-The Moral Animal: Why We Are the Way We Are:...   : Robert Wright        (4.1, genetics,biology,books-to-read-again)
-The big picture                                   : Sean B. Carroll      (4.2, biology,science,books-to-read-again)
-Business model generation                         : Alex Osterwalder     (4.2, management,books-to-read-again)
-Crossing the Chasm: Marketing and Selling High-...: Geoffrey A. Moore    (4.0, marketing,books-to-read-again)
-How to Measure Anything: Finding the Value of...  : Douglas W. Hubbard   (4.0, management,books-to-read-again)
-Thinking Strategically: The Competitive Edge in...: Avinash K. Dixit     (4.0, strategy,management,books-to-read-again)
-Superforecasting: The Art and Science of...       : Philip E. Tetlock    (4.1, science,books-to-read-again)
-Practical Ethics                                  : Peter Singer         (4.1, philosophy,books-to-read-again)
-Capitalism and Freedom                            : Milton Friedman      (3.9, economics,books-to-read-again)
-The Myth of the Rational Voter: Why Democracies...: Bryan Caplan         (3.9, society,books-to-read-again)
-The Halo Effect: ... and the Eight Other...       : Philip M. Rosenzweig (3.9, management,books-to-read-again)
-Game theory: an introduction                      : Steve Tadelis        (4.0, maths,textbook,books-to-read-again)
-Your inner fish                                   : Neil Shubin          (4.0, biology,books-to-read-again)
-The God Delusion                                  : Richard Dawkins      (3.9, science,books-to-read-again)
-Crucial Conversations                             : Kerry Patterson      (4.0, management,books-to-read-again)
-King                                              : Jonathan Eig         (4.0, black-biography,books-to-read-again)
-Bubble or revolution?                             : Neel Mehta           (4.0, finance,maths,books-to-read-again)
-How big things get done                           : Bent Flyvbjerg       (4.0, management,books-to-read-again)
-Armchair Economist: Economics & Everyday Life     : Steven E. Landsburg  (3.8, economics,books-to-read-again)
 :end:
 
 
 ** Recently read
 
-#+begin_src shell :results drawer
+#+begin_src shell :results drawer :exports both
 ../item_recommender/recommend_book.py -s 50 books_list.csv
 #+end_src
 
@@ -145,6 +124,7 @@ List of read books:
 
 Life 3.0: Being Human in the Age of Artificial... : Max Tegmark          (02-Aug-24, 1.0)
 The Florentines                                   : Paul Strathern       (02-Aug-24, 5.0)
+The vital question: Energy, evolution and the...  : Nick Lane            (01-Aug-24, 1.0)
 Shape                                             : Jordan Ellenberg     (20-Jul-24, 5.0)
 Scaling people                                    : Claire Hughes...     (05-Jul-24, 3.0)
 The missing billionaires                          : Victor Haghani       (20-Jun-24, 4.0)
@@ -192,14 +172,13 @@ Heat: How to stop the planet from burning         : George Monbiot       (05-Jul
 Open borders                                      : Bryan Caplan         (26-Jun-21, 5.0)
 Poor economics                                    : Abhijit Banerjee,... (23-Jun-21, 5.0)
 Dialogues on ethical vegetarianism                : Michael Huemer       (21-May-21, 5.0)
-You Are Not a Stranger Here                       : Adam Haslett         (20-May-21, 5.0)
 :end:
 
 
 
 ** List of genres
 
-#+begin_src shell :results drawer
+#+begin_src shell :results drawer :exports both
   ../item_recommender/recommend_book.py -l books_list.csv
 #+end_src
 
@@ -255,7 +234,7 @@ marketing                     : 01-Jan-00
 
 ** Favorite authors
 
-#+begin_src shell :results drawer
+#+begin_src shell :results drawer :exports both
   ../item_recommender/recommend_book.py -a 30 books_list.csv
 #+end_src
 
@@ -298,7 +277,7 @@ Shyam Selvadurai
 
 ** Books to read by genre
 
-#+begin_src shell :results drawer
+#+begin_src shell :results drawer :exports both
   ../item_recommender/recommend_book.py -g books-to-read-again -r 20 books_list.csv
 #+end_src
 
@@ -331,7 +310,7 @@ King                                              : Jonathan Eig         (4.0, b
 
 ** Options
 
-#+begin_src shell :results drawer
+#+begin_src shell :results drawer :exports both
   ../item_recommender/recommend_book.py -h
 #+end_src
 
@@ -365,6 +344,7 @@ options:
   - [[https://en.wikipedia.org/wiki/List_of_winners_and_shortlisted_authors_of_the_Booker_Prize][Booker prize winners]]
   - [[https://en.wikipedia.org/wiki/Royal_Society_Prizes_for_Science_Books][Royal Society awards]] for science books
   - [[https://www.thehugoawards.org/hugo-history/][Hugo prize]] for science fiction
+  - [[https://en.wikipedia.org/wiki/James_Tait_Black_Memorial_Prize#List_of_recipients][James Tait Black prize]] for biography
 
   - [[https://en.wikipedia.org/wiki/DSC_Prize_for_South_Asian_Literature][DSC prize for South Asian literature]]
   - [[https://www.thejcbprize.org/#list][JCB prize for Indian fiction]]
