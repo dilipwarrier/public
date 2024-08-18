@@ -1,0 +1,87 @@
+#+TITLE: A sample document describing an organizational culture
+#+FILETAGS: :management:
+#+STARTUP: content
+
+* Introduction
+
+This document outlines the culture the Engineering team operates
+under. As Manager Tools reminds us, culture is behavior. So, we also
+outline key behaviors that embody the culture. This document will
+always be a Work In Progress with constant iteration. All the team
+members have a part in defining this handbook and will constantly
+improve it.
+
+
+* Our culture
+
+We behave with the agility of a small company (think "small") with the
+structure and discipline of a big company (act "big").
+
+
+** Think "small"
+
+We add business value daily.
+
+We will group in small teams. Typically that is a cross-functional
+team working together on a project.  Each team will hold daily sprint
+meetings.
+
+We will spend a lot of our time talking about what business value
+i.e. what results we have created or will create. We proudly
+demonstrate that added value to stakeholders regularly. People outside
+the team will be able to understand the value we added.
+
+We will be open to changes in direction.
+
+We are a small company in a relatively new field. Much of the
+technology we are building is exploratory. We need to experiment,
+deploy, learn what works and what doesn't and change direction
+accordingly. We embrace the Plan-Do-Check-Act (PDCA) methodology.
+As an example, teams may need to change direction at the start of or
+during a sprint depending upon executive decisions or external
+circumstances. We accept such changes and process and react to them
+systematically.
+
+We take pride in our work and we think it reflects our
+craftsmanship and professionalism. For example, our focus on
+professionalism means that we will be efficient and effective in
+meetings. We consider it a matter of pride that their sprint meetings
+start on time and end on or before time.
+
+
+** Act "big"
+
+We use tools and we constantly automate. When there is work that can
+be done by a person or by a tool, we choose to do it with a tool.
+
+We practice meeting etiquette.
+
+We are fanatical about using time efficiently. We ensure that meetings
+have a pre-published agenda, start and end on time and have clear next
+steps with owners.
+
+We impress people outside the company by following disciplined
+procedures during customer meetings.
+
+We ask for and provide respectful critical feedback on each others'
+work. We do not consider a work product complete until it has been reviewed
+by others. We look at those review comments carefully and address them
+as appropriate. We may challenge some comments but we will not dismiss
+them. As a result, our work products are stronger.
+
+We divide our goals between short-term product deliverables, continuous
+improvement of our processes and tools, and learning, training and
+career growth.
+
+We take pride in creating and completing action items without
+prompting. We report on the status of these action items when they are
+complete. In the rare cases in which we can not complete them within
+the stated deadline, we communicate well ahead of time.
+
+
+* References
+
+Manager Tools podcasts on culture:
+- https://www.manager-tools.com/2023/02/culture-chapter-1-culture-behavior
+- https://www.manager-tools.com/2023/06/culture-chapter-2-core-behaviors-part-1
+- https://www.manager-tools.com/2023/06/culture-chapter-2-core-behaviors-part-2
