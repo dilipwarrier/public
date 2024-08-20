@@ -713,3 +713,17 @@ later set of tasks.
   :ARCHIVE_TODO: DONE
   :ARCHIVE_ITAGS: Manager Work
   :END:
+
+* DONE Complete my mid-quarter goal progress check-in
+  SCHEDULED: <2024-08-15 Thu 20:00>
+  :PROPERTIES:
+  :EFFORT:   00:15
+  :BENEFIT:  10
+  :RATIO:    0.40
+  :ARCHIVE_TIME: 2024-08-19 Mon 09:34
+  :ARCHIVE_FILE: c:/Users/dwarr/Documents/GitHub/public/people_management/Performance_reviews.org
+  :ARCHIVE_OLPATH: Performance reviews/Task list
+  :ARCHIVE_CATEGORY: Performance_reviews
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: Manager Work
+  :END:

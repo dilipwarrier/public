@@ -56,18 +56,18 @@ Jesus' Son                                        : Denis Johnson        (4.1, f
 The Christmas Virtues: A Treasury of...           : Jonathan V. Last     (4.1, society)
 Nimitz at war                                     : Craig Symonds        (4.4, western-history)
 Compulsion                                        : Meyer Levin          (4.1, thriller)
-The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society)
 A different drummer                               : William Melvin...    (4.2, fiction)
 Spearhead                                         : Adam Makos           (4.2, western-history)
 Say Nothing                                       : Patrick Keefe        (4.4, western-history)
-Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics)
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Amos Walker: The Complete Story Collection        : Loren D. Estleman    (4.1, thriller)
 The WEIRDest people in the world                  : Joseph Heinrick      (4.2, society)
 Five Families: The Rise,Decline,and Resurgence... : Selwyn Raab          (4.1, western-biography)
 The whys of a political scrivener                 : Martin Gardner       (4.0, philosophy)
-Sum                                               : David Eagleman       (4.1, science-fiction)
 A World Undone: A History of World War I          : G J Meyer            (4.2, western-history)
+Sum                                               : David Eagleman       (4.1, science-fiction)
+Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics,textbook)
+A cartoon history of the universe                 : Larry Gonick         (4.3, eastern-history,western-history)
 #+end_EXPORT
 
 
@@ -82,10 +82,10 @@ A World Undone: A History of World War I          : G J Meyer            (4.2, w
 List of recommended books:
 
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
+Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics,textbook)
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
+The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society,textbook)
 Strategic Management                              : Charles Hill,...     (4.5, strategy,management,textbook,books-to-read-again)
-Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
-Bayesian data analysis                            : Andrew Gelman        (4.2, maths,textbook)
 :end:
 
 

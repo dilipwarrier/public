@@ -1833,13 +1833,14 @@
 
 
 ** TODO Read an existing Manager Tools section from above
-   SCHEDULED: <2024-08-17 Sat 16:00 +2w>
+   SCHEDULED: <2024-08-31 Sat 16:00 +2w>
    :PROPERTIES:
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
-   :LAST_REPEAT: [2024-08-04 Sun 16:14]
+   :LAST_REPEAT: [2024-08-19 Mon 09:22]
    :END:
+   - State "DONE"       from "TODO"       [2024-08-19 Mon 09:22]
    - State "DONE"       from "TODO"       [2024-08-04 Sun 16:14]
    - State "DONE"       from "TODO"       [2024-07-23 Tue 08:00]
    - State "DONE"       from "TODO"       [2024-07-06 Sat 20:30]
