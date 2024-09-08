@@ -118,14 +118,17 @@
    [[file:Screenshot 2023-12-07 130520.png]]
 
    According to slide 22 of the [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view][Battery Health Report]], about 6.2M EVs were sold in
-   China (about 60% of the global market), 2.7M in Europe and 1.1m were
+   China (about 60% of the global market), 2.7M in Europe and 1.1M were
    sold in the US. This was a 55% increase from 2021.
 
    The total car sales (BEV, ICE etc.) in the US in CY23 is estimated
    to be at about 15M. This is down from a high in CY19 (pre-pandemic)
-   of about 17M.
+   of about 17M. In CY23, [[https://www.coxautoinc.com/wp-content/uploads/2024/01/Q4-2023-Kelley-Blue-Book-Electric-Vehicle-Sales-Report.pdf][1.2M BEVs were sold]] in the US and, in CY22,
+   0.8M BEVs were sold.
 
-   Tesla expects to sell about 1.8M vehicles world-wide in CY23.
+   In Jan-May 2024, 0.46M BEVs were sold in the US. Assuming a linear
+   trend for the rest of the year, 1.1M BEVs will be sold by the end
+   of the year but Q4 probably accounts for more sales.
 
 
 * Cell types and counts

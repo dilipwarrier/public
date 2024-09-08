@@ -120,3 +120,11 @@
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+
+
+** TODO https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
