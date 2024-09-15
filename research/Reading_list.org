@@ -128,3 +128,11 @@
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+
+
+** TODO Cobot Series B pitch deck https://medium.com/@bp_64302/cobots-series-b-pitch-narrative-b916b6eb3e6f
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
