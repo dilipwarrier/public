@@ -114,11 +114,16 @@
    Setup Survey Monkey survey for each day
 
    Setup guidelines for discussion:
-   - JENTM (just enough, not too much)
-   - Have a healthy discussion then decide whether you have a strong enough opinion that you want to block the action (Be flexible)
-   - Humor is mandatory
-   - Laptops/mobile will be turned off
-   - There will be breaks with fixed times and timer running on the laptop
+   - Have a healthy JENTM (just enough, not too much) discussion and,
+     then, be prepared to come to a decision.
+   - When a decision is made,
+     be flexible. Decide whether you have a strong enough opinion that you
+     want to block the action. This should happen rarely.
+   - Humor is mandatory :)
+   - Everyone except for the presenter and note taker - please turn
+     off laptops and mobile phones
+   - There will be breaks with fixed times. Please be back from breaks
+     on time to keep the meetings efficient.
 
 
 ** 1 day before
