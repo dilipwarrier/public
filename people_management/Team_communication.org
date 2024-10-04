@@ -114,14 +114,25 @@
    Setup Survey Monkey survey for each day
 
    Setup guidelines for discussion:
-   - Have a healthy JENTM (just enough, not too much) discussion and,
-     then, be prepared to come to a decision.
+   - Remember that some attendees may be remote.
+     + Speak clearly and loudly so that they can hear
+     + If you work on a physical whiteboard, aim a camera at it
+     + Pause frequently to include them in the conversation
+
+   - Have a healthy discussion and, then, be prepared to come to a
+     decision. If necessary, the responsible person will break a tie
+     and make a decision. When that happens, please support the
+     decision going forward.
+
    - When a decision is made,
      be flexible. Decide whether you have a strong enough opinion that you
      want to block the action. This should happen rarely.
+
    - Humor is mandatory :)
+
    - Everyone except for the presenter and note taker - please turn
      off laptops and mobile phones
+
    - There will be breaks with fixed times. Please be back from breaks
      on time to keep the meetings efficient.
 
