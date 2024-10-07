@@ -139,7 +139,10 @@
 
 ** 1 day before
 
-   Reminder email to travel to workshop
+   - Reminder email to travel to workshop
+
+   - Get the survey results from the last workshop and review them in
+     the introduction
 
 
 ** During the workshop
