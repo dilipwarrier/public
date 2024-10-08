@@ -136,3 +136,11 @@
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+
+
+** TODO WSJ article Peter Drucker https://www.wsj.com/articles/SB113202230063197204?st=XJaR68
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
