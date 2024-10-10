@@ -136,3 +136,10 @@
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+
+** TODO Read https://www.carscoops.com/2024/09/americas-ev-charging-infrastructure-has-doubled-in-less-than-four-years/
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
