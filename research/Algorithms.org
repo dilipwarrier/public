@@ -128,7 +128,8 @@
 
   If you want to optimize the weighted sum of all processing times,
   then ranking tasks by the benefit divided by the remaining
-  processing time is quite good.
+  processing time is quite good. In other words, you need to rank
+  tasks by the benefit to remainig cost ratio.
 
   It can also be used to handle pre-emption where you do the same
   calculation for each incoming task. If the incoming task has a
@@ -156,11 +157,11 @@
   below it and add a little bit over the average if their age is above
   it.
 
-  Gross incomes for movies are well represented by power laws. In this case,
-  the best predictor is a multiplier factor. For no further knowledge,
-  the best multiplier is 2. For movie incomes, it is known to be about
-  1.4. Thus, if a movie has made $5M
-  so far, your best predictor is that the movie will make $7M
+  On the other hand, gross incomes for movies are well represented by
+  power laws. In this case, the best predictor is a multiplier
+  factor. For no further knowledge, the best multiplier is 2. For
+  movie incomes, it is known to be about 1.4. Thus, if a movie has
+  made $5M so far, your best predictor is that the movie will make $7M
   lifetime. If it has made $50M so far, the best prediction is that it
   will make $70M in its lifetime. Note how this multiplier factor is
   different from the average factor for Gaussian distributions.
