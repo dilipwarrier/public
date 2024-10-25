@@ -143,3 +143,11 @@
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+
+
+** TODO Barbara Oakley learning to learn on Coursera
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
