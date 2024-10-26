@@ -79,13 +79,6 @@ A World Undone: A History of World War I          : G J Meyer            (4.2, w
 
 #+RESULTS:
 :results:
-List of recommended books:
-
-Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
-Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics,textbook)
-Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
-The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society,textbook)
-Strategic Management                              : Charles Hill,...     (4.5, strategy,management,textbook,books-to-read-again)
 :end:
 
 
