@@ -123,11 +123,6 @@
    - State "DONE"       from "TODO"       [2023-04-03 Mon 10:06]
 
 
-** Other tasks
-
-  - Once a week, check if any action items are overdue
-
-
 * Manager
 
 
@@ -179,4 +174,89 @@
 | Setup tasks for next town hall meeting date                                    |  +7 |
 |--------------------------------------------------------------------------------+-----|
 
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2022-03-01", task_time="08:00")
+#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-01-15", task_time="08:00")
+
+#+RESULTS:
+:results:
+*** TODO Ask team to setup games/puzzles etc. for town hall
+    SCHEDULED: <2024-12-25 Wed 08:00>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Ask someone to give spotlight presentation in town hall
+    SCHEDULED: <2024-12-25 Wed 08:00>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup Slido for questions and post-meeting survey to be submitted in town hall
+    SCHEDULED: <2025-01-01 Wed 08:00>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup food if needed for town hall
+    SCHEDULED: <2025-01-01 Wed 08:00>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup updates and prep financial information slides for town hall
+    SCHEDULED: <2025-01-08 Wed 08:00>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Answer questions left-over from town hall
+    SCHEDULED: <2025-01-16 Thu 08:00>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Give recognition for good questions and game organizers in town hall
+    SCHEDULED: <2025-01-22 Wed 08:00>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Release post-meeting survey results from town hall
+    SCHEDULED: <2025-01-22 Wed 08:00>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup tasks for next town hall meeting date
+    SCHEDULED: <2025-01-22 Wed 08:00>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+:end:
