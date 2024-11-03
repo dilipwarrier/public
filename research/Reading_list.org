@@ -90,7 +90,7 @@
   :END:
 
 
-** TODO https://www.raptitude.com/2018/01/if-its-important-learn-it-repeatedly/?utm_source=Newsletter&utm_campaign=84ec8dedbd-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-84ec8dedbd-9546361
+* TODO https://www.raptitude.com/2018/01/if-its-important-learn-it-repeatedly/?utm_source=Newsletter&utm_campaign=84ec8dedbd-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-84ec8dedbd-9546361
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -98,7 +98,7 @@
    :END:
 
 
-** TODO https://drive.google.com/file/d/1GHcVBuoLA9SYPBb1m0WJqcb6PP5F_YwS/view?usp=drivesdk
+* TODO https://drive.google.com/file/d/1GHcVBuoLA9SYPBb1m0WJqcb6PP5F_YwS/view?usp=drivesdk
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -114,7 +114,7 @@
   :END:
 
 
-** TODO http://www.spglobal.com/mobility/en/research-analysis/ev-battery-plants-slowdown.html
+* TODO http://www.spglobal.com/mobility/en/research-analysis/ev-battery-plants-slowdown.html
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -122,7 +122,7 @@
    :END:
 
 
-** TODO https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf
+* TODO https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -130,14 +130,7 @@
    :END:
 
 
-** TODO Cobot Series B pitch deck https://medium.com/@bp_64302/cobots-series-b-pitch-narrative-b916b6eb3e6f
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-** TODO Read https://www.carscoops.com/2024/09/americas-ev-charging-infrastructure-has-doubled-in-less-than-four-years/
+* TODO Cobot Series B pitch deck https://medium.com/@bp_64302/cobots-series-b-pitch-narrative-b916b6eb3e6f
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -145,7 +138,7 @@
    :END:
 
 
-** TODO Barbara Oakley learning to learn on Coursera
+* TODO Read https://www.carscoops.com/2024/09/americas-ev-charging-infrastructure-has-doubled-in-less-than-four-years/
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -153,9 +146,24 @@
    :END:
 
 
-** TODO OCPP requirements https://www.bing.com/search?q=open+charging+alliance+certification+renewal+requirements&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=open+charging+alliance+certification+renewal+requirements+&sc=10-58&sk=&cvid=16D1A17E2FA0491DA541591E79113EEF&ghsh=0&ghacc=0&ghpl=
+* TODO Barbara Oakley learning to learn on Coursera
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
+   :END:
+
+
+* TODO OCPP requirements https://www.bing.com/search?q=open+charging+alliance+certification+renewal+requirements&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=open+charging+alliance+certification+renewal+requirements+&sc=10-58&sk=&cvid=16D1A17E2FA0491DA541591E79113EEF&ghsh=0&ghacc=0&ghpl=
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+* TODO https://www.linkedin.com/pulse/why-ocpp-so-confusing-chris-kaiser-meige/
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
    :END:
