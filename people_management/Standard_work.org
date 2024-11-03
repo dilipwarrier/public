@@ -1,5 +1,5 @@
 #+Title: A list of standard work tasks that a manager may need to do
-#+Filetags: :Manager:
+#+Filetags: :Manager:Work:
 
 * Questions for performance improvement
   :PROPERTIES:
