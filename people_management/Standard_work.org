@@ -119,7 +119,7 @@
 
 
 ** TODO Ask the direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?"
-   SCHEDULED: <2024-11-03 Sun 19:00 +12w>
+   SCHEDULED: <2024-11-10 Sun 19:00 +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
