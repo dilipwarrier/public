@@ -46,7 +46,7 @@
    :END:
 
 
-*** TODO Add mid-quarter goal progress check-in to staff meeting agenda
+*** DONE Add mid-quarter goal progress check-in to staff meeting agenda
     SCHEDULED: <2024-11-10 Sun 20:00>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -55,7 +55,7 @@
    :END:
 
 
-*** TODO Ask directs to complete mid-quarter goals and hold meetings with their directs
+*** DONE Ask directs to complete mid-quarter goals and hold meetings with their directs
     SCHEDULED: <2024-11-10 Sun 20:00>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -109,7 +109,7 @@
    :END:
 
 
-*** TODO Complete my end-quarter goal progress
+*** DONE Complete my end-quarter goal progress
     SCHEDULED: <2024-12-15 Sun 20:00>
    :PROPERTIES:
    :EFFORT: 00:15

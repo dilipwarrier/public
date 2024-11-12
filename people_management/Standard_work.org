@@ -122,15 +122,16 @@
 
    - State "DONE"       from "TODO"       [2024-11-06 Wed 08:11]
 ** TODO Ask the direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?"
-   SCHEDULED: <2024-11-10 Sun 19:00 +12w>
+   SCHEDULED: <2025-02-02 Sun 19:00 +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2024-08-12 Mon 09:49]
+   :LAST_REPEAT: [2024-11-10 Sun 16:58]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-11-10 Sun 16:58]
    - State "DONE"       from "TODO"       [2024-08-12 Mon 09:49]
    - State "DONE"       from "TODO"       [2024-05-20 Mon 13:01]
    - State "DONE"       from "TODO"       [2024-03-03 Sun 17:56]
