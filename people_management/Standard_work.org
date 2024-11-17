@@ -111,7 +111,7 @@
 
 
 ** TODO Have a career conversation with direct reports
-   SCHEDULED: <2024-11-17 Sun 19:00 +4w>
+   SCHEDULED: <2024-11-17 Sun 19:00 +8w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
@@ -121,6 +121,8 @@
 
 
    - State "DONE"       from "TODO"       [2024-11-06 Wed 08:11]
+
+
 ** TODO Ask the direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?"
    SCHEDULED: <2025-02-02 Sun 19:00 +12w>
    :PROPERTIES:
