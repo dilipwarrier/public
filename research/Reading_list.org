@@ -167,3 +167,11 @@
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+
+
+** TODO https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
