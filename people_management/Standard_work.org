@@ -112,15 +112,16 @@
 
 
 ** TODO Have a career conversation with direct reports
-   SCHEDULED: <2024-11-17 Sun 19:00 +8w>
+   SCHEDULED: <2025-01-12 Sun 19:00 +8w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2024-11-06 Wed 08:11]
+   :LAST_REPEAT: [2024-11-18 Mon 10:19]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-11-18 Mon 10:19]
    - State "DONE"       from "TODO"       [2024-11-06 Wed 08:11]
 
 
