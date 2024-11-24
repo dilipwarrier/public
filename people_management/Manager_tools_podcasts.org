@@ -1784,7 +1784,6 @@
    :END:
 
 
-   - State "DONE"       from "TODO"       [2024-11-24 Sun 09:57]
    - State "DONE"       from "TODO"       [2024-11-10 Sun 08:29]
    - State "DONE"       from "TODO"       [2024-10-26 Sat 12:11]
    - State "DONE"       from "TODO"       [2024-10-20 Sun 14:41]
