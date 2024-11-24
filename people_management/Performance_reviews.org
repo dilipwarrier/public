@@ -28,7 +28,7 @@
 
 #+RESULTS:
 :results:
-*** TODO Complete my mid-quarter goal progress check-in
+*** DONE Complete my mid-quarter goal progress check-in
     SCHEDULED: <2024-11-17 Sun 19:00>
    :PROPERTIES:
    :EFFORT: 00:15
