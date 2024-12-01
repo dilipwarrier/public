@@ -150,12 +150,13 @@
 
 
 ** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]]
-   SCHEDULED: <2024-11-28 Thu 08:00 +12w>
+   SCHEDULED: <2025-02-20 Thu 08:00 +12w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-09-04 Wed 16:15]
+   :LAST_REPEAT: [2024-11-28 Thu 09:48]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-11-28 Thu 09:48]
    - State "DONE"       from "TODO"       [2024-09-04 Wed 16:15]
    - State "DONE"       from "TODO"       [2024-06-14 Fri 07:54]
    - State "DONE"       from "TODO"       [2024-03-24 Sun 20:58]
