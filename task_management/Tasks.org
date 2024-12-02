@@ -20,7 +20,7 @@ field matches text in the tag.
 | Task 3 |  1 |          |
 
 #+NAME: generate_tasks_from_offset
-#+BEGIN_SRC python :results output raw replace drawer :var tab = test_table start_date = "" task_time="20:00" tags = ""
+#+BEGIN_SRC python :results output raw replace drawer :var tab = test_table start_date = "" task_time="19:00" tags = ""
   # Generate a list of tasks with scheduled dates in Org format
   #
   # Input list tab contains a list of lists of at most 3 values: name, offset and tag
