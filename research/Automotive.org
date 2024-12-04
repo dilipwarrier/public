@@ -226,6 +226,25 @@
   than fires in vehicles in general.
 
 
+* EV charging
+
+  A standard AC socket in the US (120 V, 15 A) can give about 1.8 kW of
+  power. A level 2 charger (240 V, 30 A) can provide about 7.2 kW of
+  power.
+
+  DC fast chargers (Level 3) can provide up to 150 kW of power. For a
+  70 kWh battery, that implies full charge in about 30 min. The same
+  full charge would take 10 hours on a level 2 charger.
+
+  An average US home consumes about 1 kW of power, so a DC fast
+  charger is equivalent to about 150 homes at its peak charging. Even
+  a level 2 charger is equivalent to about 7 US homes.
+
+  US charging stations can be located using [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][this site]].
+
+  As of Dec 1st, there were 12k DCFCs and 60k L2s in the US.
+
+
 * Automotive Tier-1 suppliers
 
   [[https://www.autonews.com/live-blog/2023-top-auto-suppliers-giants-grow-new-era][In 2023]], Bosch was the largest Automotive Tier-1 with an annual
