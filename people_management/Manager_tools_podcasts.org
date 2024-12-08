@@ -1775,15 +1775,16 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/user?destination=all-podcasts][podcast]]
-   SCHEDULED: <2024-12-07 Sat 16:00 +2w>
+   SCHEDULED: <2024-12-21 Sat 16:00 +2w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-11-24 Sun 09:57]
+   :LAST_REPEAT: [2024-12-07 Sat 18:24]
    :EFFORT:   00:30
    :BENEFIT:  40
    :RATIO:    0.80
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-12-07 Sat 18:24]
    - State "DONE"       from "TODO"       [2024-11-10 Sun 08:29]
    - State "DONE"       from "TODO"       [2024-10-26 Sat 12:11]
    - State "DONE"       from "TODO"       [2024-10-20 Sun 14:41]
