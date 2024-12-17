@@ -55,7 +55,7 @@
    :END:
 
 
-*** TODO Review skip-level goal progress
+*** DONE Review skip-level goal progress
     SCHEDULED: <2024-12-15 Sun 20:00>
    :PROPERTIES:
    :EFFORT: 00:15

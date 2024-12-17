@@ -2,6 +2,88 @@
 #+FILETAGS: :Learning:
 #+STARTUP: content
 
+* EV global market trends
+
+
+** S&P Mobility Dec 2024
+
+   S&P Mobility predicts that US BEV sales will only be at 5M
+   units in 2030, down from a previous projection of 6.5M. This means
+   BEVs will only account for 30% of a total US auto sales of about
+   16M.
+
+
+** Goldman Sachs report June 2024
+
+   [[file:Screenshot 2024-06-01 122638.png]]
+
+   This [[https://www.goldmansachs.com/intelligence/pages/why-are-ev-sales-slowing.html][report]] argues that the bear case for EVs is more likely. The
+   bear case is that BEVs will account for 25M (25% of world-wide
+   market) in 2030. The hyper-adoption case was that EVs would
+   account for 45M (45% of world-wide market) in 2030. The
+   hyper-adoption case in the GS article is the same as the numbers in
+   the EV Volumes case below.
+
+   Roughly 10M EVs were sold in 2022. So, this is a CAGR of 12% up
+   to 2030. The CAGR for the hyper-adoption case is 21%.
+
+
+** EV Volumes 2023
+:PROPERTIES:
+:CUSTOM_ID: EV_Volumes_2023
+:END:
+
+   According to the [[https://www.iea.org/data-and-statistics/charts/electric-car-registrations-and-sales-share-in-china-united-states-and-europe-2018-2023][IEA 2024 outlook]], a total of 13.8M BEVs + PHEVs
+   were sold world-wide. Those numvers were 8.1M in China, 3.3M for
+   Europe, and 1.4M for US.
+
+   From [[#EV_Volumes_2023][EV Volumes 2023]], the world total was 10.5M in 2022. That's
+   still a 30% increase.
+
+   According to [[https://www.ev-volumes.com/country/total-world-plug-in-vehicle-volumes/][EV Volumes]], about 10.5M EVs were sold globally
+   in 2022. This was 13% of all passenger vehicles. Out of this, about
+   7.5M were BEVs and about 3M were PHEVs. By 2030, the
+   number is expected to be at 46M (about 45% of the total light
+   vehicle market).
+
+   [[file:Screenshot 2023-04-23 171648.png]]
+
+   [[file:Screenshot 2023-12-07 130520.png]]
+
+   According to slide 22 of the [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view][Battery Health Report]], about 6.2M EVs were sold in
+   China (about 60% of the global market), 2.7M in Europe and 1.1M were
+   sold in the US. This was a 55% increase from 2021.
+
+   The total car sales (BEV, PHEV, ICE, etc.) in the US in CY23 is estimated
+   to be at about 15M. This is down from a high in CY19 (pre-pandemic)
+   of about 17M. In CY23, [[https://www.coxautoinc.com/wp-content/uploads/2024/01/Q4-2023-Kelley-Blue-Book-Electric-Vehicle-Sales-Report.pdf][1.2M BEVs were sold]] in the US and, in CY22,
+   0.8M BEVs were sold.
+
+
+* EV charging and charger trends
+
+  A standard AC socket in the US (120 V, 15 A) can give about 1.8 kW of
+  power. A Level 2 charger (240 V, 30 A) can provide about 7.2 kW of
+  power.
+
+  DC fast chargers (Level 3) can provide up to 150 kW of power. For a
+  70 kWh battery, that implies full charge in about 30 min. The same
+  full charge would take 10 hours on a level 2 charger.
+
+  An average US home consumes about 1 kW of power, so a DC fast
+  charger is equivalent to about 150 homes at its peak charging. Even
+  a level 2 charger is equivalent to about 7 US homes.
+
+  US charging stations can be located using [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][this DoE site]].
+
+  As of Dec 1st, there were 12k public DCFCs and 60k public L2s in the
+  US.
+
+  There's a discrepancy between this data and the IEA data that shows
+  100k public slow chargers in the US. Perhaps, the DoE count is less
+  because it only counts live chargers.
+
+
 * Picture of automotive engine
 
   [[file:Screenshot 2023-08-26 173914.jpg][Diagram of engine]]
@@ -82,53 +164,6 @@
   compared to 70 degrees Fahrenheit.
 
   See also [[#EV_range][Range]].
-
-
-* EV global market trends
-
-
-** Goldman Sachs report June 2024
-
-   [[file:Screenshot 2024-06-01 122638.png]]
-
-   This [[https://www.goldmansachs.com/intelligence/pages/why-are-ev-sales-slowing.html][report]] argues that the bear case for EVs is more likely. The
-   bear case is that BEVs will account for 25M (25% of world-wide
-   market) by 2030. The hyper-adoption case was that BEVs would
-   account for 45M (45% of world-wide market) by 2030. The
-   hyper-adoption case in the GS article is the same as the numbers in
-   the EV Volumes case below.
-
-   Roughly 10M EVs were sold in 2023. So, this is a CAGR of 14% up to 2030.
-
-   The CAGRs for the base and hyper-adoption cases are 19% and 24%
-   respectively.
-
-
-** EV Volumes 2023
-
-   According to [[https://www.ev-volumes.com/country/total-world-plug-in-vehicle-volumes/][EV Volumes]], about 10.5M EVs were sold globally
-   in 2022. This was 13% of all passenger vehicles. Out of this, about
-   7.5M were BEVs and about 3M were PHEVs. By 2030, the
-   number is expected to be at 46M (about 45% of the total light
-   vehicle market). This is an average growth rate of 21% every year
-   for 8 years.
-
-   [[file:Screenshot 2023-04-23 171648.png]]
-
-   [[file:Screenshot 2023-12-07 130520.png]]
-
-   According to slide 22 of the [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view][Battery Health Report]], about 6.2M EVs were sold in
-   China (about 60% of the global market), 2.7M in Europe and 1.1M were
-   sold in the US. This was a 55% increase from 2021.
-
-   The total car sales (BEV, ICE etc.) in the US in CY23 is estimated
-   to be at about 15M. This is down from a high in CY19 (pre-pandemic)
-   of about 17M. In CY23, [[https://www.coxautoinc.com/wp-content/uploads/2024/01/Q4-2023-Kelley-Blue-Book-Electric-Vehicle-Sales-Report.pdf][1.2M BEVs were sold]] in the US and, in CY22,
-   0.8M BEVs were sold.
-
-   In Jan-May 2024, 0.46M BEVs were sold in the US. Assuming a linear
-   trend for the rest of the year, 1.1M BEVs will be sold by the end
-   of the year but Q4 probably accounts for more sales.
 
 
 * Cell types and counts
@@ -220,29 +255,10 @@
   variation.
 
 
-* EV fires
 
+* EV fires
   According to [[https://spectrum.ieee.org/lithium-ion-battery-fires][IEEE Spectrum]], fires in batteries in EVs have a lower incidence rate
   than fires in vehicles in general.
-
-
-* EV charging
-
-  A standard AC socket in the US (120 V, 15 A) can give about 1.8 kW of
-  power. A level 2 charger (240 V, 30 A) can provide about 7.2 kW of
-  power.
-
-  DC fast chargers (Level 3) can provide up to 150 kW of power. For a
-  70 kWh battery, that implies full charge in about 30 min. The same
-  full charge would take 10 hours on a level 2 charger.
-
-  An average US home consumes about 1 kW of power, so a DC fast
-  charger is equivalent to about 150 homes at its peak charging. Even
-  a level 2 charger is equivalent to about 7 US homes.
-
-  US charging stations can be located using [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][this site]].
-
-  As of Dec 1st, there were 12k DCFCs and 60k L2s in the US.
 
 
 * Automotive Tier-1 suppliers
