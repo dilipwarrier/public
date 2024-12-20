@@ -1399,7 +1399,7 @@
 
 
 *** TODO Do an executive 360 evaluation from the recommendation above
-    SCHEDULED: <2024-12-20 Fri 08:00>
+    SCHEDULED: <2025-06-01 Sun 08:00>
     :PROPERTIES:
     :EFFORT:   01:00
     :BENEFIT:  100
