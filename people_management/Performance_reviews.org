@@ -24,9 +24,11 @@
 | Complete my end-quarter goal progress                                          | +75 |
 |--------------------------------------------------------------------------------+-----|
 
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab = Performance_review_tasks, start_date="2024-10-01")
+#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab = Performance_review_tasks, start_date="2025-01-01")
 
 #+RESULTS:
+:results:
+:end:
 :results:
 *** TODO Run automated task creation script for next quarter's goals activities
     SCHEDULED: <2024-12-10 Tue 20:00>
