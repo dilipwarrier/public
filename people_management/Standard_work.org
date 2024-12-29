@@ -15,12 +15,13 @@
 
 
 ** TODO Clean up calendar for the upcoming week through next Monday :Mobile:Offline:
-   SCHEDULED: <2024-12-27 Fri 19:00 +1w>
+   SCHEDULED: <2025-01-03 Fri 19:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-12-24 Tue 02:56]
+   :LAST_REPEAT: [2024-12-29 Sun 08:55]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2024-12-29 Sun 08:55]
    - State "DONE"       from "TODO"       [2024-12-24 Tue 02:56]
    - State "DONE"       from "TODO"       [2024-12-15 Sun 20:59]
    - State "DONE"       from "TODO"       [2024-12-07 Sat 02:23]
@@ -206,24 +207,6 @@
 
 #+RESULTS:
 :results:
-*** DONE Ask team to setup games/puzzles etc. for town hall
-    SCHEDULED: <2024-12-25 Wed 08:00>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Ask someone to give spotlight presentation in town hall
-    SCHEDULED: <2024-12-25 Wed 08:00>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
 *** TODO Setup Slido for questions and post-meeting survey to be submitted in town hall
     SCHEDULED: <2025-01-01 Wed 08:00>
    :PROPERTIES:
