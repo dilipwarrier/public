@@ -30,7 +30,7 @@
 :results:
 :end:
 :results:
-*** TODO Run automated task creation script for next quarter's goals activities
+*** DONE Run automated task creation script for next quarter's goals activities
     SCHEDULED: <2024-12-10 Tue 20:00>
    :PROPERTIES:
    :EFFORT: 00:15
