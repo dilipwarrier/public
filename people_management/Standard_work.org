@@ -191,17 +191,17 @@
 ** Task list for town hall meetings
 
 #+NAME: town_hall_tasks
-|--------------------------------------------------------------------------------+-----|
-| Ask team to setup games/puzzles etc. for town hall                             | -21 |
-| Ask someone to give spotlight presentation in town hall                        | -21 |
-| Setup Slido for questions and post-meeting survey to be submitted in town hall | -14 |
-| Setup food if needed for town hall                                             | -14 |
-| Setup updates and prep financial information slides for town hall              |  -7 |
-| Answer questions left-over from town hall                                      |  +1 |
-| Give recognition for good questions and game organizers in town hall           |  +7 |
-| Release post-meeting survey results from town hall                             |  +7 |
-| Setup tasks for next town hall meeting date                                    |  +7 |
-|--------------------------------------------------------------------------------+-----|
+|-------------------------------------------------------------------------------+-----|
+| Ask team to setup games/puzzles etc. for town hall                            | -21 |
+| Ask someone to give spotlight presentation in town hall                       | -21 |
+| Setup site for questions and post-meeting survey to be submitted in town hall | -14 |
+| Setup food, if needed, for town hall                                          | -14 |
+| Setup updates and prep financial information slides for town hall             |  -7 |
+| Answer questions left-over from town hall                                     |  +1 |
+| Give recognition/swag for good questions and organizers in town hall          |  +7 |
+| Release post-meeting survey results from town hall                            |  +7 |
+| Setup tasks for next town hall meeting date                                   |  +7 |
+|-------------------------------------------------------------------------------+-----|
 
 #+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-01-15", task_time="08:00")
 
@@ -216,7 +216,7 @@
    :END:
 
 
-*** TODO Setup food if needed for town hall
+*** DONE Setup food if needed for town hall
     SCHEDULED: <2025-01-01 Wed 08:00>
    :PROPERTIES:
    :EFFORT: 00:15
