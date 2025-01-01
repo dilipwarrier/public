@@ -208,7 +208,7 @@
 #+RESULTS:
 :results:
 *** TODO Setup Slido for questions and post-meeting survey to be submitted in town hall
-    SCHEDULED: <2025-01-01 Wed 08:00>
+    SCHEDULED: <2025-01-02 Thu 08:00>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10

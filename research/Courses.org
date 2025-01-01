@@ -2,13 +2,20 @@
 #+FILETAGS: :Learning:
 #+STARTUP: content
 
-* Useful Coursera courses
+* Useful Coursera courses                                   :Active:Projects:
 
 
-** Courses in priority
+** TODO [#A] Complete Coursera course [[https://www.coursera.org/learn/cyber-security-fundamentals][Cyber security fundamentals]]
+   :END:
+
+   :PROPERTIES:
+   :EFFORT:   04:00
+   :BENEFIT:  1000
+   :RATIO:    2.50
+   :END:
 
 
-*** TODO Learn Grafana
+** TODO Learn Grafana
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  10
@@ -16,47 +23,15 @@
   :END:
 
 
-*** TODO Complete Coursera course [[https://www.coursera.org/learn/containerized-applications-on-aws][Containerized applications on AWS]] (audit)
+** TODO Barbara Oakley learning to learn on Coursera
    :PROPERTIES:
-   :EFFORT:   04:00
-   :BENEFIT:  1000
-   :RATIO:    2.50
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
    :END:
 
 
-*** TODO Complete Coursera course [[https://www.coursera.org/learn/industrial-iot-fundamentals-on-aws#syllabus][Industrial IoT on AWS]]
-   :PROPERTIES:
-   :EFFORT:   04:00
-   :BENEFIT:  1000
-   :RATIO:    2.50
-   :END:
-
-
-*** TODO Complete Coursera course [[https://www.coursera.org/learn/aws-machine-learning#syllabus][AWS machine learning]]
-   :PROPERTIES:
-   :EFFORT:   04:00
-   :BENEFIT:  1000
-   :RATIO:    2.50
-   :END:
-
-
-*** TODO Complete Coursera course [[https://www.coursera.org/learn/cyber-security-fundamentals][Cyber security fundamentals]]
-   :PROPERTIES:
-   :EFFORT:   04:00
-   :BENEFIT:  1000
-   :RATIO:    2.50
-   :END:
-
-
-*** TODO Complete Coursera course [[https://www.coursera.org/learn/bayesian-statistics?specialization=bayesian-statistics][Bayesian statistics]]
-   :PROPERTIES:
-   :EFFORT:   04:00
-   :BENEFIT:  1000
-   :RATIO:    2.50
-   :END:
-
-
-** Specializations
+* Specializations
 
    + Applied data science with Python
       - 5 months * 4 weeks * 7 hours/week = 140 hours
