@@ -20,8 +20,8 @@
 * Recurring tasks
 
 
-** TODO Donate $1200 to [[https://secure.givewell.org/][Give Well through Paypal]] and apply for donation matching at [[https://app.joindeed.org/login/sso][Schneider Deed]] (Search using "Givewell" - no space) :PC:
-   SCHEDULED: <2025-01-03 Fri 13:30 +1m>
+** TODO Donate $1320 to [[https://secure.givewell.org/][Give Well through Paypal]] and apply for donation matching at [[https://app.joindeed.org/login/sso][Schneider Deed]] (Search using "Givewell" - no space) :PC:
+   SCHEDULED: <2025-01-04 Sat 16:00 +4w>
    :PROPERTIES:
    :LAST_REPEAT: [2024-12-05 Thu 08:41]
    :END:
@@ -92,11 +92,12 @@
 
 
 ** TODO Increase donation amount per month (see above) by 10%
-   SCHEDULED: <2025-01-26 Sun 08:00 +52w>
+   SCHEDULED: <2026-01-25 Sun 08:00 +52w>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2024-01-07 Sun 10:50]
+:LAST_REPEAT: [2025-01-03 Fri 06:54]
 :END:
+- State "DONE"       from "TODO"       [2025-01-03 Fri 06:54]
 - State "DONE"       from "TODO"       [2024-01-07 Sun 10:50]
