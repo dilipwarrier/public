@@ -17,12 +17,18 @@
    the main ones.
 
 
-* Recurring tasks
+* Recurring donation tasks
+:PROPERTIES:
+:CUSTOM_ID: recurring_donation_tasks
+:END:
 
 
-** TODO Donate $1200 to [[https://secure.givewell.org/][Give Well through Paypal]] and apply for donation matching at [[https://app.joindeed.org/login/sso][Schneider Deed]] (Search using "Givewell" - no space) :PC:
+** TODO Donate $1320 to [[https://secure.givewell.org/][Give Well through Paypal]] and apply for donation matching at [[https://app.joindeed.org/login/sso][Schneider Deed]] (Search using "Givewell" - no space) :PC:
    SCHEDULED: <2025-01-04 Sat 16:00 +1m>
    :PROPERTIES:
+   :EFFORT:  00:15
+   :BENEFIT: 4000
+   :RATIO: 3.00
    :LAST_REPEAT: [2024-12-05 Thu 08:41]
    :END:
    - State "DONE"       from "TODO"       [2024-12-05 Thu 08:41]
@@ -91,12 +97,13 @@
 
 
 
-** TODO Increase donation amount per month (see above) by 10%
-   SCHEDULED: <2025-01-26 Sun 08:00 +52w>
+** TODO Increase donation amount per month (see above) by 10%, update cost and benefit fields based on [[id:7d940e83-ba83-4650-9076-797cc3271ca6][multiplier calculation]]
+   SCHEDULED: <2025-12-24 Wed 08:00 +52w>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2024-01-07 Sun 10:50]
+:LAST_REPEAT: [2025-01-04 Sat 14:57]
 :END:
+- State "DONE"       from "TODO"       [2025-01-04 Sat 14:57]
 - State "DONE"       from "TODO"       [2024-01-07 Sun 10:50]
