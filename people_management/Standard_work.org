@@ -15,12 +15,13 @@
 
 
 ** TODO Clean up calendar for the upcoming week through next Monday :Mobile:Offline:
-   SCHEDULED: <2025-01-03 Fri 19:00 +1w>
+   SCHEDULED: <2025-01-10 Fri 19:00 +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2024-12-29 Sun 08:55]
+   :LAST_REPEAT: [2025-01-03 Fri 19:45]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-01-03 Fri 19:45]
    - State "DONE"       from "TODO"       [2024-12-29 Sun 08:55]
    - State "DONE"       from "TODO"       [2024-12-24 Tue 02:56]
    - State "DONE"       from "TODO"       [2024-12-15 Sun 20:59]
@@ -208,7 +209,7 @@
 #+RESULTS:
 :results:
 *** TODO Setup Slido for questions and post-meeting survey to be submitted in town hall
-    SCHEDULED: <2025-01-03 Fri 08:00>
+    SCHEDULED: <2025-01-06 Mon 08:00>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10

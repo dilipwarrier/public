@@ -18,6 +18,9 @@
   :BENEFIT:  25
   :RATIO:    1.00
   :END:
+  :LOGBOOK:
+  CLOCK: [2025-01-04 Sat 07:00]--[2025-01-04 Sat 08:00] =>  1:00
+  :END:
 
 
 ** TODO Read an article from the [[https://blog.creativesafetysupply.com/category/kaizen/][Kaizen continuous improvement blog]]
@@ -157,6 +160,12 @@
 
 
 ** TODO Kempower article on charging from AWS
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :END:
+** TODO Find a book on cleaning the house 5S, Marie Kondo, etc
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25

@@ -288,14 +288,11 @@ Shyam Selvadurai
 ** Books to read by genre
 
 #+begin_src shell :results drawer :exports both
-  ../item_recommender/recommend_book.py -g design -r 20 books_list.csv
+  ../item_recommender/recommend_book.py -g espionage -r 20 books_list.csv
 #+end_src
 
 #+RESULTS:
 :results:
-List of recommended books:
-
-Storytelling with data                            : Cole Nussbaumer...   (4.3, design)
 :end:
 
 

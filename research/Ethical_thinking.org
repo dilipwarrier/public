@@ -59,7 +59,7 @@
   right against interference. By their argument, everyone has a right
   against interference from others but not a right to assistance from
   others. However, this may not hold due to problems like buying
-  resources from despots, global warming and purchasing products the
+  resources from despots, global warming, and purchasing products the
   manufacture of which causes suffering to others.
 
 
@@ -138,11 +138,12 @@
   parochialism in generosity, illusion of futility, notion of fairness,
   distributed responsibility etc.
 
-  Economists like William Easterly have argued that giving aid can be a wasteful
-  effort. However, this is usually concerned with large donors such as
-  governments, World Bank etc. An individual or a group's donations are
-  unlikely to be affected by this. However, individuals should try to
-  find the best use of their money through reasonable study.
+  Economists like William Easterly have argued that giving aid can be
+  a wasteful effort. However, this is usually concerned with large
+  donors such as governments, World Bank etc. An individual or a
+  group's donations are unlikely to be affected by this. However,
+  individuals should try to find the best use of their money through
+  reasonable study.
 
   Moral consequentialist theory may suggest that you should save a
   reasonable amount for your discretionary expenses and donate
@@ -154,6 +155,25 @@
   Even donating 5-10% of your net income and spreading the word to
   others can make a significant difference. There is higher chance of
   adoption of this level too.
+
+
+** My donations
+:PROPERTIES:
+:CUSTOM_ID: my_donations
+:ID:       7d940e83-ba83-4650-9076-797cc3271ca6
+:END:
+
+  By the argument above, a donation of $5000 in 2025 can save a life
+  in a poor country which can be valued at, say, $100,000. $100k is a
+  pretty conservative estimate of the lifetime value of a human
+  being. Thus, an investment of $5000 today generates a lifetime
+  revenue of $100,000. Let us assume that the investment is made in a
+  newborn baby. Let us assume that this person generates no income for
+  20 years and then generates $2.5k/year for 40 years. By this scheme,
+  the NPV to that person is about $16k at a market rate of 5%.
+
+  Thus, for my donations, I can assume 16k/5k or a multiplier of 3
+  for value. This assumes no employer matching.
 
 
 * Effective Altruism
@@ -232,5 +252,5 @@ lend to a group of people. The group emerges through social pressure
 that everyone in the group makes payments on time. Due to these strict
 rules, it's harder for example to borrow for health related
 emergencies where people may not be able to pay back
-immediately. Moneylenders continue tu operate k and charge much higher
+immediately. Moneylenders continue to operate and charge much higher
 interests even in areas where such insuring are active.
