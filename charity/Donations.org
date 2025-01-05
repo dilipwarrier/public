@@ -24,13 +24,14 @@
 
 
 ** TODO Donate $1320 to [[https://secure.givewell.org/][Give Well through Paypal]] and apply for donation matching at [[https://app.joindeed.org/login/sso][Schneider Deed]] (Search using "Givewell" - no space) :PC:
-   SCHEDULED: <2025-01-04 Sat 16:00 +4w>
+   SCHEDULED: <2025-02-01 Sat 16:00 +4w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 4000
    :RATIO: 3.00
-   :LAST_REPEAT: [2024-12-05 Thu 08:41]
+   :LAST_REPEAT: [2025-01-04 Sat 19:35]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-04 Sat 19:35]
    - State "DONE"       from "TODO"       [2024-12-05 Thu 08:41]
    - State "DONE"       from "TODO"       [2024-11-08 Fri 20:40]
    - State "DONE"       from "TODO"       [2024-10-10 Thu 05:18]
