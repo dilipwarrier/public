@@ -31,6 +31,27 @@
 ** Bertrand Russell: The trouble with the world is that the stupid are cocksure and the intelligent full of doubt. :quotes:
 
 
+* Coursera course "Learning to learn" by Barbara Oakley     :Active:Projects:
+:PROPERTIES:
+:CUSTOM_ID: learning_to_learn
+:END:
+:LOGBOOK:
+CLOCK: [2025-01-05 Sun 16:52]--[2025-01-05 Sun 17:39] =>  0:47
+CLOCK: [2025-01-05 Sun 16:20]--[2025-01-05 Sun 16:49] =>  0:29
+:END:
+
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2025-01-05 Sun 16:49]
+| Headline                               | Time   |
+|----------------------------------------+--------|
+| *Total time*                           | *0:29* |
+|----------------------------------------+--------|
+| Coursera course "Learning to learn"... | 0:29   |
+#+END:
+
+   [[https://www.coursera.org/learn/learning-how-to-learn/][Link to Coursera course]]
+
+
 * Types of bias
 
   This note lists some key biases that affect our thinking. Methods to overcome bias are noted here.
@@ -92,8 +113,9 @@
 
 ** Confirmation bias
 
-   We tend to look for confirmations of long-held wisdom rather than violations.
-   Jonathan Haidt makes this point in the context of morality.
+   We tend to look for confirmations of long-held wisdom rather than
+   violations. Jonathan Haidt makes this point in the context of
+   morality.
 
 
 ** Attribution bias
@@ -101,6 +123,8 @@
    We tend to believe that what people do reflects who they are. As a
    consequence, we overestimate how consistent others' behavior will
    be.
+
+   This is also called Fundamental Attribution Error.
 
 
 ** Social desirability bias

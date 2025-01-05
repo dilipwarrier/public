@@ -2,7 +2,7 @@
 #+FILETAGS: :Learning:
 #+STARTUP: content
 
-* Useful Coursera courses                                   :Active:Projects:
+* Useful Coursera courses                                          :Projects:
 
 
 ** DONE Learn Grafana

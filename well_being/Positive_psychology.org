@@ -103,10 +103,10 @@
   :CUSTOM_ID: Cost of one QALY
   :END:
 
-  From the WSJ article, ICER puts the cost of one QALY in the US at
+  From the [[ https://www.wsj.com/articles/obscure-model-puts-a-price-on-good-healthand-drives-down-drug-costs-11572885123][WSJ article]], ICER puts the cost of one QALY in the US at
   $150,000. A graph of QALYs used by other countries is in the
   article. The approach of using QALYs was first established in the
   UK.
 
 
-* John Donne: No man is an island, entire of itself; ...therefore never send to know for whom the bells tolls; it tolls for thee. :quotes:
+** John Donne: No man is an island, entire of itself; ...therefore never send to know for whom the bells tolls; it tolls for thee. :quotes:

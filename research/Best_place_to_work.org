@@ -2,7 +2,7 @@
 #+FILETAGAS: :Management:BookNotes:Learning:
 #+STARTUP: :content:
 
-* Problem statement
+* How to handle employee disengagement
 
   A Gallup poll has found that 70% of Americans are disengaged from
   their work. Although management in most companies recognize this
@@ -10,8 +10,11 @@
   way. This is partly due to reliance on manufacturing methods like
   Taylorism that do not make sense for today's knowledge workers.
 
+  The following sections describe some easy actions that organizations
+  and managers can take to resolve this problem.
 
-* Lessons of failure
+
+** Lessons of failure
 
   High achievers fail multiple times and make a lot more attempts than
   others. Workplaces should not encourage individuals to do the same
@@ -19,7 +22,7 @@
   climate.
 
 
-* Lessons of workspace design
+** Lessons of workspace design
 
   Introduce elements from nature such as seating next to large
   windows, aquariums, plants etc.
@@ -37,7 +40,7 @@
   office space to allow the brain to recharge.
 
 
-* Lessons of distractions and play
+** Lessons of distractions and play
 
   Modern leaders should consider themselves less as designers and more
   as gardeners who help the seeds of ideas in employees' minds grow.
@@ -51,8 +54,10 @@
   physical exercise can lead to improved complex task processing. Make
   time for these in company schedules.
 
+  See also [[./Brain.org::#learning_to_learn][Learning to learn]].
 
-* Lessons of happiness
+
+** Lessons of happiness
 
   When the team needs to think big-picture or to brainstorm, then
   starting with good news that makes the team happy can improve
@@ -64,13 +69,13 @@
   occasionally) can have a greater impact on employee wellness than
   large infrequent positive experiences.
 
-  Haev occasional forums where people express gratitude for the things
+  Have occasional forums where people express gratitude for the things
   that go well. For instance, you can have a meeting dedicated only to
   the accomplishments over the past month rather than the gaps or
   delays.
 
 
-* Lessons of friendship
+** Lessons of friendship
 
   Employees feel more connected to work when they have strong
   friendships at work. Find opportunities for employees to connect on
@@ -93,7 +98,7 @@
   human communications but be careful about encouraging it too much.
 
 
-* Lessons of autonomy
+** Lessons of autonomy
 
   Let the team steer its own path. Your job is to ask questions and
   provide feedback.
@@ -113,7 +118,7 @@
   anonymity.
 
 
-* Lessons of listening
+** Lessons of listening
 
   Increase your listening-to-talking ratio and your
   questions-to-answers ratio.
@@ -127,4 +132,4 @@
   their overall capability.
 
 
-** Ron Friedman: You do not progress in your career by winning arguments; you progress by finding common ground. :quotes:
+*** Ron Friedman: You do not progress in your career by winning arguments; you progress by finding common ground. :quotes:

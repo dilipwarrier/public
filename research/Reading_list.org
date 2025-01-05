@@ -4,6 +4,7 @@
 
 * Tasks
 
+
 ** TODO Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]                         :Software:
   :PROPERTIES:
   :EFFORT: 00:15
@@ -12,7 +13,7 @@
   :END:
 
 
-** TODO Review [[https://lethain.com/measuring-engineering-organizations/?utm_source=Newsletter&utm_campaign=3b3237f0a0-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-3b3237f0a0-9546361][measurement for engineering orgs]]                   :Management:
+** TODO [#A] Review [[https://lethain.com/measuring-engineering-organizations/?utm_source=Newsletter&utm_campaign=3b3237f0a0-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-3b3237f0a0-9546361][measurement for engineering orgs]]             :Management:
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
@@ -165,6 +166,7 @@
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+
 ** TODO Find a book on cleaning the house 5S, Marie Kondo, etc
    :PROPERTIES:
    :EFFORT: 00:15
