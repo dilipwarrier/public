@@ -1775,7 +1775,7 @@
 
 
 ** TODO Listen to the next Executive tools [[https://www.manager-tools.com/user?destination=all-podcasts][podcast]]
-   SCHEDULED: <2025-01-04 Sat 16:00 +2w>
+   SCHEDULED: <2025-01-18 Sat 15:00 +2w>
    :PROPERTIES:
    :LAST_REPEAT: [2024-12-21 Sat 16:36]
    :EFFORT:   00:30
