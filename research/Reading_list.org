@@ -173,3 +173,9 @@
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+** TODO Read about process flow and flow chart drawing conventions
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :END:
