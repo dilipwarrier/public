@@ -193,10 +193,8 @@
 
 #+NAME: town_hall_tasks
 |-------------------------------------------------------------------------------+-----|
-| Ask team to setup games/puzzles etc. for town hall                            | -21 |
 | Ask someone to give spotlight presentation in town hall                       | -21 |
 | Setup site for questions and post-meeting survey to be submitted in town hall | -14 |
-| Setup food, if needed, for town hall                                          | -14 |
 | Setup updates and prep financial information slides for town hall             |  -7 |
 | Answer questions left-over from town hall                                     |  +1 |
 | Give recognition/swag for good questions and organizers in town hall          |  +7 |
@@ -204,12 +202,14 @@
 | Setup tasks for next town hall meeting date                                   |  +7 |
 |-------------------------------------------------------------------------------+-----|
 
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-01-15", task_time="08:00")
+#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-02-05", task_time="08:00")
 
 #+RESULTS:
 :results:
-*** TODO Setup Slido for questions and post-meeting survey to be submitted in town hall
-    SCHEDULED: <2025-01-06 Mon 08:00>
+
+
+*** TODO Ask someone to give spotlight presentation in town hall
+    SCHEDULED: <2025-01-15 Wed 08:00>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -217,8 +217,8 @@
    :END:
 
 
-*** DONE Setup food if needed for town hall
-    SCHEDULED: <2025-01-01 Wed 08:00>
+*** TODO Setup site for questions and post-meeting survey to be submitted in town hall
+    SCHEDULED: <2025-01-22 Wed 08:00>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -227,7 +227,7 @@
 
 
 *** TODO Setup updates and prep financial information slides for town hall
-    SCHEDULED: <2025-01-08 Wed 08:00>
+    SCHEDULED: <2025-01-29 Wed 08:00>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -236,7 +236,7 @@
 
 
 *** TODO Answer questions left-over from town hall
-    SCHEDULED: <2025-01-16 Thu 08:00>
+    SCHEDULED: <2025-02-06 Thu 08:00>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -244,8 +244,8 @@
    :END:
 
 
-*** TODO Give recognition for good questions and game organizers in town hall
-    SCHEDULED: <2025-01-22 Wed 08:00>
+*** TODO Give recognition/swag for good questions and organizers in town hall
+    SCHEDULED: <2025-02-12 Wed 08:00>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -254,7 +254,7 @@
 
 
 *** TODO Release post-meeting survey results from town hall
-    SCHEDULED: <2025-01-22 Wed 08:00>
+    SCHEDULED: <2025-02-12 Wed 08:00>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -263,7 +263,7 @@
 
 
 *** TODO Setup tasks for next town hall meeting date
-    SCHEDULED: <2025-01-22 Wed 08:00>
+    SCHEDULED: <2025-02-12 Wed 08:00>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -272,3 +272,4 @@
 
 
 :end:
+:results:

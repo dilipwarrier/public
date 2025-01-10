@@ -2,7 +2,7 @@
 #+FILETAGS: :Learning:
 #+STARTUP: content
 
-* Tasks
+* Learning tasks                                                   :Projects:
 
 
 ** TODO Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]                         :Software:
@@ -32,7 +32,7 @@
   :END:
 
 
-** TODO Read [[https://www.detroitnews.com/story/business/autos/2023/02/07/electric-vehicles-power-houses-tdn/69880483007/][V2X charging paper]]                        :Offline:PC:Automotive:
+** TODO Read [[https://www.detroitnews.com/story/business/autos/2023/02/07/electric-vehicles-power-houses-tdn/69880483007/][V2X charging paper]]                               :PC:Automotive:
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
