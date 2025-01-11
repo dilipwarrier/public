@@ -85,19 +85,6 @@
    - State "DONE"       from "WAIT"       [2021-07-14 Wed 07:52]
 
 
-** DONE Apply for donation matching at [[https://app.joindeed.org/login/sso][Schneider Deed]] (Search using "Givewell" - no space)
-   SCHEDULED: <2024-12-30 Mon 17:00>
-   :PROPERTIES:
-   :EFFORT: 00:30
-   :BENEFIT: 1000
-   :RATIO: 20.00
-   :END:
-   :LOGBOOK:
-   CLOCK: [2024-12-30 Mon 11:51]--[2024-12-30 Mon 12:17] =>  0:26
-   :END:
-
-
-
 ** TODO Increase donation amount per month (see above) by 10%, update cost and benefit fields based on [[id:7d940e83-ba83-4650-9076-797cc3271ca6][multiplier calculation]]
    SCHEDULED: <2025-12-24 Wed 08:00 +52w>
 :PROPERTIES:
