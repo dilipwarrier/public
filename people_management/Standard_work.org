@@ -119,7 +119,7 @@
 * Direct reports
 
 
-** TODO Have a career conversation with direct reports
+** TODO Setup a career conversation with direct reports
    SCHEDULED: <2025-01-12 Sun 19:00 +8w>
    :PROPERTIES:
    :EFFORT:  00:15
