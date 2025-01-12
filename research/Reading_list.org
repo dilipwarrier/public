@@ -4,6 +4,35 @@
 
 * Learning tasks                                                   :Projects:
 
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2025-01-12 Sun 11:40]
+| Headline                        | Time   |      |
+|---------------------------------+--------+------|
+| *Total time*                    | *1:00* |      |
+|---------------------------------+--------+------|
+| Learning tasks                  | 1:00   |      |
+| \_  Review CMMI book on process |        | 1:00 |
+#+END:
+
+
+** TODO Read CMMI book on process
+  :PROPERTIES:
+  :EFFORT: 06:00
+  :BENEFIT: 600
+  :RATIO: 1.00
+  :END:
+  :LOGBOOK:
+  CLOCK: [2025-01-12 Sun 10:40]--[2025-01-12 Sun 11:40] =>  1:00
+  :END:
+
+
+** TODO Read CMMI paper on cybersecurity culture
+  :PROPERTIES:
+  :EFFORT:   01:00
+  :BENEFIT:  100
+  :RATIO:    1.00
+  :END:
+
 
 ** TODO Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]                         :Software:
   :PROPERTIES:
