@@ -13,25 +13,6 @@
   :END:
 
 
-** DONE Review [[https://lethain.com/measuring-engineering-organizations/?utm_source=Newsletter&utm_campaign=3b3237f0a0-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-3b3237f0a0-9546361][measurement for engineering orgs]]                  :Management:
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  25
-  :RATIO:    1.00
-  :END:
-  :LOGBOOK:
-  CLOCK: [2025-01-04 Sat 07:00]--[2025-01-04 Sat 08:00] =>  1:00
-  :END:
-
-
-** DONE Read an article from the [[https://blog.creativesafetysupply.com/category/kaizen/][Kaizen continuous improvement blog]]
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  25
-  :RATIO:    1.00
-  :END:
-
-
 ** TODO Read [[https://www.detroitnews.com/story/business/autos/2023/02/07/electric-vehicles-power-houses-tdn/69880483007/][V2X charging paper]]                               :PC:Automotive:
   :PROPERTIES:
   :EFFORT:   00:15
@@ -48,7 +29,7 @@
    :END:
 
 
-** TODO AI's Growing Legal Troubles https://www.wsj.com/articles/ais-growing-legal-troubles-section-230-publisher-class-action-9efaf374
+** DONE AI's Growing Legal Troubles https://www.wsj.com/articles/ais-growing-legal-troubles-section-230-publisher-class-action-9efaf374
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  10
@@ -72,7 +53,7 @@
   :END:
 
 
-** TODO Review [[https://www.gartner.com/smarterwithgartner/power-challenger-sales-model][Challenger Sales]] model
+** DONE Review [[https://www.gartner.com/smarterwithgartner/power-challenger-sales-model][Challenger Sales]] model
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
@@ -174,6 +155,7 @@
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+
 
 ** TODO Read about process flow and flow chart drawing conventions
    :PROPERTIES:
