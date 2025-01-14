@@ -2,7 +2,7 @@
 #+FILETAGS: :Learning:
 #+STARTUP: content
 
-* Learning tasks                                                   :Projects:
+* Learning tasks                                                   :Periodic:
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
 #+CAPTION: Clock summary at [2025-01-12 Sun 11:40]

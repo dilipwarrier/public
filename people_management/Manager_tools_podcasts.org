@@ -1,8 +1,8 @@
 #+Title: Notes on management, job searches, and your career
-#+Filetags: :Management:Learning:
+#+Filetags: :Management:
 #+startup: overview
 
-* Manager
+* Manager                                                            :Review:
 
 
 ** Manager basics
@@ -1168,7 +1168,7 @@
      thanks.
 
 
-* Executive
+* Executive                                                          :Review:
 
 
 ** Executive aspects as an egg
@@ -1438,7 +1438,7 @@
     existence and the change that it wants to implement in society.
 
 
-* Job search and career
+* Job search and career                                              :Review:
 
 
 ** Promotions
@@ -1738,7 +1738,7 @@
    job search.
 
 
-* DISC profile
+* DISC profile                                                       :Review:
   :PROPERTIES:
   :CUSTOM_ID: DISC_profile
   :END:

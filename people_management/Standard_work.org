@@ -202,7 +202,7 @@
      Monday
 
 
-* Direct reports                                                   :Periodic:
+* Direct reports tasks                                             :Periodic:
 :PROPERTIES:
 :COLUMNS: %80ITEM %RATIO %LAST_REPEAT
 :ID:       cfb8b64f-dc0b-43bf-9411-d8b7a03b860d
@@ -241,7 +241,7 @@
    - State "DONE"       from "TODO"       [2023-04-03 Mon 10:06]
 
 
-* Manager                                                          :Periodic:
+* Manager feedback tasks                                           :Periodic:
 
 
 ** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]] every 3 months

@@ -1,5 +1,5 @@
 #+title: Team communication
-#+FILETAGS: :Manager:Learning:
+#+FILETAGS: :Manager:
 #+STARTUP: content
 
 * Introduction
@@ -21,14 +21,14 @@
   overall remote co-working experience.
 
 
-* Synchronous and asynchronous communication
+* Synchronous and asynchronous communication                         :Review:
 
   [[https://medium.com/levelshealth/how-to-intentionally-structure-scale-company-communications-2c4774e1f8c8][This post]] describes a thoughtful approach to team communication.
 
   Gitlab also has a [[https://about.gitlab.com/handbook/communication/][memo on the topic]].
 
 
-* Meeting etiquette
+* Meeting etiquette                                                  :Review:
 
   If you need to schedule a meeting with colleagues, please feel free
   to do so.  However, meetings are hard to schedule. Hence, we request
@@ -83,7 +83,7 @@
    up over the course of the day.
 
 
-* Holding a team workshop
+* Holding a team workshop                                            :Review:
 
 
 ** 1 month before
@@ -161,12 +161,11 @@
    Create survey and get feedback
 
 
-* Brainstorming
+* Brainstorming                                                      :Review:
 
   In his six thinking hats method, De Bono recommends that all members
   of a team should think in one direction at a time. However, they
-  should alternate the direction
-  every few minutes.
+  should alternate the direction every few minutes.
 
   The direction is determined by the hat that is worn, green hat, blue
   hat, etc.
