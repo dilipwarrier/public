@@ -15,6 +15,15 @@
 #+END:
 
 
+** TODO Copy over relevant Keep notes to Org
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-12-16 Mon 09:27]
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
 ** TODO Read CMMI book on process
   :PROPERTIES:
   :EFFORT: 06:00
