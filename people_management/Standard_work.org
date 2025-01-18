@@ -81,15 +81,16 @@
 
    - State "DONE"       from "TODO"       [2025-01-16 Thu 16:26]
 ** TODO Complete [[id:2f404a47-3da5-4141-9b84-e07f126f50d9][Start of weekday work list]]
-   SCHEDULED: <2025-01-17 Fri 09:00 +7d>
+   SCHEDULED: <2025-01-24 Fri 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-12 Sun 06:06]
+   :LAST_REPEAT: [2025-01-18 Sat 06:48]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-01-18 Sat 06:48]
 ** Start of weekday work list
 :PROPERTIES:
 :ID:       2f404a47-3da5-4141-9b84-e07f126f50d9
@@ -184,15 +185,16 @@
 
 
 ** TODO Complete [[id:6e13065f-3532-432e-b2de-761319dd0c35][End of weekday work list]]
-   SCHEDULED: <2025-01-17 Fri 16:30 +7d>
+   SCHEDULED: <2025-01-24 Fri 16:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:30
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-12 Sun 16:15]
+   :LAST_REPEAT: [2025-01-18 Sat 06:48]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-01-18 Sat 06:48]
 ** End of weekday work list
 :PROPERTIES:
 :ID:       6e13065f-3532-432e-b2de-761319dd0c35
