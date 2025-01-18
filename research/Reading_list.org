@@ -67,14 +67,6 @@
    :END:
 
 
-** DONE AI's Growing Legal Troubles https://www.wsj.com/articles/ais-growing-legal-troubles-section-230-publisher-class-action-9efaf374
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  10
-  :RATIO:    0.40
-  :END:
-
-
 ** TODO thought crime as a mind virus https://open.substack.com/pub/fakenous/p/thought-crime?utm_source=share&utm_medium=android&r=pbwnl
   :PROPERTIES:
   :EFFORT:   00:15
@@ -88,14 +80,6 @@
   :EFFORT:   00:15
   :BENEFIT:  10
   :RATIO:    0.40
-  :END:
-
-
-** DONE Review [[https://www.gartner.com/smarterwithgartner/power-challenger-sales-model][Challenger Sales]] model
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  25
-  :RATIO:    1.00
   :END:
 
 
@@ -176,14 +160,6 @@
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :END:
-
-
-** DONE Kempower article on charging from AWS
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
    :END:
 
 

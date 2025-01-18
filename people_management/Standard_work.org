@@ -306,15 +306,6 @@
 :results:
 
 
-*** DONE Ask someone to give spotlight presentation in town hall
-    SCHEDULED: <2025-01-15 Wed 08:00>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
 *** TODO Setup site for questions and post-meeting survey to be submitted in town hall
     SCHEDULED: <2025-01-22 Wed 08:00>
    :PROPERTIES:
