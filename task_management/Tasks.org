@@ -114,7 +114,7 @@ field matches text in the tag.
 |---------------+-------------+---------------|
 
 
-* The calculation of cost and benefit
+* The calculation of cost and benefit                                :Review:
 
    In life, we may care about physical health, mental health,
    contributions to community, relations with friends/family and
@@ -137,22 +137,38 @@ field matches text in the tag.
 
 ** Time efficiency calculation
 
+   You can spend 2 person-hours of effort to save 1 person-min/day of
+   effort.
+
+   Here's the reasoning.
+
    Assume you could save t units of time per day for the next 3
    years. That converts to roughly t*400 units per year for 3
-   years. Using a 10% discount rate, your total savings is t*400*[1 +
-   (1/1.1) + (1/1.1)^2] = t*400*2.75 = t*400*(11/4). So, that's the
-   upper bound on how much effort you should spend on that
+   years. Using a 10% discount rate, your total savings is:
+   t*400*[1 + (1/1.1) + (1/1.1)^2] = t*400*2.75
+                                   = t*400*(11/4)
+                                   ~ t*1000
+
+   So, that's the upper bound on how much effort you should spend on that
    improvement.
 
-   For instance, to save 1 min/day for 3 years, you can spend up to
+   For instance, if you save 1 min/day for 3 years, you can spend up to
    1000 min or 16 hours.
 
-   Assuming 50% usage for an excellent gain, a
-   good and easy-to-remember rule of thumb is 1 day of work to save 1
-   min/day.
+   Assuming the need for a 10x gain, you get the desired result.
 
 
-* Execution of task management
+* Execution of task management                                       :Review:
+:LOGBOOK:
+CLOCK: [2025-01-19 Sun 05:57]--[2025-01-19 Sun 06:17] =>  0:20
+:END:
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2025-01-19 Sun 06:17]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+
 
    All this philosophy needs to be translated into an execution
    mechanism. This section describes a reasonable execution
@@ -169,7 +185,7 @@ field matches text in the tag.
    completed. The deliverable or goal and the reason for the defined
    date should be explainable to someone outside the project
    team. Note that, by definition, recurring activities don't count as
-   projects. Those should be considered as tasks.
+   projects. Those should be considered as tasks or processes.
 
    Projects get further sub-divided into tasks.
 
