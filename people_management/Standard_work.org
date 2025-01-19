@@ -98,18 +98,25 @@
 :PROPERTIES:
 :ID:       2f404a47-3da5-4141-9b84-e07f126f50d9
 :END:
+:LOGBOOK:
+:END:
 
-   - Start Org clock
+   - Check on phone that work tasks are properly categorized
+   - Run [[#copy_Google_tasks][copy_Google_tasks]] on PC upstairs
+   - Start Org clock (org-clock-in)
+   - Review Google items (org-tags-view "M" "Google")
    - Add items to Confluence page for my meetings today
+     (org-tags-view "M" "Work+Meetings")
    - Review my open items in Confluence
    - Flagged items in EVC Slack
    - Outlook Todo EVC
    - Outlook Todo SE
-   - Run [[#copy_Google_tasks][copy_Google_tasks]]
+   - Send Slack messages (org-tags-view "M" "Work+Slack")
+   - Send Teams messages (org-tags-view "M" "Work+Teams")
    - Unread Slack messages
    - Unread EVC email
    - Unread SE Teams messages
-   - Stop Org clock
+   - Stop Org clock (org-clock-out)
 
 
 * End of weekday prep tasks                                        :Periodic:
@@ -162,6 +169,7 @@
 
 
    - State "DONE"       from "TODO"       [2025-01-15 Wed 09:16]
+
 ** TODO Complete [[id:6e13065f-3532-432e-b2de-761319dd0c35][End of weekday work list]]
    SCHEDULED: <2025-01-22 Wed 16:30 +7d>
    :PROPERTIES:
@@ -173,6 +181,7 @@
 
 
    - State "DONE"       from "TODO"       [2025-01-16 Thu 05:47]
+
 ** TODO Complete [[id:6e13065f-3532-432e-b2de-761319dd0c35][End of weekday work list]]
    SCHEDULED: <2025-01-23 Thu 16:30 +7d>
    :PROPERTIES:
@@ -198,24 +207,26 @@
 
 
    - State "DONE"       from "TODO"       [2025-01-18 Sat 06:48]
+
 ** End of weekday work list
 :PROPERTIES:
 :ID:       6e13065f-3532-432e-b2de-761319dd0c35
 :END:
 
-   - Start Org clock
+   - Start Org clock (org-clock-in)
    - Set up classical music
    - Unread EVC Slack messages
    - Unread EVC email
    - Unread SE email
    - Unread SE Teams messages
    - Copy over action items from personal and work notebooks
+   - Close all periodic tasks from agenda (org-agenda t "a")
    - Move all tasks in agenda to another day
    - Commit files to Github
    - [Th] Provide recognition using Slack workflow
    - [F] Clean up calendar for the upcoming week through the following
      Monday
-   - Stop Org clock
+   - Stop Org clock (org-clock-out)
    - Pack medication and breakfast for office, if needed
 
 
