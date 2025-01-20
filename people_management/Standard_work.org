@@ -11,6 +11,68 @@
   - Describe one activity that we can stop doing, start doing or do better
 
 
+* Weekday focus tasks                                              :Periodic:
+
+
+** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
+   SCHEDULED: <2025-01-27 Mon 06:00 +7d>
+   :PROPERTIES:
+   :EFFORT: 01:00
+   :BENEFIT: 200
+   :RATIO: 2.00
+   :LAST_REPEAT: [2025-01-20 Mon 07:37]
+   :END:
+   - State "DONE"       from "TODO"       [2025-01-20 Mon 07:37]
+   :LOGBOOK:
+    CLOCK: [2025-01-20 Mon 06:15]--[2025-01-20 Mon 07:30] =>  1:15
+   :END:
+
+
+** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
+   SCHEDULED: <2025-01-21 Tue 06:00 +7d>
+   :PROPERTIES:
+   :EFFORT: 01:00
+   :BENEFIT: 200
+   :RATIO: 2.00
+   :END:
+   :LOGBOOK:
+   :END:
+
+
+** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
+   SCHEDULED: <2025-01-22 Wed 06:00 +7d>
+   :PROPERTIES:
+   :EFFORT: 01:00
+   :BENEFIT: 200
+   :RATIO: 2.00
+   :END:
+   :LOGBOOK:
+   :END:
+
+
+
+** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
+   SCHEDULED: <2025-01-23 Thu 06:00 +7d>
+   :PROPERTIES:
+   :EFFORT: 01:00
+   :BENEFIT: 200
+   :RATIO: 2.00
+   :END:
+   :LOGBOOK:
+   :END:
+
+
+** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
+   SCHEDULED: <2025-01-24 Fri 06:00 +7d>
+   :PROPERTIES:
+   :EFFORT: 01:00
+   :BENEFIT: 200
+   :RATIO: 2.00
+   :END:
+   :LOGBOOK:
+   :END:
+
+
 * Start of weekday prep tasks                                      :Periodic:
 :PROPERTIES:
 :COLUMNS: %40ITEM %RATIO %LAST_REPEAT %SCHEDULED %DEADLINE
