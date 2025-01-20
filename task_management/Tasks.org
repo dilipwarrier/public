@@ -20,7 +20,7 @@ field matches text in the tag.
 | Task 3 |  1 |          |
 
 #+NAME: generate_tasks_from_offset
-#+BEGIN_SRC python :results output raw replace drawer :var tab = test_table start_date = "" task_time="19:00" tags = ""
+#+BEGIN_SRC python :results output raw replace drawer :var tab = test_table start_date = "" task_time="" tags = ""
   # Generate a list of tasks with scheduled dates in Org format
   #
   # Input list tab contains a list of lists of at most 3 values: name, offset and tag
@@ -61,8 +61,12 @@ field matches text in the tag.
       task_date = start_date + datetime.timedelta(days = delta)
       task_date_str = task_date.strftime("%Y-%m-%d %a")
 
+      task_time_str = ""
+      if (task_time):
+        task_time_str = " " + task_time
+
       if (len(t) <= 2) or (t[2] in tags):
-          print(("*** TODO %s    %s\n    SCHEDULED: " + "<" + "%s %s>") % (t[0], tags, task_date_str, task_time))
+          print(("*** TODO %s    %s\n    SCHEDULED: " + "<" + "%s%s>") % (t[0], tags, task_date_str, task_time))
           print("   :PROPERTIES:\n   :EFFORT: 00:15\n   :BENEFIT: 10\n   :RATIO: 0.40\n   :END:\n\n")
 #+END_SRC
 

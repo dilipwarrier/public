@@ -73,6 +73,14 @@
    :END:
 
 
+** Focus time tasks
+:PROPERTIES:
+:ID:       0aed5327-5834-4691-a8de-d6f630393554
+:END:
+
+   - (org-tags-view "M" "Work+Focus")
+
+
 * Start of weekday prep tasks                                      :Periodic:
 :PROPERTIES:
 :COLUMNS: %40ITEM %RATIO %LAST_REPEAT %SCHEDULED %DEADLINE
@@ -90,18 +98,16 @@
 
 
 ** TODO Complete [[id:2f404a47-3da5-4141-9b84-e07f126f50d9][Start of weekday work list]]
-   SCHEDULED: <2025-01-20 Mon 09:00 +7d>
+   SCHEDULED: <2025-02-03 Mon 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-13 Mon 10:12]
+   :LAST_REPEAT: [2025-01-20 Mon 16:28]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-20 Mon 16:28]
+   - State "DONE"       from "TODO"       [2025-01-20 Mon 15:43]
    - State "DONE"       from "TODO"       [2025-01-13 Mon 10:12]
-   :LOGBOOK:
-   CLOCK: [2025-01-19 Sun 05:28]--[2025-01-19 Sun 05:48] =>  0:20
-   CLOCK: [2025-01-13 Mon 09:40]--[2025-01-13 Mon 10:10] =>  0:30
-   :END:
 
 
 ** TODO Complete [[id:2f404a47-3da5-4141-9b84-e07f126f50d9][Start of weekday work list]]
@@ -144,6 +150,7 @@
 
    - State "DONE"       from "TODO"       [2025-01-16 Thu 16:26]
 
+
 ** TODO Complete [[id:2f404a47-3da5-4141-9b84-e07f126f50d9][Start of weekday work list]]
    SCHEDULED: <2025-01-24 Fri 09:00 +7d>
    :PROPERTIES:
@@ -156,11 +163,15 @@
 
    - State "DONE"       from "TODO"       [2025-01-18 Sat 06:48]
 
+
 ** Start of weekday work list
 :PROPERTIES:
 :ID:       2f404a47-3da5-4141-9b84-e07f126f50d9
 :END:
 :LOGBOOK:
+CLOCK: [2025-01-20 Mon 14:55]--[2025-01-20 Mon 15:43] =>  0:48
+CLOCK: [2025-01-19 Sun 05:28]--[2025-01-19 Sun 05:48] =>  0:20
+CLOCK: [2025-01-13 Mon 09:40]--[2025-01-13 Mon 10:10] =>  0:30
 :END:
 
    - Check on phone that work tasks are properly categorized
@@ -171,13 +182,11 @@
      (org-tags-view "M" "Work+Meetings")
    - Review my open items in Confluence
    - Flagged items in EVC Slack
-   - Outlook Todo EVC
-   - Outlook Todo SE
    - Send Slack messages (org-tags-view "M" "Work+Slack")
-   - Send Teams messages (org-tags-view "M" "Work+Teams")
    - Unread Slack messages
+   - Outlook Todo EVC
+   - Send EVC email (org-tags-view "M" "Work+Email")
    - Unread EVC email
-   - Unread SE Teams messages
    - Stop Org clock (org-clock-out)
 
 
@@ -195,13 +204,14 @@
 
 
 ** TODO Complete [[id:6e13065f-3532-432e-b2de-761319dd0c35][End of weekday work list]]
-   SCHEDULED: <2025-01-20 Mon 16:30 +7d>
+   SCHEDULED: <2025-01-27 Mon 16:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:30
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-13 Mon 19:39]
+   :LAST_REPEAT: [2025-01-20 Mon 17:03]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-20 Mon 17:03]
    - State "DONE"       from "TODO"       [2025-01-13 Mon 19:39]
    - State "DONE"       from "TODO"       [2025-01-12 Sun 16:15]
    - State "DONE"       from "TODO"       [2025-01-11 Sat 16:53]
@@ -232,6 +242,7 @@
 
    - State "DONE"       from "TODO"       [2025-01-15 Wed 09:16]
 
+
 ** TODO Complete [[id:6e13065f-3532-432e-b2de-761319dd0c35][End of weekday work list]]
    SCHEDULED: <2025-01-22 Wed 16:30 +7d>
    :PROPERTIES:
@@ -243,6 +254,7 @@
 
 
    - State "DONE"       from "TODO"       [2025-01-16 Thu 05:47]
+
 
 ** TODO Complete [[id:6e13065f-3532-432e-b2de-761319dd0c35][End of weekday work list]]
    SCHEDULED: <2025-01-23 Thu 16:30 +7d>
@@ -270,6 +282,7 @@
 
    - State "DONE"       from "TODO"       [2025-01-18 Sat 06:48]
 
+
 ** End of weekday work list
 :PROPERTIES:
 :ID:       6e13065f-3532-432e-b2de-761319dd0c35
@@ -279,12 +292,14 @@
    - Set up classical music
    - Unread EVC Slack messages
    - Unread EVC email
-   - Unread SE email
-   - Unread SE Teams messages
    - Copy over action items from personal and work notebooks
    - Close all periodic tasks from agenda (org-agenda t "a")
    - Move all tasks in agenda to another day
    - Commit files to Github
+   - Outlook Todo SE
+   - Unread SE email
+   - Send Teams messages (org-tags-view "M" "Work+Teams")
+   - Unread SE Teams messages
    - [Th] Provide recognition using Slack workflow
    - [F] Clean up calendar for the upcoming week through the following
      Monday
@@ -292,14 +307,177 @@
    - Pack medication and breakfast for office, if needed
 
 
-* Direct reports tasks                                             :Periodic:
-:PROPERTIES:
-:COLUMNS: %80ITEM %RATIO %LAST_REPEAT
-:ID:       cfb8b64f-dc0b-43bf-9411-d8b7a03b860d
+* Start of new week prep tasks                                     :Periodic:
+
+** TODO Complete start of new week prep tasks (list below)
+   SCHEDULED: <2025-01-19 Sun 06:00 +7d>
+   :PROPERTIES:
+   :EFFORT: 01:00
+   :BENEFIT: 200
+   :RATIO: 2.00
+   :END:
+:LOGBOOK:
+CLOCK: [2025-01-12 Sun 17:30]--[2025-01-12 Sun 17:58] =>  0:28
 :END:
 
 
-** TODO Have a career conversation with direct reports every 2 months
+** TODO Slack Tech staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items
+   DEADLINE: <2025-01-19 Sun +7d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2025-01-05 Sun 20:34]
+   :END:
+   - State "DONE"       from "TODO"       [2025-01-05 Sun 20:34]
+   - State "DONE"       from "TODO"       [2024-12-29 Sun 08:45]
+   - State "DONE"       from "TODO"       [2024-12-23 Mon 06:36]
+   - State "DONE"       from "TODO"       [2024-12-16 Mon 09:00]
+   - State "DONE"       from "TODO"       [2024-12-08 Sun 20:04]
+   - State "DONE"       from "TODO"       [2024-12-01 Sun 21:04]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-24 Sun 20:44]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-24 Sun 20:44]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-18 Mon 10:19]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-18 Mon 10:19]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-10 Sun 16:34]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-10 Sun 16:34]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-04 Mon 09:57]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-04 Mon 09:57]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-10-27 Sun 20:15]
+   :END:
+   - State "DONE"       from "TODO"       [2024-10-27 Sun 20:15]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-10-20 Sun 15:49]
+   :END:
+   - State "DONE"       from "TODO"       [2024-10-20 Sun 15:49]
+   - State "DONE"       from "TODO"       [2024-10-14 Mon 11:52]
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478][staff meeting]] agenda
+DEADLINE: <2025-01-19 Sun +7d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2025-01-05 Sun 20:48]
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+   - State "DONE"       from "TODO"       [2025-01-05 Sun 20:48]
+   - State "DONE"       from "TODO"       [2024-12-29 Sun 08:45]
+   - State "DONE"       from "TODO"       [2024-12-23 Mon 06:36]
+   - State "DONE"       from "TODO"       [2024-12-16 Mon 19:36]
+   - State "DONE"       from "TODO"       [2024-12-09 Mon 09:32]
+   - State "DONE"       from "TODO"       [2024-10-27 Sun 20:26]
+   - State "DONE"       from "TODO"       [2024-10-20 Sun 15:49]
+   - State "DONE"       from "TODO"       [2024-10-14 Mon 11:52]
+
+
+** TODO [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]]
+SCHEDULED: <2025-01-19 Sun +7d>
+:PROPERTIES:
+:LAST_REPEAT: [2025-01-05 Sun 21:06]
+:END:
+- State "DONE"       from "TODO"       [2025-01-05 Sun 21:06]
+- State "DONE"       from "TODO"       [2024-12-29 Sun 13:59]
+- State "DONE"       from "TODO"       [2024-12-23 Mon 11:38]
+- State "DONE"       from "TODO"       [2024-12-15 Sun 20:59]
+- State "DONE"       from "TODO"       [2024-12-09 Mon 09:32]
+- State "DONE"       from "TODO"       [2024-12-01 Sun 21:08]
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
+
+
+** TODO Send Bassem agenda suggestions for EVC Leadership weekly meeting
+DEADLINE: <2025-01-19 Sun +7d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2025-01-05 Sun 20:36]
+   :END:
+   - State "DONE"       from "TODO"       [2025-01-05 Sun 20:36]
+   - State "DONE"       from "TODO"       [2024-12-29 Sun 08:44]
+   - State "DONE"       from "TODO"       [2024-12-23 Mon 11:38]
+   - State "DONE"       from "TODO"       [2024-12-16 Mon 08:36]
+   - State "DONE"       from "TODO"       [2024-12-08 Sun 20:09]
+   - State "DONE"       from "TODO"       [2024-12-01 Sun 20:33]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-24 Sun 20:52]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-24 Sun 20:52]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-17 Sun 08:10]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-17 Sun 08:10]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-10 Sun 16:59]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-10 Sun 16:59]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-04 Mon 20:33]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-04 Mon 20:33]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-10-27 Sun 20:30]
+   :END:
+   - State "DONE"       from "TODO"       [2024-10-27 Sun 20:30]
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :LAST_REPEAT: [2024-10-20 Sun 15:42]
+   :END:
+   - State "DONE"       from "TODO"       [2024-10-20 Sun 15:42]
+
+
+** TODO Book conference rooms for my meetings for the next 4 weeks
+SCHEDULED: <2025-01-19 Sun +4w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2025-01-05 Sun 21:06]
+   :END:
+   - State "DONE"       from "TODO"       [2025-01-05 Sun 21:06]
+   - State "DONE"       from "TODO"       [2024-12-29 Sun 08:43]
+   - State "DONE"       from "TODO"       [2024-12-23 Mon 11:40]
+   - State "DONE"       from "TODO"       [2024-12-15 Sun 20:59]
+   - State "DONE"       from "TODO"       [2024-12-04 Wed 07:39]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-27 Wed 06:44]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-27 Wed 06:44]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-20 Wed 20:35]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-20 Wed 20:35]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-14 Thu 06:03]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-14 Thu 06:03]
+   :PROPERTIES:
+   :LAST_REPEAT: [2024-11-06 Wed 07:59]
+   :END:
+   - State "DONE"       from "TODO"       [2024-11-06 Wed 07:59]
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+
+
+
+** TODO Have a career conversation with direct reports
+   SCHEDULED: <2025-01-19 Sun +8w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
@@ -312,7 +490,8 @@
    - State "DONE"       from "TODO"       [2024-11-06 Wed 08:11]
 
 
-** TODO Ask direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?" every 3 months
+** TODO Ask direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?"
+   SCHEDULED: <2025-04-20 Sun +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
@@ -331,10 +510,8 @@
    - State "DONE"       from "TODO"       [2023-04-03 Mon 10:06]
 
 
-* Manager feedback tasks                                           :Periodic:
-
-
 ** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]] every 3 months
+   SCHEDULED: <2025-03-16 Sun +12w>
    :PROPERTIES:
    :LAST_REPEAT: [2024-11-28 Thu 09:48]
    :END:
