@@ -177,3 +177,11 @@
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+
+
+** TODO Vasily Arkhipov, world's greatest man, https://en.m.wikipedia.org/wiki/Vasily_Arkhipov :Google:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
