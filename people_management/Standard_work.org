@@ -29,23 +29,27 @@
 
 
 ** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
-   SCHEDULED: <2025-01-21 Tue 08:00 +7d>
+   SCHEDULED: <2025-01-28 Tue 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
+   :LAST_REPEAT: [2025-01-22 Wed 06:06]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-22 Wed 06:06]
    :LOGBOOK:
    :END:
 
 
 ** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
-   SCHEDULED: <2025-01-22 Wed 06:00 +7d>
+   SCHEDULED: <2025-01-29 Wed 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
+   :LAST_REPEAT: [2025-01-22 Wed 07:38]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-22 Wed 07:38]
    :LOGBOOK:
    :END:
 
@@ -126,13 +130,14 @@
 
 
 ** TODO Complete [[id:2f404a47-3da5-4141-9b84-e07f126f50d9][Start of weekday work list]]
-   SCHEDULED: <2025-01-22 Wed 09:00 +7d>
+   SCHEDULED: <2025-01-29 Wed 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-16 Thu 05:47]
+   :LAST_REPEAT: [2025-01-22 Wed 16:46]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-22 Wed 16:46]
    - State "DONE"       from "TODO"       [2025-01-16 Thu 05:47]
    :LOGBOOK:
    CLOCK: [2025-01-15 Wed 09:22]--[2025-01-15 Wed 09:49] =>  0:27
@@ -182,11 +187,10 @@ CLOCK: [2025-01-13 Mon 09:40]--[2025-01-13 Mon 10:10] =>  0:30
    - Add items to Confluence page for my meetings today
      (org-tags-view "M" "Work+Meetings")
    - Review my open items in Confluence
-   - Flagged items in EVC Slack
    - Send Slack messages (org-tags-view "M" "Work+Slack")
+   - Send Teams messages (org-tags-view "M" "Work+Teams")
+   - Send email (org-tags-view "M" "Work+Email")
    - Unread Slack messages
-   - Outlook Todo EVC
-   - Send EVC email (org-tags-view "M" "Work+Email")
    - Unread EVC email
    - Stop Org clock (org-clock-out)
 
@@ -243,28 +247,30 @@ CLOCK: [2025-01-13 Mon 09:40]--[2025-01-13 Mon 10:10] =>  0:30
 
 
 ** TODO Complete [[id:6e13065f-3532-432e-b2de-761319dd0c35][End of weekday work list]]
-   SCHEDULED: <2025-01-21 Tue 16:30 +7d>
+   SCHEDULED: <2025-01-28 Tue 16:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:30
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-15 Wed 09:16]
+   :LAST_REPEAT: [2025-01-22 Wed 06:06]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-01-22 Wed 06:06]
    - State "DONE"       from "TODO"       [2025-01-15 Wed 09:16]
 
 
 ** TODO Complete [[id:6e13065f-3532-432e-b2de-761319dd0c35][End of weekday work list]]
-   SCHEDULED: <2025-01-22 Wed 16:30 +7d>
+   SCHEDULED: <2025-01-29 Wed 16:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:30
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-16 Thu 05:47]
+   :LAST_REPEAT: [2025-01-22 Wed 17:14]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-01-22 Wed 17:14]
    - State "DONE"       from "TODO"       [2025-01-16 Thu 05:47]
 
 
@@ -299,18 +305,19 @@ CLOCK: [2025-01-13 Mon 09:40]--[2025-01-13 Mon 10:10] =>  0:30
 :PROPERTIES:
 :ID:       6e13065f-3532-432e-b2de-761319dd0c35
 :END:
+:LOGBOOK:
+CLOCK: [2025-01-22 Wed 17:01]
+:END:
 
    - Start Org clock (org-clock-in)
    - Set up classical music
    - Unread EVC Slack messages
    - Unread EVC email
-   - Copy over action items from personal and work notebooks
+   - Copy over action items from physical notebook
    - Close all periodic tasks from agenda (org-agenda t "a")
-   - Move all tasks in agenda to another day
    - Commit files to Github
    - Outlook Todo SE
    - Unread SE email
-   - Send Teams messages (org-tags-view "M" "Work+Teams")
    - Unread SE Teams messages
    - [Th] Provide recognition using Slack workflow
    - [F] Clean up calendar for the upcoming week through the following

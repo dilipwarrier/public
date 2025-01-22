@@ -179,9 +179,21 @@
    :END:
 
 
-** TODO Vasily Arkhipov, world's greatest man, https://en.m.wikipedia.org/wiki/Vasily_Arkhipov :Google:
+** TODO Vasily Arkhipov, world's greatest man, https://en.m.wikipedia.org/wiki/Vasily_Arkhipov
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
+   :END:
+** TODO Look at whether I can get a table with all my comments and unresolved ones and location in Confluence
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :END:
+** TODO Review tool for PC keyboard macros
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
    :END:
