@@ -56,12 +56,14 @@
 
 
 ** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
-   SCHEDULED: <2025-01-23 Thu 08:00 +7d>
+   SCHEDULED: <2025-01-30 Thu 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
+   :LAST_REPEAT: [2025-01-23 Thu 09:54]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-23 Thu 09:54]
    :LOGBOOK:
    :END:
 
@@ -306,7 +308,7 @@ CLOCK: [2025-01-13 Mon 09:40]--[2025-01-13 Mon 10:10] =>  0:30
 :ID:       6e13065f-3532-432e-b2de-761319dd0c35
 :END:
 :LOGBOOK:
-CLOCK: [2025-01-22 Wed 17:01]
+CLOCK: [2025-01-22 Wed 17:01]--[2025-01-23 Thu 08:17] => 15:16
 :END:
 
    - Start Org clock (org-clock-in)
@@ -435,7 +437,7 @@ DEADLINE: <2025-01-26 Sun +7d>
    - State "DONE"       from "TODO"       [2024-10-14 Mon 11:52]
 
 
-** TODO [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]]
+** TODO Run code below to generate next 1-1
 SCHEDULED: <2025-01-26 Sun +7d>
 :PROPERTIES:
 :LAST_REPEAT: [2025-01-21 Tue 09:02]
@@ -446,15 +448,14 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 :END:
 - State "DONE"       from "TODO"       [2025-01-05 Sun 21:06]
 - State "DONE"       from "TODO"       [2024-12-29 Sun 13:59]
-- State "DONE"       from "TODO"       [2024-12-23 Mon 11:38]
-- State "DONE"       from "TODO"       [2024-12-15 Sun 20:59]
-- State "DONE"       from "TODO"       [2024-12-09 Mon 09:32]
-- State "DONE"       from "TODO"       [2024-12-01 Sun 21:08]
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
 :END:
+
+[[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]]
+
 
 
 ** TODO Send agenda suggestions for EVC Leadership weekly meeting
