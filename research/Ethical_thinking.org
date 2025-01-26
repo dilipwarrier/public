@@ -1,8 +1,8 @@
 #+TITLE: Books and notes on ethical thinking
-#+FILETAGS: :Ethics:BookNotes:Learning:
-#+STARTUP: content
+#+FILETAGS: :Ethics:BookNotes:
+#+STARTUP: overview
 
-* Practical Ethics by Peter Singer
+* Practical Ethics by Peter Singer                                   :Review:
 
   Preference utilitarianism says that, if a person has a preference,
   then that preference should not be tampered with, all other things
@@ -63,7 +63,7 @@
   manufacture of which causes suffering to others.
 
 
-* The Life you can save by Peter Singer
+* The Life you can save by Peter Singer                              :Review:
 
   10% of the world's population lives in extreme poverty (< $2/day) as
   of 2015. 85% lives on $30 or less per day.
@@ -176,7 +176,7 @@
   for value. This assumes no employer matching.
 
 
-* Effective Altruism
+* Effective Altruism                                                 :Review:
 
   Ajeya Cotra has a heart-felt introduction to [[https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL][effective altruism]].
 
@@ -218,7 +218,7 @@
    hungry population are in Asia and Africa.
 
 
-* Poor Economics by Abhijit Banerjee and Esther Duflo
+* Poor Economics by Abhijit Banerjee and Esther Duflo                :Review:
 
 Poor people don't generally want more food. In many cases, giving them
 grain etc is not helpful. Instead, providing more micronutrients,

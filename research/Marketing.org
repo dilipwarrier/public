@@ -1,8 +1,8 @@
 #+TITLE: Notes on marketing
-#+FILETAGS: :Learning:
-#+STARTUP: content
+#+FILETAGS: :Marketing:BookNotes:
+#+STARTUP: overview
 
-* Marketing management by Philip Kotler
+* Marketing management by Philip Kotler                              :Review:
 
 To be useful, market segments must be measurable, substantial (large
 enough to be profitably served), differentiable (one segment is

@@ -1,8 +1,8 @@
-#+Title: The science of happiness and well-being
-#+FILETAGS: :society:science:psychology:Learning:
-#+STARTUP: content
+#+TITLE: The science of happiness and well-being
+#+FILETAGS: :Science:Psychology:Brain:
+#+STARTUP: overview
 
-* Positive psychology
+* Positive psychology                                                :Review:
 
   [[https://en.wikipedia.org/wiki/Positive_psychology][Positive psychology]] has grown as a field since the 1980s. Martin
   Seligman and Mihaly Csikszentmihalyi are credited with starting this
@@ -12,7 +12,7 @@
   positive psychology called "The How of Happiness".
 
 
-* Subjective well-being
+* Subjective well-being                                              :Review:
   :PROPERTIES:
   :CUSTOM_ID: SWB
   :END:
@@ -81,7 +81,7 @@
 #+end_quote
 
 
-* Quantitative measurements of quality of life
+* Quantitative measurements of quality of life                       :Review:
 
    A commonly used quantitative measurement of life is
    [[https://en.wikipedia.org/wiki/Quality-adjusted_life_year][Quality-adjusted life year]] or QALY. A QALY measure of 1.0 means a
@@ -98,7 +98,7 @@
    US has not yet.
 
 
-* Cost of QALY
+* Cost of QALY                                                       :Review:
   :PROPERTIES:
   :CUSTOM_ID: Cost of one QALY
   :END:

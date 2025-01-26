@@ -1,15 +1,7 @@
 #+NAME: Company strategy
-#+FILETAGS: :Learning:Strategy:
+#+FILETAGS: :Strategy:
 
-* TODO Add remaining sections from [[file:c:/Users/dwarr/Downloads/Strategic management textbook notes/temp_notes.org][converted text file]] in Downloads dir :Offline:
-   :PROPERTIES:
-   :EFFORT:  00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-* Purpose, vision, mission, and strategy
+* Purpose, vision, mission, and strategy                             :Review:
 
   [[https://www.youtube.com/watch?v=u4ZoJKF_VuA][Simon Sinek video]] on "Start with why"
 
@@ -45,7 +37,7 @@
   The goals or strategy break down the vision into SMART objectives.
 
 
-* Financial metrics for a company
+* Financial metrics for a company                                    :Review:
 
   A company is usually focused on providing value to shareholders while
   maintaining ethics and values. The valuation of a company is driven
@@ -66,7 +58,7 @@
   [[file:Screenshot 2024-02-17 1610.jpg]]
 
 
-* External analysis
+* External analysis                                                  :Review:
 
   Each of these competitive forces could be a strength or a weakness.
   - Risk of entry
@@ -117,7 +109,7 @@
   rivalry.
 
 
-* Internal Analysis
+* Internal Analysis                                                  :Review:
 
   Case study: For 4 decades, Southwest airlines has consistently
   outperformed the airline market. Even in 2001-05, it returned almost
@@ -151,7 +143,7 @@
   competitive advantage. Those can be valuable, rare and inimitable.
 
 
-* Competitive Advantage Through Functional Strategy
+* Competitive Advantage Through Functional Strategy                  :Review:
 
   All functions such as R&D, marketing, sales, manufacturing etc can
   contribute towards strategies of higher efficiency, quality,
@@ -163,7 +155,7 @@
   [[file:Screenshot 2024-02-17 1616.jpg]]
 
 
-* Business level strategy
+* Business level strategy                                            :Review:
 
   The cost and differentiation axes provide a frontier that industries
   operate at. It is possible to move the frontier out through technology,
@@ -196,7 +188,7 @@
   [[file:Screenshot 2024-02-17 1624.jpg]]
 
 
-* Business Strategy And Market Environment
+* Business Strategy And Market Environment                           :Review:
 
   An industry goes from an embryonic stage to a mass market stage when
   the following events happen.
@@ -212,3 +204,13 @@
   Market adoption usually follows an S-curve as below.
 
   [[file:Screenshot 2024-02-17 1634.jpg]]
+
+
+* Tasks
+
+** TODO Add remaining sections from [[file:c:/Users/dwarr/Downloads/Strategic management textbook notes/temp_notes.org][converted text file]] in Downloads dir :Offline:
+   :PROPERTIES:
+   :EFFORT:  00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:

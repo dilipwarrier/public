@@ -1,7 +1,7 @@
 #+Title: Market analysis
-#+Filetags: :Learning:
+#+Filetags: :Marketing:
 
-* Market analysis
+* Market analysis                                                    :Review:
 
   Usually, a market analysis should contain the following sections.
 
@@ -22,7 +22,7 @@
   - SWOT Analysis
 
 
-* Next steps after a market analysis
+* Next steps after a market analysis                                 :Review:
 
   Once a market analysis is done and approved, if the stakeholders
   decide to move forward in that market, the next step is to build a

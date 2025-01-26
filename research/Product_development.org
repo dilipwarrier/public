@@ -1,7 +1,7 @@
 #+Title: Notes on the discipline of product development/planning/management
-#+Filetags: :Product:Learning:
+#+Filetags: :Product:
 
-* Problem versus solution                                        :MartyCagan:
+* Problem versus solution                                 :MartyCagan:Review:
 
   People have this overly simplistic notion that product management and
   product design work to define the problem, and then engineering works
@@ -14,7 +14,7 @@
   chance for real innovation.
 
 
-* Product versus feature teams                                   :MartyCagan:
+* Product versus feature teams                            :MartyCagan:Review:
 
   Product teams are cross-functional (product, design, engineering),
   they are focused on and measured by outcomes, they are empowered to
@@ -41,7 +41,7 @@
   A true product team has responsibility and accountability.
 
 
-* Competencies                                                   :MartyCagan:
+* Competencies                                            :MartyCagan:Review:
 
 
 ** Competencies for a product manager
@@ -62,7 +62,7 @@
    - Empathy
 
 
-* Feature prioritization                                           :LinkedIn:
+* Feature prioritization                                    :LinkedIn:Review:
 
   I was recently introduced to the Kano method of prioritization of
   features for a product (hat tip: Melissa Perri's product management
@@ -92,5 +92,5 @@
   If you want to satisfy your customer, meeting the basic needs might be
   enough but, if you want to delight your customer (and don't we all?),
   you must think about introducing delighters. The hard work, of course,
-  is in identifying what those delighters are and how to accomplish them
+  is to identify what those delighters are and how to accomplish them
   such that they serve both your customers and your business.

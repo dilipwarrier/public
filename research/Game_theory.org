@@ -1,8 +1,8 @@
 #+TITLE: An introduction to game theory by Steven Tadelis
-#+FILETAGS: :economics:games:mathematics:probability:BookNotes:Learning:
+#+FILETAGS: :economics:games:mathematics:probability:BookNotes:
 #+STARTUP: content
 
-* Three factors to making a decision
+* Three factors to making a decision                                 :Review:
 
   - Actions
   - Outcomes that result from each action
@@ -25,7 +25,7 @@
   outcomes.
 
 
-* Static games of complete information
+* Static games of complete information                               :Review:
 
   1. Each player simultaneously and independently chooses an action.
   2. Based on the chosen actions, each player gets a payoff/utility
@@ -39,7 +39,7 @@
   another student wasn't asleep and missed that announcement.
 
 
-* Normal-form game
+* Normal-form game                                                   :Review:
 
    In this form of game, the players are assumed to have no
    information about the moves of the other players. This may either
@@ -58,7 +58,7 @@
    strategies.
 
 
-* Dominant strategy and Nash equilibrium
+* Dominant strategy and Nash equilibrium                             :Review:
 
   A dominant strategy is one in which a player has a strategic choice
   and no other strategy for the player results in a better payoff,
@@ -75,7 +75,7 @@
   exist, it may not be easily computable.
 
 
-* Prisoner's dilemma
+* Prisoner's dilemma                                                 :Review:
 
    In a prisoner's dilemma problem, each prisoner
    can either "fink" (F) or remain "mum" (M). The payoff matrix is as
@@ -99,7 +99,7 @@
    choosing (F, f).
 
 
-* Mixed strategies
+* Mixed strategies                                                   :Review:
 
   A mixed strategy is where a player may choose from any of a finite
   set of strategies with a certain probability. This can also be
@@ -118,7 +118,7 @@
   players.
 
 
-* Extensive-form game
+* Extensive-form game                                                :Review:
 
   This is an extension of the normal-form game where there is a
   sequence of moves for the players and the players may get information
@@ -136,7 +136,7 @@
   take steps to avoid it.
 
 
-* Multi-stage games
+* Multi-stage games                                                  :Review:
 
   In the normal-form and extended-form games, the payoff was received
   by all players at the end of their moves. We can now extend this
@@ -193,7 +193,7 @@
   arbitrarily close to 1.
 
 
-* Auctions
+* Auctions                                                           :Review:
 
   Auctions can be of either the private values or the common values
   types. In private value auctions, each player assigns a value to the

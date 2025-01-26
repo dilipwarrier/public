@@ -1,10 +1,11 @@
 #+TITLE: Software company news and analysis
-#+FILETAGS: :Learning:
+#+FILETAGS: :SoftwareIndustry:
 
-* Atlassian products
+* Atlassian products                                                 :Review:
 :PROPERTIES:
 :CUSTOM_ID: Atlassian_products
 :END:
+
 
 ** Jira Align
 
@@ -17,7 +18,7 @@
    See also [[file:c:/Users/sesa785733/Documents/GitHub/private/EVC_notes.org::#Atlassian_EVC_usage][EVC notes on Atlassian usage]].
 
 
-* 2023 layoffs in software companies
+* 2023 layoffs in software companies                                 :Review:
 
   As [[file:Screenshot 2023-03-04 173353.png][this infographic]] from [[https://www.instagram.com/p/CoYihx7Li0z/][Scott Galloway]] shows, although there have
   been layoffs in the big software companies, they have been small

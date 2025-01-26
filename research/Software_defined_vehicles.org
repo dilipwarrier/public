@@ -1,12 +1,12 @@
 #+TITLE: Software for cars
-#+FILETAGS: :Learning:
+#+FILETAGS: :SoftwareIndustry:Automotive:
 
-* Blackberry
+* Blackberry                                                         :Review:
 
   Video on [[https://youtu.be/yViw8Rh8T1w][Blackberry's evolution]] from mobile phones to IoT and security
 
 
-* Software companies working on EVs and batteries
+* Software companies working on EVs and batteries                    :Review:
 
 
 ** Qnovo
@@ -24,7 +24,8 @@
 
    [[file:Screenshot 2023-02-28 110653.jpg][Cloud/Edge]]
 
-* Automotive software
+
+* Automotive software                                                :Review:
 
   [[https://www.youtube.com/watch?v=Ehnjhj8WFG4][100 M lines of code in a car with Munro Live]]
 
@@ -34,13 +35,7 @@
   16:00 - Need for microservices
 
 
-* [[https://aws.amazon.com/blogs/industries/reinventing-automotive-engineering-for-software-defined-vehicles/][AWS/Stellantis automotive workbench]]
-
-  This web-based deployment from AWS is very similar to what they
-  provide to Blackberry IVY.
-
-
-* Software Defined Vehicles
+* Software Defined Vehicles                                          :Review:
 
 
 ** NXP presentation on [[https://drive.google.com/file/d/1CwpQtYjES7SIZdqAIBEjyhuh_g1udObI/view?usp=share_link][Software Defined Vehicles]]

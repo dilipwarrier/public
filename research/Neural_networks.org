@@ -1,7 +1,7 @@
 #+TITLE: Interesting facts/news in neural networks/AI
-#+FILETAGS: :AI:Learning:
+#+FILETAGS: :AI:
 
-* Generative AI
+* Generative AI                                                      :Review:
 
   GPT = Generative Pretrained Transformer
 

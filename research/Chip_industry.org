@@ -1,8 +1,8 @@
 #+Title: Chip industry
-#+FILETAGS: :Technology:Semiconductors:Chips:Learning:
-#+STARTUP: content
+#+FILETAGS: :Technology:Semiconductors:
+#+STARTUP: overview
 
-* PC chip industry
+* PC chip industry                                                   :Review:
 
   As of early 2022, the PC chip industry has seen significant growth
   in the first two years of the COVID pandemic (2020-22).  AMD has
@@ -21,7 +21,7 @@
   market with Snapdragon.
 
 
-* Relative sizes of market
+* Relative sizes of market                                           :Review:
 
   In 2022, the units sold every year are as follows.
      - 1.5B smart phones (~150M smart phones/OEM)
@@ -29,14 +29,14 @@
      - 80M cars
 
 
-* TSMC
+* TSMC                                                               :Review:
 
   Every car has about 20 MCUs on average.
   About 70% of all MCUs are manufactured by TSMC.
   Yet, automotive chips are only 3% of TSMC revenue.
 
 
-* NXP
+* NXP                                                                :Review:
 
   [[https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform:S32][S32 microcontrollers]]
 
@@ -65,13 +65,13 @@
    [[file:Screenshot 2023-01-29 114928.jpg]]
 
 
-* Qualcomm Snapdragon
+* Qualcomm Snapdragon                                                :Review:
 
   [[https://developer.qualcomm.com/blog/ml-training-edge-training-mobile-devices][Limited retraining]] is supported on the Snapdragon using the OpenCL
   ML SDK on the Adreno.
 
 
-* ASML                                                             :LinkedIn:
+* ASML                                                      :LinkedIn:Review:
 
   I came across [[https://www.visualcapitalist.com/the-50-most-valuable-companies-in-the-world-in-2023/?utm_source=Newsletter&utm_campaign=37abfa8c9a-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-37abfa8c9a-9546361][this infographic]] on the 50 most valuable companies in
   the world. Most of the names in the IT sector are household names,

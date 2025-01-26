@@ -1841,8 +1841,8 @@
    - State "DONE"       from "TODO"       [2023-06-05 Mon 08:46]
 
 
-** TODO Read an existing Manager Tools section from above
-   SCHEDULED: <2025-01-25 Sat 16:00 +2w>
+** TODO Read an existing Manager Tools section from above          :Learning:
+   SCHEDULED: <2025-01-25 Sat +2w>
    :PROPERTIES:
    :EFFORT:   00:30
    :BENEFIT:  40

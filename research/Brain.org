@@ -1,8 +1,8 @@
 #+Title: Books and research on the brain
-#+FILETAGS: :Learning:
+#+FILETAGS: :Brain:
 #+STARTUP: content
 
-* Models of the mind by Grace Lindsay
+* Models of the mind by Grace Lindsay                                :Review:
 
 
 ** Making and maintaining memories
@@ -31,7 +31,7 @@
 ** Bertrand Russell: The trouble with the world is that the stupid are cocksure and the intelligent full of doubt. :quotes:
 
 
-* Coursera course "Learning to learn" by Barbara Oakley     :Active:Projects:
+* Coursera course "Learning to learn" by Barbara Oakley :Active:Projects:Review:
 :PROPERTIES:
 :CUSTOM_ID: learning_to_learn
 :END:
@@ -52,7 +52,7 @@ CLOCK: [2025-01-05 Sun 16:20]--[2025-01-05 Sun 16:49] =>  0:29
    [[https://www.coursera.org/learn/learning-how-to-learn/][Link to Coursera course]]
 
 
-* Types of bias
+* Types of bias                                                      :Review:
 
   This note lists some key biases that affect our thinking. Methods to overcome bias are noted here.
 

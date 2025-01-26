@@ -2,7 +2,7 @@
 #+FILETAGS: :Learning:
 #+STARTUP: content
 
-* Learning tasks                                                   :Periodic:
+* Learning tasks
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
 #+CAPTION: Clock summary at [2025-01-12 Sun 11:40]
@@ -16,6 +16,7 @@
 
 
 ** TODO Copy over relevant Keep notes to Org
+SCHEDULED: <2025-02-01 Sat +1w>
    :PROPERTIES:
    :LAST_REPEAT: [2024-12-16 Mon 09:27]
    :EFFORT: 00:15
@@ -36,6 +37,7 @@
 
 
 ** TODO Read CMMI paper on cybersecurity culture
+SCHEDULED: <2025-01-26 Sun>
   :PROPERTIES:
   :EFFORT:   01:00
   :BENEFIT:  100
@@ -51,7 +53,7 @@
   :END:
 
 
-** TODO Read [[https://www.detroitnews.com/story/business/autos/2023/02/07/electric-vehicles-power-houses-tdn/69880483007/][V2X charging paper]]                               :PC:Automotive:
+** DONE Read [[https://www.detroitnews.com/story/business/autos/2023/02/07/electric-vehicles-power-houses-tdn/69880483007/][V2X charging paper]] :PC:Automotive:
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  25
@@ -67,7 +69,7 @@
    :END:
 
 
-** TODO thought crime as a mind virus https://open.substack.com/pub/fakenous/p/thought-crime?utm_source=share&utm_medium=android&r=pbwnl
+** DONE thought crime as a mind virus https://open.substack.com/pub/fakenous/p/thought-crime?utm_source=share&utm_medium=android&r=pbwnl
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  10
@@ -75,7 +77,7 @@
   :END:
 
 
-** TODO Amazon fourth pillar https://wsj-article-webview-generator-prod.sc.onservo.com/webview/WP-WSJ-0001208087?wsj_native_webview=android&ace_environment=androidtablet%2Cwebview&ace_config=%7B%22wsj%22%3A%7B%22djcmp%22%3A%7B%22propertyHref%22%3A%22https%3A%2F%2Fwsj.android.app%22%7D%7D%7D
+** DONE Amazon fourth pillar https://wsj-article-webview-generator-prod.sc.onservo.com/webview/WP-WSJ-0001208087?wsj_native_webview=android&ace_environment=androidtablet%2Cwebview&ace_config=%7B%22wsj%22%3A%7B%22djcmp%22%3A%7B%22propertyHref%22%3A%22https%3A%2F%2Fwsj.android.app%22%7D%7D%7D
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  10
@@ -83,7 +85,7 @@
   :END:
 
 
-** TODO https://www.raptitude.com/2018/01/if-its-important-learn-it-repeatedly/?utm_source=Newsletter&utm_campaign=84ec8dedbd-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-84ec8dedbd-9546361
+** DONE https://www.raptitude.com/2018/01/if-its-important-learn-it-repeatedly/?utm_source=Newsletter&utm_campaign=84ec8dedbd-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-84ec8dedbd-9546361
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -91,7 +93,7 @@
    :END:
 
 
-** TODO https://drive.google.com/file/d/1GHcVBuoLA9SYPBb1m0WJqcb6PP5F_YwS/view?usp=drivesdk
+** DONE https://drive.google.com/file/d/1GHcVBuoLA9SYPBb1m0WJqcb6PP5F_YwS/view?usp=drivesdk
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -99,7 +101,7 @@
    :END:
 
 
-** TODO https://www.wsj.com/articles/the-scary-math-behind-the-worlds-safest-assets-a22069f9
+** DONE https://www.wsj.com/articles/the-scary-math-behind-the-worlds-safest-assets-a22069f9
   :PROPERTIES:
   :EFFORT:   00:15
   :BENEFIT:  10
@@ -107,7 +109,7 @@
   :END:
 
 
-** TODO http://www.spglobal.com/mobility/en/research-analysis/ev-battery-plants-slowdown.html
+** DONE http://www.spglobal.com/mobility/en/research-analysis/ev-battery-plants-slowdown.html
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -155,7 +157,7 @@
    :END:
 
 
-** TODO https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html
+** DONE https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -192,6 +194,12 @@
    :RATIO: 1.00
    :END:
 ** TODO Review tool for PC keyboard macros
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :END:
+** DONE Look at [[help:org-agenda-cmp-user-defined][Org agenda compare function]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25

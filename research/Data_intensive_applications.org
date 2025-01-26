@@ -1,8 +1,8 @@
 #+TITLE: Designing data-intensive applications
 #+Author: Martin Kleppmann
-#+Filetags: :ComputerScience:BookNotes:Learning:
+#+Filetags: :ComputerScience:BookNotes:
 
-* Introduction
+* Introduction                                                       :Review:
 
   In data-intensive applications, the storage, access
   and modification of data is the primary challenge as opposed to
@@ -37,7 +37,7 @@
   the entire system.
 
 
-* Relational versus document databases
+* Relational versus document databases                               :Review:
 
   Relational databases are the traditional databases where each row is
   a tuple of information with potentially a unique id assigned to
@@ -69,7 +69,7 @@
   query.
 
 
-* Query languages
+* Query languages                                                    :Review:
 
   SQL is a declarative language i.e. it follows relational algebra
   very closely. Consider a database for animals where some of the
@@ -106,7 +106,7 @@
   [[file:Screenshot 2022-01-09 114730.jpg][Pictorial representation of MapReduce]]
 
 
-* Under the hood of databases
+* Under the hood of databases                                        :Review:
 
   A log file in which new (key, value) pairs are appended could
   act as a simple database. To get a value, you just search in the
@@ -133,7 +133,7 @@
   for a sparse subset of the keys.
 
 
-* Online Analytics Processing (OLAP)
+* Online Analytics Processing (OLAP)                                 :Review:
 
   Previously, standard queries were all of the type where one or a few
   records from a database was accessed and one or all of the fields

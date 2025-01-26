@@ -1,8 +1,8 @@
 #+TITLE: Algorithms to live by
 #+Author: Brian Christian, Tom Griffiths
-#+Filetags: :ComputerScience:Algorithms:BookNotes:Learning:
+#+Filetags: :ComputerScience:Algorithms:BookNotes:
 
-* Optimal stopping
+* Optimal stopping                                                   :Review:
 
   The secretary problem was first presented by Martin Gardner in
   Scientific American in a 1960s puzzle.
@@ -27,7 +27,7 @@
   then you can look for up to 60% of the time.
 
 
-* Explore vs exploit
+* Explore vs exploit                                                 :Review:
 
   The [[https://en.wikipedia.org/wiki/Multi-armed_bandit][multi-armed bandit]] problem is a problem where you have an
   number of slot machines to play. Each of them have an
@@ -98,7 +98,7 @@
   above. This bound is probably better for large values of $p+q$.
 
 
-* Sorting
+* Sorting                                                            :Review:
 
   Bubble sort is a somewhat inefficient way of sorting a
   list. MergeSort is a roughly O(n*logn) way of sorting. MergeSort
@@ -121,7 +121,7 @@
   shelve such books and user effort to find them.
 
 
-* Scheduling
+* Scheduling                                                         :Review:
   :PROPERTIES:
   :CUSTOM_ID: sched_alg
   :END:
@@ -136,7 +136,7 @@
   better benefit per unit time, you switch to that task.
 
 
-* Probabilities
+* Probabilities                                                      :Review:
 
   A common problem is how to predict the value of a variable given
   what you know of its current state. For instance, if you are 50
@@ -190,7 +190,7 @@
    by power laws.
 
 
-* Randomness
+* Randomness                                                         :Review:
 
   Sometimes, instead of figuring out the solution to a complex
   problem, a better strategy may be to sample it. For instance, if
@@ -205,7 +205,7 @@
   parameter to trade off.
 
 
-* Game theory
+* Game theory                                                        :Review:
 
   The Vickrey auction (the highest bidder gets the award but at the
   price of the second highest bid) awards honesty. In fact, honesty
@@ -217,7 +217,7 @@
   dominant strategy. This is a surprising and uplifting result.
 
 
-* Summary of rational thinking
+* Summary of rational thinking                                       :Review:
 
   Type 1 rationality is the approach of grinding through all the
   available data and arriving at a decision. The stereotype is that

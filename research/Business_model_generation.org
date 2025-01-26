@@ -1,7 +1,8 @@
 #+Title: Business model generation by Alex Osterwalder et al
-#+Filetags: :BookNotes:Management:Learning:
+#+Filetags: :BookNotes:Management:
+#+startup: overview
 
-* Business model canvas
+* Business model canvas                                              :Review:
 
   A business model describes the rationale of how an organization
   creates, delivers and captures value.

@@ -1,7 +1,7 @@
 #+TITLE: The culture map by Erin Meyer
-#+FILETAGS: :BookNotes:Learning:
+#+FILETAGS: :BookNotes:Culture:
 
-* Introduction
+* Introduction                                                       :Review:
 
   Different cultures fall in different places on the scales of various
   activities. We can divide them into a few specific activities. Note
@@ -10,7 +10,7 @@
   must be considered separately.
 
 
-* Communication (low-context vs high-context)
+* Communication (low-context vs high-context)                        :Review:
 
   In low-context cultures, good communication is precise, simple and
   clear. Messages are given and understood at face value. Repetition
@@ -31,7 +31,7 @@
   positions.
 
 
-* Evaluation (direct vs indirect feedback)
+* Evaluation (direct vs indirect feedback)                           :Review:
 
   Direct negative feedback is when negative feedback is provided bluntly
   and those messages stand alone without being softened by positive
@@ -46,7 +46,7 @@
   typically practise indirect negative feedback also.
 
 
-* Persuasion (principles-first vs applications-first)
+* Persuasion (principles-first vs applications-first)                :Review:
 
   Certain cultures like the US use applications-first or inductive
   reasoning. For instance, in the US, in math class, you learn a
@@ -82,7 +82,7 @@
   to provide input.
 
 
-* Leadership (egalitarian vs hierarchical)
+* Leadership (egalitarian vs hierarchical)                           :Review:
 
   Many Scandinavian cultures stress flat hierarchies where the boss is
   just "one of us". Communications can often skip leadership levels in
@@ -98,7 +98,7 @@
   boss's opinion in public.
 
 
-* Decision making (top-down vs consensus)
+* Decision making (top-down vs consensus)                            :Review:
 
   Usually, egalitarian cultures also have decision making by
   consensus. The Americans are the only exception here. In the US, the
@@ -117,7 +117,7 @@
   changed. That's more like a decision with a big "D".
 
 
-* Building trust (affective vs cognitive)
+* Building trust (affective vs cognitive)                            :Review:
 
   The Chinese have a term called guanxi which implies the time, energy
   and effort to build a personal connection. This means that you have
@@ -152,7 +152,7 @@
   strangers. Gradually, they become warmer and friendlier.
 
 
-* Disagreeing (confrontational vs harmonizing)
+* Disagreeing (confrontational vs harmonizing)                       :Review:
 
   Confucius talks about the five types of relations that must be
   maintained in constant harmony. Japanese culture highly values

@@ -1,8 +1,8 @@
 #+Title: Articles on automotive technology
-#+FILETAGS: :Learning:
+#+FILETAGS: :Automotive:
 #+STARTUP: content
 
-* EV global market trends
+* EV global market trends                                            :Review:
 
 
 ** S&P Mobility Dec 2024
@@ -60,7 +60,7 @@
    0.8M BEVs were sold.
 
 
-* EV charging and charger trends
+* EV charging and charger trends                                     :Review:
 
   A standard AC socket in the US (120 V, 15 A) can give about 1.8 kW of
   power. A Level 2 charger (240 V, 30 A) can provide about 7.2 kW of
@@ -84,17 +84,17 @@
   because it only counts live chargers.
 
 
-* Picture of automotive engine
+* Picture of automotive engine                                       :Review:
 
   [[file:Screenshot 2023-08-26 173914.jpg][Diagram of engine]]
 
 
-* Autonomous driving levels
+* Autonomous driving levels                                          :Review:
 
   [[file:Screenshot 2023-08-26 183025.jpg][Levels and what they mean]]
 
 
-* [[https://ihsmarkit.com/topic/IEBAutoTech.html#video-9-container][Battery technology trends]] - Youmin Rong, IHS Markit
+* [[https://ihsmarkit.com/topic/IEBAutoTech.html#video-9-container][Battery technology trends]] - Youmin Rong, IHS Markit :Review:
 
   [[file:research/Screenshot 2022-03-04 144459.jpg][Automotive market]] is dominant for lithium ion batteries.
 
@@ -123,7 +123,7 @@
   Toyota is the world leader in patents on solid-state batteries.
 
 
-* Battery [[https://www.youtube.com/watch?v=s3HPdv9iD00][thermal management system]] design - MathWorks
+* Battery [[https://www.youtube.com/watch?v=s3HPdv9iD00][thermal management system]] design - MathWorks :Review:
 
   [[file:research/Screenshot 2022-03-05 171057.jpg][Lifetime trend]]
 
@@ -132,7 +132,7 @@
   System (TMS).
 
 
-* Lithium carbonate
+* Lithium carbonate                                                  :Review:
 
   Lithium carbonate is the main ingredient in lithium ion
   batteries. The demand for this chemical is expected to go up from
@@ -145,14 +145,14 @@
   Source: Economist article in Nov 2022
 
 
-* Lithium recycling
+* Lithium recycling                                                  :Review:
 
   There is a need to regenerate lithium and rare metals from batteries
   through recycling. The [[https://youtu.be/xLr0GStrnwQ][former CTO of Tesla]] has started a startup,
   Redwood Materials, aimed at this.
 
 
-* Cold weather performance
+* Cold weather performance                                           :Review:
 
   In cold weather, ICE engines recirculate the heat radiated by the
   engines into the cabin to warm it up. In contrast, EV batteries are
@@ -166,7 +166,7 @@
   See also [[#EV_range][Range]].
 
 
-* Cell types and counts
+* Cell types and counts                                              :Review:
 
   [[https://www.laserax.com/blog/ev-battery-cell-types][Pouch battery formats]] are most common in EVs. In this format, there
   are 100s of cells in an EV.
@@ -181,7 +181,7 @@
   [[https://electricvehiclesfaqs.com/how-many-batteries-are-in-a-tesla-electric-car/#:~:text=The%20Tesla%20Model%203%20standard,groups%20(bricks)%20of%2031.][Tesla]] battery packs have 1000s of cells.
 
 
-* SoC and SoH estimation
+* SoC and SoH estimation                                             :Review:
 
   According to [[https://ieeexplore.ieee.org/document/9036949][this paper]]:
   - SoC and SoH can be estimated to < 1% error through ML methods.
@@ -190,7 +190,7 @@
   estimation methods will have challenges at those temperatures.
 
 
-* Fault prediction
+* Fault prediction                                                   :Review:
 
   According to [[https://www.nature.com/articles/s41467-023-41226-5][this paper]]:
   Dynamical Auto-Encoding and Decoding (DyAD) is an effective method
@@ -199,7 +199,7 @@
   charging snippets from three car brands.
 
 
-* Battery aging
+* Battery aging                                                      :Review:
 
   Source: [[https://www.accure.net/battery-knowledge/blog-battery-aging][Accure]]
 
@@ -223,7 +223,7 @@
   - Fast charging -> increased temperature -> aging
 
 
-* Battery costs
+* Battery costs                                                      :Review:
 
   [[https://drive.google.com/file/d/13eYJbFfhuhuLLr7BQ0xGqkOMnjDv42LM/view?usp=drivesdk][IHS Markit report]] on battery costs
 
@@ -234,7 +234,7 @@
   Costs for LFP will drop from $170/kWh in 2020 to $110/kWh in 2030.
 
 
-* EV range
+* EV range                                                           :Review:
   :PROPERTIES:
   :CUSTOM_ID: EV_range
   :END:
@@ -256,12 +256,12 @@
 
 
 
-* EV fires
+* EV fires                                                           :Review:
   According to [[https://spectrum.ieee.org/lithium-ion-battery-fires][IEEE Spectrum]], fires in batteries in EVs have a lower incidence rate
   than fires in vehicles in general.
 
 
-* Automotive Tier-1 suppliers
+* Automotive Tier-1 suppliers                                        :Review:
 
   [[https://www.autonews.com/live-blog/2023-top-auto-suppliers-giants-grow-new-era][In 2023]], Bosch was the largest Automotive Tier-1 with an annual
   revenue of $50B.

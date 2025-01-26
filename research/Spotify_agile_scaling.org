@@ -1,7 +1,7 @@
 #+Title: Scaling Agile at Spotify
-#+FILETAGS: :Agile:Manager:Learning:
+#+FILETAGS: :Agile:Manager:
 
-* Organization at Spotify
+* Organization at Spotify                                            :Review:
 
   [[file:Screenshot 2021-10-23 160049.jpg][Squads, tribes, chapters and guilds]]
 

@@ -1,8 +1,8 @@
 #+TITLE: Books on European history
-#+FILETAGS: :BookNotes:Learning:
-#+STARTUP: content
+#+FILETAGS: :BookNotes:Europe:
+#+STARTUP: overview
 
-* The War That Ended Peace by Margaret McMillan
+* The War That Ended Peace by Margaret McMillan                      :Review:
 
   At the start of the 20th century, there was no indication of an
   impending Great War. Europe had had nearly a century of peace.
@@ -126,7 +126,7 @@
   was no choice left but to go to war. There are always choices."
 
 
-* Napoleon by Andrew Roberts
+* Napoleon by Andrew Roberts                                         :Review:
 
 In 1795, Napoleon was appointed to the strategy division of the
 French army.

@@ -2,7 +2,7 @@
 #+author: Dilip Warrier
 #+FILETAGS: :Learning:
 
-* CO2 emissions due to driving
+* CO2 emissions due to driving                                       :Review:
 
 The following data on CO2 emissions due to delivered power and gas
 consumption is from the [[https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references][EPA website]].
@@ -34,7 +34,7 @@ print("1 year of battery only in the RAV4 Prime causes %.2f tons of CO2" % (f3*f
 : 1 year in the RAV4 Prime causes 1.71 tons of CO2
 
 
-* CO2 emissions from flights
+* CO2 emissions from flights                                         :Review:
 
 From [[https://ourworldindata.org/travel-carbon-footprint][Our World in data]],
 
@@ -65,7 +65,7 @@ print("Tons of CO2 per year from flying = %.2f" % (total_CO2/(1e6)))
 : Tons of CO2 per year from flying = 4.82
 
 
-* CO2 emissions from container shipping
+* CO2 emissions from container shipping                              :Review:
 
 From a [[https://theicct.org/sites/default/files/publications/UCL_ship_efficiency_forICCT_2013.pdf][report published by the University College of London]], the
 following table shows CO2 emissions from various kinds of container
@@ -75,7 +75,7 @@ appropriate metric to use.
 [[./Screenshot 2021-07-08 125645.png][CO2 emissions table]]
 
 
-* Plant-based diets
+* Plant-based diets                                                  :Review:
 
    From [[https://ourworldindata.org/carbon-opportunity-costs-food][Our World in Data]], plant-based diets have the best properties
    of opportunity cost (saved agricultural land can be converted into
@@ -89,7 +89,7 @@ appropriate metric to use.
    [[https://ourworldindata.org/less-meat-or-sustainable-meat?country=][normalize for protein production]].
 
 
-* Contribution of various stages of food production
+* Contribution of various stages of food production                  :Review:
 
   Food production accounts for 25% of GHG emissions (CO2, CH4 and
   N2O). Within food production, land use change (converting grasslands

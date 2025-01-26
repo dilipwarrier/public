@@ -163,15 +163,6 @@ field matches text in the tag.
 
 
 * Execution of task management                                       :Review:
-:LOGBOOK:
-CLOCK: [2025-01-19 Sun 05:57]--[2025-01-19 Sun 06:17] =>  0:20
-:END:
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-01-19 Sun 06:17]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
-#+END:
 
 
    All this philosophy needs to be translated into an execution
