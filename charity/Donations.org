@@ -23,8 +23,8 @@
 :END:
 
 
-** TODO Donate $1320 to [[https://secure.givewell.org/][Give Well through Paypal]] and apply for donation matching at [[https://app.joindeed.org/login/sso][Schneider Deed]] (Search using "Givewell" - no space) :PC:
-   SCHEDULED: <2025-02-01 Sat 16:00 +4w>
+** TODO Donate $1320 to [[https://secure.givewell.org/][Give Well through Paypal]] and apply for donation matching at [[https://app.joindeed.org/login/sso][Schneider Deed]] (Search using "Givewell" - no space) :Finances:
+   SCHEDULED: <2025-02-01 Sat +4w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 4000

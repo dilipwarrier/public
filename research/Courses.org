@@ -23,6 +23,7 @@
 
 
 ** TODO [#A] Barbara Oakley learning to learn on Coursera
+SCHEDULED: <2025-02-01 Sat>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10

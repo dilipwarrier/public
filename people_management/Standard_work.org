@@ -14,34 +14,36 @@
 * Weekday focus tasks                                              :Periodic:
 
 
-** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
-   SCHEDULED: <2025-01-27 Mon 06:00 +7d>
+** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
+   SCHEDULED: <2025-02-03 Mon 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-01-20 Mon 07:37]
+   :LAST_REPEAT: [2025-01-27 Mon 20:59]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-27 Mon 20:59]
    - State "DONE"       from "TODO"       [2025-01-20 Mon 07:37]
    :LOGBOOK:
     CLOCK: [2025-01-20 Mon 06:15]--[2025-01-20 Mon 07:30] =>  1:15
    :END:
 
 
-** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
-   SCHEDULED: <2025-01-28 Tue 08:00 +7d>
+** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
+   SCHEDULED: <2025-02-04 Tue 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-01-22 Wed 06:06]
+   :LAST_REPEAT: [2025-01-28 Tue 06:04]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-28 Tue 06:04]
    - State "DONE"       from "TODO"       [2025-01-22 Wed 06:06]
    :LOGBOOK:
    :END:
 
 
-** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
+** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
    SCHEDULED: <2025-01-29 Wed 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
@@ -55,7 +57,7 @@
 
 
 
-** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
+** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
    SCHEDULED: <2025-01-30 Thu 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
@@ -68,7 +70,7 @@
    :END:
 
 
-** TODO Complete [[id:0aed5327-5834-4691-a8de-d6f630393554][work focus time tasks]]
+** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
    SCHEDULED: <2025-01-31 Fri 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
@@ -79,14 +81,6 @@
    - State "DONE"       from "TODO"       [2025-01-24 Fri 17:19]
    :LOGBOOK:
    :END:
-
-
-** Focus time tasks
-:PROPERTIES:
-:ID:       0aed5327-5834-4691-a8de-d6f630393554
-:END:
-
-   - (org-tags-view "M" "Work+Focus")
 
 
 * Start of weekday prep tasks                                      :Periodic:
@@ -106,26 +100,28 @@
 
 
 ** TODO Complete [[id:2f404a47-3da5-4141-9b84-e07f126f50d9][Start of weekday work list]]
-   SCHEDULED: <2025-01-27 Mon 09:00 +7d>
+   SCHEDULED: <2025-02-03 Mon 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-20 Mon 16:28]
+   :LAST_REPEAT: [2025-01-27 Mon 20:59]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-27 Mon 20:59]
    - State "DONE"       from "TODO"       [2025-01-20 Mon 16:28]
    - State "DONE"       from "TODO"       [2025-01-20 Mon 15:43]
    - State "DONE"       from "TODO"       [2025-01-13 Mon 10:12]
 
 
 ** TODO Complete [[id:2f404a47-3da5-4141-9b84-e07f126f50d9][Start of weekday work list]]
-   SCHEDULED: <2025-01-28 Tue 09:00 +7d>
+   SCHEDULED: <2025-02-04 Tue 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-21 Tue 10:26]
+   :LAST_REPEAT: [2025-01-28 Tue 06:04]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-28 Tue 06:04]
    - State "DONE"       from "TODO"       [2025-01-21 Tue 10:26]
    - State "DONE"       from "TODO"       [2025-01-15 Wed 09:16]
    :LOGBOOK:
@@ -214,25 +210,27 @@ CLOCK: [2025-01-13 Mon 09:40]--[2025-01-13 Mon 10:10] =>  0:30
 #+END:
 
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-01-21 Tue 08:10]
-| Headline                  | Time   |      |
-|---------------------------+--------+------|
-| *Total time*              | *1:36* |      |
-|---------------------------+--------+------|
-| End of weekday prep tasks | 1:36   |      |
-| \_  Complete...           |        | 0:50 |
-| \_  Complete...           |        | 0:46 |
+#+CAPTION: Clock summary at [2025-01-26 Sun 06:23]
+| Headline                     | Time    |       |
+|------------------------------+---------+-------|
+| *Total time*                 | *16:52* |       |
+|------------------------------+---------+-------|
+| End of weekday prep tasks    | 16:52   |       |
+| \_  Complete...              |         |  0:50 |
+| \_  Complete...              |         |  0:46 |
+| \_  End of weekday work list |         | 15:16 |
 #+END:
 
 
 ** TODO Complete [[id:6e13065f-3532-432e-b2de-761319dd0c35][End of weekday work list]]
-   SCHEDULED: <2025-01-27 Mon 16:30 +7d>
+   SCHEDULED: <2025-02-03 Mon 16:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:30
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-20 Mon 17:03]
+   :LAST_REPEAT: [2025-01-27 Mon 21:00]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-27 Mon 21:00]
    - State "DONE"       from "TODO"       [2025-01-20 Mon 17:03]
    - State "DONE"       from "TODO"       [2025-01-13 Mon 19:39]
    - State "DONE"       from "TODO"       [2025-01-12 Sun 16:15]
@@ -322,14 +320,11 @@ CLOCK: [2025-01-22 Wed 17:01]--[2025-01-23 Thu 08:17] => 15:16
    - Unread EVC Slack messages
    - Unread EVC email
    - Copy over action items from physical notebook
-   - Close all periodic tasks from agenda (org-agenda t "a")
+   - Close all [[elisp:(org-agenda t "a")][periodic tasks]] from agenda
+   - Prep for tomorrow's meetings
    - Commit files to Github
-   - Outlook Todo SE
    - Unread SE email
    - Unread SE Teams messages
-   - [Th] Provide recognition using Slack workflow
-   - [F] Clean up calendar for the upcoming week through the following
-     Monday
    - Stop Org clock (org-clock-out)
    - Pack medication and breakfast for office, if needed
 
@@ -364,13 +359,14 @@ CLOCK: [2025-01-22 Wed 17:01]--[2025-01-23 Thu 08:17] => 15:16
 
 
 ** TODO Complete start of new week prep tasks (list below)
-   SCHEDULED: <2025-01-26 Sun 09:00 +7d>
+   SCHEDULED: <2025-02-02 Sun 17:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-01-21 Tue 09:03]
+   :LAST_REPEAT: [2025-01-27 Mon 08:31]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-27 Mon 08:31]
    - State "DONE"       from "TODO"       [2025-01-21 Tue 09:03]
 :LOGBOOK:
 CLOCK: [2025-01-12 Sun 17:30]--[2025-01-12 Sun 17:58] =>  0:28
@@ -378,10 +374,11 @@ CLOCK: [2025-01-12 Sun 17:30]--[2025-01-12 Sun 17:58] =>  0:28
 
 
 ** TODO Slack Tech staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items
-   DEADLINE: <2025-01-26 Sun +7d>
+   DEADLINE: <2025-01-31 Fri +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-01-21 Tue 08:31]
+   :LAST_REPEAT: [2025-01-26 Sun 08:59]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-26 Sun 08:59]
    - State "DONE"       from "TODO"       [2025-01-21 Tue 08:31]
    :LOGBOOK:
    CLOCK: [2025-01-21 Tue 08:25]--[2025-01-21 Tue 08:31] =>  0:06
@@ -425,13 +422,14 @@ CLOCK: [2025-01-12 Sun 17:30]--[2025-01-12 Sun 17:58] =>  0:28
 
 
 ** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478][staff meeting]] agenda
-   DEADLINE: <2025-01-26 Sun +7d>
+   DEADLINE: <2025-01-31 Fri +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-01-21 Tue 08:33]
+   :LAST_REPEAT: [2025-01-26 Sun 09:12]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-01-26 Sun 09:12]
    - State "DONE"       from "TODO"       [2025-01-21 Tue 08:33]
    - State "DONE"       from "TODO"       [2025-01-05 Sun 20:48]
    - State "DONE"       from "TODO"       [2024-12-29 Sun 08:45]
@@ -439,10 +437,11 @@ CLOCK: [2025-01-12 Sun 17:30]--[2025-01-12 Sun 17:58] =>  0:28
 
 
 ** TODO Run code below to generate next 1-1
-SCHEDULED: <2025-01-26 Sun +7d>
+SCHEDULED: <2025-01-31 Fri +7d>
 :PROPERTIES:
-:LAST_REPEAT: [2025-01-21 Tue 09:02]
+:LAST_REPEAT: [2025-01-26 Sun 09:15]
 :END:
+- State "DONE"       from "TODO"       [2025-01-26 Sun 09:15]
 - State "DONE"       from "TODO"       [2025-01-21 Tue 09:02]
 :LOGBOOK:
 CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
@@ -460,10 +459,11 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Send agenda suggestions for EVC Leadership weekly meeting
-   DEADLINE: <2025-01-26 Sun +7d>
+   DEADLINE: <2025-01-31 Fri +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-01-21 Tue 08:33]
+   :LAST_REPEAT: [2025-01-26 Sun 09:22]
    :END:
+   - State "DONE"       from "TODO"       [2025-01-26 Sun 09:22]
    - State "DONE"       from "TODO"       [2025-01-21 Tue 08:33]
    - State "DONE"       from "TODO"       [2025-01-05 Sun 20:36]
    - State "DONE"       from "TODO"       [2024-12-29 Sun 08:44]
@@ -501,44 +501,21 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Book conference rooms for my meetings for the next 4 weeks
-SCHEDULED: <2025-02-16 Sun +4w>
+   SCHEDULED: <2025-02-14 Fri +4w>
    :PROPERTIES:
    :LAST_REPEAT: [2025-01-21 Tue 08:34]
-   :END:
-   - State "DONE"       from "TODO"       [2025-01-21 Tue 08:34]
-   - State "DONE"       from "TODO"       [2025-01-05 Sun 21:06]
-   - State "DONE"       from "TODO"       [2024-12-29 Sun 08:43]
-   - State "DONE"       from "TODO"       [2024-12-23 Mon 11:40]
-   - State "DONE"       from "TODO"       [2024-12-15 Sun 20:59]
-   - State "DONE"       from "TODO"       [2024-12-04 Wed 07:39]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-27 Wed 06:44]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-27 Wed 06:44]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-20 Wed 20:35]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-20 Wed 20:35]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-14 Thu 06:03]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-14 Thu 06:03]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-06 Wed 07:59]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-06 Wed 07:59]
-   :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
 
 
+** TODO Clean up calendar for the upcoming week through the following Monday
+SCHEDULED: <2025-01-31 Fri +1w>
 
 
-
-** TODO Have a career conversation with direct reports
-   SCHEDULED: <2025-03-16 Sun +8w>
+** TODO Add career conversation with direct reports to 1-1
+   SCHEDULED: <2025-03-14 Fri +8w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
@@ -556,7 +533,7 @@ SCHEDULED: <2025-02-16 Sun +4w>
 
 
 ** TODO Ask direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?"
-   SCHEDULED: <2025-04-20 Sun +12w>
+   SCHEDULED: <2025-04-18 Fri +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
@@ -576,7 +553,7 @@ SCHEDULED: <2025-02-16 Sun +4w>
 
 
 ** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]] every 3 months
-   SCHEDULED: <2025-03-16 Sun +12w>
+   SCHEDULED: <2025-03-14 Fri +12w>
    :PROPERTIES:
    :LAST_REPEAT: [2024-11-28 Thu 09:48]
    :END:
@@ -595,8 +572,15 @@ SCHEDULED: <2025-02-16 Sun +4w>
 
 * Organization
 
-  - Once a quarter, review team succession planning list
-    (see manager tools recommendations on ready now/ready later)
+
+** TODO Conduct org reviews
+SCHEDULED: <2025-03-02 Sun +12w>
+
+
+** TODO Review team succession and promotion candidates list
+SCHEDULED: <2025-03-30 Sun +12w>
+
+    - See manager tools recommendations on ready now/ready later
 
 
 * Town hall meetings
@@ -612,21 +596,21 @@ SCHEDULED: <2025-02-16 Sun +4w>
 |-------------------------------------------------------------------------------+-----|
 | Ask someone to give spotlight presentation in town hall                       | -21 |
 | Setup site for questions and post-meeting survey to be submitted in town hall | -14 |
-| Setup updates and prep financial information slides for town hall             |  -7 |
+| Get updates on financial information for town hall                            |  -7 |
 | Answer questions left-over from town hall                                     |  +1 |
 | Give recognition/swag for good questions and organizers in town hall          |  +7 |
 | Release post-meeting survey results from town hall                            |  +7 |
 | Setup tasks for next town hall meeting date                                   |  +7 |
 |-------------------------------------------------------------------------------+-----|
 
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-02-05", task_time="08:00")
+#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-02-05", task_time="")
 
 #+RESULTS:
 :results:
 
 
-*** TODO Setup site for questions and post-meeting survey to be submitted in town hall
-    SCHEDULED: <2025-01-28 Tue>
+*** TODO Setup site for questions and post-meeting survey to be submitted in town hall :Slack:
+    SCHEDULED: <2025-02-02 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -634,8 +618,8 @@ SCHEDULED: <2025-02-16 Sun +4w>
    :END:
 
 
-*** TODO Setup updates and prep financial information slides for town hall
-    SCHEDULED: <2025-01-29 Wed>
+*** TODO Get updates on financial information slides for town hall    :Slack:
+    SCHEDULED: <2025-02-02 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10

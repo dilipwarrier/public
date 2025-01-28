@@ -208,7 +208,8 @@
 
 * Tasks
 
-** TODO Add remaining sections from [[file:c:/Users/dwarr/Downloads/Strategic management textbook notes/temp_notes.org][converted text file]] in Downloads dir :Offline:
+** TODO Add remaining sections from [[file:c:/Users/dwarr/Downloads/Strategic management textbook notes/temp_notes.org][converted text file]] in Downloads dir :Offline:Software:
+SCHEDULED: <2025-03-08 Sat>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
