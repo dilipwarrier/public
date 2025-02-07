@@ -1,4 +1,4 @@
-#+title: Team communication
+#+title: Team and inter-personal communication
 #+FILETAGS: :Manager:
 #+STARTUP: content
 
@@ -26,6 +26,32 @@
   [[https://medium.com/levelshealth/how-to-intentionally-structure-scale-company-communications-2c4774e1f8c8][This post]] describes a thoughtful approach to team communication.
 
   Gitlab also has a [[https://about.gitlab.com/handbook/communication/][memo on the topic]].
+
+
+* Communicating across cultures
+
+
+** Holding meetings with Japanese/Korean colleagues or partners
+
+   Their English is generally quite poor and they're sensitive to that.
+
+   Please slow down your pace of speaking by at least 50%.
+
+   Please reduce the number of slides accordingly. For example, if the
+standard is 1 slide every 3 minutes, assume that with an Asian
+audience, it will be 1 slide every 6 minutes.
+
+Please avoid local idioms that may not make sense outside the US.
+
+Please pause at the end of each slide and encourage questions.
+
+Please refrain from asking "Did you understand what I said?" or the equivalent because it comes across as condescending. Instead, you could try "What is your opinion on this?"
+
+They are generally very hierarchical in structure. There will be a top
+person in the meeting who will express his opinion infrequently but
+his opinion will matter a lot. Please understand and note who that
+person is. Please don't challenge that person openly. Try instead to
+ask questions to understand his/her perspective.
 
 
 * Meeting etiquette                                                  :Review:
