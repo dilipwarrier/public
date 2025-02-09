@@ -1,0 +1,22 @@
+#+Title: Org structures
+#+FILETAGS: :Management:
+#+STARTUP: overview
+
+* Ideal org structures                                         :Review:Ideas:
+
+  CEO
+   - Engineering
+     + Eng program management
+   - Product
+   - Operations
+     + IT :: This could move up if tools/technologies are important
+     + Finance
+     + Customer Operations
+     + Program Management :: Management of activities across multiple functions
+   - Sales
+     + Business Dev
+     + Sales project management
+   - Marketing
+     + Competition/Market Insight
+   - HR
+   - Manufacturing

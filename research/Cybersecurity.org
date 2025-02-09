@@ -1,0 +1,11 @@
+#+Title: Cybersecurity culture and practices
+#+FILETAGS: :Technology:
+#+STARTUP: overview
+
+* Cybersecurity practice overview                                    :Review:
+
+  ISACA/CMMI paper on [[https://drive.google.com/file/d/1NAcGLX0zRCvYRjzHlqjj3eBoYzCLuvXs/view?usp=drive_link][cybersecurity culture]]
+
+  Most orgs spend a lot of budget on employee training. However,
+  successful orgs spend a larger part of their cybersecurity budget on
+  certifications, consultants, etc.
