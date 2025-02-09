@@ -26,16 +26,6 @@
 #+END:
 
 
-** TODO Copy over relevant Keep notes to Org
-SCHEDULED: <2025-02-01 Sat +1w>
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-12-16 Mon 09:27]
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
 ** TODO Read CMMI paper on cybersecurity culture
 SCHEDULED: <2025-01-26 Sun>
   :PROPERTIES:
@@ -46,7 +36,7 @@ SCHEDULED: <2025-01-26 Sun>
 
 
 ** TODO Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
-SCHEDULED: <2025-02-01 Sat>
+SCHEDULED: <2025-02-16 Sun>
   :PROPERTIES:
   :EFFORT: 00:15
   :BENEFIT: 10
@@ -55,7 +45,7 @@ SCHEDULED: <2025-02-01 Sat>
 
 
 ** TODO Find out more about $500B semiconductor industry doubling by 2030 Nvidia's Challengers in the AI Chip Revolution https://www.wsj.com/articles/the-next-challengers-joining-nvidia-in-the-ai-chip-revolution-e0055485
-SCHEDULED: <2025-02-01 Sat>
+SCHEDULED: <2025-02-16 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -64,7 +54,7 @@ SCHEDULED: <2025-02-01 Sat>
 
 
 ** TODO https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf
-SCHEDULED: <2025-02-09 Sun>
+SCHEDULED: <2025-02-23 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -73,7 +63,7 @@ SCHEDULED: <2025-02-09 Sun>
 
 
 ** TODO Cobot Series B pitch deck https://medium.com/@bp_64302/cobots-series-b-pitch-narrative-b916b6eb3e6f
-SCHEDULED: <2025-02-09 Sun>
+SCHEDULED: <2025-02-23 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -82,7 +72,7 @@ SCHEDULED: <2025-02-09 Sun>
 
 
 ** TODO Read https://www.carscoops.com/2024/09/americas-ev-charging-infrastructure-has-doubled-in-less-than-four-years/
-SCHEDULED: <2025-02-09 Sun>
+SCHEDULED: <2025-02-23 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -91,7 +81,7 @@ SCHEDULED: <2025-02-09 Sun>
 
 
 ** TODO OCPP requirements https://www.bing.com/search?q=open+charging+alliance+certification+renewal+requirements&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=open+charging+alliance+certification+renewal+requirements+&sc=10-58&sk=&cvid=16D1A17E2FA0491DA541591E79113EEF&ghsh=0&ghacc=0&ghpl=
-SCHEDULED: <2025-02-09 Sun>
+SCHEDULED: <2025-02-23 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -100,7 +90,7 @@ SCHEDULED: <2025-02-09 Sun>
 
 
 ** TODO https://www.linkedin.com/pulse/why-ocpp-so-confusing-chris-kaiser-meige/
-SCHEDULED: <2025-02-09 Sun>
+SCHEDULED: <2025-02-23 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -109,7 +99,7 @@ SCHEDULED: <2025-02-09 Sun>
 
 
 ** TODO Find a book on cleaning the house 5S, Marie Kondo, etc
-SCHEDULED: <2025-02-16 Sun>
+SCHEDULED: <2025-02-23 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -118,7 +108,7 @@ SCHEDULED: <2025-02-16 Sun>
 
 
 ** TODO Read about process flow and flow chart drawing conventions
-SCHEDULED: <2025-02-16 Sun>
+SCHEDULED: <2025-02-23 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -127,7 +117,7 @@ SCHEDULED: <2025-02-16 Sun>
 
 
 ** TODO Vasily Arkhipov, world's greatest man, https://en.m.wikipedia.org/wiki/Vasily_Arkhipov
-SCHEDULED: <2025-02-16 Sun>
+SCHEDULED: <2025-02-23 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10

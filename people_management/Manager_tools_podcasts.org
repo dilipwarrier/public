@@ -1842,7 +1842,7 @@
 
 
 ** TODO Read an existing Manager Tools section from above          :Learning:
-   SCHEDULED: <2025-01-25 Sat +2w>
+   SCHEDULED: <2025-02-09 Sun +2w>
    :PROPERTIES:
    :EFFORT:   00:30
    :BENEFIT:  40
