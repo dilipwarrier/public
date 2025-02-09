@@ -1,0 +1,11 @@
+#+Title: Energy consumption by sector and source
+#+FILETAGS: :Technology:
+#+STARTUP: overview
+
+* US energy consumption                                              :Review:
+
+  The [[https://www.eia.gov/beta/states/overview][EIA web site]] shows energy consumption by state. Most US states
+  have a significant consumption of non-renewable sources of energy
+  such as natural gas and petroleum.
+
+  See [[https://drive.google.com/file/d/1mgCN8V5FYhhD-obrXtLrbDzbbZWOd58R/view?usp=drive_link][this picture from 2023]] for details.

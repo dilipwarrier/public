@@ -60,7 +60,7 @@
    0.8M BEVs were sold.
 
 
-* EV charging and charger trends                                     :Review:
+* EV charging                                                        :Review:
 
   A standard AC socket in the US (120 V, 15 A) can give about 1.8 kW of
   power. A Level 2 charger (240 V, 30 A) can provide about 7.2 kW of
@@ -73,6 +73,10 @@
   An average US home consumes about 1 kW of power, so a DC fast
   charger is equivalent to about 150 homes at its peak charging. Even
   a level 2 charger is equivalent to about 7 US homes.
+
+
+* EV charging station market trends                                  :Review:
+
 
   US charging stations can be located using [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][this DoE site]].
 
@@ -201,7 +205,15 @@
 
 * Battery aging                                                      :Review:
 
-  Source: [[https://www.accure.net/battery-knowledge/blog-battery-aging][Accure]]
+
+** DCFC effects on battery age
+
+   [[https://youtu.be/qYJk1Qljwgg?si=8TyrNCS7DSL9FN-5][Engineering Explained video]]
+
+
+** Modes of aging
+
+  [[https://www.accure.net/battery-knowledge/blog-battery-aging][Accure]]
 
   [[file:Screenshot 2023-10-03 114415.png][Typical battery aging profile]]
 
