@@ -309,10 +309,11 @@ SCHEDULED: <2025-03-30 Sun +12w>
 
 
 ** TODO Slack Tech staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items :Slack:
-   SCHEDULED: <2025-02-09 Sun +7d>
+   SCHEDULED: <2025-02-16 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-02-03 Mon 08:18]
+   :LAST_REPEAT: [2025-02-10 Mon 08:11]
    :END:
+   - State "DONE"       from "TODO"       [2025-02-10 Mon 08:11]
    - State "DONE"       from "TODO"       [2025-02-03 Mon 08:18]
    - State "DONE"       from "TODO"       [2025-01-26 Sun 08:59]
    - State "DONE"       from "TODO"       [2025-01-21 Tue 08:31]
@@ -446,12 +447,13 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Clean up calendar for the upcoming week through the following Monday :Email:
-SCHEDULED: <2025-02-09 Sun +1w>
+SCHEDULED: <2025-02-16 Sun +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2025-02-03 Mon 08:16]
+:LAST_REPEAT: [2025-02-10 Mon 08:11]
 :END:
 
 
+- State "DONE"       from "TODO"       [2025-02-10 Mon 08:11]
 - State "DONE"       from "TODO"       [2025-02-03 Mon 08:16]
 
 
@@ -581,7 +583,7 @@ SCHEDULED: <2025-02-09 Sun +1w>
    :END:
 
 
-*** TODO Give recognition/swag for good questions and organizers in town hall
+*** DONE Give recognition/swag for good questions and organizers in town hall
     SCHEDULED: <2025-02-12 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
