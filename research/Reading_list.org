@@ -62,15 +62,6 @@
 #+END:
 
 
-** DONE Read CMMI paper on cybersecurity culture
-SCHEDULED: <2025-01-26 Sun>
-  :PROPERTIES:
-  :EFFORT:   01:00
-  :BENEFIT:  100
-  :RATIO:    1.00
-  :END:
-
-
 ** TODO Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
 SCHEDULED: <2025-02-16 Sun>
   :PROPERTIES:
