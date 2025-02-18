@@ -446,13 +446,14 @@
 
 
 ** TODO Slack Tech staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items :Slack:
-   SCHEDULED: <2025-02-16 Sun +7d>
+   SCHEDULED: <2025-02-23 Sun +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-02-10 Mon 08:11]
+   :LAST_REPEAT: [2025-02-17 Mon 17:12]
    :END:
+   - State "DONE"       from "TODO"       [2025-02-17 Mon 17:12]
    - State "DONE"       from "TODO"       [2025-02-10 Mon 08:11]
    - State "DONE"       from "TODO"       [2025-02-03 Mon 08:18]
    - State "DONE"       from "TODO"       [2025-01-26 Sun 08:59]
@@ -496,13 +497,14 @@
 
 
 ** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478][staff meeting]] agenda :Meetings:
-   SCHEDULED: <2025-02-16 Sun +7d>
+   SCHEDULED: <2025-02-23 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-02-16 Sun 12:11]
+   :LAST_REPEAT: [2025-02-17 Mon 11:09]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-02-17 Mon 11:09]
    - State "DONE"       from "TODO"       [2025-02-16 Sun 12:11]
    - State "DONE"       from "TODO"       [2025-02-02 Sun 19:38]
    - State "DONE"       from "TODO"       [2025-01-26 Sun 09:12]
@@ -512,14 +514,15 @@
    - State "DONE"       from "TODO"       [2024-12-23 Mon 06:36]
 
 
-** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]]                              :Meetings:
-SCHEDULED: <2025-02-16 Sun +7d>
+** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
+SCHEDULED: <2025-02-23 Sun +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-02-16 Sun 12:00]
+:LAST_REPEAT: [2025-02-17 Mon 11:08]
 :END:
+- State "DONE"       from "TODO"       [2025-02-17 Mon 11:08]
 - State "DONE"       from "TODO"       [2025-02-16 Sun 12:00]
 - State "DONE"       from "TODO"       [2025-02-07 Fri 07:28]
 :LOGBOOK:
@@ -531,13 +534,14 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Send agenda suggestions for EVC Leadership weekly meeting  :Meetings:
-   SCHEDULED: <2025-02-16 Sun +7d>
+   SCHEDULED: <2025-02-23 Sun +7d>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-02-16 Sun 12:11]
+   :LAST_REPEAT: [2025-02-17 Mon 11:09]
    :END:
+   - State "DONE"       from "TODO"       [2025-02-17 Mon 11:09]
    - State "DONE"       from "TODO"       [2025-02-16 Sun 12:11]
    - State "DONE"       from "TODO"       [2025-02-05 Wed 06:20]
    - State "DONE"       from "TODO"       [2025-01-26 Sun 09:22]
