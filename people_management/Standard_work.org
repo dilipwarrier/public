@@ -459,7 +459,7 @@
 * Tasks
 
 
-** TODO Slack Tech staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items :Slack:
+** TODO Slack Tech staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items :Messages:
    SCHEDULED: <2025-02-23 Sun +7d>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -606,7 +606,7 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
    - State "DONE"       from "TODO"       [2025-02-16 Sun 20:49]
-** TODO Clean up calendar for the upcoming week through the following Monday :Email:
+** TODO Clean up calendar for the upcoming week through the following Monday :Messages:
    SCHEDULED: <2025-02-23 Sun +1w>
    :PROPERTIES:
    :EFFORT: 00:15

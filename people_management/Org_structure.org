@@ -7,16 +7,20 @@
   CEO
    - Engineering
      + Eng program management
+     + SW Dev
+     + System Testing
+     + UX
+     + DevSecOps
    - Product
    - Operations
-     + IT :: This could move up if tools/technologies are important
+     + IT Systems and Security
      + Finance
      + Customer Operations
      + Program Management :: Management of activities across multiple functions
+   - HR
    - Sales
      + Business Dev
      + Sales project management
    - Marketing
      + Competition/Market Insight
-   - HR
    - Manufacturing
