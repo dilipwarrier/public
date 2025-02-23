@@ -297,15 +297,16 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "we")][End of day work tasks]]
-   SCHEDULED: <2025-02-23 Sun 16:00 +7d>
+   SCHEDULED: <2025-03-02 Sun 16:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:30
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-02-16 Sun 20:32]
+   :LAST_REPEAT: [2025-02-23 Sun 17:59]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-02-23 Sun 17:59]
    - State "DONE"       from "TODO"       [2025-02-16 Sun 20:32]
    - State "DONE"       from "TODO"       [2025-02-10 Mon 10:25]
    - State "DONE"       from "TODO"       [2025-02-03 Mon 21:07]
@@ -511,13 +512,14 @@
 
 
 ** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478][staff meeting]] agenda :Meetings:
-   SCHEDULED: <2025-02-23 Sun +7d>
+   SCHEDULED: <2025-03-02 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-02-17 Mon 11:09]
+   :LAST_REPEAT: [2025-02-23 Sun 17:55]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-02-23 Sun 17:55]
    - State "DONE"       from "TODO"       [2025-02-17 Mon 11:09]
    - State "DONE"       from "TODO"       [2025-02-16 Sun 12:11]
    - State "DONE"       from "TODO"       [2025-02-02 Sun 19:38]
@@ -528,8 +530,8 @@
    - State "DONE"       from "TODO"       [2024-12-23 Mon 06:36]
 
 
-** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
-SCHEDULED: <2025-02-23 Sun +7d>
+** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]]                              :Meetings:
+SCHEDULED: <2025-02-24 Mon +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
@@ -547,14 +549,15 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 
-** TODO Send agenda suggestions for EVC Leadership weekly meeting  :Meetings:
-   SCHEDULED: <2025-02-23 Sun +7d>
+** TODO Add suggestions for [[https://evconnect.atlassian.net/wiki/spaces/~7120202beca55290554b91891c8138a95946e4/pages/4223008882/Weekly+Leadership+Meeting][Bassem weekly staff meeting]] :Meetings:
+   SCHEDULED: <2025-03-02 Sun +7d>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-02-17 Mon 11:09]
+   :LAST_REPEAT: [2025-02-23 Sun 18:06]
    :END:
+   - State "DONE"       from "TODO"       [2025-02-23 Sun 18:06]
    - State "DONE"       from "TODO"       [2025-02-17 Mon 11:09]
    - State "DONE"       from "TODO"       [2025-02-16 Sun 12:11]
    - State "DONE"       from "TODO"       [2025-02-05 Wed 06:20]
@@ -607,15 +610,16 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
    - State "DONE"       from "TODO"       [2025-02-16 Sun 20:49]
 ** TODO Clean up calendar for the upcoming week through the following Monday :Messages:
-   SCHEDULED: <2025-02-23 Sun +1w>
+   SCHEDULED: <2025-03-02 Sun +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-02-16 Sun 12:01]
+   :LAST_REPEAT: [2025-02-23 Sun 17:44]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-02-23 Sun 17:44]
 - State "DONE"       from "TODO"       [2025-02-16 Sun 12:01]
 - State "DONE"       from "TODO"       [2025-02-10 Mon 08:11]
 - State "DONE"       from "TODO"       [2025-02-03 Mon 08:16]
