@@ -86,7 +86,7 @@
    - State "DONE"       from "WAIT"       [2021-07-14 Wed 07:52]
 
 
-** TODO Increase donation amount per month (see above) by 10%, update cost and benefit fields based on [[id:7d940e83-ba83-4650-9076-797cc3271ca6][multiplier calculation]] :Home:
+** TODO Increase donation amount per month (see above) by 10%, update cost and benefit fields based on [[id:7d940e83-ba83-4650-9076-797cc3271ca6][multiplier calculation]] :Home:Browser:
    SCHEDULED: <2025-12-24 Wed 08:00 +52w>
 :PROPERTIES:
 :EFFORT:  00:15
