@@ -5,14 +5,6 @@
 * Useful Coursera courses                                          :Projects:
 
 
-** DONE Learn Grafana
-  :PROPERTIES:
-  :EFFORT:   00:15
-  :BENEFIT:  10
-  :RATIO:    0.40
-  :END:
-
-
 ** TODO Complete Coursera course [[https://www.coursera.org/learn/cyber-security-fundamentals][Cyber security fundamentals]]
 
    :PROPERTIES:
