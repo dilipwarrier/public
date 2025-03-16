@@ -386,6 +386,7 @@
    :RATIO: 0.40
    :END:
 
+
 ** TODO Review team succession and promotion candidates list       :Meetings:
    SCHEDULED: <2025-03-30 Sun +12w>
    :PROPERTIES:
@@ -397,132 +398,31 @@
     - See manager tools recommendations on ready now/ready later
 
 
-* Town hall meetings                                               :Meetings:
+* Meetings with direct reports                                     :Meetings:
 
 
-  Town hall meetings are a good way to broadcast information, discuss
-  financial results, have detailed Q&A etc. I conduct town halls once
-  every quarter.
-
-
-** Task list for town hall meetings
-
-#+NAME: town_hall_tasks
-|----------------------------------------------------------------------+-----|
-| Ask someone to give spotlight presentation in town hall              | -21 |
-| Setup site for questions to be submitted in town hall                | -14 |
-| Setup post-meeting survey link                                       | -14 |
-| Get updates on financial information for town hall                   |  -7 |
-| Prepare Confluence page for information for town hall                |  -5 |
-| Answer questions left-over from town hall                            |  +1 |
-| Give recognition/swag for good questions and organizers in town hall |  +7 |
-| Release post-meeting survey results from town hall                   |  +7 |
-| Setup tasks for next town hall meeting date                          |  +7 |
-|----------------------------------------------------------------------+-----|
-
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-04-30")
-
-#+RESULTS:
-:results:
-
-*** TODO Ask someone to give spotlight presentation in town hall
-    SCHEDULED: <2025-04-09 Wed>
+** TODO Ask direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?"
+   SCHEDULED: <2025-04-18 Fri +12w>
    :PROPERTIES:
-   :EFFORT: 00:15
+   :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
+   :LAST_REPEAT: [2025-01-12 Sun 16:58]
    :END:
 
 
-*** TODO Setup site for questions to be submitted in town hall
-    SCHEDULED: <2025-04-16 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** TODO Setup post-meeting survey link
-    SCHEDULED: <2025-04-16 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** TODO Get updates on financial information for town hall
-    SCHEDULED: <2025-04-23 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** TODO Prepare Confluence page for information for town hall
-    SCHEDULED: <2025-04-25 Fri>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** TODO Answer questions left-over from town hall
-    SCHEDULED: <2025-05-01 Thu>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** TODO Give recognition/swag for good questions and organizers in town hall
-    SCHEDULED: <2025-05-07 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** TODO Release post-meeting survey results from town hall
-    SCHEDULED: <2025-05-07 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** TODO Setup tasks for next town hall meeting date
-    SCHEDULED: <2025-05-07 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-:end:
-
-
-* Tasks
-
-
-** TODO Add task 1 month before staff workshop to invite topics for discussion :Messages:
-   SCHEDULED: <2025-03-14 Fri +12w>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
+   - State "DONE"       from "TODO"       [2024-11-10 Sun 16:58]
+   - State "DONE"       from "TODO"       [2024-08-12 Mon 09:49]
+   - State "DONE"       from "TODO"       [2024-05-20 Mon 13:01]
+   - State "DONE"       from "TODO"       [2024-03-03 Sun 17:56]
+   - State "DONE"       from "TODO"       [2023-11-20 Mon 08:50]
+   - State "DONE"       from "TODO"       [2023-08-28 Mon 06:43]
+   - State "DONE"       from "TODO"       [2023-06-05 Mon 13:09]
+   - State "DONE"       from "TODO"       [2023-04-03 Mon 10:06]
 
 
 ** TODO Message staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items :Messages:
-   SCHEDULED: <2025-03-16 Sun +7d>
+   SCHEDULED: <2025-03-17 Mon +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -575,7 +475,7 @@
    :END:
 
 
-** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478][staff meeting]] agenda :Meetings:
+** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478][staff meeting]] agenda
    SCHEDULED: <2025-03-16 Sun +7d>
    :PROPERTIES:
    :LAST_REPEAT: [2025-03-10 Mon 10:04]
@@ -594,6 +494,202 @@
    - State "DONE"       from "TODO"       [2025-01-05 Sun 20:48]
    - State "DONE"       from "TODO"       [2024-12-29 Sun 08:45]
    - State "DONE"       from "TODO"       [2024-12-23 Mon 06:36]
+
+
+
+* Town hall meetings                                               :Meetings:
+
+
+  Town hall meetings are a good way to broadcast information, discuss
+  financial results, have detailed Q&A etc. I conduct town halls once
+  every quarter.
+
+
+** Task list for town hall meetings
+
+#+NAME: town_hall_tasks
+|----------------------------------------------------------------------+-----|
+| Ask someone to give spotlight presentation in town hall              | -21 |
+| Setup site for questions to be submitted in town hall                | -14 |
+| Setup post-meeting survey link                                       | -14 |
+| Get updates on financial information for town hall                   |  -7 |
+| Prepare Confluence page for information for town hall                |  -5 |
+| Setup quiz for town hall                                             |  -3 |
+| Answer questions left-over from town hall                            |  +1 |
+| Give recognition/swag for good questions and organizers in town hall |  +7 |
+| Release post-meeting survey results from town hall                   |  +7 |
+| Setup tasks for next town hall                                       | +14 |
+|----------------------------------------------------------------------+-----|
+
+#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-05-07")
+
+#+RESULTS:
+:results:
+
+
+
+*** TODO Ask someone to give spotlight presentation in town hall
+    SCHEDULED: <2025-04-16 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup site for questions to be submitted in town hall
+    SCHEDULED: <2025-04-23 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup post-meeting survey link
+    SCHEDULED: <2025-04-23 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Get updates on financial information for town hall
+    SCHEDULED: <2025-04-30 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Prepare Confluence page for information for town hall
+    SCHEDULED: <2025-05-02 Fri>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup quiz for town hall
+    SCHEDULED: <2025-05-05 Mon>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Answer questions left-over from town hall
+    SCHEDULED: <2025-05-08 Thu>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Give recognition/swag for good questions and organizers in town hall
+    SCHEDULED: <2025-05-14 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Release post-meeting survey results from town hall
+    SCHEDULED: <2025-05-14 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup tasks for next town hall
+    SCHEDULED: <2025-05-21 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+:end:
+:results:
+
+
+* Quarterly staff workshops                                        :Meetings:
+
+
+** Task list for staff workshops
+
+#+NAME: staff_workshop_tasks
+|---------------------------------------------------------+-----|
+| Request topics for staff workshop                       | -21 |
+| Setup Confluence page                                   | -21 |
+| Setup post-meeting survey link                          | -14 |
+| Release post-meeting survey results from staff workshop |  +3 |
+| Setup tasks for next staff workshop meeting date        |  +7 |
+|---------------------------------------------------------+-----|
+
+#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=staff_workshop_tasks, start_date="2025-04-23")
+
+#+RESULTS:
+:results:
+
+*** TODO Request topics for staff workshop
+    SCHEDULED: <2025-04-02 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup Confluence page
+    SCHEDULED: <2025-04-02 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup post-meeting survey link
+    SCHEDULED: <2025-04-09 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Release post-meeting survey results from staff workshop
+    SCHEDULED: <2025-04-26 Sat>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup tasks for next staff workshop meeting date
+    SCHEDULED: <2025-04-30 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+:end:
+
+
+* Tasks
 
 
 ** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
@@ -670,7 +766,7 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Book conference rooms for my meetings for the next 4 weeks  :Browser:
-   SCHEDULED: <2025-03-16 Sun +4w>
+   SCHEDULED: <2025-03-17 Mon +4w>
    :PROPERTIES:
    :LAST_REPEAT: [2025-02-16 Sun 20:49]
    :EFFORT: 00:15
@@ -683,59 +779,22 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Clean up calendar for the upcoming week through the following Monday :Messages:
-   SCHEDULED: <2025-03-16 Sun +1w>
+   SCHEDULED: <2025-03-21 Fri +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-03-09 Sun 15:36]
+   :LAST_REPEAT: [2025-03-16 Sun 15:38]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-03-16 Sun 15:38]
    - State "DONE"       from "TODO"       [2025-03-09 Sun 15:36]
    - State "DONE"       from "TODO"       [2025-03-02 Sun 19:41]
    - State "DONE"       from "TODO"       [2025-02-23 Sun 17:44]
 - State "DONE"       from "TODO"       [2025-02-16 Sun 12:01]
 - State "DONE"       from "TODO"       [2025-02-10 Mon 08:11]
 - State "DONE"       from "TODO"       [2025-02-03 Mon 08:16]
-
-
-** TODO Add career conversation with direct reports to 1-1         :Meetings:
-   SCHEDULED: <2025-03-14 Fri +8w>
-   :PROPERTIES:
-   :EFFORT:  00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-21 Tue 08:55]
-   :END:
-   - State "DONE"       from "TODO"       [2025-01-21 Tue 08:55]
-   :LOGBOOK:
-   CLOCK: [2025-01-21 Tue 08:34]--[2025-01-21 Tue 08:54] =>  0:20
-   :END:
-
-
-   - State "DONE"       from "TODO"       [2024-11-18 Mon 10:19]
-   - State "DONE"       from "TODO"       [2024-11-06 Wed 08:11]
-
-
-** TODO Ask direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?" :Meetings:
-   SCHEDULED: <2025-04-18 Fri +12w>
-   :PROPERTIES:
-   :EFFORT:  00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-12 Sun 16:58]
-   :END:
-
-
-   - State "DONE"       from "TODO"       [2024-11-10 Sun 16:58]
-   - State "DONE"       from "TODO"       [2024-08-12 Mon 09:49]
-   - State "DONE"       from "TODO"       [2024-05-20 Mon 13:01]
-   - State "DONE"       from "TODO"       [2024-03-03 Sun 17:56]
-   - State "DONE"       from "TODO"       [2023-11-20 Mon 08:50]
-   - State "DONE"       from "TODO"       [2023-08-28 Mon 06:43]
-   - State "DONE"       from "TODO"       [2023-06-05 Mon 13:09]
-   - State "DONE"       from "TODO"       [2023-04-03 Mon 10:06]
 
 
 ** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]] every 3 months :Meetings:
