@@ -716,7 +716,7 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Add suggestions for [[https://evconnect.atlassian.net/wiki/spaces/~7120202beca55290554b91891c8138a95946e4/pages/4223008882/Weekly+Leadership+Meeting][Bassem weekly staff meeting]] :Meetings:
-   SCHEDULED: <2025-03-16 Sun +7d>
+   SCHEDULED: <2025-03-17 Mon +7d>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
