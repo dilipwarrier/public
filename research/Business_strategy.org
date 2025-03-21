@@ -1,9 +1,8 @@
-#+NAME: Company strategy
-#+FILETAGS: :Strategy:
+#+NAME: Business strategy
+#+FILETAGS: :Strategy:Learning:
+#+STARTUP: content
 
 * Purpose, vision, mission, and strategy                             :Review:
-
-  [[https://www.youtube.com/watch?v=u4ZoJKF_VuA][Simon Sinek video]] on "Start with why"
 
   Accordingly:
   - Company purpose - answers the why - 50-100 year timeline
@@ -18,8 +17,8 @@
     + Skills, technology, knowledge, competencies
 
   - What is our business?
-    1. Who are we satisfying? (Customer groups)
-    2. What needs are we satisfying? (Customer needs)
+    + Who are we satisfying? (Customer groups)
+    + What needs are we satisfying? (Customer needs)
 
   This is a customer-oriented business definition rather than a
   product-oriented business definition.  A product-oriented definition
@@ -206,12 +205,7 @@
   [[file:Screenshot 2024-02-17 1634.jpg]]
 
 
-* Tasks
-
-** TODO Add remaining sections from [[file:c:/Users/dwarr/Downloads/Strategic management textbook notes/temp_notes.org][converted text file]] in Downloads dir :Offline:Software:
-SCHEDULED: <2025-03-08 Sat>
-   :PROPERTIES:
-   :EFFORT:  00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
+* Remaining sections
+:PROPERTIES:
+:ID:       c1c348b4-b32a-4588-9826-ba6d9851c200
+:END:
