@@ -362,15 +362,16 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "we")][End of day work tasks]]
-   SCHEDULED: <2025-03-23 Sun 16:00 +7d>
+   SCHEDULED: <2025-03-30 Sun 16:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:30
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-03-17 Mon 07:59]
+   :LAST_REPEAT: [2025-03-23 Sun 15:41]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-03-23 Sun 15:41]
    - State "DONE"       from "TODO"       [2025-03-17 Mon 07:59]
    - State "DONE"       from "TODO"       [2025-03-09 Sun 19:56]
    - State "DONE"       from "TODO"       [2025-03-04 Tue 08:00]
