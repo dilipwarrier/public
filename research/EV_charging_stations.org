@@ -1,0 +1,49 @@
+#+Title: Articles on EV charging stations and market trends
+#+FILETAGS: :Charging:Review:
+#+STARTUP: content
+
+
+* Charging companies
+
+
+** Chargepoint
+
+  Chargepoint has about 350k connectors in the US and Europe combined.
+
+  Chargepoint made revenue of $361M in [[https://investors.chargepoint.com/news/news-details/2024/ChargePoint-Reports-Fourth-Quarter-and-Full-Fiscal-Year-2024-Financial-Results/default.aspx][FY 2024]] with a net loss of $458M.
+
+
+** EVGo
+
+  As of Apr-2025, EVGo has 1100 DCFCs in the US.
+
+  EVGo made revenue of $256M in [[https://investors.evgo.com/news/news-details/2025/EVgo-Inc.-Reports-Record-Fourth-Quarter-2024-Results/default.aspx][FY 2024]] with a net loss of $127M or 50%.
+
+  AutoCharge+ accounted for 25% of charging sessions in Q4 2024.
+
+
+* EV charging station trends
+
+  US charging stations can be located using [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][this DoE site]].
+
+  As of 01-Dec-2024, there were 12k public DCFCs and 60k public L2s in the
+  US.
+
+  There's a discrepancy between this data and the IEA data that shows
+  100k public slow chargers in the US. Perhaps, the DoE count is less
+  because it only counts live chargers.
+
+
+* EV charging
+
+  A standard AC socket in the US (120 V, 15 A) can give about 1.8 kW of
+  power. A Level 2 charger (240 V, 30 A) can provide about 7.2 kW of
+  power.
+
+  DC fast chargers (Level 3) can provide up to 150 kW of power. For a
+  70 kWh battery, that implies full charge in about 30 min. The same
+  full charge would take 10 hours on a level 2 charger.
+
+  An average US home consumes about 1 kW of power, so a DC fast
+  charger is equivalent to about 150 homes at its peak charging. Even
+  a level 2 charger is equivalent to about 7 US homes.
