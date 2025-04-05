@@ -77,10 +77,9 @@
 
 * EV charging station market trends                                  :Review:
 
-
   US charging stations can be located using [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][this DoE site]].
 
-  As of Dec 1st, there were 12k public DCFCs and 60k public L2s in the
+  As of 01-Dec-2024, there were 12k public DCFCs and 60k public L2s in the
   US.
 
   There's a discrepancy between this data and the IEA data that shows

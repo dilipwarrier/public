@@ -23,3 +23,6 @@
   As [[file:Screenshot 2023-03-04 173353.png][this infographic]] from [[https://www.instagram.com/p/CoYihx7Li0z/][Scott Galloway]] shows, although there have
   been layoffs in the big software companies, they have been small
   compared to the growth in 2019-22.
+
+
+* "Truly great software companies are built to be product-led" - Wes Bush :Quotes:

@@ -105,13 +105,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-04-04 Fri 06:00 +7d>
+   SCHEDULED: <2025-04-11 Fri 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-03-28 Fri 08:10]
+   :LAST_REPEAT: [2025-04-04 Fri 19:59]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-04 Fri 19:59]
    - State "DONE"       from "TODO"       [2025-03-28 Fri 08:10]
    - State "DONE"       from "TODO"       [2025-03-21 Fri 16:05]
    - State "DONE"       from "TODO"       [2025-03-15 Sat 06:35]
@@ -207,15 +208,16 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-04-03 Thu 09:00 +7d>
+   SCHEDULED: <2025-04-10 Thu 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-03-28 Fri 06:11]
+   :LAST_REPEAT: [2025-04-04 Fri 19:58]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-04-04 Fri 19:58]
    - State "DONE"       from "TODO"       [2025-03-28 Fri 06:11]
    - State "DONE"       from "TODO"       [2025-03-21 Fri 16:05]
    - State "DONE"       from "TODO"       [2025-03-13 Thu 09:18]
@@ -230,15 +232,16 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-04-04 Fri 09:00 +7d>
+   SCHEDULED: <2025-04-11 Fri 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-03-29 Sat 06:51]
+   :LAST_REPEAT: [2025-04-04 Fri 20:01]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-04-04 Fri 20:01]
    - State "DONE"       from "TODO"       [2025-03-29 Sat 06:51]
    - State "DONE"       from "TODO"       [2025-03-21 Fri 16:05]
    - State "DONE"       from "TODO"       [2025-03-15 Sat 06:35]
@@ -587,13 +590,14 @@
 
 
 ** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
-SCHEDULED: <2025-03-31 Mon +7d>
+SCHEDULED: <2025-04-07 Mon +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-03-27 Thu 07:17]
+:LAST_REPEAT: [2025-04-04 Fri 19:59]
 :END:
+- State "DONE"       from "TODO"       [2025-04-04 Fri 19:59]
 - State "DONE"       from "TODO"       [2025-03-27 Thu 07:17]
 - State "DONE"       from "TODO"       [2025-03-24 Mon 09:44]
 - State "DONE"       from "TODO"       [2025-03-11 Tue 14:20]
