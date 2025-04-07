@@ -5,13 +5,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-04-07 Mon 06:00 +7d>
+   SCHEDULED: <2025-04-14 Mon 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-03-31 Mon 07:28]
+   :LAST_REPEAT: [2025-04-07 Mon 18:23]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-07 Mon 18:23]
    - State "DONE"       from "TODO"       [2025-03-31 Mon 07:28]
    - State "DONE"       from "TODO"       [2025-03-25 Tue 21:18]
    - State "DONE"       from "TODO"       [2025-03-17 Mon 18:34]
@@ -135,13 +136,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-04-07 Mon 09:00 +7d>
+   SCHEDULED: <2025-04-14 Mon 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-01 Tue 08:20]
+   :LAST_REPEAT: [2025-04-07 Mon 18:23]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-07 Mon 18:23]
    - State "DONE"       from "TODO"       [2025-04-01 Tue 08:20]
    - State "DONE"       from "TODO"       [2025-03-25 Tue 21:18]
    - State "DONE"       from "TODO"       [2025-03-17 Mon 18:34]
@@ -269,7 +271,7 @@
 
 
 ** TODO Add quarterly org review to staff meeting agenda           :Meetings:
-   SCHEDULED: <2025-04-07 Mon +12w>
+   SCHEDULED: <2025-05-05 Mon +12w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -278,7 +280,7 @@
 
 
 ** TODO Review team succession and promotion candidates list       :Meetings:
-   SCHEDULED: <2025-03-30 Sun +12w>
+   SCHEDULED: <2025-05-05 Mon +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT:  10
@@ -312,13 +314,14 @@
 
 
 ** TODO Message staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items :Messages:
-   SCHEDULED: <2025-04-07 Mon +7d>
+   SCHEDULED: <2025-04-14 Mon +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-03-31 Mon 10:43]
+   :LAST_REPEAT: [2025-04-07 Mon 10:05]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-07 Mon 10:05]
    - State "DONE"       from "TODO"       [2025-03-31 Mon 10:43]
    - State "DONE"       from "TODO"       [2025-03-24 Mon 10:28]
    - State "DONE"       from "TODO"       [2025-03-17 Mon 10:16]
@@ -368,14 +371,15 @@
    :END:
 
 
-** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478][staff meeting]] agenda
-   SCHEDULED: <2025-04-06 Sun +7d>
+** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda
+   SCHEDULED: <2025-04-13 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-03-31 Mon 10:58]
+   :LAST_REPEAT: [2025-04-07 Mon 10:06]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-04-07 Mon 10:06]
    - State "DONE"       from "TODO"       [2025-03-31 Mon 10:58]
    - State "DONE"       from "TODO"       [2025-03-24 Mon 10:06]
    - State "DONE"       from "TODO"       [2025-03-17 Mon 10:16]
@@ -526,8 +530,8 @@
 #+NAME: staff_workshop_tasks
 |---------------------------------------------------------+-----|
 | Request topics for staff workshop                       | -21 |
-| Setup Confluence page                                   | -21 |
-| Setup post-meeting survey link                          | -14 |
+| Setup Confluence page for staff workshop                | -21 |
+| Setup post-meeting survey link for staff workshop       | -14 |
 | Release post-meeting survey results from staff workshop |  +3 |
 | Setup tasks for next staff workshop meeting date        |  +7 |
 |---------------------------------------------------------+-----|
@@ -538,7 +542,7 @@
 :results:
 
 
-*** TODO Request topics for staff workshop
+*** DONE Request topics for staff workshop
     SCHEDULED: <2025-04-04 Fri>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -547,7 +551,7 @@
    :END:
 
 
-*** TODO Setup Confluence page
+*** DONE Setup Confluence page
     SCHEDULED: <2025-04-02 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -589,7 +593,7 @@
 * Tasks
 
 
-** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
+** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]]                              :Meetings:
 SCHEDULED: <2025-04-07 Mon +7d>
 :PROPERTIES:
 :EFFORT:  00:15
@@ -614,14 +618,15 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 
-** TODO Add suggestions for [[https://evconnect.atlassian.net/wiki/spaces/~7120202beca55290554b91891c8138a95946e4/pages/4223008882/Weekly+Leadership+Meeting][Bassem weekly staff meeting]] :Meetings:
-   SCHEDULED: <2025-04-07 Mon +7d>
+** TODO Add suggestions for [[https://evconnect.atlassian.net/wiki/spaces/~7120202beca55290554b91891c8138a95946e4/pages/4223008882/Weekly+Leadership+Meeting][Bassem weekly staff meeting]]            :Meetings:
+   SCHEDULED: <2025-04-14 Mon +7d>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-03-31 Mon 11:49]
+   :LAST_REPEAT: [2025-04-07 Mon 10:05]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-07 Mon 10:05]
    - State "DONE"       from "TODO"       [2025-03-31 Mon 11:49]
    - State "DONE"       from "TODO"       [2025-03-24 Mon 09:45]
    - State "DONE"       from "TODO"       [2025-03-19 Wed 09:59]
@@ -683,15 +688,16 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Clean up calendar for the upcoming week through the following Monday :Messages:
-   SCHEDULED: <2025-04-04 Fri +1w>
+   SCHEDULED: <2025-04-11 Fri +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-03-31 Mon 10:43]
+   :LAST_REPEAT: [2025-04-07 Mon 10:01]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-04-07 Mon 10:01]
    - State "DONE"       from "TODO"       [2025-03-31 Mon 10:43]
    - State "DONE"       from "TODO"       [2025-03-24 Mon 09:45]
    - State "DONE"       from "TODO"       [2025-03-16 Sun 15:38]
