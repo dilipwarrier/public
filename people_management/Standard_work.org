@@ -31,13 +31,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-04-08 Tue 08:00 +7d>
+   SCHEDULED: <2025-04-15 Tue 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-04-01 Tue 19:14]
+   :LAST_REPEAT: [2025-04-09 Wed 06:17]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-09 Wed 06:17]
    - State "DONE"       from "TODO"       [2025-04-01 Tue 19:14]
    - State "DONE"       from "TODO"       [2025-03-25 Tue 21:29]
    - State "DONE"       from "TODO"       [2025-03-18 Tue 07:10]
@@ -160,13 +161,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-04-08 Tue 09:00 +7d>
+   SCHEDULED: <2025-04-15 Tue 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-02 Wed 09:54]
+   :LAST_REPEAT: [2025-04-09 Wed 06:17]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-09 Wed 06:17]
    - State "DONE"       from "TODO"       [2025-04-02 Wed 09:54]
    - State "DONE"       from "TODO"       [2025-03-25 Tue 21:29]
    - State "DONE"       from "TODO"       [2025-03-18 Tue 19:03]
@@ -540,24 +542,6 @@
 
 #+RESULTS:
 :results:
-
-
-*** DONE Request topics for staff workshop
-    SCHEDULED: <2025-04-04 Fri>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Setup Confluence page
-    SCHEDULED: <2025-04-02 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
 
 
 *** TODO Setup post-meeting survey link
