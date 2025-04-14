@@ -1,5 +1,5 @@
 #+NAME: Business strategy
-#+FILETAGS: :Strategy:Learning:
+#+FILETAGS: :Strategy:
 #+STARTUP: content
 
 * Purpose, vision, mission, and strategy                             :Review:

@@ -1,5 +1,5 @@
 #+TITLE: Articles and notes on crime
-#+FILETAGS: :Learning:News:
+#+FILETAGS: :News:
 
 * US violent crime and proven deterrence techniques                  :Review:
 

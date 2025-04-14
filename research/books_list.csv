@@ -1,4 +1,5 @@
 Title,Author,My Rating,Average Rating,Date Read,Date Added,Genre,Status
+Building secure and reliable systems,Heather Adkins,,4.0,,4/13/2025,engineering,to-read
 Engines that move markets, Alasdair Nairn,,4.0,,9/8/2024,"western-history, business",to-read
 A woman of no importance,Sonia Purnell,,4.0,,9/8/2024,"western-biography, thriller",to-read
 The idea of the brain, Matthew Cobb,,4.0,,9/8/2024,brain,to-read
@@ -20,7 +21,6 @@ The sense of style,Steven Pinker,,4.0,,09/10/2023,society,to-read
 From strength to strength,Arthur Brooks,,4.0,,09/10/2023,philosophy,to-read
 Thing Explainer,Randall Monroe,,4.0,,09/10/2023,science,to-read
 Deep work,Cal Newport,,4.0,,09/10/2023,brain,to-read
-A history of burning,Janika Oza,,4.3,,7/8/2023,indian-fiction,to-read
 Say Nothing,Patrick Keefe,,4.4,,7/8/2023,western-history,to-read
 Statistics as principled argument,Robert Abelson,,4.1,,6/23/2023,maths,to-read
 The culture engine,Chris Edmonds,,4.0,,4/2/2023,management,to-read
@@ -86,7 +86,7 @@ The Prague Sonata,Bradford Morrow,,4.0,,10/15/2017,thriller,to-read
 Watergate: The Corruption of American Politics and the Fall of Richard Nixon,Fred Emery,,4.0,,8/19/2017,western-history,to-read
 "Ivan's War: Life and Death in the Red Army,1939-1945",Catherine Merridale,,4.0,,4/1/2017,eastern-history,to-read
 Thus Bad Begins,Javier Marias,,4.0,,11/6/2016,thriller,to-read
-"Five Families: The Rise,Decline,and Resurgence of America's Most Powerful Mafia Empires",Selwyn Raab,,4.1,,1/12/2016,western-biography,to-read
+"Five Families: The Rise, Decline, and Resurgence of America's Most Powerful Mafia Empires",Selwyn Raab,,4.1,,1/12/2016,western-biography,to-read
 The Christmas Virtues: A Treasury of Conservative Tales for the Holidays,Jonathan V. Last,,4.1,,12/19/2015,society,to-read
 The Logic of Collective Action: Public Goods and the Theory of Groups,Mancur Olson,,4.0,,9/10/2015,"society,textbook",to-read
 Marketing Management,Philip Kotler,,4.1,,2/22/2015,"marketing,management,textbook",to-read
@@ -96,6 +96,9 @@ The rise and reign of the mammals,Steve Brusatte,,4.0,,07/25/2022,"biology,scien
 Fundamentals of software architecture,"Mark Richards,Neal Ford",,4.3,,01/29/2022,"software,engineering,textbook",to-read
 The Makioka Sisters,Junichiro Tanizaki,,4.0,,5/13/2017,japanese-fiction,reading
 Pragmatic thinking and learning,Andy Hunt,,4.0,,03/08/2024,brain,reading
+The sleep prescription,Arik Prather,5,4.0,04/13/2025,04/13/2025,science,read
+The gatekeepers,Chris Whipple,5,4.0,04/13/2025,04/13/2025,western-history,read
+King Richard,Michael Dobbs,5,4.0,4/13/2025,4/13/2025,western-history,read
 Secure software systems,Erik Fretheim,2,4.0,1/5/2025,12/25/2024,"software,engineering",read
 Amos Walker: The Complete Story Collection,Loren D. Estleman,1.0,4.1,1/4/2025,7/17/2016,thriller,read
 "Talking to the enemy: faith, brotherhood,and the (un)making of terrorists",Scott Atran,1.0,4.0,12/14/2024,9/23/2021,society,read

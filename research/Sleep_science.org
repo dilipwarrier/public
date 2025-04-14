@@ -1,0 +1,23 @@
+#+Title: The science of sleep
+#+FILETAGS: :Science:
+#+STARTUP: overview
+
+* Steps for better sleep                                             :Review:
+
+These are derived from "The Sleep Prescription" by Aric Prather.
+
+1. Fix your sleep times. It should be the same time that you go to
+   sleep and wake up on all 7 days of the week.
+2. Set up 5 micro breaks during the day, otherwise you are
+   unwinding too much during your sleep time.
+3. When you experience a dip in the afternoon, stick your head in the
+   freezer or stick your hands in cold water in the sink. This
+   acts as a shock to reset your system.
+4. Set aside 15 min of intentional "worry time" during the late
+   afternoon. During this time, you can either think about all your
+   worries or you can jot them down in a journal.
+5. Set an alarm at least 2 hours before your bed time to start winding
+   down.
+6. Use your bed only for sleep, not for reading or TV watching.
+7. If you're waking up regularly in the night and staying up for 2
+   hours, try sleeping 2 hours later than usual.
