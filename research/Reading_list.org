@@ -6,13 +6,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-04-20 Sun 06:00 +7d>
+   SCHEDULED: <2025-04-27 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-04-13 Sun 17:12]
+   :LAST_REPEAT: [2025-04-21 Mon 16:16]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-21 Mon 16:16]
    - State "DONE"       from "TODO"       [2025-04-13 Sun 17:12]
    - State "DONE"       from "TODO"       [2025-04-07 Mon 06:55]
    - State "DONE"       from "TODO"       [2025-03-31 Mon 06:04]
@@ -128,15 +129,6 @@ SCHEDULED: <2025-02-23 Sun>
    :END:
 
 
-** DONE https://www.linkedin.com/pulse/why-ocpp-so-confusing-chris-kaiser-meige/
-SCHEDULED: <2025-02-23 Sun>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
-
-
 ** TODO Find a book on cleaning the house 5S, Marie Kondo, etc
 SCHEDULED: <2025-02-23 Sun>
    :PROPERTIES:
@@ -161,13 +153,6 @@ SCHEDULED: <2025-02-23 Sun>
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :END:
-** DONE Look at whether I can get a table with all my comments and unresolved ones and location in Confluence
-SCHEDULED: <2025-02-23 Sun>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
    :END:
 ** TODO Review tool for PC keyboard macros
 SCHEDULED: <2025-02-23 Sun>
