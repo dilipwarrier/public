@@ -13,7 +13,6 @@
 
 
 ** TODO Add an option in recommend_book.py to exclude a genre (e.g. -xg textbook) :Software:
-SCHEDULED: <2025-02-22 Sat>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
@@ -22,7 +21,6 @@ SCHEDULED: <2025-02-22 Sat>
 
 
 ** TODO Allow multiple genres in recommend_book.py (e.g. -g"textbook,management") :Software:
-SCHEDULED: <2025-02-22 Sat>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
@@ -31,7 +29,6 @@ SCHEDULED: <2025-02-22 Sat>
 
 
 ** TODO Add an option in recommend_book.py to list by status (e.g. -s reading) :Software:
-SCHEDULED: <2025-02-22 Sat>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10

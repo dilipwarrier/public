@@ -5,13 +5,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-04-21 Mon 06:00 +7d>
+   SCHEDULED: <2025-04-28 Mon 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-04-14 Mon 10:59]
+   :LAST_REPEAT: [2025-04-22 Tue 08:35]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-22 Tue 08:35]
    - State "DONE"       from "TODO"       [2025-04-14 Mon 10:59]
    - State "DONE"       from "TODO"       [2025-04-07 Mon 18:23]
    - State "DONE"       from "TODO"       [2025-03-31 Mon 07:28]
@@ -32,13 +33,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-04-22 Tue 08:00 +7d>
+   SCHEDULED: <2025-04-29 Tue 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-04-15 Tue 14:31]
+   :LAST_REPEAT: [2025-04-24 Thu 07:57]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-24 Thu 07:57]
    - State "DONE"       from "TODO"       [2025-04-15 Tue 14:31]
    - State "DONE"       from "TODO"       [2025-04-09 Wed 06:17]
    - State "DONE"       from "TODO"       [2025-04-01 Tue 19:14]
@@ -146,13 +148,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-04-21 Mon 09:00 +7d>
+   SCHEDULED: <2025-04-28 Mon 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-15 Tue 08:34]
+   :LAST_REPEAT: [2025-04-22 Tue 08:35]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-22 Tue 08:35]
    - State "DONE"       from "TODO"       [2025-04-15 Tue 08:34]
    - State "DONE"       from "TODO"       [2025-04-07 Mon 18:23]
    - State "DONE"       from "TODO"       [2025-04-01 Tue 08:20]
@@ -171,13 +174,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-04-22 Tue 09:00 +7d>
+   SCHEDULED: <2025-04-29 Tue 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-16 Wed 08:09]
+   :LAST_REPEAT: [2025-04-24 Thu 07:57]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-24 Thu 07:57]
    - State "DONE"       from "TODO"       [2025-04-16 Wed 08:09]
    - State "DONE"       from "TODO"       [2025-04-09 Wed 06:17]
    - State "DONE"       from "TODO"       [2025-04-02 Wed 09:54]
@@ -198,13 +202,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-04-23 Wed 09:00 +7d>
+   SCHEDULED: <2025-04-30 Wed 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-17 Thu 06:50]
+   :LAST_REPEAT: [2025-04-24 Thu 07:57]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-24 Thu 07:57]
    - State "DONE"       from "TODO"       [2025-04-17 Thu 06:50]
    - State "DONE"       from "TODO"       [2025-04-10 Thu 09:38]
    - State "DONE"       from "TODO"       [2025-04-03 Thu 05:28]
@@ -333,13 +338,14 @@
 
 
 ** TODO Message staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items :Messages:
-   SCHEDULED: <2025-04-21 Mon +7d>
+   SCHEDULED: <2025-04-28 Mon +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-14 Mon 11:56]
+   :LAST_REPEAT: [2025-04-21 Mon 17:00]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-21 Mon 17:00]
    - State "DONE"       from "TODO"       [2025-04-14 Mon 11:56]
    - State "DONE"       from "TODO"       [2025-04-07 Mon 10:05]
    - State "DONE"       from "TODO"       [2025-03-31 Mon 10:43]
@@ -392,13 +398,14 @@
 
 
 ** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda
-   SCHEDULED: <2025-04-20 Sun +7d>
+   SCHEDULED: <2025-04-27 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-04-14 Mon 11:56]
+   :LAST_REPEAT: [2025-04-22 Tue 09:27]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-04-22 Tue 09:27]
    - State "DONE"       from "TODO"       [2025-04-14 Mon 11:56]
    - State "DONE"       from "TODO"       [2025-04-07 Mon 10:06]
    - State "DONE"       from "TODO"       [2025-03-31 Mon 10:58]
@@ -579,13 +586,14 @@
 
 
 ** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
-SCHEDULED: <2025-04-21 Mon +7d>
+SCHEDULED: <2025-04-28 Mon +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-04-14 Mon 11:01]
+:LAST_REPEAT: [2025-04-21 Mon 16:34]
 :END:
+- State "DONE"       from "TODO"       [2025-04-21 Mon 16:34]
 - State "DONE"       from "TODO"       [2025-04-14 Mon 11:01]
 - State "DONE"       from "TODO"       [2025-04-14 Mon 10:59]
 - State "DONE"       from "TODO"       [2025-04-04 Fri 19:59]
@@ -606,13 +614,14 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Add suggestions for [[https://evconnect.atlassian.net/wiki/spaces/~7120202beca55290554b91891c8138a95946e4/pages/4223008882/Weekly+Leadership+Meeting][Bassem weekly staff meeting]] :Meetings:
-   SCHEDULED: <2025-04-21 Mon +7d>
+   SCHEDULED: <2025-04-28 Mon +7d>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-14 Mon 10:59]
+   :LAST_REPEAT: [2025-04-21 Mon 16:30]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-21 Mon 16:30]
    - State "DONE"       from "TODO"       [2025-04-14 Mon 10:59]
    - State "DONE"       from "TODO"       [2025-04-07 Mon 10:05]
    - State "DONE"       from "TODO"       [2025-03-31 Mon 11:49]
