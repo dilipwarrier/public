@@ -1,138 +1,139 @@
-#+Title: Introduction to me as a manager
+#+Title: What to expect from me as a manager
 #+FILETAGS: :Manager:
 #+STARTUP: content
 
 * Introduction
 
-  Hi and welcome to the team!
+Hi and welcome to the team!
 
-  After you read this document, you will know what to expect working
-  with me, how I like to work and my principles. This will help
-  accelerate our working relationship. I will update details in it often
-  and themes in it less often.
+After you read this document, you will know what to expect working
+with me, how I like to work, and my guiding principles. This will help
+accelerate our working relationship. I will update details in it often
+and themes in it less often.
 
-  It’s going to take time to figure this place out. Take your time, meet
-  everyone, write things down, reflect on them and don't be scared to
-  ask questions.
+It’s going to take time to figure this place out. Take your time, meet
+everyone, write things down, reflect on them and don't be scared to
+ask questions.
 
-  We'll have an on-boarding series of 1-1s almost daily to help
-  accelerate this process.
+We'll have an on-boarding series of 1-1s almost daily to help
+accelerate this process.
 
 
 * 1-1s
 
-  Once we are past your on-boarding phase, we’ll have a 1-1 every week
-  for 25 minutes. This meeting discusses
-  topics of substance, not just updates. It's structured: 10 minutes for
-  you, 10 for me, and 5 minutes talking about your future.
+Once we are past your on-boarding phase, we’ll have a 1-1 every week
+for 25 minutes. This meeting discusses
+topics of substance, not just updates. It's structured: 10 minutes for
+you, 10 for me, and 5 minutes talking about your future.
 
-  Our 1-1s will help us form a bond through shared
-  passions. My passions are reading, food, music, and movies. Talking
-  about any of these will probably derail some of our
-  structured 1-1s. Occasional derailment is good.
+Our 1-1s will help us form a bond through shared
+passions. My passions are reading, food, music, and movies. Talking
+about any of these will probably derail some of our
+structured 1-1s. Occasional derailment is good.
 
-  I may occasionally reschedule my 1-1 with you but I will rarely
-  cancel it. I'll request you to please do the same.
+I may occasionally reschedule my 1-1 with you but I will rarely
+cancel it. I'll request you to please do the same.
 
 
 * Staff meetings
 
-  We'll have a staff meeting with your peers every week for 55
-  minutes. It's structured: 30 minutes for my direct reports to talk
-  about a spotlight item and 25 minutes for me to talk about whatever I
-  need to cover with all of you at once. In these meetings, I request you
-  to contribute and be engaged. You should give your opinions on matters
-  related not just to your team but to those of other
-  teams too. Our joint feedback should help everyone.
+We'll have a staff meeting with your peers every week for 55
+minutes. It's structured as follows. I will lead the first half and
+talk about important topics that I need to cover with all of you at
+once. The second half is meant for my direct reports to discuss any
+spotlight items or any topics of common interest. In these meetings,
+I request you to contribute and be engaged. You should give your
+opinions on matters related not just to your team but to those of
+other teams too. Our joint feedback should help everyone.
 
-  I rarely reschedule staff meetings due to the large number of
-  attendees.
+I rarely reschedule staff meetings due to the large number of
+attendees.
 
-  I prefer small audiences for meetings. When thinking about the
-  attendees for meetings, ask yourselves, "Do they need to be in this
-  meeting or can they be informed of the results afterwards?" That
-  especially applies to me as your manager. I should attend few
-  meetings that you host.
+I prefer small audiences for meetings. When thinking about the
+attendees for meetings, ask yourselves, "Do they need to be in this
+meeting or can they be informed of the results afterwards?" That
+especially applies to me as your manager. I should attend few
+meetings that you host.
 
-  I value professionalism. Meetings must start and end on time and must
-  follow a prescribed agenda. You get extra credit for ending a meeting
-  ahead of time. Action items must be captured with dates and times
-  associated. You must follow-up and complete those action items on
-  time. Not completing an action item and extending the date at the end
-  is unprofessional. Please avoid this.
+I value professionalism. Meetings must start and end on time and must
+follow a prescribed agenda. You get extra credit for ending a meeting
+ahead of time. Action items must be captured with dates and times
+associated. You must follow-up and complete those action items on
+time. Not completing an action item and extending the date at the end
+is unprofessional. Please avoid this.
 
 
 * Feedback and discussion
 
-  I value and give constant, respectful feedback, mostly positive and
-  sometimes negative. My feedback is for your growth and is rarely an
-  indicator of a failure on your part. Management is unnatural and
-  getting good at it requires discipline and systematic improvement.
+I value and give constant, respectful feedback, mostly positive and
+sometimes negative. My feedback is for your growth and is rarely an
+indicator of a failure on your part. Excellence at your job
+requires discipline and systematic improvement and I am here to
+support you through that journey.
 
-  I value objective opinions. If you're able to argue a stance
-  opposite to mine based on data, I'll accept it. If I don't, please
-  feel free to call me out. If you state an opinion, you should be
-  thinking "What data do I have to back that up?" or, more strongly,
-  "What would need to be true for me to be wrong about this?" If you
-  admit that your previous thinking on a topic was wrong and that
-  you've changed your opinion based on new data, I'll respect you.
+I value objective opinions. If you're able to argue a stance
+opposite to mine based on data, I'll accept it. If I don't, please
+feel free to call me out. If you state an opinion, you should be
+thinking "What data do I have to back that up?" or, more strongly,
+"What would need to be true for me to be wrong about this?" If you
+admit that your previous thinking on a topic was wrong and that
+you've changed your opinion based on new data, I'll respect you.
 
-  I value pragmatism over idealism. Every organization has politics. The
-  politically pragmatic solution that improves the status quo should win
-  over the idealistic solution. Such pragmatic solutions often exist.
+I value pragmatism over idealism. Every organization has politics. The
+politically pragmatic solution that improves the status quo should win
+over the idealistic solution. Such pragmatic solutions often exist.
 
-  I generally don't do pre-reads. If you need to review a document with
-  me, please setup a separate 30 minute meeting for that (not our
-  regular 1-1). Use the first 15 minutes to walk through the document or
-  we can spend the first 15 minutes in silence while I read it. The last
-  15 minutes will be spent in discussion and decisions.
+I generally don't do pre-reads. If you need to review a document with
+me, please setup a separate 30 minute meeting for that (not our
+regular 1-1). Use the first 15 minutes to walk through the document or
+we can spend the first 15 minutes in silence while I read it. The last
+15 minutes will be spent in discussion and decisions.
 
-  I value carefully written arguments with pros and cons
-  evaluated. So, I prefer Word documents with narratives to PowerPoint
-  slides. I am biased towards accepting your position if you have done
-  that due diligence. In such cases, please ensure that you have a
-  clear executive summary at the beginning. I may focus on reading
-  only the executive summary. I'm also pedantic about grammar. Please
-  indulge me by doing a spelling and grammar check before you review
-  with me.
+I value carefully written arguments with pros and cons
+evaluated. So, I prefer documents with narratives to slides.
+I am biased towards accepting your position if you have done
+that due diligence. In such cases, please ensure that you have a
+clear executive summary at the beginning. I may focus on reading
+only the executive summary. I'm also pedantic about grammar. Please
+indulge me by doing a spelling and grammar check before you review
+with me.
 
 
 * Trust and autonomy
 
-  I value trust. Trust takes time. You can feel free to discuss any
-  topic, no matter how sensitive, with me. I'll do the same. For
-  example, if you want to move on from your current role, let's
-  talk. I'll help you and will respect you for bringing up such a
-  difficult topic.
+I value trust. Trust takes time. You can feel free to discuss any
+topic, no matter how sensitive, with me. I'll do the same. For
+example, if you want to move on from your current role, let's
+talk. I'll help you and will respect you for bringing up such a
+difficult topic.
 
-  I focus on people, processes, and tools. I believe that good
-  products will result from that focus. I believe in giving people the
-  autonomy to do their jobs but holding them accountable for results,
-  investing in their learning, and motivating them to aim higher. I
-  believe in autonomy for you in your work with broad boundaries that
-  I set. If I set narrow boundaries, please suggest an alternative to
-  me.
+I focus on people, processes, and tools. I believe that good
+products will result from that focus. I believe in giving people the
+autonomy to do their jobs but holding them accountable for results,
+investing in their learning, and motivating them to aim higher. I
+believe in autonomy for you in your work with broad boundaries that
+I set. If you feel that I set narrow boundaries, please suggest
+an alternative to me.
 
 
 * Productivity and work-life balance
 
-  I highly value productivity versus "busy-ness". I won't measure when
-  you come in to the office or leave it. I will measure your
-  deliverables and outcomes. If you have too much on your plate,
-  we should talk about what can
-  be delegated or dropped. While there may be occasions when you work
-  late or over the weekends, those should be rare and you should have
-  time to spend outside work with your friends and family. Seth Godin
-  described it best in this [[https://seths.blog/2019/09/two-kinds-of-9-to-5-job/][blog post]].
+I value productivity over "busy-ness". I won't measure when
+you start your work or when you stop it. I will measure your
+outcomes. If you have too much on your plate, we should talk about
+what can be delegated or dropped. While there may be occasions when
+you work late or over the weekends, those should be rare and you
+should have time to spend outside work with your friends and
+family. Seth Godin described it best in this [[https://seths.blog/2019/09/two-kinds-of-9-to-5-job/][blog post]].
 
-  Finally, let's take some time to make jokes, defuse a tense
-  situation with humor, and play the fool. Life is a slog without
-  humor and everyone appreciates a good laugh.
+Finally, let's take some time to make jokes, defuse a tense situation
+with humor, and play the fool. Life is a slog without humor and
+everyone appreciates a good laugh.
 
 
 * References
 
-  I have heavily borrowed material from the following sources.
+I have heavily borrowed material from the following sources.
 
-  - [[https://randsinrepose.com/archives/how-to-rands/][Rands in Repose, Michael Lopp]]
-  - [[https://www.manager-tools.com/manager-tools-basics][Manager tools basics podcast series]]
+- [[https://randsinrepose.com/archives/how-to-rands/][Rands in Repose, Michael Lopp]]
+- [[https://www.manager-tools.com/manager-tools-basics][Manager tools basics podcast series]]

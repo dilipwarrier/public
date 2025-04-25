@@ -165,3 +165,9 @@
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+** TODO Save [[https://seths.blog/2005/03/dont_shave_that/][Don't shave that yak]] article
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :END:
