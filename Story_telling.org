@@ -1,0 +1,14 @@
+#+TITLE: Why stories are important
+#+FILETAGS:
+#+STARTUP: overview
+
+* Seth Godin on why story telling is important                       :Review:
+
+The map is not the territory, most importantly it's a conceptual
+framework. When we say something that's compelling but not true, we
+dupe our audience. That may work for a while but, sooner or later, we
+will get caught. However, when we say something that's both
+interesting and true, then we go beyond the facts and create a
+powerful story. We must always aim to create such a powerful story.
+
+** Link to [[https://p.feedblitz.com/r3.asp?l=361744360&f=1081591&c=21218324&u=331879162][full article]]
