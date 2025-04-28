@@ -343,13 +343,14 @@
 
 
 ** TODO Message staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items :Messages:
-   SCHEDULED: <2025-04-28 Mon +7d>
+   SCHEDULED: <2025-05-05 Mon +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-21 Mon 17:00]
+   :LAST_REPEAT: [2025-04-28 Mon 10:50]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-28 Mon 10:50]
    - State "DONE"       from "TODO"       [2025-04-21 Mon 17:00]
    - State "DONE"       from "TODO"       [2025-04-14 Mon 11:56]
    - State "DONE"       from "TODO"       [2025-04-07 Mon 10:05]
@@ -403,13 +404,14 @@
 
 
 ** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda
-   SCHEDULED: <2025-04-27 Sun +7d>
+   SCHEDULED: <2025-05-04 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-04-22 Tue 09:27]
+   :LAST_REPEAT: [2025-04-28 Mon 10:40]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-04-28 Mon 10:40]
    - State "DONE"       from "TODO"       [2025-04-22 Tue 09:27]
    - State "DONE"       from "TODO"       [2025-04-14 Mon 11:56]
    - State "DONE"       from "TODO"       [2025-04-07 Mon 10:06]
@@ -692,15 +694,16 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Clean up calendar for the upcoming week through the following Monday :Messages:
-   SCHEDULED: <2025-04-25 Fri +1w>
+   SCHEDULED: <2025-05-02 Fri +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-18 Fri 10:43]
+   :LAST_REPEAT: [2025-04-28 Mon 10:28]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-04-28 Mon 10:28]
    - State "DONE"       from "TODO"       [2025-04-18 Fri 10:43]
    - State "DONE"       from "TODO"       [2025-04-14 Mon 10:59]
    - State "DONE"       from "TODO"       [2025-04-07 Mon 10:01]
