@@ -322,15 +322,16 @@
 
 
 ** TODO Ask direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?"
-   SCHEDULED: <2025-04-18 Fri +12w>
+   SCHEDULED: <2025-07-11 Fri +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-01-12 Sun 16:58]
+   :LAST_REPEAT: [2025-04-28 Mon 06:50]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-04-28 Mon 06:50]
    - State "DONE"       from "TODO"       [2024-11-10 Sun 16:58]
    - State "DONE"       from "TODO"       [2024-08-12 Mon 09:49]
    - State "DONE"       from "TODO"       [2024-05-20 Mon 13:01]
@@ -565,7 +566,7 @@
 :results:
 
 
-*** TODO Release post-meeting survey results from staff workshop
+*** DONE Release post-meeting survey results from staff workshop
     SCHEDULED: <2025-04-26 Sat>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -618,13 +619,14 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Add suggestions for [[https://evconnect.atlassian.net/wiki/spaces/~7120202beca55290554b91891c8138a95946e4/pages/4223008882/Weekly+Leadership+Meeting][Bassem weekly staff meeting]] :Meetings:
-   SCHEDULED: <2025-04-28 Mon +7d>
+   SCHEDULED: <2025-05-05 Mon +7d>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-21 Mon 16:30]
+   :LAST_REPEAT: [2025-04-28 Mon 06:49]
    :END:
+   - State "DONE"       from "TODO"       [2025-04-28 Mon 06:49]
    - State "DONE"       from "TODO"       [2025-04-21 Mon 16:30]
    - State "DONE"       from "TODO"       [2025-04-14 Mon 10:59]
    - State "DONE"       from "TODO"       [2025-04-07 Mon 10:05]
