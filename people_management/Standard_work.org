@@ -486,7 +486,7 @@
 
 
 *** TODO Get updates on financial information for town hall
-    SCHEDULED: <2025-04-30 Wed>
+    SCHEDULED: <2025-05-02 Fri>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
