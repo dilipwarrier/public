@@ -53,7 +53,7 @@
   :END:
 
 
-** TODO Find out more about $500B semiconductor industry doubling by 2030 Nvidia's Challengers in the AI Chip Revolution https://www.wsj.com/articles/the-next-challengers-joining-nvidia-in-the-ai-chip-revolution-e0055485
+** DONE Find out more about $500B semiconductor industry doubling by 2030 Nvidia's Challengers in the AI Chip Revolution https://www.wsj.com/articles/the-next-challengers-joining-nvidia-in-the-ai-chip-revolution-e0055485
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -69,7 +69,7 @@
    :END:
 
 
-** TODO Cobot Series B pitch deck https://medium.com/@bp_64302/cobots-series-b-pitch-narrative-b916b6eb3e6f
+** DONE Cobot Series B pitch deck https://medium.com/@bp_64302/cobots-series-b-pitch-narrative-b916b6eb3e6f
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -77,7 +77,7 @@
    :END:
 
 
-** TODO Read https://www.carscoops.com/2024/09/americas-ev-charging-infrastructure-has-doubled-in-less-than-four-years/
+** DONE Read https://www.carscoops.com/2024/09/americas-ev-charging-infrastructure-has-doubled-in-less-than-four-years/
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -134,6 +134,7 @@
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+
 
 ** TODO Read "Pragmatic Thinking and Learning"
 SCHEDULED: <2025-04-27 Sun>
