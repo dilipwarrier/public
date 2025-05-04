@@ -3,6 +3,15 @@
 #+STARTUP: content
 
 * Weekend learning tasks                                           :Periodic:
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2025-05-04 Sun 07:02]
+| Headline                              | Time   |      |
+|---------------------------------------+--------+------|
+| *Total time*                          | *3:38* |      |
+|---------------------------------------+--------+------|
+| Weekend learning tasks                | 3:38   |      |
+| \_  Complete [[elisp:(org-agenda t... |        | 3:38 |
+#+END:
 
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
@@ -19,6 +28,17 @@
    CLOCK: [2025-02-09 Sun 06:37]--[2025-02-09 Sun 07:33] =>  0:56
    CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
    :END:
+
+
+** TODO Review [[elisp:(org-agenda t "lb")][learning backlog]]
+   SCHEDULED: <2025-05-18 Sun 06:00 +28d>
+   :PROPERTIES:
+   :EFFORT: 01:00
+   :BENEFIT: 200
+   :RATIO: 2.00
+   :LAST_REPEAT: [2025-04-27 Sun 16:47]
+   :END:
+
 
 
 * Reading CMMI book on process                                     :Projects:
