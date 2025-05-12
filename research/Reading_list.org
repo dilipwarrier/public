@@ -2,33 +2,31 @@
 #+FILETAGS: :Learning:
 #+STARTUP: content
 
-* Weekend learning tasks                                           :Periodic:
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-05-04 Sun 07:02]
-| Headline                              | Time   |      |
-|---------------------------------------+--------+------|
-| *Total time*                          | *3:38* |      |
-|---------------------------------------+--------+------|
-| Weekend learning tasks                | 3:38   |      |
-| \_  Complete [[elisp:(org-agenda t... |        | 3:38 |
+#+BEGIN: clocktable :scope file :maxlevel 2
+#+CAPTION: Clock summary at [2025-05-11 Sun 07:46]
+| Headline                                   | Time   |      |
+|--------------------------------------------+--------+------|
+| *Total time*                               | *5:38* |      |
+|--------------------------------------------+--------+------|
+| Learning tasks                             | 5:38   |      |
+| \_  Read "Pragmatic Thinking and Learning" |        | 4:38 |
+| \_  Read CMMI book                         |        | 1:00 |
 #+END:
+
+* Learning tasks                                                   :Periodic:
 
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-05-11 Sun 06:00 +7d>
+   SCHEDULED: <2025-05-18 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-05-04 Sun 15:59]
+   :LAST_REPEAT: [2025-05-11 Sun 14:23]
    :END:
+   - State "DONE"       from "TODO"       [2025-05-11 Sun 14:23]
    - State "DONE"       from "TODO"       [2025-05-04 Sun 15:59]
    - State "DONE"       from "TODO"       [2025-04-27 Sun 16:47]
-   :LOGBOOK:
-   CLOCK: [2025-02-23 Sun 06:50]--[2025-02-23 Sun 08:02] =>  1:12
-   CLOCK: [2025-02-09 Sun 06:37]--[2025-02-09 Sun 07:33] =>  0:56
-   CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
-   :END:
 
 
 ** TODO Review [[elisp:(org-agenda t "lb")][learning backlog]]
@@ -42,29 +40,7 @@
 
 
 
-* Reading CMMI book on process                                     :Projects:
-  :PROPERTIES:
-  :EFFORT: 06:00
-  :BENEFIT: 600
-  :RATIO: 1.00
-  :END:
-  :LOGBOOK:
-  CLOCK: [2025-01-12 Sun 10:40]--[2025-01-12 Sun 11:40] =>  1:00
-  :END:
-
-
 * Learning tasks
-
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-01-12 Sun 11:40]
-| Headline                        | Time   |      |
-|---------------------------------+--------+------|
-| *Total time*                    | *1:00* |      |
-|---------------------------------+--------+------|
-| Learning tasks                  | 1:00   |      |
-| \_  Review CMMI book on process |        | 1:00 |
-#+END:
-
 
 ** TODO Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
   :PROPERTIES:
@@ -74,31 +50,7 @@
   :END:
 
 
-** DONE Find out more about $500B semiconductor industry doubling by 2030 Nvidia's Challengers in the AI Chip Revolution https://www.wsj.com/articles/the-next-challengers-joining-nvidia-in-the-ai-chip-revolution-e0055485
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
 ** TODO https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-** DONE Cobot Series B pitch deck https://medium.com/@bp_64302/cobots-series-b-pitch-narrative-b916b6eb3e6f
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-** DONE Read https://www.carscoops.com/2024/09/americas-ev-charging-infrastructure-has-doubled-in-less-than-four-years/
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -164,6 +116,23 @@ SCHEDULED: <2025-04-27 Sun>
 :BENEFIT: 1000
 :RATIO: 1.00
 :END:
+:LOGBOOK:
+CLOCK: [2025-05-11 Sun 06:40]--[2025-05-11 Sun 07:40] =>  1:00
+CLOCK: [2025-02-23 Sun 06:50]--[2025-02-23 Sun 08:02] =>  1:12
+CLOCK: [2025-02-09 Sun 06:37]--[2025-02-09 Sun 07:33] =>  0:56
+CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
+:END:
+
+
+** TODO Read CMMI book
+  :PROPERTIES:
+  :EFFORT: 06:00
+  :BENEFIT: 600
+  :RATIO: 1.00
+  :END:
+  :LOGBOOK:
+  CLOCK: [2025-01-12 Sun 10:40]--[2025-01-12 Sun 11:40] =>  1:00
+  :END:
 
 
 ** TODO Save [[https://seths.blog/2005/03/dont_shave_that/][Don't shave that yak]] article
