@@ -17,29 +17,31 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-05-18 Sun 06:00 +7d>
+   SCHEDULED: <2025-05-25 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-05-11 Sun 14:23]
+   :LAST_REPEAT: [2025-05-18 Sun 17:01]
    :END:
+   - State "DONE"       from "TODO"       [2025-05-18 Sun 17:01]
    - State "DONE"       from "TODO"       [2025-05-11 Sun 14:23]
    - State "DONE"       from "TODO"       [2025-05-04 Sun 15:59]
    - State "DONE"       from "TODO"       [2025-04-27 Sun 16:47]
 
 
 ** TODO Review [[elisp:(org-agenda t "lb")][learning backlog]]
-   SCHEDULED: <2025-05-18 Sun 06:00 +28d>
+   SCHEDULED: <2025-06-15 Sun 06:00 +28d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-04-27 Sun 16:47]
+   :LAST_REPEAT: [2025-05-18 Sun 17:01]
    :END:
 
 
 
+   - State "DONE"       from "TODO"       [2025-05-18 Sun 17:01]
 * Learning tasks
 
 ** TODO Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
