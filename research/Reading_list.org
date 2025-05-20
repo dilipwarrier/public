@@ -1,4 +1,4 @@
-#+TITLE: List of papers to read
+#+TITLE: List of learning activities
 #+FILETAGS: :Learning:
 #+STARTUP: content
 
@@ -13,7 +13,7 @@
 | \_  Read CMMI book                         |        | 1:00 |
 #+END:
 
-* Learning tasks                                                   :Periodic:
+* Periodic tasks                                                   :Periodic:
 
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
@@ -42,7 +42,17 @@
 
 
    - State "DONE"       from "TODO"       [2025-05-18 Sun 17:01]
-* Learning tasks
+
+* Tasks
+
+
+** TODO Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates  :Software:
+   :PROPERTIES:
+   :EFFORT: 04:00
+   :BENEFIT: 500
+   :RATIO: 1.25
+   :END:
+
 
 ** TODO Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
   :PROPERTIES:
