@@ -655,13 +655,14 @@ SCHEDULED: <2025-05-09 Fri +7d>
 
 
 ** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
-SCHEDULED: <2025-05-26 Mon +7d>
+SCHEDULED: <2025-06-02 Mon +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-05-20 Tue 19:27]
+:LAST_REPEAT: [2025-05-26 Mon 16:37]
 :END:
+- State "DONE"       from "TODO"       [2025-05-26 Mon 16:37]
 - State "DONE"       from "TODO"       [2025-05-20 Tue 19:27]
 - State "DONE"       from "TODO"       [2025-05-12 Mon 06:16]
 - State "DONE"       from "TODO"       [2025-05-07 Wed 17:32]
@@ -687,13 +688,14 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Add suggestions for [[https://evconnect.atlassian.net/wiki/spaces/~7120202beca55290554b91891c8138a95946e4/pages/4223008882/Weekly+Leadership+Meeting][Bassem weekly staff meeting]] :Meetings:
-   SCHEDULED: <2025-05-26 Mon +7d>
+   SCHEDULED: <2025-06-02 Mon +7d>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-05-20 Tue 19:27]
+   :LAST_REPEAT: [2025-05-26 Mon 16:37]
    :END:
+   - State "DONE"       from "TODO"       [2025-05-26 Mon 16:37]
    - State "DONE"       from "TODO"       [2025-05-20 Tue 19:27]
    - State "DONE"       from "TODO"       [2025-05-12 Mon 06:38]
    - State "DONE"       from "TODO"       [2025-05-05 Mon 20:11]
