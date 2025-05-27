@@ -766,15 +766,16 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Clean up calendar for the upcoming week through the following Monday :Messages:
-   SCHEDULED: <2025-05-23 Fri +1w>
+   SCHEDULED: <2025-05-30 Fri +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-05-20 Tue 19:27]
+   :LAST_REPEAT: [2025-05-26 Mon 20:45]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-05-26 Mon 20:45]
    - State "DONE"       from "TODO"       [2025-05-20 Tue 19:27]
    - State "DONE"       from "TODO"       [2025-05-12 Mon 06:16]
    - State "DONE"       from "TODO"       [2025-05-05 Mon 20:10]
