@@ -1383,6 +1383,9 @@
 
 
 ** Executive development
+:PROPERTIES:
+:ID:       a45fb120-2691-4efe-83e7-3ccd380e24d9
+:END:
 
    [[https://www.manager-tools.com/2023/10/executive-development-different-part-1][Podcast link]]
 
@@ -1396,15 +1399,6 @@
 
    They recommend a 360 evaluation from:
    [[https://www.ccl.org/leadership-solutions/leadership-development-tools/leadership-assessments/][Center for Creative Leadership]].
-
-
-*** TODO Do an executive 360 evaluation from the recommendation above :Home:Browser:
-    SCHEDULED: <2025-06-01 Sun 08:00>
-    :PROPERTIES:
-    :EFFORT:   01:00
-    :BENEFIT:  100
-    :RATIO:    1.00
-    :END:
 
 
 ** Culture
