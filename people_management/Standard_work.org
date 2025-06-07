@@ -141,13 +141,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-06-06 Fri 06:00 +7d>
+   SCHEDULED: <2025-06-13 Fri 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-05-31 Sat 09:14]
+   :LAST_REPEAT: [2025-06-06 Fri 18:08]
    :END:
+   - State "DONE"       from "TODO"       [2025-06-06 Fri 18:08]
    - State "DONE"       from "TODO"       [2025-05-31 Sat 09:14]
    - State "DONE"       from "TODO"       [2025-05-26 Mon 16:31]
    - State "DONE"       from "TODO"       [2025-05-17 Sat 15:50]
@@ -322,15 +323,16 @@ SCHEDULED: <2025-05-09 Fri +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-06-06 Fri 09:00 +7d>
+   SCHEDULED: <2025-06-13 Fri 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-05-31 Sat 09:14]
+   :LAST_REPEAT: [2025-06-06 Fri 18:08]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-06-06 Fri 18:08]
    - State "DONE"       from "TODO"       [2025-05-31 Sat 09:14]
    - State "DONE"       from "TODO"       [2025-05-26 Mon 16:31]
    - State "DONE"       from "TODO"       [2025-05-17 Sat 15:50]
@@ -390,10 +392,10 @@ SCHEDULED: <2025-05-09 Fri +7d>
     - See manager tools recommendations on ready now/ready later
 
 
-* Meetings with direct reports                                     :Meetings:
+* Meetings with direct reports
 
 
-** TODO Ask direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?"
+** TODO Ask direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?" :Meetings:
    SCHEDULED: <2025-07-11 Fri +12w>
    :PROPERTIES:
    :EFFORT:  00:15
@@ -480,7 +482,7 @@ SCHEDULED: <2025-05-09 Fri +7d>
    :END:
 
 
-** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda
+** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda                                 :Browser:
    SCHEDULED: <2025-06-08 Sun +7d>
    :PROPERTIES:
    :LAST_REPEAT: [2025-06-04 Wed 08:06]
