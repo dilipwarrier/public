@@ -51,7 +51,21 @@
 * Tasks
 
 
-** TODO Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] for 2025 and update [[file:Automotive.org][Automotive notes]] :Learning:
+** TODO Review Amazon annual shareholder letter
+   SCHEDULED: <2026-04-12 Sun +52w>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :LAST_REPEAT: [2025-04-12 Sat 18:16]
+   :END:
+
+
+   - State "DONE"       from "TODO"       [2025-04-12 Sat 18:16]
+   - State "DONE"       from "TODO"       [2024-04-20 Sat 13:38]
+
+
+** TODO Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] for 2025 and update [[file:Automotive.org][Automotive notes]]
 SCHEDULED: <2025-06-01 Sun +52w>
 :PROPERTIES:
 :EFFORT:  01:00
