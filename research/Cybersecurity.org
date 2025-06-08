@@ -1,6 +1,6 @@
 #+Title: Cybersecurity culture and practices
 #+FILETAGS: :Technology:
-#+STARTUP: overview
+#+STARTUP: content
 
 * Cybersecurity practice overview                                    :Review:
 

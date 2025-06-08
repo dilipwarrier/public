@@ -1,6 +1,6 @@
 #+Title: Org structures
 #+FILETAGS: :Management:
-#+STARTUP: overview
+#+STARTUP: content
 
 * Ideal org structures                                               :Review:
 

@@ -3,12 +3,13 @@
 #+STARTUP: content
 
 #+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2025-05-11 Sun 07:46]
+#+CAPTION: Clock summary at [2025-06-08 Sun 14:57]
 | Headline                                   | Time   |      |
 |--------------------------------------------+--------+------|
-| *Total time*                               | *5:38* |      |
+| *Total time*                               | *7:17* |      |
 |--------------------------------------------+--------+------|
-| Learning tasks                             | 5:38   |      |
+| Tasks                                      | 7:17   |      |
+| \_  Read...                                |        | 1:39 |
 | \_  Read "Pragmatic Thinking and Learning" |        | 4:38 |
 | \_  Read CMMI book                         |        | 1:00 |
 #+END:
@@ -17,13 +18,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-06-08 Sun 06:00 +7d>
+   SCHEDULED: <2025-06-15 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-06-01 Sun 15:57]
+   :LAST_REPEAT: [2025-06-08 Sun 14:58]
    :END:
+   - State "DONE"       from "TODO"       [2025-06-08 Sun 14:58]
    - State "DONE"       from "TODO"       [2025-06-01 Sun 15:57]
    - State "DONE"       from "TODO"       [2025-05-26 Mon 16:31]
    - State "DONE"       from "TODO"       [2025-05-18 Sun 17:01]
@@ -45,7 +47,20 @@
 
    - State "DONE"       from "TODO"       [2025-05-18 Sun 17:01]
 
+
 * Tasks
+
+
+** TODO Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] for 2025 and update [[file:Automotive.org][Automotive notes]] :Learning:
+SCHEDULED: <2025-06-01 Sun +52w>
+:PROPERTIES:
+:EFFORT:  01:00
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
+:LOGBOOK:
+CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
+:END:
 
 
 ** TODO Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates  :Software:

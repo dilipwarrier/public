@@ -28,43 +28,48 @@
    to 2030. The CAGR for the hyper-adoption case is 21%.
 
 
-** EV Volumes 2023
+** EV Volumes
 :PROPERTIES:
 :CUSTOM_ID: EV_Volumes_2023
 :END:
 
-   According to the [[https://www.iea.org/data-and-statistics/charts/electric-car-registrations-and-sales-share-in-china-united-states-and-europe-2018-2023][IEA 2024 outlook]], a total of 13.8M EVs (BEVs +
-   PHEVs) were sold world-wide in 2023. That's a 30% increase
-   from 2022. Out of those, 8.1M were sold in China, 3.3M in Europe,
-   and 1.4M in the US.
+|---------------+------+------+------|
+| Market/year   | 2022 | 2023 | 2024 |
+|---------------+------+------+------|
+| China         |  8.1 |  8.1 | 11.0 |
+| Europe        |  3.3 |  3.3 |      |
+| USA           |  1.4 |  1.4 |  1.7 |
+| Rest of world |  1.0 |  1.0 |  1.0 |
+|---------------+------+------+------|
+| Total         | 10.5 | 13.8 | 17.0 |
+|---------------+------+------+------|
 
-   According to [[https://www.ev-volumes.com/country/total-world-plug-in-vehicle-volumes/][EV Volumes]], about 10.5M EVs were sold globally
-   in 2022. This was 13% of all passenger vehicles. Out of this, about
-   7.5M were BEVs and about 3M were PHEVs. By 2030, the
-   number is expected to be at 46M (about 45% of the total light
-   vehicle market).
+Note that the numbers above are for EVs. That category includes BEVs
+and PHEVs.
 
-   [[file:Screenshot 2023-04-23 171648.png]]
+According to the [[https://www.iea.org/data-and-statistics/charts/electric-car-registrations-and-sales-share-in-china-united-states-and-europe-2018-2023][IEA 2024 outlook]], a total of 13.8M EVs (BEVs +
+PHEVs) were sold world-wide in 2023. That's a 30% increase
+from 2022. Out of those, 8.1M were sold in China, 3.3M in Europe,
+and 1.4M in the US.
 
-   [[file:Screenshot 2023-12-07 130520.png]]
+According to [[https://www.ev-volumes.com/country/total-world-plug-in-vehicle-volumes/][EV Volumes]], about 10.5M EVs were sold globally
+in 2022. This was 13% of all passenger vehicles. Out of this, about
+7.5M were BEVs and about 3M were PHEVs. By 2030, the
+number is expected to be at 46M (about 45% of the total light
+vehicle market).
 
-   According to slide 22 of the [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view][Battery Health Report]], about 6.2M EVs
-   were sold in China (about 60% of the global market), 2.7M in Europe
-   and 1.1M were sold in the US. This was a 55% increase from 2021.
+file:Screenshot 2023-04-23 171648.png]]
 
-   The total car sales (BEV, PHEV, ICE, etc.) in the US in CY23 is
-   estimated to be at about 15M. This is down from a high in CY19
-   (pre-pandemic) of about 17M. In CY23, [[https://www.coxautoinc.com/wp-content/uploads/2024/01/Q4-2023-Kelley-Blue-Book-Electric-Vehicle-Sales-Report.pdf][1.2M BEVs were sold]] in the US
-   and, in CY22, 0.8M BEVs were sold.
+file:Screenshot 2023-12-07 130520.png]]
 
+According to slide 22 of the [[https://drive.google.com/file/d/1PbKV4vZi1Ss7P7m10blSwGAeI1459bPc/view][Battery Health Report]], about 6.2M EVs
+were sold in China (about 60% of the global market), 2.7M in Europe
+and 1.1M were sold in the US. This was a 55% increase from 2021.
 
-*** TODO Check [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]]             :Browser:Learning:
-SCHEDULED: <2025-06-01 Sun +52w>
-:PROPERTIES:
-:EFFORT:  00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:END:
+The total car sales (BEV, PHEV, ICE, etc.) in the US in CY23 is
+estimated to be at about 15M. This is down from a high in CY19
+(pre-pandemic) of about 17M. In CY23, [[https://www.coxautoinc.com/wp-content/uploads/2024/01/Q4-2023-Kelley-Blue-Book-Electric-Vehicle-Sales-Report.pdf][1.2M BEVs were sold]] in the US
+and, in CY22, 0.8M BEVs were sold.
 
 
 * EV charging                                                        :Review:
@@ -80,6 +85,12 @@ SCHEDULED: <2025-06-01 Sun +52w>
   An average US home consumes about 1 kW of power, so a DC fast
   charger is equivalent to about 150 homes at its peak charging. Even
   a level 2 charger is equivalent to about 7 US homes.
+
+  However, assuming an average of 10k miles driven in a year, that
+  translates to a requirement of 10k/300*70 kWh/year or about 2.4
+  MWh/year. An average US home consumes 1 kW * 9000 hours/year = 9
+  MWh/year. So, on average, an EV will add about 25% to the energy
+  consumption of a house.
 
 
 * Picture of automotive engine                                       :Review:
