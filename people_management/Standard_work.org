@@ -40,13 +40,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-06-10 Tue 08:00 +7d>
+   SCHEDULED: <2025-06-17 Tue 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-06-05 Thu 08:44]
+   :LAST_REPEAT: [2025-06-10 Tue 19:40]
    :END:
+   - State "DONE"       from "TODO"       [2025-06-10 Tue 19:40]
    - State "DONE"       from "TODO"       [2025-06-05 Thu 08:44]
    - State "DONE"       from "TODO"       [2025-05-28 Wed 10:17]
    - State "DONE"       from "TODO"       [2025-05-20 Tue 19:28]
@@ -778,15 +779,16 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Book conference rooms for my meetings for the next 4 weeks  :Browser:
-   SCHEDULED: <2025-06-09 Mon +4w>
+   SCHEDULED: <2025-07-07 Mon +4w>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-05-12 Mon 06:38]
+   :LAST_REPEAT: [2025-06-10 Tue 06:49]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-06-10 Tue 06:49]
    - State "DONE"       from "TODO"       [2025-05-12 Mon 06:38]
    - State "DONE"       from "TODO"       [2025-04-14 Mon 11:58]
    - State "DONE"       from "TODO"       [2025-03-18 Tue 05:58]
