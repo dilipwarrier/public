@@ -36,16 +36,17 @@
 
 
 ** TODO Review [[elisp:(org-agenda t "lb")][learning backlog]]
-   SCHEDULED: <2025-06-15 Sun 06:00 +28d>
+   SCHEDULED: <2025-07-13 Sun 06:00 +28d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-05-18 Sun 17:01]
+   :LAST_REPEAT: [2025-06-15 Sun 07:12]
    :END:
 
 
 
+   - State "DONE"       from "TODO"       [2025-06-15 Sun 07:12]
    - State "DONE"       from "TODO"       [2025-05-18 Sun 17:01]
 
 
