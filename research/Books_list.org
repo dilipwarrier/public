@@ -12,39 +12,14 @@
    - Have at least one textbook and one non-textbook to read at all times
 
 
-** DONE Add an option in recommend_book.py to exclude a genre (e.g. -xg textbook) :Software:
-   :PROPERTIES:
-   :EFFORT:  00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-** DONE Allow multiple genres in recommend_book.py (e.g. -g"textbook,management") :Software:
-   :PROPERTIES:
-   :EFFORT:  00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-** DONE Add an option in recommend_book.py to list by status (e.g. -s reading) :Software:
-   :PROPERTIES:
-   :EFFORT:  00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-
 ** Next few books to read overall
 
-#+begin_src shell :results output :wrap "EXPORT html" :exports both
+#+begin_src shell :results drawer :exports both
 ../item_recommender/recommend_book.py -r 20 books_list.csv
 #+end_src
 
 #+RESULTS:
-#+begin_EXPORT html
+:results:
 List of recommended books:
 
 Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
@@ -54,20 +29,20 @@ Five Families: The Rise, Decline, and...          : Selwyn Raab          (4.1, w
 Nimitz at war                                     : Craig Symonds        (4.4, western-history)
 Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics,textbook)
 Spearhead                                         : Adam Makos           (4.2, western-history)
-Say Nothing                                       : Patrick Keefe        (4.4, western-history)
 A different drummer                               : William Melvin...    (4.2, fiction)
+Say Nothing                                       : Patrick Keefe        (4.4, western-history)
 The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society,textbook)
 The Man Who Mistook His Wife for a Hat and...     : Oliver Sacks         (4.1, brain)
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
 The Scramble for Africa: The White Man's...       : Thomas Pakenham      (4.1, eastern-history)
-Reading the room                                  : David Kantor         (4.2, management)
 This Is Marketing: You Can't Be Seen Until You... : Seth Godin           (4.1, marketing,management)
 Thus Bad Begins                                   : Javier Marias        (4.0, thriller)
 A World Undone: A History of World War I          : G J Meyer            (4.2, western-history)
 Tasting freedom: Octavius Catto                   : Daniel Biddle,...    (4.2, black-biography)
 Ivan's War: Life and Death in the Red...          : Catherine Merridale  (4.0, eastern-history)
 Conviction                                        : Denise Mina          (4.1, thriller)
-#+end_EXPORT
+The Napoleonic Wars                               : Alexander...         (4.2, eastern-history)
+:end:
 
 
 ** Next textbook to read
@@ -121,6 +96,9 @@ Thinking,Fast and Slow                            : Daniel Kahneman      (4.1, b
 :results:
 List of read books:
 
+Henry Ford                                        : Vincent Curcio       (21-Jun-25, 5.0)
+Stone mattress                                    : Margaret Atwood      (10-Jun-25, 5.0)
+Sloan rules                                       : Henry Farber         (20-May-25, 5.0)
 The sleep prescription                            : Arik Prather         (13-Apr-25, 5.0)
 The gatekeepers                                   : Chris Whipple        (13-Apr-25, 5.0)
 King Richard                                      : Michael Dobbs        (13-Apr-25, 5.0)
@@ -168,9 +146,6 @@ Designing data-intensive applications             : Martin Kleppmann     (15-Jan
 Alan Turing: The Enigma                           : Andrew Hodges        (12-Jan-22, 4.0)
 Fundamentals                                      : Frank Wilczek        (25-Dec-21, 1.0)
 Leaving Berlin                                    : Joseph Kanon         (18-Dec-21, 4.0)
-The Transformation of the World: A Global...      : Jurgen Osterhammel   (18-Dec-21, 2.0)
-Shuggie Bain                                      : Douglas Stuart       (07-Dec-21, 3.0)
-Seiobo There Below                                : Laszlo Krasznahorkai (30-Nov-21, 1.0)
 :end:
 
 
@@ -184,10 +159,12 @@ Seiobo There Below                                : Laszlo Krasznahorkai (30-Nov
 #+RESULTS:
 :results:
 List of categories and read-dates:
+western-biography             : 21-Jun-25
+brain                         : 21-Jun-25
+japanese-fiction              : 21-Jun-25
+western-fiction               : 10-Jun-25
 western-history               : 13-Apr-25
-brain                         : 13-Apr-25
 science                       : 13-Apr-25
-japanese-fiction              : 13-Apr-25
 engineering                   : 05-Jan-25
 software                      : 05-Jan-25
 thriller                      : 04-Jan-25
@@ -201,7 +178,6 @@ biology                       : 20-Aug-24
 textbook                      : 16-Aug-24
 philosophy                    : 16-Aug-24
 maths                         : 07-Aug-24
-western-biography             : 02-Aug-24
 genetics                      : 01-Aug-24
 finance                       : 20-Jun-24
 black-biography               : 12-Jan-24
@@ -278,7 +254,7 @@ Kiran Nagarkar
 ** Books to read by genre
 
 #+begin_src shell :results drawer :exports both
-  ../item_recommender/recommend_book.py -g science -r 20 books_list.csv
+  ../item_recommender/recommend_book.py -g science -r 30 books_list.csv
 #+end_src
 
 #+RESULTS:
@@ -286,13 +262,8 @@ Kiran Nagarkar
 List of recommended books:
 
 Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
-Sum                                               : David Eagleman       (4.1, science-fiction)
 Oryx and Crake                                    : Margaret Atwood      (4.0, science-fiction)
-A memory called Empire                            : Arkady Martine       (4.1, science-fiction)
-Subliminal: how your unconscious behavior...      : Leonard Mlodinow     (4.1, science)
-The elegant universe                              : Brian Greene         (4.1, physics,science)
 The rise and reign of the mammals                 : Steve Brusatte       (4.0, biology,science)
-Thing Explainer                                   : Randall Monroe       (4.0, science)
 Outlive                                           : Peter Attia          (4.0, science)
 The big picture                                   : Sean B. Carroll      (4.2, science,books-to-read-again)
 Winter Tide                                       : Ruthanna Emrys       (3.8, science-fiction)
