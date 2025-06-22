@@ -15,33 +15,109 @@
 ** Next few books to read overall
 
 #+begin_src shell :results drawer :exports both
-../item_recommender/recommend_book.py -r 20 books_list.csv
+../item_recommender/recommend_book.py -r 100 books_list.csv
 #+end_src
 
 #+RESULTS:
 :results:
 List of recommended books:
 
-Marketing Management                              : Philip Kotler        (4.1, marketing,management,textbook)
 Storytelling with data                            : Cole Nussbaumer...   (4.3, design)
-The Christmas Virtues: A Treasury of...           : Jonathan V. Last     (4.1, society)
-Five Families: The Rise, Decline, and...          : Selwyn Raab          (4.1, western-biography)
 Nimitz at war                                     : Craig Symonds        (4.4, western-history)
-Economic Hierarchies,Organization and the...      : Gordon Tullock       (4.0, economics,textbook)
-Spearhead                                         : Adam Makos           (4.2, western-history)
 A different drummer                               : William Melvin...    (4.2, fiction)
 Say Nothing                                       : Patrick Keefe        (4.4, western-history)
-The Logic of Collective Action: Public Goods...   : Mancur Olson         (4.0, society,textbook)
-The Man Who Mistook His Wife for a Hat and...     : Oliver Sacks         (4.1, brain)
 Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
-The Scramble for Africa: The White Man's...       : Thomas Pakenham      (4.1, eastern-history)
+The Makioka Sisters                               : Junichiro Tanizaki   (4.0, japanese-fiction)
+Anatomy of a Miracle: The End of Apartheid        : Patti Waldmeir       (4.1, eastern-history)
 This Is Marketing: You Can't Be Seen Until You... : Seth Godin           (4.1, marketing,management)
-Thus Bad Begins                                   : Javier Marias        (4.0, thriller)
 A World Undone: A History of World War I          : G J Meyer            (4.2, western-history)
+Thus Bad Begins                                   : Javier Marias        (4.0, thriller)
 Tasting freedom: Octavius Catto                   : Daniel Biddle,...    (4.2, black-biography)
 Ivan's War: Life and Death in the Red...          : Catherine Merridale  (4.0, eastern-history)
 Conviction                                        : Denise Mina          (4.1, thriller)
-The Napoleonic Wars                               : Alexander...         (4.2, eastern-history)
+Bayesian data analysis                            : Andrew Gelman        (4.2, maths,textbook)
+Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
+Fatherland                                        : Robert Harris        (4.0, fiction)
+The life you can save                             : Peter Singer         (4.5, philosophy,books-to-read-again)
+Freshwater                                        : Akwaeke Emezi        (4.0, thriller)
+Strategic Management                              : Charles Hill,...     (4.5, strategy,management,textbook,books-to-read-again)
+The Balkans: Nationalism, War and the Great Powers: Misha Glenny         (4.1, eastern-history)
+Quicksand: America's pursuit of power in the...   : Geoffrey Wawro       (4.1, western-history)
+Bull Mountain                                     : Brian Panowich       (4.0, thriller)
+The Sixth Conspirator                             : Max Byrd             (4.0, western-history)
+The overstory                                     : Richard Powers       (4.1, fiction)
+Oryx and Crake                                    : Margaret Atwood      (4.0, science-fiction)
+The Pragmatic Programmer: From Journeyman to...   : Andy Hunt            (4.3, software,books-to-read-again)
+Culture map                                       : Erin Meyer           (4.4, management,books-to-read-again)
+What we owe the future                            : William MacAskill    (4.1, philosophy)
+Over the edge of the world                        : Laurence Bergreen    (4.1, eastern-history)
+Models of the mind                                : Grace Lindsay        (4.4, brain,books-to-read-again)
+Working backwards                                 : Colin Bryar, Bill... (4.4, management,books-to-read-again)
+Hell of a book                                    : Jason Mott           (4.1, fiction)
+Statistics as principled argument                 : Robert Abelson       (4.1, maths)
+Games of life                                     : Karl Sigmund         (4.0, maths)
+Blueprint: How DNA makes us who we are            : Robert Plomin        (4.0, genetics,biology)
+Moral tribes                                      : Joshua Greene        (4.0, philosophy)
+Imperial twilight: the opium war                  : Stephen Platt        (4.3, eastern-history,books-to-read-again)
+The Effective Executive: The Definitive Guide...  : Peter F. Drucker     (4.1, management,books-to-read-again)
+Free to Choose: A Personal Statement              : Milton Friedman      (4.2, economics,books-to-read-again)
+Why it's OK to eat meat                           : Dan Shahar           (4.0, philosophy)
+Ready for anything                                : David Allen          (3.9, self-improvement)
+Build: An unorthodox guide to making things       : Tony Fadell          (4.0, management,product)
+Clean hands                                       : Patrick Hoffman      (3.9, thriller)
+The rise and reign of the mammals                 : Steve Brusatte       (4.0, biology,science)
+Apocalypse Factory                                : Steve Olson          (4.0, western-history)
+The walking dead                                  : Gerald Seymour       (3.9, thriller)
+The Lion House                                    : Christopher de...    (4.0, eastern-history)
+How do we know ourselves?                         : David Myers          (4.0, brain)
+Before she knew him                               : Peter Swanson        (3.9, thriller)
+Bangkok 8                                         : John Burdett         (4.0, eastern-fiction)
+Forgotten armies: The fall of British Asia        : C. A. Bayly, Tim...  (3.9, eastern-history)
+The garden of tales                               : Vijaydan Detha       (4.0, indian-fiction)
+Sovereigns of the sea                             : Seema Alavi          (4.0, eastern-history)
+The sense of style                                : Steven Pinker        (4.0, society)
+Deep work                                         : Cal Newport          (4.0, brain)
+The words that remain                             : Stenio Gardel        (4.0, fiction)
+Thinking,Fast and Slow                            : Daniel Kahneman      (4.1, brain,books-to-read-again)
+Outlive                                           : Peter Attia          (4.0, science)
+The War That Ended Peace: The Road to 1914        : Margaret MacMillan   (4.2, western-history,books-to-read-again)
+Thinking in bets                                  : Annie Duke           (4.0, brain)
+Algorithms to Live By: The Computer Science of... : Brian Christian      (4.2, maths,books-to-read-again)
+Investment under uncertainty                      : Avinash Dixit,...    (4.0, maths)
+A People's History of the United States           : Howard Zinn          (4.1, society,books-to-read-again)
+The Moral Animal: Why We Are the Way We Are:...   : Robert Wright        (4.1, genetics,biology,books-to-read-again)
+Northern Spy                                      : Flynn Berry          (4.0, thriller)
+Farewell, Amethystine                             : Walter Mosley        (4.0, thriller)
+Crossing the Chasm: Marketing and Selling High-...: Geoffrey A. Moore    (4.0, marketing,books-to-read-again)
+Self-help is like a vaccine                       : Bryan Caplan         (4.0, society)
+Engines that move markets                         : Alasdair Nairn       (4.0, western-history,business)
+Automotive technology: a systems approach         : Jack Erjavec         (4.0, engineering,textbook)
+The big picture                                   : Sean B. Carroll      (4.2, science,books-to-read-again)
+A woman of no importance                          : Sonia Purnell        (4.0, western-biography,thriller)
+The idea of the brain                             : Matthew Cobb         (4.0, brain)
+Other minds: the octopus and the evolution of...  : Peter Godfrey-Smith  (4.0, biology,brain)
+Business model generation                         : Alex Osterwalder     (4.2, management,books-to-read-again)
+Good Strategy Bad Strategy: The Difference and... : Richard P. Rumelt    (4.2, strategy,management,books-to-read-again)
+Building secure and reliable systems              : Heather Adkins       (4.0, engineering)
+Winter Tide                                       : Ruthanna Emrys       (3.8, science-fiction)
+How to Measure Anything: Finding the Value of...  : Douglas W. Hubbard   (4.0, management,books-to-read-again)
+Structures or why things don't fall down          : J. E. Gordon         (4.0, engineering)
+Thinking Strategically: The Competitive Edge in...: Avinash K. Dixit     (4.0, strategy,management,books-to-read-again)
+Superforecasting: The Art and Science of...       : Philip E. Tetlock    (4.1, science,books-to-read-again)
+Practical Ethics                                  : Peter Singer         (4.1, philosophy,books-to-read-again)
+Knowledge,reality and value                       : Michael Huemer       (4.1, philosophy,textbook,books-to-read-again)
+Capitalism and Freedom                            : Milton Friedman      (3.9, economics,books-to-read-again)
+The Myth of the Rational Voter: Why Democracies...: Bryan Caplan         (3.9, society,books-to-read-again)
+The Halo Effect: ... and the Eight Other...       : Philip M. Rosenzweig (3.9, management,books-to-read-again)
+Game theory: an introduction                      : Steve Tadelis        (4.0, maths,textbook,books-to-read-again)
+Your inner fish                                   : Neil Shubin          (4.0, biology,books-to-read-again)
+The God Delusion                                  : Richard Dawkins      (3.9, science,books-to-read-again)
+Crucial Conversations                             : Kerry Patterson      (4.0, management,books-to-read-again)
+King                                              : Jonathan Eig         (4.0, black-biography,books-to-read-again)
+Bubble or revolution?                             : Neel Mehta           (4.0, finance,maths,books-to-read-again)
+How big things get done                           : Bent Flyvbjerg       (4.0, management,books-to-read-again)
+An introduction to decision theory                : Martin Peterson      (3.8, maths,textbook,books-to-read-again)
+CMMI for Development: Guidelines for Process...   : Mary Beth Chrissis   (3.5, process,books-to-read-again)
 :end:
 
 
@@ -254,21 +330,17 @@ Kiran Nagarkar
 ** Books to read by genre
 
 #+begin_src shell :results drawer :exports both
-  ../item_recommender/recommend_book.py -g science -r 30 books_list.csv
+  ../item_recommender/recommend_book.py -g society -r 30 books_list.csv
 #+end_src
 
 #+RESULTS:
 :results:
 List of recommended books:
 
-Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
-Oryx and Crake                                    : Margaret Atwood      (4.0, science-fiction)
-The rise and reign of the mammals                 : Steve Brusatte       (4.0, biology,science)
-Outlive                                           : Peter Attia          (4.0, science)
-The big picture                                   : Sean B. Carroll      (4.2, science,books-to-read-again)
-Winter Tide                                       : Ruthanna Emrys       (3.8, science-fiction)
-Superforecasting: The Art and Science of...       : Philip E. Tetlock    (4.1, science,books-to-read-again)
-The God Delusion                                  : Richard Dawkins      (3.9, science,books-to-read-again)
+The sense of style                                : Steven Pinker        (4.0, society)
+A People's History of the United States           : Howard Zinn          (4.1, society,books-to-read-again)
+Self-help is like a vaccine                       : Bryan Caplan         (4.0, society)
+The Myth of the Rational Voter: Why Democracies...: Bryan Caplan         (3.9, society,books-to-read-again)
 :end:
 
 

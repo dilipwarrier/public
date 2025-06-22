@@ -1,5 +1,5 @@
-#+Title: A list of standard work tasks that a manager may need to do
-#+Filetags: :Manager:Work:
+#+TITLE: A list of standard work tasks that a manager may need to do
+#+FILETAGS: :Work:Manager:
 
 * Weekday focus tasks                                              :Periodic:
 
@@ -502,7 +502,7 @@ SCHEDULED: <2025-05-09 Fri +7d>
    :END:
 
 
-** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda :Browser:
+** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda                                 :Browser:
    SCHEDULED: <2025-06-22 Sun +7d>
    :PROPERTIES:
    :LAST_REPEAT: [2025-06-16 Mon 12:48]
@@ -538,6 +538,64 @@ SCHEDULED: <2025-05-09 Fri +7d>
 
 
 
+* Skip level meetings                                              :Meetings:
+
+I hold skip-level meetings with a sub-group of my skip-levels 2 months
+in a quarter. The third month is a town hall meeting.
+
+** Task list for skip level meetings
+
+#+NAME: skip_level_tasks
+|--------------------------------------------------------+----|
+| Setup post-meeting survey link for skip-level          | -7 |
+| Prepare Confluence page for information for skip-level | -5 |
+| Answer questions left-over from skip-level             | +1 |
+| Setup tasks for next skip level                        | +7 |
+|--------------------------------------------------------+----|
+
+#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=skip_level_tasks, start_date="2025-08-20")
+
+#+RESULTS:
+:results:
+*** TODO Setup post-meeting survey link for skip-level
+    SCHEDULED: <2025-08-13 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Prepare Confluence page for information for skip-level
+    SCHEDULED: <2025-08-15 Fri>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Answer questions left-over from skip-level
+    SCHEDULED: <2025-08-21 Thu>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Setup tasks for next skip level
+    SCHEDULED: <2025-08-27 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+:end:
+
+
 * Town hall meetings                                               :Meetings:
 
 
@@ -562,15 +620,12 @@ SCHEDULED: <2025-05-09 Fri +7d>
 | Setup tasks for next town hall                                       | +14 |
 |----------------------------------------------------------------------+-----|
 
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-05-07")
+#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-07-09")
 
 #+RESULTS:
 :results:
-
-
-
-*** DONE Setup site for questions to be submitted in town hall
-    SCHEDULED: <2025-04-23 Wed>
+*** TODO Ask someone to give spotlight presentations in town hall
+    SCHEDULED: <2025-06-18 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -578,8 +633,8 @@ SCHEDULED: <2025-05-09 Fri +7d>
    :END:
 
 
-*** DONE Setup post-meeting survey link
-    SCHEDULED: <2025-04-23 Wed>
+*** TODO Setup site for questions to be submitted in town hall
+    SCHEDULED: <2025-06-25 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -587,8 +642,8 @@ SCHEDULED: <2025-05-09 Fri +7d>
    :END:
 
 
-*** DONE Get updates on financial information for town hall
-    SCHEDULED: <2025-05-02 Fri>
+*** TODO Setup post-meeting survey link
+    SCHEDULED: <2025-06-25 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -596,8 +651,17 @@ SCHEDULED: <2025-05-09 Fri +7d>
    :END:
 
 
-*** DONE Prepare Confluence page for information for town hall
-    SCHEDULED: <2025-05-02 Fri>
+*** TODO Get updates on financial information for town hall
+    SCHEDULED: <2025-07-02 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+*** TODO Prepare Confluence page for information for town hall
+    SCHEDULED: <2025-07-04 Fri>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -606,7 +670,7 @@ SCHEDULED: <2025-05-09 Fri +7d>
 
 
 *** DONE Setup quiz for town hall
-    SCHEDULED: <2025-05-05 Mon>
+    SCHEDULED: <2025-07-06 Sun>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -614,8 +678,8 @@ SCHEDULED: <2025-05-09 Fri +7d>
    :END:
 
 
-*** DONE Answer questions left-over from town hall
-    SCHEDULED: <2025-05-08 Thu>
+*** TODO Answer questions left-over from town hall
+    SCHEDULED: <2025-07-10 Thu>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -624,7 +688,7 @@ SCHEDULED: <2025-05-09 Fri +7d>
 
 
 *** DONE Give recognition/swag for good questions and organizers in town hall
-    SCHEDULED: <2025-05-14 Wed>
+    SCHEDULED: <2025-07-16 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -632,8 +696,8 @@ SCHEDULED: <2025-05-09 Fri +7d>
    :END:
 
 
-*** DONE Release post-meeting survey results from town hall
-    SCHEDULED: <2025-05-14 Wed>
+*** TODO Release post-meeting survey results from town hall
+    SCHEDULED: <2025-07-16 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -642,7 +706,7 @@ SCHEDULED: <2025-05-09 Fri +7d>
 
 
 *** TODO Setup tasks for next town hall
-    SCHEDULED: <2025-05-21 Wed>
+    SCHEDULED: <2025-07-23 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -652,6 +716,8 @@ SCHEDULED: <2025-05-09 Fri +7d>
 
 :end:
 :results:
+
+
 
 
 * Quarterly staff workshops                                        :Meetings:
