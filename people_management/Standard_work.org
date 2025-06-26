@@ -641,7 +641,7 @@ in a quarter. The third month is a town hall meeting.
    :END:
 
 
-*** TODO Setup site for questions to be submitted in town hall
+*** DONE Setup site for questions to be submitted in town hall
     SCHEDULED: <2025-06-25 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -650,7 +650,7 @@ in a quarter. The third month is a town hall meeting.
    :END:
 
 
-*** TODO Setup post-meeting survey link
+*** DONE Setup post-meeting survey link
     SCHEDULED: <2025-06-25 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
