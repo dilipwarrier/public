@@ -7,6 +7,9 @@
 
 
 ** Chargepoint
+:PROPERTIES:
+:ID:       e188834e-94ce-44a8-9ff2-3a99c8096ffe
+:END:
 
   Chargepoint has about 350k connectors in the US and Europe combined.
 
@@ -14,6 +17,9 @@
 
 
 ** EVGo
+:PROPERTIES:
+:ID:       326fe6de-1cb4-476a-bee0-0583f2c203f9
+:END:
 
   As of Apr-2025, EVGo has 1100 DCFCs in the US.
 
@@ -23,11 +29,22 @@
 
 
 * EV charging station trends
+:PROPERTIES:
+:ID:       9f94c234-8138-48c1-9e67-7a97a066d91c
+:END:
 
-  US charging stations can be located using [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][this DoE site]].
 
-  As of 01-Dec-2024, there were 12k public DCFCs and 60k public L2s in the
-  US.
+|-----------+------------------------------------+------------------------------|
+| Date      | Number of public L2 chargers in US | Number of public DCFCs in US |
+|-----------+------------------------------------+------------------------------|
+| 01-Dec-24 | 60,000                             | 12,000                       |
+| 27-Jun-25 | 62,500                             | 12,800                       |
+|-----------+------------------------------------+------------------------------|
+
+  Source: [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][DoE site]]
+
+  Growth in the first 6 months of 2025 was roughly 8% annualized for
+  L2 chargers and 14% annualized for DCFCs.
 
   There's a discrepancy between this data and the IEA data that shows
   100k public slow chargers in the US. Perhaps, the DoE count is less
@@ -47,3 +64,23 @@
   An average US home consumes about 1 kW of power, so a DC fast
   charger is equivalent to about 150 homes at its peak charging. Even
   a level 2 charger is equivalent to about 7 US homes.
+
+
+* Tasks
+
+** TODO Update [[id:9f94c234-8138-48c1-9e67-7a97a066d91c][table]] with latest information on charging sites in the US :Browser:Home:
+SCHEDULED: <2025-09-15 Mon +12w>
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
+
+
+** TODO Update [[id:e188834e-94ce-44a8-9ff2-3a99c8096ffe][Chargepoint]] and [[id:326fe6de-1cb4-476a-bee0-0583f2c203f9][EVGo]] earnings for the quarter   :Browser:Home:
+SCHEDULED: <2025-07-15 Tue +12w>
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
