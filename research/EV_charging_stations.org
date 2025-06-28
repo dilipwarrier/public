@@ -2,16 +2,14 @@
 #+FILETAGS: :Charging:Review:
 #+STARTUP: content
 
-
 * Charging companies
+
 
 
 ** Chargepoint
 :PROPERTIES:
 :ID:       e188834e-94ce-44a8-9ff2-3a99c8096ffe
 :END:
-
-  Chargepoint has about 350k connectors in the US and Europe combined.
 
   Chargepoint made revenue of $361M in [[https://investors.chargepoint.com/news/news-details/2024/ChargePoint-Reports-Fourth-Quarter-and-Full-Fiscal-Year-2024-Financial-Results/default.aspx][FY 2024]] with a net loss of $458M.
 
@@ -21,18 +19,23 @@
 :ID:       326fe6de-1cb4-476a-bee0-0583f2c203f9
 :END:
 
-  As of Apr-2025, EVGo has 1100 DCFCs in the US.
+  As of Apr-2025, EVGo has 1100 DCFCs in the US (roughly 11% of the US
+  market).
 
   EVGo made revenue of $256M in [[https://investors.evgo.com/news/news-details/2025/EVgo-Inc.-Reports-Record-Fourth-Quarter-2024-Results/default.aspx][FY 2024]] with a net loss of $127M or 50%.
 
   AutoCharge+ accounted for 25% of charging sessions in Q4 2024.
 
 
-* EV charging station trends
+* EV charging stations in the US
 :PROPERTIES:
 :ID:       9f94c234-8138-48c1-9e67-7a97a066d91c
 :END:
 
+
+** Growth trend for US charging stations
+
+The following table shows the number of L2 and DCFC stations in the US.
 
 |-----------+------------------------------------+------------------------------|
 | Date      | Number of public L2 chargers in US | Number of public DCFCs in US |
@@ -41,17 +44,51 @@
 | 27-Jun-25 | 62,500                             | 12,800                       |
 |-----------+------------------------------------+------------------------------|
 
-  Source: [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][DoE site]]
+Source: [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][DoE site]]
 
-  Growth in the first 6 months of 2025 was roughly 8% annualized for
-  L2 chargers and 14% annualized for DCFCs.
+Growth in the first 6 months of 2025 was roughly 8% annualized for L2
+chargers and 14% annualized for DCFCs.
 
-  There's a discrepancy between this data and the IEA data that shows
-  100k public slow chargers in the US. Perhaps, the DoE count is less
-  because it only counts live chargers.
+The following data is for L2 and DCFC ports.
+
+|------+-----------------+---------------+--------------------+------------|
+| Year | L2 Ports (est.) | DC Fast Ports | Total Public Ports | YoY Growth |
+|------+-----------------+---------------+--------------------+------------|
+| 2016 |  30,000         |               |  30,000            |            |
+| 2020 |                 |               |  96,536            |            |
+| 2021 |  91,000         | 21,700        | 112,700            |            |
+| 2024 | 133,750         | 43,500        | 177,250            |            |
+| 2025 | 145,000         | 49,916        | 195,874            |      10.5% |
+|------+-----------------+---------------+--------------------+------------|
 
 
-* EV charging
+** Composition by CPO
+
+The composition of charging stations in 2024 is as follows.
+
+|---------------------------+----------+---------------+------------+-----------------|
+| Operator                  | L2 Ports | % of L2 Ports | DCFC Ports | % of DCFC Ports |
+|---------------------------+----------+---------------+------------+-----------------|
+| ChargePoint               |   45,000 |          ~33% | ~3,946     | ~8%             |
+| Tesla Supercharger        |        0 |            0% | ~30,767    | ~60%            |
+| Electrify America         |      100 |           <1% | ~4,799     | ~9%             |
+| EVgo                      |      200 |           <1% | ~3,989     | ~8%             |
+| Blink                     |    3,500 |           ~3% | ~175       | ~<1%            |
+| Volta (Shell-owned)       |    2,000 |         ~1.5% | 0          | 0%              |
+| Shell Recharge (ex-Volta) |    1,000 |         ~0.7% | ~550       | ~1%             |
+| Rivian Waypoints (L2)     |      375 |           <1% | 0          | 0%              |
+| Rivian Adventure (DCFC)   |        0 |            0% | ~385       | <1%             |
+| Others                    |   82,825 |          ~61% | ~7299      | ~12%            |
+|---------------------------+----------+---------------+------------+-----------------|
+| Total (estimate)          |   135000 |          100% | ~51,500    | 100%            |
+|---------------------------+----------+---------------+------------+-----------------|
+
+ChargePoint leads the US market in L2 with 33% and Tesla in DCFC with 60%.
+
+Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]]
+
+
+* Power ratings for charging
 
   A standard AC socket in the US (120 V, 15 A) can give about 1.8 kW of
   power. A Level 2 charger (240 V, 30 A) can provide about 7.2 kW of
@@ -67,6 +104,7 @@
 
 
 * Tasks
+
 
 ** TODO Update [[id:9f94c234-8138-48c1-9e67-7a97a066d91c][table]] with latest information on charging sites in the US :Browser:Home:
 SCHEDULED: <2025-09-15 Mon +12w>
