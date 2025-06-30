@@ -3,9 +3,12 @@
 #+STARTUP: content
 
 * EV market trends                                            :Review:
+:PROPERTIES:
+:ID:       1f2c0984-0b3d-49f9-804b-35d5df1e011f
+:END:
 
 
-** IEA data on global EV sales
+** Global EV sales
 
 |---------------+------+------+------|
 | Market/year   | 2022 | 2023 | 2024 |
@@ -27,25 +30,28 @@ Source: [[https://www.iea.org/data-and-statistics/charts/electric-car-registrati
 
 ** US BEV sales
 
-|----------------+-------------------+------------------------|
-|           Year | BEV Sales (units) | Annual Growth Rate (%) |
-|----------------+-------------------+------------------------|
-|           2014 | 71,300            |                        |
-|           2015 | 161,700           |                 126.8% |
-|           2016 | 340,200           |                 110.4% |
-|           2017 | 524,700           |                  54.2% |
-|           2018 | 834,000           |                  58.9% |
-|           2019 | 662,800           |                 -20.5% |
-|           2020 | 1,064,000         |                  60.6% |
-|           2021 | 1,112,000         |                   4.5% |
-|           2022 | 811,800           |                 -27.0% |
-|           2023 | 1,205,700         |                  48.5% |
-|           2024 | 1,330,000         |                  10.3% |
-| 2025(forecast) | 1,425,000         |                   7.2% |
-|----------------+-------------------+------------------------|
-
+|----------------+---------------------+------------------------|
+|           Year | BEV Sales (M units) | Annual Growth Rate (%) |
+|----------------+---------------------+------------------------|
+|           2014 |               0.071 |                        |
+|           2015 |               0.162 |                 126.8% |
+|           2016 |               0.340 |                 110.4% |
+|           2017 |               0.524 |                  54.2% |
+|           2018 |               0.834 |                  58.9% |
+|           2019 |               0.662 |                 -20.5% |
+|           2020 |               1.064 |                  60.6% |
+|           2021 |               1.112 |                   4.5% |
+|           2022 |               0.811 |                 -27.0% |
+|           2023 |               1.205 |                  48.5% |
+|           2024 |               1.330 |                  10.3% |
+| 2025(forecast) |               1.425 |                   7.2% |
+|----------------+---------------------+------------------------|
 
 Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]]
+
+In 2024, S&P Mobility predicted that US BEV sales will only be at 5M
+units in 2030, down from a previous projection of 6.5M. This means
+that BEVs will account for 30% of a total US auto sales of about 16M.
 
 
 ** EV Volumes 2023
@@ -58,14 +64,6 @@ Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGP
 [[file:Screenshot 2023-12-07 130520.png][EV sales forecast up to 2035]]
 
 Source: EV Volumes forecast in 2023
-
-
-** S&P Mobility Dec 2024
-
-   S&P Mobility predicts that US BEV sales will only be at 5M
-   units in 2030, down from a previous projection of 6.5M. This means
-   BEVs will only account for 30% of a total US auto sales of about
-   16M.
 
 
 ** Goldman Sachs report June 2024

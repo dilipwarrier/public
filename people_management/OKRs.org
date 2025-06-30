@@ -1,6 +1,6 @@
 #+TITLE: Objectives and Key Results (OKRs)
-#+STARTUP: content
 #+FILETAGS: :Management:
+#+STARTUP: overview
 
 * What are OKRs?                                                     :Review:
 

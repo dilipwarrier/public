@@ -1,5 +1,7 @@
 #+Title: Notes on the discipline of product development/planning/management
 #+Filetags: :Product:
+#+startup: overview
+
 
 * Problem versus solution                                 :MartyCagan:Review:
 

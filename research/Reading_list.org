@@ -3,14 +3,14 @@
 #+STARTUP: content
 
 #+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2025-06-08 Sun 14:57]
+#+CAPTION: Clock summary at [2025-06-29 Sun 20:31]
 | Headline                                   | Time   |      |
 |--------------------------------------------+--------+------|
-| *Total time*                               | *7:17* |      |
+| *Total time*                               | *8:12* |      |
 |--------------------------------------------+--------+------|
-| Tasks                                      | 7:17   |      |
+| Tasks                                      | 8:12   |      |
 | \_  Read...                                |        | 1:39 |
-| \_  Read "Pragmatic Thinking and Learning" |        | 4:38 |
+| \_  Read "Pragmatic Thinking and Learning" |        | 5:33 |
 | \_  Read CMMI book                         |        | 1:00 |
 #+END:
 
@@ -18,13 +18,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-06-29 Sun 06:00 +7d>
+   SCHEDULED: <2025-07-06 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-06-23 Mon 06:56]
+   :LAST_REPEAT: [2025-06-29 Sun 20:31]
    :END:
+   - State "DONE"       from "TODO"       [2025-06-29 Sun 20:31]
    - State "DONE"       from "TODO"       [2025-06-23 Mon 06:56]
    - State "DONE"       from "TODO"       [2025-06-14 Sat 21:01]
    - State "DONE"       from "TODO"       [2025-06-08 Sun 14:58]
@@ -68,13 +69,15 @@
    - State "DONE"       from "TODO"       [2024-04-20 Sat 13:38]
 
 
-** TODO Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] for 2025 and update [[file:Automotive.org][Automotive notes]]
-SCHEDULED: <2025-06-01 Sun +52w>
+** TODO Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] and update [[id:1f2c0984-0b3d-49f9-804b-35d5df1e011f][EV market trends]]
+SCHEDULED: <2026-05-31 Sun +52w>
 :PROPERTIES:
 :EFFORT:  01:00
 :BENEFIT: 10
 :RATIO: 0.40
+:LAST_REPEAT: [2025-06-29 Sun 06:57]
 :END:
+- State "DONE"       from "TODO"       [2025-06-29 Sun 06:57]
 :LOGBOOK:
 CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
 :END:
@@ -163,6 +166,7 @@ SCHEDULED: <2025-04-27 Sun>
 :RATIO: 1.00
 :END:
 :LOGBOOK:
+CLOCK: [2025-06-29 Sun 07:21]--[2025-06-29 Sun 08:16] =>  0:51
 CLOCK: [2025-05-11 Sun 06:40]--[2025-05-11 Sun 07:40] =>  1:00
 CLOCK: [2025-02-23 Sun 06:50]--[2025-02-23 Sun 08:02] =>  1:12
 CLOCK: [2025-02-09 Sun 06:37]--[2025-02-09 Sun 07:33] =>  0:56
@@ -186,12 +190,4 @@ CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
-   :END:
-
-
-** DONE Black heritage trail                                :Learning:Google:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
    :END:
