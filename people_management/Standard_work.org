@@ -3,7 +3,7 @@
 #+STARTIP: overview, hideallblocks
 
 #+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2025-06-30 Mon 08:36]
+#+CAPTION: Clock summary at [2025-06-30 Mon 20:31]
 | Headline                                     |    Time |      |
 |----------------------------------------------+---------+------|
 | *Total time*                                 | *12:20* |      |
@@ -540,13 +540,14 @@ SCHEDULED: <2025-05-09 Fri +7d>
 
 
 ** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda :Browser:
-   SCHEDULED: <2025-06-29 Sun +7d>
+   SCHEDULED: <2025-07-06 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-06-24 Tue 08:36]
+   :LAST_REPEAT: [2025-06-30 Mon 11:56]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-06-30 Mon 11:56]
    - State "DONE"       from "TODO"       [2025-06-24 Tue 08:36]
    - State "DONE"       from "TODO"       [2025-06-16 Mon 12:48]
    - State "DONE"       from "TODO"       [2025-06-09 Mon 09:29]
