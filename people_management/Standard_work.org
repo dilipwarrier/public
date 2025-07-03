@@ -3,7 +3,7 @@
 #+STARTIP: overview, hideallblocks
 
 #+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2025-07-02 Wed 05:41]
+#+CAPTION: Clock summary at [2025-07-03 Thu 06:19]
 | Headline                                     |    Time |      |
 |----------------------------------------------+---------+------|
 | *Total time*                                 | *12:20* |      |
@@ -693,7 +693,7 @@ in a quarter. The third month is a town hall meeting.
    :END:
 
 
-*** TODO Get updates on financial information for town hall
+*** DONE Get updates on financial information for town hall
     SCHEDULED: <2025-07-02 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
