@@ -24,13 +24,11 @@ Apocalypse Factory,Steve Olson,,4.0,,10/04/2022,western-history,to-read
 What we owe the future,William MacAskill,,4.1,,08/16/2022,philosophy,to-read
 Over the edge of the world,Laurence Bergreen,,4.1,,08/15/2022,eastern-history,to-read
 Build: An unorthodox guide to making things,Tony Fadell,,4.0,,06/25/2022,"management,product",to-read
-Nimitz at war,Craig Symonds,,4.4,,05/30/2022,western-history,to-read
 The overstory,Richard Powers,,4.1,,01/01/2022,fiction,to-read
 Moral tribes,Joshua Greene,,4.0,,12/10/2021,philosophy,to-read
 Blueprint: How DNA makes us who we are,Robert Plomin,,4.0,,11/13/2021,"genetics,biology",to-read
 Winter Tide,Ruthanna Emrys,,3.8,,11/07/2021,science-fiction,to-read
 Games of life,Karl Sigmund,,4.0,,10/31/2021,maths,to-read
-Bayesian data analysis,Andrew Gelman,,4.2,,10/17/2021,"maths,textbook",to-read
 Artificial intelligence: A modern approach,"Stuart Russell,Peter Norvig",,4.2,,10/10/2021,"science,textbook",to-read
 Forgotten armies: The fall of British Asia,"C. A. Bayly, Tim Harper",,3.9,,5/15/2021,eastern-history,to-read
 Tasting freedom: Octavius Catto,"Daniel Biddle,Murray Dubin",,4.2,,5/9/2021,black-biography,to-read
@@ -54,9 +52,10 @@ Fatherland,Robert Harris,,4.0,,1/13/2018,fiction,to-read
 "Ivan's War: Life and Death in the Red Army,1939-1945",Catherine Merridale,,4.0,,4/1/2017,eastern-history,to-read
 Thus Bad Begins,Javier Marias,,4.0,,11/6/2016,thriller,to-read
 The rise and reign of the mammals,Steve Brusatte,,4.0,,07/25/2022,"biology,science",to-read
-Fundamentals of software architecture,"Mark Richards,Neal Ford",,4.3,,01/29/2022,"software,engineering,textbook",to-read
 The Makioka Sisters,Junichiro Tanizaki,,4.0,,5/13/2017,japanese-fiction,to-read
 Structures or why things don't fall down,J. E. Gordon,,4.0,,6/21/2025,engineering,to-read
+Fundamentals of software architecture,"Mark Richards,Neal Ford",,4.3,,01/29/2022,"software,engineering,textbook",reading
+Nimitz at war,Craig Symonds,,4.4,,05/30/2022,western-history,reading
 Pragmatic thinking and learning,Andy Hunt,,4.0,,03/08/2024,brain,reading
 Sloan rules,Henry Farber,5.0,4.0,5/20/2025,5/20/2025,western-biography,read
 Henry Ford,Vincent Curcio,5.0,4.0,6/21/2025,5/20/2025,western-biography,read
@@ -69,7 +68,7 @@ Amos Walker: The Complete Story Collection,Loren D. Estleman,1.0,4.1,1/4/2025,7/
 "Talking to the enemy: faith, brotherhood,and the (un)making of terrorists",Scott Atran,1.0,4.0,12/14/2024,9/23/2021,society,read
 A cartoon history of the universe,Larry Gonick,2.0,4.3,12/14/2024,12/17/2021,"eastern-history,western-history",read
 Crossing Point,James Glickman,4.0,4.3,12/01/2024,11/12/2017,fiction,read
-The Grid,Philip Schewe,4,4.0,11/11/2024,11/11/2024,engineering,read
+The Grid,Philip Schewe,4,4.0,11/11/2024,11/11/2024,"engineering,books-to-read-again",read
 Magdalena: River of dreams,Wade Davis,2,4.4,10/26/2024,9/6/2020,society,read
 Only the paranoid survive, Andrew Grove,2,4.0,10/26/2024,10/26/2024,management,read
 Becoming Trader Joe, Joe Coulombe,5,4.0,10/14/2024,10/14/2024,management,read
@@ -84,7 +83,7 @@ The Florentines,Paul Strathern,5,4.1,8/2/2024,10/1/2017,western-biography,read
 Shape,Jordan Ellenberg,5,4.0,7/20/2024,7/20/2024,maths,read
 How big things get done,Bent Flyvbjerg,5,4.0,7/25/2024,2/20/2023,"management,books-to-read-again",read
 Scaling people,Claire Hughes Johnson,3.0,4.4,7/5/2024,7/8/2023,management,read
-The missing billionaires,Victor Haghani,4.0,4.0,6/20/2024,05/01/2024,"maths,finance,textbook",read
+The missing billionaires,Victor Haghani,4.0,4.0,6/20/2024,05/01/2024,"maths,finance,textbook,books-to-read-again",read
 Trillion dollar coach,"Eric Schmidt,Jonathan Rosenberg",4.0,4.0,06/05/2024,06/05/2024,management,read
 High output management,Andrew Grove,5,4.0,05/30/2024,05/30/2024,management,read
 Measure what matters,John Doerr,4.0,4.0,04/10/2024,7/8/2023,management,read
