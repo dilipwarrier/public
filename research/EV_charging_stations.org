@@ -64,7 +64,7 @@ The following data is for L2 and DCFC ports.
 
 ** Composition by CPO
 
-The composition of charging stations in 2024 is as follows.
+The composition of ports in 2024 is as follows.
 
 |---------------------------+----------+---------------+------------+-----------------|
 | Operator                  | L2 Ports | % of L2 Ports | DCFC Ports | % of DCFC Ports |
@@ -89,6 +89,9 @@ Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGP
 
 
 * Power ratings for charging
+:PROPERTIES:
+:ID:       f652f1ee-71e3-4455-93bc-c090ab71254c
+:END:
 
   A standard AC socket in the US (120 V, 15 A) can give about 1.8 kW of
   power. A Level 2 charger (240 V, 30 A) can provide about 7.2 kW of
@@ -98,9 +101,17 @@ Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGP
   70 kWh battery, that implies full charge in about 30 min. The same
   full charge would take 10 hours on a level 2 charger.
 
-  An average US home consumes about 1 kW of power, so a DC fast
-  charger is equivalent to about 150 homes at its peak charging. Even
+  A DC fast charger is equivalent to about 150 US homes at its peak charging. Even
   a level 2 charger is equivalent to about 7 US homes.
+
+* Power consumption of an average US home
+:PROPERTIES:
+:ID:       d51a7c0d-0649-40cf-b9fb-29e759f4ea6a
+:END:
+
+  An average US home consumes about 1 kW of power. Since a year has
+  about 9000 hours, that translates to 9 MWh/year of consumption.
+
 
 
 * Tasks

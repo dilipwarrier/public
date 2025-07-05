@@ -1,0 +1,48 @@
+#+TITLE: Solar panel market
+#+FILETAGS: :Solar:Review:
+#+STARTUP: content, hideallblocks
+
+* Executive Summary
+
+This report summarizes residential solar energy generation trends in
+the United States from 2019 to 2023, with an estimate for 2024. It
+focuses on the top three states—California, Texas, and Florida—and
+their contribution to national solar output.
+
+- California remains the national leader in solar generation, showing
+  steady year-over-year growth.
+- Texas has emerged as a fast-growing solar state, with generation
+  increasing more than threefold between 2019 and 2023.
+- Florida continues to expand solar capacity, although 2023 saw a
+  slight decline.
+- Together, these three states accounted for over half of U.S. solar
+  generation in 2023, though their collective share has declined
+  slightly as solar expands nationwide.
+
+
+* Solar Power Generation
+
+|------+--------------------+----------------------+-----------------+-------------------+---------------|
+| Year | US Total Solar GWh | California Solar GWh | Texas Solar GWh | Florida Solar GWh | % of US Total |
+|------+--------------------+----------------------+-----------------+-------------------+---------------|
+| 2019 | 106.0              | 53.0                 | 9.4             | 8.2               | 66.6          |
+| 2020 | 133.0 (25.5%)      | 57.0 (7.5%)          | 16.0 (70.2%)    | 10.5 (28.0%)      | 62.8 (-5.7%)  |
+| 2021 | 164.0 (23.3%)      | 62.0 (8.8%)          | 24.0 (50.0%)    | 14.0 (33.3%)      | 61.0 (-2.9%)  |
+| 2022 | 205.0 (25.0%)      | 65.0 (4.8%)          | 31.0 (29.2%)    | 17.5 (25.0%)      | 55.4 (-9.2%)  |
+| 2023 | 224.0 (9.3%)       | 68.8 (5.8%)          | 31.7 (2.3%)     | 16.3 (-6.9%)      | 52.2 (-5.8%)  |
+| 2024 | 245.0 (9.4%)       | 71.0 (3.2%)          | 34.0 (7.3%)     | 18.0 (10.4%)      | 50.2 (-3.8%)  |
+|------+--------------------+----------------------+-----------------+-------------------+---------------|
+
+These numbers are a combination of residential and commercial energy
+generation.
+
+On average, a US home can generate 6 MWh/year of solar energy. Compare
+that with average [[id:d51a7c0d-0649-40cf-b9fb-29e759f4ea6a][US household energy consumption]] of 9 MWh/year.
+
+
+* References
+
+- [[https://www.reuters.com/markets/commodities/key-states-driving-us-solar-power-boom-2024-06-19/][Reuters – Key States Driving U.S. Solar Power Boom (2024)]]
+- [[https://www.ft.com/content/ef2f6f8e-60df-4ccd-8c4f-ef5cd0eb3176][Financial Times – Solar Growth in Texas (2024)]]
+- [[https://en.wikipedia.org/wiki/Solar_power_in_the_United_States][Wikipedia – Solar Power in the United States]]
+- [[https://www.seia.org/research-resources/solar-market-insight-report-2024-year-review][SEIA – Solar Market Insight Report 2024 Year-in-Review]]
