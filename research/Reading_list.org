@@ -1,6 +1,6 @@
 #+TITLE: List of learning activities
 #+FILETAGS: :Learning:
-#+STARTUP: content
+#+STARTUP: overview, hideallblocks
 
 #+BEGIN: clocktable :scope file :maxlevel 2
 #+CAPTION: Clock summary at [2025-06-29 Sun 20:31]
@@ -142,7 +142,7 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :END:
 
 
-** TODO Review [[https://productled.com/?utm_campaign=22022513949&utm_source=g&utm_medium=cpc&utm_content&utm_term=product%20led%20growth&ad_id=725907232753&gad_source=1&gclid=EAIaIQobChMIkt3oxq6-jAMVgr5mAh0VwiReEAAYASAAEgIXS_D_BwE][Wes Bush product led growth]] recommendation by John Moloney
+** DONE Review [[https://productled.com/?utm_campaign=22022513949&utm_source=g&utm_medium=cpc&utm_content&utm_term=product%20led%20growth&ad_id=725907232753&gad_source=1&gclid=EAIaIQobChMIkt3oxq6-jAMVgr5mAh0VwiReEAAYASAAEgIXS_D_BwE][Wes Bush product led growth]] recommendation by John Moloney
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25

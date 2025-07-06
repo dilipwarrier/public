@@ -1,6 +1,6 @@
 #+TITLE: Solar panel market
-#+FILETAGS: :Solar:Review:
-#+STARTUP: content, hideallblocks
+#+FILETAGS: :Solar:Energy:Review:
+#+STARTUP: overview, hideallblocks
 
 * Executive Summary
 

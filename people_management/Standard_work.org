@@ -216,7 +216,7 @@
 
 
 ** TODO Review [[elisp:(org-agenda t "wb")][work backlog]]
-SCHEDULED: <2025-05-09 Fri +7d>
+SCHEDULED: <2025-05-09 Fri 19:00 +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10

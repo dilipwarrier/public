@@ -1,6 +1,6 @@
 #+NAME: Business strategy
 #+FILETAGS: :Strategy:
-#+STARTUP: content
+#+STARTUP: overview
 
 * Purpose, vision, mission, and strategy                             :Review:
 
@@ -203,6 +203,34 @@
   Market adoption usually follows an S-curve as below.
 
   [[file:Screenshot 2024-02-17 1634.jpg]]
+
+
+* Good strategy, bad strategy by Richard Rumelt                      :Review:
+
+There are three main pathways to bad strategy - choosing to do many
+things rather than a few focused things, using lazy templatized
+mission statements rather than doing the hard work of understanding
+the key problems to solve, and assuming that a positive mindset or
+hard work is enough.
+
+A strategy consists of three elements - a problem diagnosis, a guiding
+policy, and a set of actions based on the policy.
+
+A diagnosis should replace complex reality with a simpler story that
+shows the crucial aspects of the problem.
+
+Every organization faces a situation where the full complexity and
+ambiguity of the situation is daunting. An important duty of any
+leader is to absorb a large part of that complexity and ambiguity,
+passing on to the organization a simpler problem that is solvable.
+
+A hallmark of true expertise and insight is making a complex subject
+understandable. A hallmark of mediocrity and bad strategy is
+unnecessary complexity.
+
+A strategy is actually a design rather than a decision. It transforms
+goals (which are overall desires) to objectives (which are operational
+targets).
 
 
 * Remaining sections
