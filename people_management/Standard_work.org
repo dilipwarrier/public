@@ -26,13 +26,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-07-07 Mon 06:00 +7d>
+   SCHEDULED: <2025-07-14 Mon 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-06-30 Mon 08:35]
+   :LAST_REPEAT: [2025-07-11 Fri 07:42]
    :END:
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 07:42]
    - State "DONE"       from "TODO"       [2025-06-30 Mon 08:35]
    - State "DONE"       from "TODO"       [2025-06-24 Tue 08:34]
    - State "DONE"       from "TODO"       [2025-06-16 Mon 20:12]
@@ -65,13 +66,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-07-08 Tue 08:00 +7d>
+   SCHEDULED: <2025-07-15 Tue 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-07-02 Wed 05:40]
+   :LAST_REPEAT: [2025-07-11 Fri 07:42]
    :END:
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 07:42]
    - State "DONE"       from "TODO"       [2025-07-02 Wed 05:40]
    - State "DONE"       from "TODO"       [2025-06-25 Wed 09:17]
    - State "DONE"       from "TODO"       [2025-06-18 Wed 19:54]
@@ -103,13 +105,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-07-09 Wed 06:00 +7d>
+   SCHEDULED: <2025-07-16 Wed 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-07-03 Thu 06:37]
+   :LAST_REPEAT: [2025-07-11 Fri 07:42]
    :END:
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 07:42]
    - State "DONE"       from "TODO"       [2025-07-03 Thu 06:37]
    - State "DONE"       from "TODO"       [2025-06-26 Thu 08:46]
    - State "DONE"       from "TODO"       [2025-06-20 Fri 09:45]
@@ -143,13 +146,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-07-10 Thu 08:00 +7d>
+   SCHEDULED: <2025-07-17 Thu 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-07-03 Thu 20:21]
+   :LAST_REPEAT: [2025-07-11 Fri 07:42]
    :END:
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 07:42]
    - State "DONE"       from "TODO"       [2025-07-03 Thu 20:21]
    - State "DONE"       from "TODO"       [2025-06-26 Thu 18:57]
    - State "DONE"       from "TODO"       [2025-06-20 Fri 09:45]
@@ -179,13 +183,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-07-11 Fri 06:00 +7d>
+   SCHEDULED: <2025-07-18 Fri 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-07-04 Fri 06:02]
+   :LAST_REPEAT: [2025-07-11 Fri 16:03]
    :END:
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 16:03]
    - State "DONE"       from "TODO"       [2025-07-04 Fri 06:02]
    - State "DONE"       from "TODO"       [2025-06-27 Fri 18:17]
    - State "DONE"       from "TODO"       [2025-06-23 Mon 06:56]
@@ -242,14 +247,15 @@ SCHEDULED: <2025-07-18 Fri 19:00 +7d>
 :END:
 
 
-** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-07-07 Mon 09:00 +7d>
+** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
+   SCHEDULED: <2025-07-14 Mon 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-07-01 Tue 06:13]
+   :LAST_REPEAT: [2025-07-11 Fri 07:42]
    :END:
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 07:42]
    - State "DONE"       from "TODO"       [2025-07-01 Tue 06:13]
    - State "DONE"       from "TODO"       [2025-06-24 Tue 08:34]
    - State "DONE"       from "TODO"       [2025-06-16 Mon 20:25]
@@ -278,14 +284,15 @@ SCHEDULED: <2025-07-18 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2025-01-13 Mon 10:12]
 
 
-** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-07-08 Tue 09:00 +7d>
+** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
+   SCHEDULED: <2025-07-15 Tue 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-07-02 Wed 05:40]
+   :LAST_REPEAT: [2025-07-11 Fri 07:42]
    :END:
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 07:42]
    - State "DONE"       from "TODO"       [2025-07-02 Wed 05:40]
    - State "DONE"       from "TODO"       [2025-06-25 Wed 09:17]
    - State "DONE"       from "TODO"       [2025-06-18 Wed 19:54]
@@ -316,14 +323,15 @@ SCHEDULED: <2025-07-18 Fri 19:00 +7d>
    :END:
 
 
-** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-07-09 Wed 09:00 +7d>
+** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
+   SCHEDULED: <2025-07-16 Wed 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-07-03 Thu 06:37]
+   :LAST_REPEAT: [2025-07-11 Fri 07:42]
    :END:
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 07:42]
    - State "DONE"       from "TODO"       [2025-07-03 Thu 06:37]
    - State "DONE"       from "TODO"       [2025-06-26 Thu 08:46]
    - State "DONE"       from "TODO"       [2025-06-20 Fri 09:45]
@@ -354,16 +362,17 @@ SCHEDULED: <2025-07-18 Fri 19:00 +7d>
    :END:
 
 
-** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-07-10 Thu 09:00 +7d>
+** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
+   SCHEDULED: <2025-07-17 Thu 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-07-03 Thu 20:21]
+   :LAST_REPEAT: [2025-07-11 Fri 07:42]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 07:42]
    - State "DONE"       from "TODO"       [2025-07-03 Thu 20:21]
    - State "DONE"       from "TODO"       [2025-06-27 Fri 06:32]
    - State "DONE"       from "TODO"       [2025-06-20 Fri 09:46]
@@ -391,16 +400,17 @@ SCHEDULED: <2025-07-18 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2025-01-16 Thu 16:26]
 
 
-** TODO Complete [[elisp:(org-agenda t "ws")][weekday work tasks]]
-   SCHEDULED: <2025-07-11 Fri 09:00 +7d>
+** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
+   SCHEDULED: <2025-07-18 Fri 09:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-07-04 Fri 17:33]
+   :LAST_REPEAT: [2025-07-11 Fri 16:03]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 16:03]
    - State "DONE"       from "TODO"       [2025-07-04 Fri 17:33]
    - State "DONE"       from "TODO"       [2025-06-27 Fri 18:17]
    - State "DONE"       from "TODO"       [2025-06-23 Mon 06:56]
@@ -739,7 +749,7 @@ in a quarter. The third month is a town hall meeting.
    :END:
 
 
-*** TODO Answer questions left-over from town hall
+*** DONE Answer questions left-over from town hall
     SCHEDULED: <2025-07-10 Thu>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -927,15 +937,16 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Clean up calendar for the upcoming week through the following Monday :Messages:
-   SCHEDULED: <2025-07-11 Fri +1w>
+   SCHEDULED: <2025-07-18 Fri +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-07-06 Sun 21:14]
+   :LAST_REPEAT: [2025-07-11 Fri 07:48]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 07:48]
    - State "DONE"       from "TODO"       [2025-07-06 Sun 21:14]
    - State "DONE"       from "TODO"       [2025-06-30 Mon 07:58]
    - State "DONE"       from "TODO"       [2025-06-23 Mon 06:57]
@@ -962,15 +973,16 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Ask manager for feedback on performance based on [[#questions_improvement][these questions]] every 3 months :Meetings:
-   SCHEDULED: <2025-07-11 Fri +12w>
+   SCHEDULED: <2025-10-03 Fri +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-18 Fri 15:57]
+   :LAST_REPEAT: [2025-07-11 Fri 13:08]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-07-11 Fri 13:08]
    - State "DONE"       from "TODO"       [2025-04-18 Fri 15:57]
    - State "DONE"       from "TODO"       [2024-11-28 Thu 09:48]
    - State "DONE"       from "TODO"       [2024-09-04 Wed 16:15]
