@@ -571,13 +571,14 @@ SCHEDULED: <2025-07-18 Fri 19:00 +7d>
 
 
 ** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda :Browser:
-   SCHEDULED: <2025-07-13 Sun +7d>
+   SCHEDULED: <2025-07-20 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-07-08 Tue 06:17]
+   :LAST_REPEAT: [2025-07-13 Sun 20:37]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-07-13 Sun 20:37]
    - State "DONE"       from "TODO"       [2025-07-08 Tue 06:17]
    - State "DONE"       from "TODO"       [2025-06-30 Mon 11:56]
    - State "DONE"       from "TODO"       [2025-06-24 Tue 08:36]
