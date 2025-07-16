@@ -35,14 +35,15 @@
 
 ** Growth trend for US charging stations
 
-The following table shows the number of L2 and DCFC stations in the US.
+The following table shows the number of public L2 and DCFC charging
+stations in the US.
 
-|-----------+------------------------------------+------------------------------|
-| Date      | Number of public L2 chargers in US | Number of public DCFCs in US |
-|-----------+------------------------------------+------------------------------|
-| 01-Dec-24 | 60,000                             | 12,000                       |
-| 27-Jun-25 | 62,500                             | 12,800                       |
-|-----------+------------------------------------+------------------------------|
+|-----------+--------+--------|
+| Date      | L2     | DCFC   |
+|-----------+--------+--------|
+| 01-Dec-24 | 60,000 | 12,000 |
+| 27-Jun-25 | 62,500 | 12,800 |
+|-----------+--------+--------|
 
 Source: [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][DoE site]]
 
@@ -60,6 +61,8 @@ The following data is for L2 and DCFC ports.
 | 2024 | 133,750         | 43,500        | 177,250            |            |
 | 2025 | 145,000         | 49,916        | 195,874            |      10.5% |
 |------+-----------------+---------------+--------------------+------------|
+
+Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]] and [[https://www.rabobank.com/knowledge/d011438559-the-rise-of-electric-vehicles-in-the-us-building-a-robust-charging-network?utm_source=chatgpt.com][Rabobank research]]
 
 
 ** Composition by CPO
@@ -85,7 +88,7 @@ The composition of ports in 2024 is as follows.
 
 ChargePoint leads the US market in L2 with 33% and Tesla in DCFC with 60%.
 
-Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]]
+Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]] and [[https://www.rabobank.com/knowledge/d011438559-the-rise-of-electric-vehicles-in-the-us-building-a-robust-charging-network?utm_source=chatgpt.com][Rabobank research]]
 
 
 * Power ratings for charging
@@ -103,6 +106,7 @@ Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGP
 
   A DC fast charger is equivalent to about 150 US homes at its peak charging. Even
   a level 2 charger is equivalent to about 7 US homes.
+
 
 * Power consumption of an average US home
 :PROPERTIES:

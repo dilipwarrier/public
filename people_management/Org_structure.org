@@ -29,13 +29,15 @@
 
 * Company budgets                                                    :Review:
 
-A good target is as follows
+A good target is as follows. This gives a gross margin of 80% and net
+margin of about 20%.
 
 |--------+-----|
-| R&D    | 40% |
 | COGS   | 20% |
+| R&D    | 40% |
 | S&M    | 10% |
 | G&A    | 10% |
+|--------+-----|
 | Margin | 20% |
 |--------+-----|
 
@@ -46,11 +48,11 @@ below.
 | Expense Category        | Mature SaaS       | High-Growth SaaS |
 |                         | (e.g. Salesforce) | (e.g. Snowflake) |
 |-------------------------+-------------------+------------------|
-| Cost of Revenue (COGS)  | 20–30%            | 25–40%           |
-| R&D                     | 10–20%            | 30–60%           |
-| Sales & Marketing (S&M) | 25–35%            | 40–70%           |
-| General & Admin (G&A)   | 5–15%             | 10–20%           |
-| Operating Margin        | 0–20%             | Often negative   |
+| Cost of Revenue (COGS)  | 20-30%            | 25-40%           |
+| R&D                     | 10-20%            | 30-60%           |
+| Sales & Marketing (S&M) | 25-35%            | 40-70%           |
+| General & Admin (G&A)   |  5-15%            | 10-20%           |
+| Operating Margin        |  0-20%            | Often negative   |
 |-------------------------+-------------------+------------------|
 
 Some benchmark numbers for specific companies from 2024 are as
