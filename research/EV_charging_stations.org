@@ -11,6 +11,9 @@
 :ID:       e188834e-94ce-44a8-9ff2-3a99c8096ffe
 :END:
 
+  In [[https://investors.chargepoint.com/news/news-details/2025/ChargePoint-Reports-First-Quarter-Fiscal-Year-2026-Financial-Results/default.aspx][Q1 FY26]] (ending April 30th 2025), total revenue was $98M down 9%
+  y-o-y. GAAP net loss was $57M down 20% y-o-y.
+
   Chargepoint made revenue of $361M in [[https://investors.chargepoint.com/news/news-details/2024/ChargePoint-Reports-Fourth-Quarter-and-Full-Fiscal-Year-2024-Financial-Results/default.aspx][FY 2024]] with a net loss of $458M.
 
 
@@ -18,6 +21,8 @@
 :PROPERTIES:
 :ID:       326fe6de-1cb4-476a-bee0-0583f2c203f9
 :END:
+
+  In [[https://investors.evgo.com/news/news-details/2025/EVgo-Inc--Reports-Record-First-Quarter-2025-Results/default.aspx][Q1 FY25]], revenue was $75M with net loss of $11M.
 
   As of Apr-2025, EVGo has 1100 DCFCs in the US (roughly 11% of the US
   market).
@@ -131,9 +136,11 @@ SCHEDULED: <2025-09-15 Mon +12w>
 
 
 ** TODO Update [[id:e188834e-94ce-44a8-9ff2-3a99c8096ffe][Chargepoint]] and [[id:326fe6de-1cb4-476a-bee0-0583f2c203f9][EVGo]] earnings for the quarter   :Browser:Home:
-SCHEDULED: <2025-07-15 Tue +12w>
+SCHEDULED: <2025-10-07 Tue +12w>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
+:LAST_REPEAT: [2025-07-16 Wed 12:30]
 :END:
+- State "DONE"       from "TODO"       [2025-07-16 Wed 12:30]
