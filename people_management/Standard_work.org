@@ -1,4 +1,4 @@
-#+TITLE: A list of standard work tasks that a manager may need to do
+#+TITLE: A list of standard work tasks for a manager
 #+FILETAGS: :Work:Manager:
 #+STARTIP: overview, hideallblocks
 
@@ -247,6 +247,7 @@ SCHEDULED: <2025-07-25 Fri 19:00 +7d>
 - State "DONE"       from "TODO"       [2025-07-06 Sun 20:44]
 - State "DONE"       from "TODO"       [2025-07-06 Sun 20:44]
 - State "DONE"       from "TODO"       [2025-07-06 Sun 20:44]
+
 * Weekday work tasks                                               :Periodic:
 :PROPERTIES:
 :COLUMNS: %40ITEM %RATIO %LAST_REPEAT %SCHEDULED %DEADLINE
@@ -462,7 +463,7 @@ SCHEDULED: <2025-07-25 Fri 19:00 +7d>
 * Organization
 
 
-** TODO Add quarterly org review to staff meeting agenda           :Meetings:
+** TODO Add quarterly performance review to staff meeting agenda   :Meetings:
    SCHEDULED: <2025-07-28 Mon +12w>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -473,8 +474,10 @@ SCHEDULED: <2025-07-25 Fri 19:00 +7d>
 
 
    - State "DONE"       from "TODO"       [2025-05-05 Mon 20:11]
+
+
 ** TODO Review team succession and promotion candidates list       :Meetings:
-   SCHEDULED: <2025-07-28 Mon +12w>
+   SCHEDULED: <2025-08-06 Wed +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT:  10
@@ -490,7 +493,7 @@ SCHEDULED: <2025-07-25 Fri 19:00 +7d>
 
 
 ** TODO Ask direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?" :Meetings:
-   SCHEDULED: <2025-07-28 Mon +12w>
+   SCHEDULED: <2025-08-05 Tue +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
@@ -633,6 +636,7 @@ SCHEDULED: <2025-07-25 Fri 19:00 +7d>
 I hold skip-level meetings with a sub-group of my skip-levels 2 months
 in a quarter. The third month is a town hall meeting.
 
+
 ** Task list for skip level meetings
 
 #+NAME: skip_level_tasks
@@ -714,6 +718,7 @@ in a quarter. The third month is a town hall meeting.
 
 #+RESULTS:
 :results:
+
 *** DONE Ask someone to give spotlight presentations in town hall
     SCHEDULED: <2025-06-18 Wed>
    :PROPERTIES:
@@ -795,7 +800,7 @@ in a quarter. The third month is a town hall meeting.
    :END:
 
 
-*** TODO Setup tasks for next town hall
+*** DONE Setup tasks for next town hall
     SCHEDULED: <2025-07-23 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -855,13 +860,15 @@ in a quarter. The third month is a town hall meeting.
 
 
 ** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
-SCHEDULED: <2025-07-21 Mon +7d>
+SCHEDULED: <2025-08-04 Mon +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-07-16 Wed 12:33]
+:LAST_REPEAT: [2025-07-29 Tue 13:26]
 :END:
+- State "DONE"       from "TODO"       [2025-07-29 Tue 13:26]
+- State "DONE"       from "TODO"       [2025-07-29 Tue 13:25]
 - State "DONE"       from "TODO"       [2025-07-16 Wed 12:33]
 - State "DONE"       from "TODO"       [2025-07-08 Tue 06:21]
 - State "DONE"       from "TODO"       [2025-07-06 Sun 21:16]
@@ -894,78 +901,18 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 
-** DONE Add suggestions for [[https://evconnect.atlassian.net/wiki/spaces/~7120202beca55290554b91891c8138a95946e4/pages/4223008882/Weekly+Leadership+Meeting][Bassem weekly staff meeting]]            :Meetings:
-   SCHEDULED: <2025-06-02 Mon>
-   :PROPERTIES:
-   :EFFORT:  00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :LAST_REPEAT: [2025-05-26 Mon 16:37]
-   :END:
-   - State "DONE"       from "TODO"       [2025-05-26 Mon 16:37]
-   - State "DONE"       from "TODO"       [2025-05-20 Tue 19:27]
-   - State "DONE"       from "TODO"       [2025-05-12 Mon 06:38]
-   - State "DONE"       from "TODO"       [2025-05-05 Mon 20:11]
-   - State "DONE"       from "TODO"       [2025-04-28 Mon 06:49]
-   - State "DONE"       from "TODO"       [2025-04-21 Mon 16:30]
-   - State "DONE"       from "TODO"       [2025-04-14 Mon 10:59]
-   - State "DONE"       from "TODO"       [2025-04-07 Mon 10:05]
-   - State "DONE"       from "TODO"       [2025-03-31 Mon 11:49]
-   - State "DONE"       from "TODO"       [2025-03-24 Mon 09:45]
-   - State "DONE"       from "TODO"       [2025-03-19 Wed 09:59]
-   - State "DONE"       from "TODO"       [2025-03-10 Mon 11:33]
-   - State "DONE"       from "TODO"       [2025-03-04 Tue 10:22]
-   - State "DONE"       from "TODO"       [2025-02-23 Sun 18:06]
-   - State "DONE"       from "TODO"       [2025-02-17 Mon 11:09]
-   - State "DONE"       from "TODO"       [2025-02-16 Sun 12:11]
-   - State "DONE"       from "TODO"       [2025-02-05 Wed 06:20]
-   - State "DONE"       from "TODO"       [2025-01-26 Sun 09:22]
-   - State "DONE"       from "TODO"       [2025-01-21 Tue 08:33]
-   - State "DONE"       from "TODO"       [2025-01-05 Sun 20:36]
-   - State "DONE"       from "TODO"       [2024-12-29 Sun 08:44]
-   - State "DONE"       from "TODO"       [2024-12-23 Mon 11:38]
-   - State "DONE"       from "TODO"       [2024-12-16 Mon 08:36]
-   - State "DONE"       from "TODO"       [2024-12-08 Sun 20:09]
-   - State "DONE"       from "TODO"       [2024-12-01 Sun 20:33]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-24 Sun 20:52]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-24 Sun 20:52]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-17 Sun 08:10]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-17 Sun 08:10]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-10 Sun 16:59]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-10 Sun 16:59]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-04 Mon 20:33]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-04 Mon 20:33]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-10-27 Sun 20:30]
-   :END:
-   - State "DONE"       from "TODO"       [2024-10-27 Sun 20:30]
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :LAST_REPEAT: [2024-10-20 Sun 15:42]
-   :END:
-   - State "DONE"       from "TODO"       [2024-10-20 Sun 15:42]
-
-
 ** TODO Clean up calendar for the upcoming week through the following Monday :Messages:
-   SCHEDULED: <2025-07-18 Fri +1w>
+   SCHEDULED: <2025-08-01 Fri +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-07-11 Fri 07:48]
+   :LAST_REPEAT: [2025-07-29 Tue 13:26]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-07-29 Tue 13:26]
+   - State "DONE"       from "TODO"       [2025-07-29 Tue 13:25]
    - State "DONE"       from "TODO"       [2025-07-11 Fri 07:48]
    - State "DONE"       from "TODO"       [2025-07-06 Sun 21:14]
    - State "DONE"       from "TODO"       [2025-06-30 Mon 07:58]
