@@ -464,7 +464,7 @@ SCHEDULED: <2025-07-25 Fri 19:00 +7d>
 
 
 ** TODO Add quarterly performance review to staff meeting agenda   :Meetings:
-   SCHEDULED: <2025-07-28 Mon +12w>
+   SCHEDULED: <2025-08-04 Mon +12w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
