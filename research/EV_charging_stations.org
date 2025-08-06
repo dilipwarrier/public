@@ -55,16 +55,22 @@ Source: [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][DoE site]]
 Growth in the first 6 months of 2025 was roughly 8% annualized for L2
 chargers and 14% annualized for DCFCs.
 
+
+** Growth trend for ports
+:PROPERTIES:
+:ID:       155a9380-eb88-4b00-9365-15511ce0c60f
+:END:
+
 The following data is for L2 and DCFC ports.
 
 |------+-----------------+---------------+--------------------+------------|
 | Year | L2 Ports (est.) | DC Fast Ports | Total Public Ports | YoY Growth |
 |------+-----------------+---------------+--------------------+------------|
-| 2016 |  30,000         |               |  30,000            |            |
-| 2020 |                 |               |  96,536            |            |
-| 2021 |  91,000         | 21,700        | 112,700            |            |
-| 2024 | 133,750         | 43,500        | 177,250            |            |
 | 2025 | 145,000         | 49,916        | 195,874            |      10.5% |
+| 2024 | 133,750         | 43,500        | 177,250            |            |
+| 2021 |  91,000         | 21,700        | 112,700            |            |
+| 2020 |                 |               |  96,536            |            |
+| 2016 |  30,000         |               |  30,000            |            |
 |------+-----------------+---------------+--------------------+------------|
 
 Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]] and [[https://www.rabobank.com/knowledge/d011438559-the-rise-of-electric-vehicles-in-the-us-building-a-robust-charging-network?utm_source=chatgpt.com][Rabobank research]]
