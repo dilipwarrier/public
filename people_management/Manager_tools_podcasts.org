@@ -895,7 +895,7 @@
     often.
 
     Amber: You have come to a stop. There is a blocker on the critical
-    path on the project,  but you are trying to resolve the
+    path on the project, but you are trying to resolve the
     issue by yourself. Amber status can change to Red status if
     whatever you are trying does not work or to Green status if it
     does.
@@ -903,7 +903,7 @@
     Green: Project is ongoing; there are issues but they are not
     blocking the critical path(s) in the project.
 
-    This alone is not enough.
+    This alone is not enough. You must also communicate "Next steps".
 
 
 **** Next steps
@@ -942,7 +942,7 @@
    4. Actionable part: Put your number 1 priority on your calendar.
 
    Yellow peanut M&M - that is your work while your self and your
-   family are the sun.  If you hold up the M&M against the sun, they
+   family are the sun. If you hold up the M&M against the sun, they
    may seem of the same size but they are not.
 
 

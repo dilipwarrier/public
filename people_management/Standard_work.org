@@ -254,6 +254,7 @@ SCHEDULED: <2025-08-01 Fri 19:00 +7d>
 - State "DONE"       from "TODO"       [2025-07-06 Sun 20:44]
 - State "DONE"       from "TODO"       [2025-07-06 Sun 20:44]
 
+
 * Weekday work tasks                                               :Periodic:
 :PROPERTIES:
 :COLUMNS: %40ITEM %RATIO %LAST_REPEAT %SCHEDULED %DEADLINE
@@ -489,14 +490,15 @@ SCHEDULED: <2025-08-01 Fri 19:00 +7d>
 
 
 ** TODO Review team succession and promotion candidates list       :Meetings:
-   SCHEDULED: <2025-08-06 Wed +12w>
+   SCHEDULED: <2025-10-29 Wed +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT:  10
    :RATIO:    0.40
-   :LAST_REPEAT: [2025-05-05 Mon 20:15]
+   :LAST_REPEAT: [2025-08-06 Wed 14:53]
    :END:
 
+   - State "DONE"       from "TODO"       [2025-08-06 Wed 14:53]
    - State "DONE"       from "TODO"       [2025-05-05 Mon 20:15]
     - See manager tools recommendations on ready now/ready later
 
@@ -641,6 +643,24 @@ SCHEDULED: <2025-08-01 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2024-12-29 Sun 08:45]
    - State "DONE"       from "TODO"       [2024-12-23 Mon 06:36]
 
+
+
+** TODO Add a monthly [[https://www.manager-tools.com/map-of-the-universe][Manager Tools podcast]] for discussion to staff meeting agenda :Browser:
+   SCHEDULED: <2025-08-11 Mon +4w>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+** TODO Add monthly [[https://evconnect-my.sharepoint.com/:x:/p/dilip_warrier/Ed_n6GxZ3hVNlzUX_CPNbE0BjLoxb_8zBn6ZIkVfkL2DQw?e=VswZud][Metrics review]] to staff meeting agenda :Browser:
+   SCHEDULED: <2025-08-11 Mon +4w>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
 
 
 * Skip level meetings                                              :Meetings:
