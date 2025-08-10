@@ -528,13 +528,14 @@ SCHEDULED: <2025-08-01 Fri 19:00 +7d>
 
 
 ** TODO Message staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items :Messages:
-   SCHEDULED: <2025-08-10 Sun +7d>
+   SCHEDULED: <2025-08-17 Sun +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-07-16 Wed 12:32]
+   :LAST_REPEAT: [2025-08-10 Sun 15:20]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-10 Sun 15:20]
    - State "DONE"       from "TODO"       [2025-07-16 Wed 12:32]
    - State "DONE"       from "TODO"       [2025-07-16 Wed 12:32]
    - State "DONE"       from "TODO"       [2025-07-16 Wed 12:32]
