@@ -766,7 +766,23 @@
    stage.
 
 
-** Project communication
+** Projects
+
+
+*** Assigning tasks
+
+You don't just assign a task, you assign both a task and the reporting
+of status on the task. You should not accept the excuse: "Reporting on
+status will slow my progress on the task down." While that may be
+true, both are necessary in organizations.
+
+Instead of saying "Please complete the client file updates by 2 pm
+tomorrow," you should say "Please complete the client files updates
+and email the link to me by 2 pm
+tomorrow."
+
+
+*** Completing tasks
 
    The [[https://www.manager-tools.com/2009/01/2nd-rule-effective-project-team-members][second rule]] of project work: Meet all of your deadlines. If you
    want to gain the respect of your colleagues, be the team member who
@@ -861,14 +877,14 @@
 
      Z should be a clear date. If the time frame for the action item
      is short, you may specify a time in addition to the date e.g. by
-     6 pm today.
+     6 pm Eastern Time.
 
 
 *** Reporting status of tasks
 
     [[https://www.manager-tools.com/2018/04/relationship-errors-not-reporting-no-news][Not reporting "no news"]]
 
-    - Communicate frequently even if there is no news
+    - Communicate frequently even if there is no news.
     - Report the actions you've taken. This shows that you are being
       proactive. For instance, "I haven't heard from x, so I have
       setup a Zoom call with them for tomorrow to resolve it."
@@ -880,7 +896,9 @@
 *** Reporting status of projects on demand
 
    [[https://www.manager-tools.com/print/176761?pod=176766][Status-on-demand communication]] can happen either to your boss or to
-   someone higher up in the hierarchy. Always have a crisp summary ready.
+   someone higher up in the hierarchy.
+
+   Always have a crisp summary ready.
 
 
 **** Current status

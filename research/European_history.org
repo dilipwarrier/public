@@ -172,6 +172,9 @@ the death of thousands of horses, etc. had decimated the French army.
 
 
 * The Florentines by Paul Strathern                                  :Review:
+:PROPERTIES:
+:ORDERED:  t
+:END:
 
 The beginnings of the European Renaissance can be traced to the
 mid-1200s, around the time that Dante Aligheri was born. Dante was
@@ -238,17 +241,17 @@ European population or about 25 million people died.
 Previous Florentine bankers had introduced considerable advances in
 the practice of finance. These included such innovations as
 double-entry bookkeeping, which was widely practised long before Luca
-Pacioli set down his ‘explanation’ of how this accounting method
+Pacioli set down his 'explanation' of how this accounting method
 worked, in his Summa of 1494. Other financial instruments included
 bills of exchange, letters of credit, and so forth.
 
-Milan’s large agricultural hinterland, its metal industry and the
+Milan's large agricultural hinterland, its metal industry and the
 cultivation of silk around Lake Como provided considerable
 income. This was further increased by Milan's strategic geographical
 position as a link between Italy and trans-Alpine northern European
 trade. The extensive territory of Naples had made it a centre of power
 and wealth since before the era when the Holy Roman Emperor Frederick
-II chose to establish his court in Sicily. Rome’s wealth derived from
+II chose to establish his court in Sicily. Rome's wealth derived from
 the vast papal dues which were collected throughout western
 Christendom, from Greenland to Vienna, from Sweden to Sicily. Thus,
 Milan, Venice, Naples, Rome, and Florence became centers of power.
