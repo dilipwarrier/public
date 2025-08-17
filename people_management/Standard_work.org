@@ -804,102 +804,6 @@ in a quarter. The third month is a town hall meeting.
 #+RESULTS:
 :results:
 
-*** DONE Ask someone to give spotlight presentations in town hall
-    SCHEDULED: <2025-06-18 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Setup site for questions to be submitted in town hall
-    SCHEDULED: <2025-06-25 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Setup post-meeting survey link
-    SCHEDULED: <2025-06-25 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Get updates on financial information for town hall
-    SCHEDULED: <2025-07-02 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Prepare Confluence page for information for town hall
-    SCHEDULED: <2025-07-04 Fri>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Setup quiz for town hall
-    SCHEDULED: <2025-07-06 Sun>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Answer questions left-over from town hall
-    SCHEDULED: <2025-07-10 Thu>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Give recognition/swag for good questions and organizers in town hall
-    SCHEDULED: <2025-07-16 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Release post-meeting survey results from town hall
-    SCHEDULED: <2025-07-16 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Setup tasks for next town hall
-    SCHEDULED: <2025-07-23 Wed>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-:end:
-:results:
-
-
-
-
 * Quarterly staff workshops                                        :Meetings:
 
 
@@ -918,27 +822,6 @@ in a quarter. The third month is a town hall meeting.
 
 #+RESULTS:
 :results:
-
-
-*** DONE Release post-meeting survey results from staff workshop
-    SCHEDULED: <2025-04-26 Sat>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Setup tasks for next staff workshop meeting date
-    SCHEDULED: <2025-05-19 Mon>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-:end:
 
 
 * Tasks

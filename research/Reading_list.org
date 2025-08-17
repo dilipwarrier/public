@@ -151,14 +151,6 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :END:
 
 
-** DONE Review [[https://productled.com/?utm_campaign=22022513949&utm_source=g&utm_medium=cpc&utm_content&utm_term=product%20led%20growth&ad_id=725907232753&gad_source=1&gclid=EAIaIQobChMIkt3oxq6-jAMVgr5mAh0VwiReEAAYASAAEgIXS_D_BwE][Wes Bush product led growth]] recommendation by John Moloney
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
-
-
 ** TODO Read [[https://drive.google.com/file/d/1ojOT-hP7nFUTNCUCGk_AKMN45E547Tvd/view?usp=drive_link][capitalism is better than donation for global poverty]]
    :PROPERTIES:
    :EFFORT: 00:15
