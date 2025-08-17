@@ -1477,8 +1477,7 @@ tomorrow."
 
 **** Experience
 
-     Get experience in the following areas to prepare for being a
-     manager
+Get experience in the following areas to prepare for being a manager.
      - Running a meeting
      - Managing a project
      - Managing a budget
@@ -1486,54 +1485,52 @@ tomorrow."
 
 **** Volunteer
 
-     Hit all of your objectives and results. After that, volunteer to
-     go the extra mile. It need not be a lot of things but volunteer
-     for some key projects.
+Hit all of your objectives and results. After that, volunteer to go
+the extra mile. It need not be a lot of things but volunteer for some
+key projects.
 
 
 **** Accept delegations from your boss
 
-     Say yes when your boss wants to delegate something. Then, make it
-     fit within your existing workload (find things to delegate to
-     your directs or to the floor). Report early and often on
-     progress.
+Say yes when your boss wants to delegate something. Then, make it fit
+within your existing workload (find things to delegate to your directs
+or to the floor). Report early and often on progress.
 
 
 *** The 150% rule
 
-    Manager tools expects that, in order to be ready to be promoted,
-    you should do 100% of your job and 50% of your manager's job.
+Manager tools expects that, in order to be ready to be promoted, you
+should do 100% of your job and 50% of your manager's job.
 
 
 *** A company change with a promotion is unlikely
 
-    [[https://www.manager-tools.com/2023/08/company-change-promotion-unlikely][Podcast link]]
+It is extremely unlikely that you will get a promotion with a
+company change. There are several reasons.
+- If you were brought into a new company, you would be managing
+  people with many years of experience in that company. Many of
+  your recommendations while managing them just won't work!
+- Your competition for the new job are people in the company with
+  all the implicit knowledge required to do the job.
+- Most companies prefer to hire from within.
+- Most companies don't have good manager training. They are taking
+  a significant risk by taking you on and not being able to train
+  you well.
 
+If you feel you are ready for a promotion, first ask your boss for
+it. However, remember that your manager's manager is the one who
+has to decide that you should be promoted.
 
-    It is extremely unlikely that you will get a promotion with a
-    company change. There are at least five reasons why.
-    - If you were brought into a new company, you would be managing
-      people with many years of experience in that company. Many of
-      your recommendations while managing them just won't work!
-    - Your competition for the new job are people in the company with
-      all the implicit knowledge required to do the job.
-    - Most companies prefer to hire from within.
-    - Most companies don't have good manager training. They are taking
-      a significant risk by taking you on and not being able to train
-      you well.
+There are only two exceptions to this rule and they hold in very
+rare circumstances.
+- You are moving from a big company to a smaller one. In a
+  smaller company, management expects that you have learnt
+  processes better through internal and on-the-job training than
+  any one who may be within the smaller company.
+- You are being directly sought by the hiring manager in the new
+  company.
 
-    If you feel you are ready for a promotion, first ask your boss for
-    it. However, remember that your manager's manager is the one who
-    has to decide that you should be promoted.
-
-    There are only two exceptions to this rule and they hold in very
-    rare circumstances.
-    - You are moving from a big company to a smaller one. In a
-      smaller company, management expects that you have learnt
-      processes better through internal and on-the-job training than
-      any one who may be within the smaller company.
-    - You are being directly sought by the hiring manager in the new
-      company.
+[[https://www.manager-tools.com/2023/08/company-change-promotion-unlikely][Podcast link]]
 
 
 ** Setting career goals

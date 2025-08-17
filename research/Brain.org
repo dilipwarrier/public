@@ -1,6 +1,56 @@
 #+Title: Books and research on the brain
 #+FILETAGS: :Brain:
-#+STARTUP: content
+#+STARTUP: overview, hideallblocks
+
+* The Learning Process                                               :Review:
+:PROPERTIES:
+:ID:       1b62c6dd-c98f-45c4-b85d-d4162a880e2b
+:END:
+
+We must adopt the systems thinking mindset that everything is
+interconnected and, hence, everything must be considered in its
+context. This underlying mindset is fundamental to skill acquisition.
+
+The Dreyfus model of skill acquisition can be applied to the learning
+process for any skill. The model describes continuous growth through
+the phases of Novice, Advanced Beginner, Competent, Proficient,
+and Expert.
+
+Most people do not achieve the Expert phase in a skill although they
+may think they have achieved it.
+
+An expert need not be a good teacher. Often, an expert does not have
+the patience to explain why he or she understands something
+intuitively.
+
+To advance through the phases of skill acquisition, a person must
+spend time doing the underlying activity. However, just spending a lot
+of hours in a phase doing the same activities over and over is not
+enough to advance to the next phase. The person must reflect upon the
+progress and adjust their approach. This provides a feedback loop that
+is critical to success. A good example is doing your tax returns. Each
+year, you follow a fixed process to do your taxes. However, most
+people stay at the Novice phase in tax return filing.
+
+In the Novice phase, you need context-free recipes and rules to do the
+work. Unfortunately, such context-free rules are tedious to document.
+
+In the Advanced Beginner phase, you start to break away from such
+context-free rules. You are able to skim the rules to learn and can
+rely upon your intuition. This intuition, of course, has been built up
+by practice in the Novice phase. The process of skimming the rules
+builds up the relevant focus on the context i.e. you start to pick out
+the items from the context that matter most to the work at hand.
+
+
+** Andy Hunt: Software isn't designed in a tool, it is created in our heads :quotes:
+
+
+** References
+
+- "Pragmatic Thinking and Learning" by Andy Hunt
+- [[https://www.coursera.org/learn/learning-how-to-learn/][Learning to learn]] Coursera course
+
 
 * Models of the mind by Grace Lindsay                                :Review:
 
@@ -29,27 +79,6 @@
 
 
 ** Bertrand Russell: The trouble with the world is that the stupid are cocksure and the intelligent full of doubt. :quotes:
-
-
-* Coursera course "Learning to learn" by Barbara Oakley :Active:Projects:Review:
-:PROPERTIES:
-:CUSTOM_ID: learning_to_learn
-:END:
-:LOGBOOK:
-CLOCK: [2025-01-05 Sun 16:52]--[2025-01-05 Sun 17:39] =>  0:47
-CLOCK: [2025-01-05 Sun 16:20]--[2025-01-05 Sun 16:49] =>  0:29
-:END:
-
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-01-05 Sun 16:49]
-| Headline                               | Time   |
-|----------------------------------------+--------|
-| *Total time*                           | *0:29* |
-|----------------------------------------+--------|
-| Coursera course "Learning to learn"... | 0:29   |
-#+END:
-
-   [[https://www.coursera.org/learn/learning-how-to-learn/][Link to Coursera course]]
 
 
 * Types of bias                                                      :Review:

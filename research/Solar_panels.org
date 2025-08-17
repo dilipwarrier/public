@@ -1,8 +1,8 @@
 #+TITLE: Solar panel market
-#+FILETAGS: :Solar:Energy:Review:
+#+FILETAGS: :Solar:Energy:
 #+STARTUP: overview, hideallblocks
 
-* Executive Summary
+* Executive Summary of US Solar Panel Market                         :Review:
 
 This report summarizes residential solar energy generation trends in
 the United States from 2019 to 2023, with an estimate for 2024. It
@@ -20,7 +20,7 @@ their contribution to national solar output.
   slightly as solar expands nationwide.
 
 
-* Solar Power Generation
+* Solar Power Generation In The US                                   :Review:
 
 |------+--------------------+----------------------+-----------------+-------------------+---------------|
 | Year | US Total Solar GWh | California Solar GWh | Texas Solar GWh | Florida Solar GWh | % of US Total |

@@ -1,6 +1,6 @@
 #+title: Calculation of carbon footprints
 #+author: Dilip Warrier
-#+FILETAGS:
+#+FILETAGS: :Society:
 
 * CO2 emissions due to driving                                       :Review:
 
@@ -104,3 +104,14 @@ appropriate metric to use.
   air-freighted foods: those tend to be foods that need to stay fresh
   and come from a far distance. However, it is hard to know which ones
   those are and they tend to be rare.
+
+
+* Tasks
+
+
+** TODO Calculate the carbon and water footprint for my house      :Learning:
+:PROPERTIES:
+:EFFORT:  01:00
+:BENEFIT: 40
+:RATIO: 0.40
+:END:

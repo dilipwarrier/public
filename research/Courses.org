@@ -14,7 +14,7 @@
    :END:
 
 
-** TODO Barbara Oakley learning to learn on Coursera
+** TODO Complete Barbara Oakley learning to learn on Coursera and [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][update notes]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10

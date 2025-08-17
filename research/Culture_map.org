@@ -1,7 +1,7 @@
 #+TITLE: The culture map by Erin Meyer
-#+FILETAGS: :BookNotes:Culture:
+#+FILETAGS: :BookNotes:Culture:Management:
 
-* Introduction                                                       :Review:
+* Introduction
 
 Different cultures fall in different places on the scales of various
 activities. We can divide them into a few specific activities. Note

@@ -1,6 +1,6 @@
 #+TITLE: The best place to work by Ron Friedman
-#+FILETAGAS: :Management:BookNotes:Learning:
-#+STARTUP: :content:
+#+FILETAGS: :Management:
+#+STARTUP: :overview:
 
 * How to handle employee disengagement
 
@@ -14,7 +14,7 @@
   and managers can take to resolve this problem.
 
 
-** Lessons of failure
+* Lessons of failure                                                 :Review:
 
   High achievers fail multiple times and make a lot more attempts than
   others. Workplaces should not encourage individuals to do the same
@@ -22,7 +22,7 @@
   climate.
 
 
-** Lessons of workspace design
+* Lessons of workspace design                                        :Review:
 
   Introduce elements from nature such as seating next to large
   windows, aquariums, plants etc.
@@ -40,7 +40,7 @@
   office space to allow the brain to recharge.
 
 
-** Lessons of distractions and play
+* Lessons of distractions and play                                   :Review:
 
   Modern leaders should consider themselves less as designers and more
   as gardeners who help the seeds of ideas in employees' minds grow.
@@ -57,7 +57,7 @@
   See also [[./Brain.org::#learning_to_learn][Learning to learn]].
 
 
-** Lessons of happiness
+* Lessons of happiness                                               :Review:
 
   When the team needs to think big-picture or to brainstorm, then
   starting with good news that makes the team happy can improve
@@ -75,7 +75,7 @@
   delays.
 
 
-** Lessons of friendship
+* Lessons of friendship                                              :Review:
 
   Employees feel more connected to work when they have strong
   friendships at work. Find opportunities for employees to connect on
@@ -98,7 +98,7 @@
   human communications but be careful about encouraging it too much.
 
 
-** Lessons of autonomy
+* Lessons of autonomy                                                :Review:
 
   Let the team steer its own path. Your job is to ask questions and
   provide feedback.
@@ -118,7 +118,7 @@
   anonymity.
 
 
-** Lessons of listening
+* Lessons of listening                                               :Review:
 
   Increase your listening-to-talking ratio and your
   questions-to-answers ratio.
@@ -132,4 +132,4 @@
   their overall capability.
 
 
-*** Ron Friedman: You do not progress in your career by winning arguments; you progress by finding common ground. :quotes:
+** Ron Friedman: You do not progress in your career by winning arguments; you progress by finding common ground. :quotes:
