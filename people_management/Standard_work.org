@@ -527,90 +527,15 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2023-04-03 Mon 10:06]
 
 
-** TODO Message staff leads to complete their [[https://evconnect.atlassian.net/wiki/spaces/EV/pages/3991273478/Technology+Leadership+Team+Weekly+Staff+Meetings#Action-items][staff meeting]] action items :Messages:
-   SCHEDULED: <2025-08-17 Sun +7d>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :LAST_REPEAT: [2025-08-10 Sun 15:20]
-   :END:
-   - State "DONE"       from "TODO"       [2025-08-10 Sun 15:20]
-   - State "DONE"       from "TODO"       [2025-07-16 Wed 12:32]
-   - State "DONE"       from "TODO"       [2025-07-16 Wed 12:32]
-   - State "DONE"       from "TODO"       [2025-07-16 Wed 12:32]
-   - State "DONE"       from "TODO"       [2025-07-16 Wed 10:30]
-   - State "DONE"       from "TODO"       [2025-07-08 Tue 06:21]
-   - State "DONE"       from "TODO"       [2025-06-30 Mon 07:59]
-   - State "DONE"       from "TODO"       [2025-06-24 Tue 08:36]
-   - State "DONE"       from "TODO"       [2025-06-16 Mon 12:48]
-   - State "DONE"       from "TODO"       [2025-06-09 Mon 09:30]
-   - State "DONE"       from "TODO"       [2025-06-03 Tue 09:51]
-   - State "DONE"       from "TODO"       [2025-06-03 Tue 09:49]
-   - State "DONE"       from "TODO"       [2025-05-20 Tue 19:22]
-   - State "DONE"       from "TODO"       [2025-05-12 Mon 06:38]
-   - State "DONE"       from "TODO"       [2025-05-07 Wed 17:32]
-   - State "DONE"       from "TODO"       [2025-04-28 Mon 10:50]
-   - State "DONE"       from "TODO"       [2025-04-21 Mon 17:00]
-   - State "DONE"       from "TODO"       [2025-04-14 Mon 11:56]
-   - State "DONE"       from "TODO"       [2025-04-07 Mon 10:05]
-   - State "DONE"       from "TODO"       [2025-03-31 Mon 10:43]
-   - State "DONE"       from "TODO"       [2025-03-24 Mon 10:28]
-   - State "DONE"       from "TODO"       [2025-03-17 Mon 10:16]
-   - State "DONE"       from "TODO"       [2025-03-11 Tue 14:21]
-   - State "DONE"       from "TODO"       [2025-03-02 Sun 20:23]
-   - State "DONE"       from "TODO"       [2025-02-24 Mon 10:59]
-   - State "DONE"       from "TODO"       [2025-02-17 Mon 17:12]
-   - State "DONE"       from "TODO"       [2025-02-10 Mon 08:11]
-   - State "DONE"       from "TODO"       [2025-02-03 Mon 08:18]
-   - State "DONE"       from "TODO"       [2025-01-26 Sun 08:59]
-   - State "DONE"       from "TODO"       [2025-01-21 Tue 08:31]
-   :LOGBOOK:
-   CLOCK: [2025-01-21 Tue 08:25]--[2025-01-21 Tue 08:31] =>  0:06
-   :END:
-   - State "DONE"       from "TODO"       [2025-01-05 Sun 20:34]
-   - State "DONE"       from "TODO"       [2024-12-29 Sun 08:45]
-   - State "DONE"       from "TODO"       [2024-12-23 Mon 06:36]
-   - State "DONE"       from "TODO"       [2024-12-16 Mon 09:00]
-   - State "DONE"       from "TODO"       [2024-12-08 Sun 20:04]
-   - State "DONE"       from "TODO"       [2024-12-01 Sun 21:04]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-24 Sun 20:44]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-24 Sun 20:44]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-18 Mon 10:19]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-18 Mon 10:19]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-10 Sun 16:34]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-10 Sun 16:34]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-11-04 Mon 09:57]
-   :END:
-   - State "DONE"       from "TODO"       [2024-11-04 Mon 09:57]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-10-27 Sun 20:15]
-   :END:
-   - State "DONE"       from "TODO"       [2024-10-27 Sun 20:15]
-   :PROPERTIES:
-   :LAST_REPEAT: [2024-10-20 Sun 15:49]
-   :END:
-   - State "DONE"       from "TODO"       [2024-10-20 Sun 15:49]
-   - State "DONE"       from "TODO"       [2024-10-14 Mon 11:52]
-   :PROPERTIES:
-   :END:
-
-
 ** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda :Browser:
-   SCHEDULED: <2025-08-18 Mon +7d>
+   SCHEDULED: <2025-08-25 Mon +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-08-11 Mon 08:04]
+   :LAST_REPEAT: [2025-08-18 Mon 10:55]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-08-18 Mon 10:55]
    - State "DONE"       from "TODO"       [2025-08-11 Mon 08:04]
    - State "DONE"       from "TODO"       [2025-07-16 Wed 12:32]
    - State "DONE"       from "TODO"       [2025-07-16 Wed 12:32]
@@ -736,7 +661,7 @@ in a quarter. The third month is a town hall meeting.
 #+RESULTS:
 :results:
 
-*** TODO Setup post-meeting survey link for skip-level
+*** DONE Setup post-meeting survey link for skip-level
     SCHEDULED: <2025-08-13 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -745,7 +670,7 @@ in a quarter. The third month is a town hall meeting.
    :END:
 
 
-*** TODO Prepare Confluence page for information for skip-level
+*** DONE Prepare Confluence page for information for skip-level
     SCHEDULED: <2025-08-15 Fri>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -754,7 +679,7 @@ in a quarter. The third month is a town hall meeting.
    :END:
 
 
-*** TODO Answer questions left-over from skip-level
+*** DONE Answer questions left-over from skip-level
     SCHEDULED: <2025-08-21 Thu>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -872,15 +797,16 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Clean up calendar for the upcoming week through the following Monday :Messages:
-   SCHEDULED: <2025-08-15 Fri +1w>
+   SCHEDULED: <2025-08-22 Fri +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-08-10 Sun 17:43]
+   :LAST_REPEAT: [2025-08-18 Mon 06:17]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-08-18 Mon 06:17]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 17:43]
    - State "DONE"       from "TODO"       [2025-08-02 Sat 10:54]
    - State "DONE"       from "TODO"       [2025-07-29 Tue 13:26]
