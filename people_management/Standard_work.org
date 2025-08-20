@@ -3,36 +3,35 @@
 #+STARTIP: overview, hideallblocks
 
 #+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2025-07-03 Thu 20:21]
-| Headline                                     |    Time |      |
-|----------------------------------------------+---------+------|
-| *Total time*                                 | *12:20* |      |
-|----------------------------------------------+---------+------|
-| Weekday focus tasks                          |   11:34 |      |
-| \_  Complete [[elisp:(org-agenda t...        |         | 4:02 |
-| \_  Complete [[elisp:(org-agenda t...        |         | 2:47 |
-| \_  Complete [[elisp:(org-agenda t...        |         | 3:15 |
-| \_  Complete [[elisp:(org-agenda t...        |         | 1:30 |
-| Weekday work tasks                           |    0:34 |      |
-| \_  Complete [[elisp:(org-agenda t...        |         | 0:07 |
-| \_  Complete [[elisp:(org-agenda t...        |         | 0:27 |
-| Meetings with direct reports                 |    0:06 |      |
-| \_  Message staff leads to complete their... |         | 0:06 |
-| Tasks                                        |    0:06 |      |
-| \_  Run...                                   |         | 0:06 |
+#+CAPTION: Clock summary at [2025-08-19 Tue 19:44]
+| Headline                              |    Time |      |
+|---------------------------------------+---------+------|
+| *Total time*                          | *12:14* |      |
+|---------------------------------------+---------+------|
+| Weekday focus tasks                   |   11:34 |      |
+| \_  Complete [[elisp:(org-agenda t... |         | 4:02 |
+| \_  Complete [[elisp:(org-agenda t... |         | 2:47 |
+| \_  Complete [[elisp:(org-agenda t... |         | 3:15 |
+| \_  Complete [[elisp:(org-agenda t... |         | 1:30 |
+| Weekday work tasks                    |    0:34 |      |
+| \_  Complete [[elisp:(org-agenda t... |         | 0:07 |
+| \_  Complete [[elisp:(org-agenda t... |         | 0:27 |
+| Tasks                                 |    0:06 |      |
+| \_  Run...                            |         | 0:06 |
 #+END:
 
 * Weekday focus tasks                                              :Periodic:
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-08-18 Mon 06:00 +7d>
+   SCHEDULED: <2025-08-25 Mon 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-08-11 Mon 19:46]
+   :LAST_REPEAT: [2025-08-18 Mon 19:54]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-18 Mon 19:54]
    - State "DONE"       from "TODO"       [2025-08-11 Mon 19:46]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
@@ -71,13 +70,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-08-19 Tue 08:00 +7d>
+   SCHEDULED: <2025-08-26 Tue 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-08-14 Thu 05:57]
+   :LAST_REPEAT: [2025-08-19 Tue 07:45]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-19 Tue 07:45]
    - State "DONE"       from "TODO"       [2025-08-14 Thu 05:57]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
@@ -278,13 +278,14 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
-   SCHEDULED: <2025-08-18 Mon 09:00 +7d>
+   SCHEDULED: <2025-08-25 Mon 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-08-14 Thu 05:57]
+   :LAST_REPEAT: [2025-08-18 Mon 19:54]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-18 Mon 19:54]
    - State "DONE"       from "TODO"       [2025-08-14 Thu 05:57]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
@@ -320,13 +321,14 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
-   SCHEDULED: <2025-08-19 Tue 09:00 +7d>
+   SCHEDULED: <2025-08-26 Tue 10:00>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-08-14 Thu 05:57]
+   :LAST_REPEAT: [2025-08-19 Tue 19:44]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-19 Tue 19:44]
    - State "DONE"       from "TODO"       [2025-08-14 Thu 05:57]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
@@ -364,7 +366,7 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
-   SCHEDULED: <2025-08-20 Wed 09:00 +7d>
+   SCHEDULED: <2025-08-20 Wed 10:00+7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -408,7 +410,7 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
-   SCHEDULED: <2025-08-21 Thu 09:00 +7d>
+   SCHEDULED: <2025-08-21 Thu 10:00+7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -451,7 +453,7 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
-   SCHEDULED: <2025-08-22 Fri 09:00 +7d>
+   SCHEDULED: <2025-08-22 Fri 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -507,15 +509,16 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
 
 ** TODO Ask direct reports: "Overall, how are you doing?" and "Overall, how is your team doing?" :Meetings:
-   SCHEDULED: <2025-08-18 Mon +12w>
+   SCHEDULED: <2025-11-10 Mon +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-28 Mon 06:50]
+   :LAST_REPEAT: [2025-08-19 Tue 19:44]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-08-19 Tue 19:44]
    - State "DONE"       from "TODO"       [2025-04-28 Mon 06:50]
    - State "DONE"       from "TODO"       [2024-11-10 Sun 16:58]
    - State "DONE"       from "TODO"       [2024-08-12 Mon 09:49]
@@ -729,6 +732,7 @@ in a quarter. The third month is a town hall meeting.
 #+RESULTS:
 :results:
 
+
 * Quarterly staff workshops                                        :Meetings:
 
 
@@ -753,13 +757,14 @@ in a quarter. The third month is a town hall meeting.
 
 
 ** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
-SCHEDULED: <2025-08-18 Mon +7d>
+SCHEDULED: <2025-08-25 Mon +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-08-11 Mon 20:39]
+:LAST_REPEAT: [2025-08-19 Tue 19:44]
 :END:
+- State "DONE"       from "TODO"       [2025-08-19 Tue 19:44]
 - State "DONE"       from "TODO"       [2025-08-11 Mon 20:39]
 - State "DONE"       from "TODO"       [2025-08-04 Mon 16:50]
 - State "DONE"       from "TODO"       [2025-07-29 Tue 13:26]
