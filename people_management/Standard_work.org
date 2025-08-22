@@ -3,7 +3,7 @@
 #+STARTIP: overview, hideallblocks
 
 #+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2025-08-19 Tue 19:44]
+#+CAPTION: Clock summary at [2025-08-21 Thu 16:56]
 | Headline                              |    Time |      |
 |---------------------------------------+---------+------|
 | *Total time*                          | *12:14* |      |
@@ -115,13 +115,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-08-20 Wed 06:00 +7d>
+   SCHEDULED: <2025-08-27 Wed 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-08-14 Thu 05:57]
+   :LAST_REPEAT: [2025-08-21 Thu 16:54]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-21 Thu 16:54]
    - State "DONE"       from "TODO"       [2025-08-14 Thu 05:57]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
@@ -161,13 +162,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-08-21 Thu 08:00 +7d>
+   SCHEDULED: <2025-08-28 Thu 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-08-16 Sat 06:26]
+   :LAST_REPEAT: [2025-08-21 Thu 16:54]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-21 Thu 16:54]
    - State "DONE"       from "TODO"       [2025-08-16 Sat 06:26]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:17]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:17]
@@ -366,13 +368,14 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
-   SCHEDULED: <2025-08-20 Wed 10:00+7d>
+   SCHEDULED: <2025-08-27 Wed 10:00>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-08-14 Thu 05:57]
+   :LAST_REPEAT: [2025-08-21 Thu 16:54]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-21 Thu 16:54]
    - State "DONE"       from "TODO"       [2025-08-14 Thu 05:57]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
