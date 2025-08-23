@@ -1,5 +1,6 @@
-#+FILE: The philosophy of task management
+#+FILE: The principles and practice of task management
 #+FILETAGS: :Work:Tasks:
+#+STARTUP: overview, hideallblocks
 
 * Generation of a set of tasks with an offset from a deadline
 
@@ -120,26 +121,25 @@ field matches text in the tag.
 
 * The calculation of cost and benefit                                :Review:
 
-   In life, we may care about physical health, mental health,
-   contributions to community, relations with friends/family and
-   wealth. Each of these factors can be assigned a measure of how
-   we feel we are doing on that factor at a given time. A composite
-   quality of life measure can then be calculated from the individual
-   measures. The closest model to this is that of subjective
-   well-being or [[../well_being/Positive_psychology.org::#SWB][SWB]].
+In life, we may care about physical health, mental health,
+contributions to community, relations with friends/family and
+wealth. Each of these factors can be assigned a measure of how we feel
+we are doing on that factor at a given time. A composite quality of
+life measure can then be calculated from the individual measures. The
+closest model to this is that of subjective well-being or [[../well_being/Positive_psychology.org::#SWB][SWB]].
 
-   The purpose of any life improvement activity, then, is to improve
-   that quality of life measure. It becomes the benefit of the
-   activity. Using some established metrics similar to
-   [[../well_being/Positive_psychology.org::#Cost of one QALY][Cost of one QALY]], the quality of life can be converted into a unit of
-   dollars. The cost of the activity can be calculated by first
-   measuring hours of effort spent (labor) and investments to be made
-   (capital) and converting those to a total cost in dollars. An NPV
-   calculation will then allow us to prioritize improvement
-   activities.
+The purpose of any life improvement activity, then, is to improve
+that quality of life measure. It becomes the benefit of the
+activity. Using some established metrics similar to [[../well_being/Positive_psychology.org::#Cost of one QALY][Cost of one QALY]],
+the quality of life can be converted into a unit of
+dollars. The cost of the activity can be calculated by first
+measuring hours of effort spent (labor) and investments to be made
+(capital) and converting those to a total cost in dollars. An NPV
+calculation will then allow us to prioritize improvement
+activities.
 
 
-** Time efficiency calculation
+* Time efficiency calculation                                        :Review:
 
    You can spend 2 person-hours of effort to save 1 person-min/day of
    effort.
@@ -173,19 +173,43 @@ field matches text in the tag.
    book.
 
 
-** Tasks and projects
+* Tasks and projects
+:PROPERTIES:
+:ID:       a5b61d92-df98-46da-bfb4-cb5b948795be
+:END:
 
-   First, consider projects. Projects have a defined date by which
-   they must be completed and a defined deliverable or goal to be
-   completed. The deliverable or goal and the reason for the defined
-   date should be explainable to someone outside the project
-   team. Note that, by definition, recurring activities don't count as
-   projects. Those should be considered as tasks or processes.
+First, consider projects. Projects have a defined date by which they
+must be completed and a defined deliverable or goal to be
+completed. The deliverable or goal and the reason for the defined date
+should be explainable to someone outside the project team.
 
-   Projects get further sub-divided into tasks.
+Recurring activities don't count as projects. Those should be
+considered as tasks or processes.
+
+Projects get further sub-divided into sub-tasks.
+
+All projects or tasks should have the following properties.
+- Benefit from the project (b)
+- Cost of the project (fc) :: This is typically the cost of buying
+  equipment, third-party costs, etc.
+- Estimated labor costs left (lc)
+- Number of days left to the deadline for the project (d) :: d should
+  be normalized by the number of days from the creation of the project
+  to the completion of the project. d can be infinity to indicate that
+  the project has no deadline.
+
+Then, the remaining benefit-to-cost ratio is b/(fc + lc).
+
+Assume an S-function for benefit accrual.
+
+So, incorporating benefit accrual over time, the benefit-to-cost-ratio
+as a function of d is as follows.
+R(d) = b*S(d)/(fc + lc)
+where:
+S(d) = 1 - exp(-alpha*d)
 
 
-** Task management for teams
+* Task management for teams                               :Review:Management:
 
    Software development teams typically use Jira or a similar database
    for logging software tasks or defects. We recommend that you use
@@ -209,7 +233,7 @@ field matches text in the tag.
    people do the task together, you should still have one lead person who
    will ensure that the task is completed on time. The "what" should be a clear
    deliverable that someone with superficial knowledge of the product can
-   understand. The "when" should be a clear date.
+   understand. The "when" should be a clear date and time.
 
    Each person should periodically review their action items and
    complete them on time. After completion, they should report the

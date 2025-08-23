@@ -64,6 +64,20 @@
 * Tasks
 
 
+** TODO Copy over book-related Keep notes and Evernote to Org
+   :PROPERTIES:
+   :LAST_REPEAT: [2025-08-10 Sun 15:19]
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+
+
+   - State "DONE"       from "TODO"       [2025-08-10 Sun 15:19]
+   - State "DONE"       from "TODO"       [2025-07-29 Tue 11:25]
+   - State "DONE"       from "TODO"       [2025-07-19 Sat 11:15]
+
+
 ** TODO Review Amazon annual shareholder letter
    SCHEDULED: <2026-04-12 Sun +52w>
    :PROPERTIES:

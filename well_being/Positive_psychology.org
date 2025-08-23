@@ -1,6 +1,6 @@
 #+TITLE: The science of happiness and well-being
 #+FILETAGS: :Science:Psychology:Brain:
-#+STARTUP: overview
+#+STARTUP: overview, hideallblocks
 
 * Positive psychology                                                :Review:
 
@@ -17,7 +17,7 @@
   :CUSTOM_ID: SWB
   :END:
 
-  A related concept within that field is [[https://en.wikipedia.org/wiki/Subjective_well-being][Subjective well-being]] (SWB),
+  A related concept within the field of positive psychology is [[https://en.wikipedia.org/wiki/Subjective_well-being][Subjective well-being]] (SWB),
   pioneered by Ed Diener. Diener suggests that SWB consists of two
   components.
     - Affective balance :: The difference between positive affects or

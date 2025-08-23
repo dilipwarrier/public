@@ -129,7 +129,11 @@
   If you want to optimize the weighted sum of all processing times,
   then ranking tasks by the benefit divided by the remaining
   processing time is quite good. In other words, you need to rank
-  tasks by the benefit to remainig cost ratio.
+  tasks by the benefit to remaining cost ratio.
+
+  This address sunk costs since you only consider the benefit as you
+  see it now divided by the remaining effort. All the effort you've spent
+  so far i.e. the sunk cost is ignored.
 
   It can also be used to handle pre-emption where you do the same
   calculation for each incoming task. If the incoming task has a
