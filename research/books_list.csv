@@ -55,11 +55,11 @@ The rise and reign of the mammals,Steve Brusatte,,4.0,,07/25/2022,"biology,scien
 The Makioka Sisters,Junichiro Tanizaki,,4.0,,5/13/2017,japanese-fiction,to-read
 Structures or why things don't fall down,J. E. Gordon,,4.0,,6/21/2025,engineering,to-read
 Fundamentals of software architecture,"Mark Richards,Neal Ford",,4.3,,01/29/2022,"software,engineering,textbook",reading
-Nimitz at war,Craig Symonds,,4.4,,05/30/2022,western-history,reading
 Pragmatic thinking and learning,Andy Hunt,,4.0,,03/08/2024,brain,reading
-Sloan rules,Henry Farber,5.0,4.0,5/20/2025,5/20/2025,western-biography,read
-Henry Ford,Vincent Curcio,5.0,4.0,6/21/2025,5/20/2025,western-biography,read
-Stone mattress,Margaret Atwood,5.0,4.0,6/10/2025,5/20/2025,western-fiction,read
+Nimitz at war,Craig Symonds,5,4.4,7/30/2025,05/30/2022,western-history,read
+Sloan rules,Henry Farber,5,4.0,5/20/2025,5/20/2025,western-biography,read
+Henry Ford,Vincent Curcio,5,4.0,6/21/2025,5/20/2025,western-biography,read
+Stone mattress,Margaret Atwood,5,4.0,6/10/2025,5/20/2025,western-fiction,read
 The sleep prescription,Arik Prather,5,4.0,04/13/2025,04/13/2025,science,read
 The gatekeepers,Chris Whipple,5,4.0,04/13/2025,04/13/2025,western-history,read
 King Richard,Michael Dobbs,5,4.0,4/13/2025,4/13/2025,western-history,read
@@ -243,7 +243,7 @@ Sociobiology: The New Synthesis,Edward O. Wilson,1,4.1,1/1/2014,4/8/2012,"scienc
 "Mornings on Horseback: The Story of an Extraordinary Family,a Vanished Way of Life,and the Unique Child Who Became Theodore Roosevelt",David McCullough,2,4.1,1/1/2014,1/20/2012,western-history,read
 "Ender's Game (Ender's Saga,#1)",Orson Scott Card,2,4.3,1/1/2014,12/19/2011,science-fiction,read
 "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy,#1)",Douglas Adams,5,4.2,1/1/2014,12/19/2011,fiction,read
-A People's History of the United States,Howard Zinn,5,4.1,1/1/2014,12/19/2011,"society,books-to-read-again",read
+A People's History of the United States,Howard Zinn,5,4.1,1/1/2014,12/19/2011,society,read
 Genome: the Autobiography of a Species in 23 Chapters,Matt Ridley,4,4.0,1/1/2014,12/19/2011,"genetics,biology",read
 "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics,#1)",Steven D. Levitt,4,4.0,1/1/2014,12/19/2011,economics,read
 Bel Canto,Ann Patchett,2,3.9,1/1/2014,12/19/2011,fiction,read
@@ -427,7 +427,7 @@ Freedomnomics: Why the Free Market Works and Other Half-baked Theories Don't,Joh
 Invasion of the Body,Nicholas L. Tilney,2,3.5,3/1/2012,10/10/2011,biology,read
 Beyond the Grave (The 39 Clues #4),Jude Watson,3,3.9,2/26/2012,2/25/2012,kids,read
 Fair Play,Steven E. Landsburg,4,3.7,2/24/2012,11/22/2011,economics,read
-"Thinking,Fast and Slow",Daniel Kahneman,5,4.1,2/19/2012,10/15/2011,"brain,books-to-read-again",read
+"Thinking, Fast and Slow",Daniel Kahneman,5,4.1,2/19/2012,10/15/2011,"brain,books-to-read-again",read
 "The House of Silk (Sherlock Holmes,#1)",Anthony Horowitz,5,4.0,1/30/2012,12/25/2011,thriller,read
 Thomas Jefferson: The Art of Power,Jon Meacham,4,4.0,1/20/2012,7/19/2015,western-biography,read
 The Marriage Plot,Jeffrey Eugenides,3,3.4,1/20/2012,10/18/2011,fiction,read

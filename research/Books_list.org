@@ -23,10 +23,8 @@
 List of recommended books:
 
 Storytelling with data                            : Cole Nussbaumer...   (4.3, design)
-Nimitz at war                                     : Craig Symonds        (4.4, western-history)
 A different drummer                               : William Melvin...    (4.2, fiction)
 Say Nothing                                       : Patrick Keefe        (4.4, western-history)
-Fundamentals of software architecture             : Mark Richards,...    (4.3, software,engineering,textbook)
 The Makioka Sisters                               : Junichiro Tanizaki   (4.0, japanese-fiction)
 Anatomy of a Miracle: The End of Apartheid        : Patti Waldmeir       (4.1, eastern-history)
 This Is Marketing: You Can't Be Seen Until You... : Seth Godin           (4.1, marketing,management)
@@ -44,8 +42,8 @@ The Balkans: Nationalism, War and the Great Powers: Misha Glenny         (4.1, e
 Quicksand: America's pursuit of power in the...   : Geoffrey Wawro       (4.1, western-history)
 Bull Mountain                                     : Brian Panowich       (4.0, thriller)
 The Sixth Conspirator                             : Max Byrd             (4.0, western-history)
-The overstory                                     : Richard Powers       (4.1, fiction)
 Oryx and Crake                                    : Margaret Atwood      (4.0, science-fiction)
+The overstory                                     : Richard Powers       (4.1, fiction)
 The Pragmatic Programmer: From Journeyman to...   : Andy Hunt            (4.3, software,books-to-read-again)
 Culture map                                       : Erin Meyer           (4.4, management,books-to-read-again)
 What we owe the future                            : William MacAskill    (4.1, philosophy)
@@ -60,8 +58,8 @@ Moral tribes                                      : Joshua Greene        (4.0, p
 Imperial twilight: the opium war                  : Stephen Platt        (4.3, eastern-history,books-to-read-again)
 The Effective Executive: The Definitive Guide...  : Peter F. Drucker     (4.1, management,books-to-read-again)
 Free to Choose: A Personal Statement              : Milton Friedman      (4.2, economics,books-to-read-again)
-Ready for anything                                : David Allen          (3.9, self-improvement)
 Build: An unorthodox guide to making things       : Tony Fadell          (4.0, management,product)
+Ready for anything                                : David Allen          (3.9, self-improvement)
 Clean hands                                       : Patrick Hoffman      (3.9, thriller)
 The rise and reign of the mammals                 : Steve Brusatte       (4.0, biology,science)
 The walking dead                                  : Gerald Seymour       (3.9, thriller)
@@ -70,8 +68,8 @@ The Lion House                                    : Christopher de...    (4.0, e
 How do we know ourselves?                         : David Myers          (4.0, brain)
 Before she knew him                               : Peter Swanson        (3.9, thriller)
 Bangkok 8                                         : John Burdett         (4.0, eastern-fiction)
-Forgotten armies: The fall of British Asia        : C. A. Bayly, Tim...  (3.9, eastern-history)
 The garden of tales                               : Vijaydan Detha       (4.0, indian-fiction)
+Forgotten armies: The fall of British Asia        : C. A. Bayly, Tim...  (3.9, eastern-history)
 Sovereigns of the sea                             : Seema Alavi          (4.0, eastern-history)
 The sense of style                                : Steven Pinker        (4.0, society)
 Deep work                                         : Cal Newport          (4.0, brain)
@@ -85,17 +83,17 @@ A People's History of the United States           : Howard Zinn          (4.1, s
 The Moral Animal: Why We Are the Way We Are:...   : Robert Wright        (4.1, genetics,biology,books-to-read-again)
 Northern Spy                                      : Flynn Berry          (4.0, thriller)
 Crossing the Chasm: Marketing and Selling High-...: Geoffrey A. Moore    (4.0, marketing,books-to-read-again)
-Automotive technology: a systems approach         : Jack Erjavec         (4.0, engineering,textbook)
 Self-help is like a vaccine                       : Bryan Caplan         (4.0, society)
-Engines that move markets                         : Alasdair Nairn       (4.0, western-history,business)
-The big picture                                   : Sean B. Carroll      (4.2, science,books-to-read-again)
 A woman of no importance                          : Sonia Purnell        (4.0, western-biography,thriller)
+The big picture                                   : Sean B. Carroll      (4.2, science,books-to-read-again)
+Engines that move markets                         : Alasdair Nairn       (4.0, western-history,business)
 The idea of the brain                             : Matthew Cobb         (4.0, brain)
 Other minds: the octopus and the evolution of...  : Peter Godfrey-Smith  (4.0, biology,brain)
+Automotive technology: a systems approach         : Jack Erjavec         (4.0, engineering,textbook)
 Business model generation                         : Alex Osterwalder     (4.2, management,books-to-read-again)
 Good Strategy Bad Strategy: The Difference and... : Richard P. Rumelt    (4.2, strategy,management,books-to-read-again)
-Building secure and reliable systems              : Heather Adkins       (4.0, engineering)
 Winter Tide                                       : Ruthanna Emrys       (3.8, science-fiction)
+Building secure and reliable systems              : Heather Adkins       (4.0, engineering)
 How to Measure Anything: Finding the Value of...  : Douglas W. Hubbard   (4.0, management,books-to-read-again)
 Structures or why things don't fall down          : J. E. Gordon         (4.0, engineering)
 Thinking Strategically: The Competitive Edge in...: Avinash K. Dixit     (4.0, strategy,management,books-to-read-again)
@@ -106,13 +104,15 @@ Knowledge,reality and value                       : Michael Huemer       (4.1, p
 Capitalism and Freedom                            : Milton Friedman      (3.9, economics,books-to-read-again)
 The Myth of the Rational Voter: Why Democracies...: Bryan Caplan         (3.9, society,books-to-read-again)
 The Halo Effect: ... and the Eight Other...       : Philip M. Rosenzweig (3.9, management,books-to-read-again)
-Game theory: an introduction                      : Steve Tadelis        (4.0, maths,textbook,books-to-read-again)
 Your inner fish                                   : Neil Shubin          (4.0, biology,books-to-read-again)
+Game theory: an introduction                      : Steve Tadelis        (4.0, maths,textbook,books-to-read-again)
 The God Delusion                                  : Richard Dawkins      (3.9, science,books-to-read-again)
 Crucial Conversations                             : Kerry Patterson      (4.0, management,books-to-read-again)
 King                                              : Jonathan Eig         (4.0, black-biography,books-to-read-again)
 Bubble or revolution?                             : Neel Mehta           (4.0, finance,maths,books-to-read-again)
 How big things get done                           : Bent Flyvbjerg       (4.0, management,books-to-read-again)
+The missing billionaires                          : Victor Haghani       (4.0, maths,finance,textbook,books-to-read-again)
+The Grid                                          : Philip Schewe        (4.0, engineering,books-to-read-again)
 An introduction to decision theory                : Martin Peterson      (3.8, maths,textbook,books-to-read-again)
 CMMI for Development: Guidelines for Process...   : Mary Beth Chrissis   (3.5, process,books-to-read-again)
 :end:
@@ -330,17 +330,20 @@ Kiran Nagarkar
 ** Books to read by genre
 
 #+begin_src shell :results drawer :exports both
-  ../item_recommender/recommend_book.py -g society -r 30 books_list.csv
+  ../item_recommender/recommend_book.py -g brain -r 30 books_list.csv
 #+end_src
 
 #+RESULTS:
 :results:
 List of recommended books:
 
-The sense of style                                : Steven Pinker        (4.0, society)
-A People's History of the United States           : Howard Zinn          (4.1, society,books-to-read-again)
-Self-help is like a vaccine                       : Bryan Caplan         (4.0, society)
-The Myth of the Rational Voter: Why Democracies...: Bryan Caplan         (3.9, society,books-to-read-again)
+Models of the mind                                : Grace Lindsay        (4.4, brain,books-to-read-again)
+How do we know ourselves?                         : David Myers          (4.0, brain)
+Deep work                                         : Cal Newport          (4.0, brain)
+Thinking,Fast and Slow                            : Daniel Kahneman      (4.1, brain,books-to-read-again)
+Thinking in bets                                  : Annie Duke           (4.0, brain)
+The idea of the brain                             : Matthew Cobb         (4.0, brain)
+Other minds: the octopus and the evolution of...  : Peter Godfrey-Smith  (4.0, biology,brain)
 :end:
 
 
