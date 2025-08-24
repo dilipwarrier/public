@@ -249,16 +249,17 @@
 
 
 ** TODO Review [[elisp:(org-agenda t "wb")][work backlog]]
-SCHEDULED: <2025-08-22 Fri 19:00 +7d>
+SCHEDULED: <2025-08-29 Fri 19:00 +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-08-16 Sat 06:26]
+:LAST_REPEAT: [2025-08-24 Sun 15:57]
 :END:
 
 
 
+- State "DONE"       from "TODO"       [2025-08-24 Sun 15:57]
 - State "DONE"       from "TODO"       [2025-08-16 Sat 06:26]
 - State "DONE"       from "TODO"       [2025-08-04 Mon 12:10]
 - State "DONE"       from "TODO"       [2025-07-19 Sat 06:26]
@@ -536,8 +537,8 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2023-04-03 Mon 10:06]
 
 
-** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda :Browser:
-   SCHEDULED: <2025-08-25 Mon +7d>
+** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda                                 :Browser:
+   SCHEDULED: <2025-08-24 Sun +7d>
    :PROPERTIES:
    :LAST_REPEAT: [2025-08-18 Mon 10:55]
    :EFFORT: 00:15
@@ -582,7 +583,7 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
 
 ** TODO Add a monthly [[https://www.manager-tools.com/map-of-the-universe][Manager Tools podcast]] for discussion to staff meeting agenda :Browser:
-   SCHEDULED: <2025-09-08 Mon +4w>
+   SCHEDULED: <2025-09-07 Sun +4w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -595,7 +596,7 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
 
 ** TODO Add monthly [[https://evconnect-my.sharepoint.com/:x:/p/dilip_warrier/Ed_n6GxZ3hVNlzUX_CPNbE0BjLoxb_8zBn6ZIkVfkL2DQw?e=VswZud][Metrics review]] to staff meeting agenda :Browser:
-   SCHEDULED: <2025-09-08 Mon +4w>
+   SCHEDULED: <2025-08-24 Sun +4w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -608,7 +609,7 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
 
 ** TODO Add QPR review to staff meeting agenda                      :Browser:
-   SCHEDULED: <2025-10-27 Mon +12w>
+   SCHEDULED: <2025-10-26 Sun +12w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -622,7 +623,7 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
 
 ** TODO Add QPR review to direct report 1-1s                        :Browser:
-   SCHEDULED: <2025-11-03 Mon +12w>
+   SCHEDULED: <2025-11-02 Sun +12w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -635,8 +636,8 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2025-08-11 Mon 07:54]
 
 
-** TODO Review team succession and promotion candidates list       :Meetings:
-   SCHEDULED: <2025-10-29 Wed +12w>
+** TODO Add review of team succession and promotion candidates list to staff agenda :Meetings:
+   SCHEDULED: <2025-10-26 Sun +12w>
    :PROPERTIES:
    :EFFORT:  00:15
    :BENEFIT:  10
@@ -646,7 +647,8 @@ SCHEDULED: <2025-08-22 Fri 19:00 +7d>
 
    - State "DONE"       from "TODO"       [2025-08-06 Wed 14:53]
    - State "DONE"       from "TODO"       [2025-05-05 Mon 20:15]
-    - See manager tools recommendations on ready now/ready later
+
+- See manager tools recommendations on ready now/ready later
 
 
 * Skip level meetings                                              :Meetings:
@@ -670,8 +672,9 @@ in a quarter. The third month is a town hall meeting.
 #+RESULTS:
 :results:
 
-*** DONE Setup post-meeting survey link for skip-level
-    SCHEDULED: <2025-08-13 Wed>
+
+*** TODO Setup post-meeting survey link for skip-level
+    SCHEDULED: <2025-08-27 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
