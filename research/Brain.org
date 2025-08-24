@@ -2,45 +2,77 @@
 #+FILETAGS: :Brain:
 #+STARTUP: overview, hideallblocks
 
-* The Learning Process                                               :Review:
+* The Dreyfus model of skill acquisition                             :Review:
 :PROPERTIES:
 :ID:       1b62c6dd-c98f-45c4-b85d-d4162a880e2b
 :END:
 
 We must adopt the systems thinking mindset that everything is
 interconnected and, hence, everything must be considered in its
-context. This underlying mindset is fundamental to skill acquisition.
+context. The journey towards this underlying mindset is fundamental to
+skill acquisition.
 
 The Dreyfus model of skill acquisition can be applied to the learning
 process for any skill. The model describes continuous growth through
-the phases of Novice, Advanced Beginner, Competent, Proficient,
-and Expert.
+the phases of Novice, Competent, Proficient, and Expert.
 
 Most people do not achieve the Expert phase in a skill although they
 may think they have achieved it.
 
-An expert need not be a good teacher. Often, an expert does not have
-the patience to explain why he or she understands something
-intuitively.
-
 To advance through the phases of skill acquisition, a person must
-spend time doing the underlying activity. However, just spending a lot
-of hours in a phase doing the same activities over and over is not
-enough to advance to the next phase. The person must reflect upon the
-progress and adjust their approach. This provides a feedback loop that
-is critical to success. A good example is doing your tax returns. Each
-year, you follow a fixed process to do your taxes. However, most
-people stay at the Novice phase in tax return filing.
+spend time doing the underlying activity. About 10,000 hours is a good
+metric for the amount of effort required to get from Novice to
+Expert.
+
+However, just spending time in a phase doing the same activities over
+and over is not enough to advance to the next phase. The person must
+reflect upon the progress and adjust their approach. This provides a
+feedback loop that is critical to success. A good example is doing
+your tax returns. Each year, you follow a fixed process to do your
+taxes. However, most people stay at the Novice phase in tax return
+filing.
 
 In the Novice phase, you need context-free recipes and rules to do the
-work. Unfortunately, such context-free rules are tedious to document.
+work. Unfortunately, such context-free rules are tedious to
+document. Also, adhering strictly to context-free rules can result in
+inefficiency and lack of adaptability.
 
-In the Advanced Beginner phase, you start to break away from such
+In the Competent phase, you start to break away from such
 context-free rules. You are able to skim the rules to learn and can
-rely upon your intuition. This intuition, of course, has been built up
-by practice in the Novice phase. The process of skimming the rules
-builds up the relevant focus on the context i.e. you start to pick out
-the items from the context that matter most to the work at hand.
+rely upon your intuition. This intuition has been built up by practice
+in the Novice phase. The process of skimming the rules builds up the
+relevant focus on the context i.e. you start to pick out the items
+from the context that matter most to the work at hand.
+
+From the Proficient phase, you start to use reflection and
+self-adjustment based on your intuition and understanding of the
+overall process. This can be thought of as a feedback mechanism. In
+the Agile mindset, this can be the retrospective and the improvements
+from the retrospective.
+
+From the Proficient through the Expert phases, there is a phase
+transition in efficiency and intuition. The practitioner realizes that
+they are part of a system and yet they are not bogged down by the
+complexity of the overall system. They are able to identify the key
+elements of the system that provide leverage for the activity at hand.
+
+An expert need not be a good teacher. Often, an expert does not have
+the patience to explain why they understand something
+intuitively. However, what they do appears effortless to the
+Beginner. Further, they are able to adapt their processes in the
+context of the larger system.
+
+In order to improve the level of proficiency, the nursing industry
+went through significant changes. Their lessons can be summarized as
+follows.
+- Individuals must accept the responsibility for continuous improvement.
+- Individuals must be able to practise as an individual contributor
+  throughout their career.
+- Management must set up compensation and recognition such that
+  individuals can keep practising their expertise rather than turning
+  into managers.
+- All must beware of the tools trap i.e. assuming that tools alone can
+  bring about process excellence.
 
 
 ** Andy Hunt: Software isn't designed in a tool, it is created in our heads :quotes:
@@ -50,6 +82,7 @@ the items from the context that matter most to the work at hand.
 
 - "Pragmatic Thinking and Learning" by Andy Hunt
 - [[https://www.coursera.org/learn/learning-how-to-learn/][Learning to learn]] Coursera course
+
 
 
 * Models of the mind by Grace Lindsay                                :Review:

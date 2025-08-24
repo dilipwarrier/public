@@ -1,5 +1,5 @@
 #+TITLE: The science of happiness and well-being
-#+FILETAGS: :Science:Psychology:Brain:
+#+FILETAGS: :Science:Psychology:
 #+STARTUP: overview, hideallblocks
 
 * Positive psychology                                                :Review:

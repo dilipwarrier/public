@@ -27,7 +27,7 @@
      + Customer Operations
 
 
-* Company budgets                                                    :Review:
+* Company budgets                                            :Finance:Review:
 
 A good target is as follows. This gives a gross margin of 80% and net
 margin of about 20%.
