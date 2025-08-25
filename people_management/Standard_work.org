@@ -537,14 +537,15 @@ SCHEDULED: <2025-08-29 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2023-04-03 Mon 10:06]
 
 
-** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda                                 :Browser:
-   SCHEDULED: <2025-08-24 Sun +7d>
+** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda :Browser:
+   SCHEDULED: <2025-08-31 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-08-18 Mon 10:55]
+   :LAST_REPEAT: [2025-08-24 Sun 16:11]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-08-24 Sun 16:11]
    - State "DONE"       from "TODO"       [2025-08-18 Mon 10:55]
    - State "DONE"       from "TODO"       [2025-08-11 Mon 08:04]
    - State "DONE"       from "TODO"       [2025-07-16 Wed 12:32]
@@ -596,15 +597,16 @@ SCHEDULED: <2025-08-29 Fri 19:00 +7d>
 
 
 ** TODO Add monthly [[https://evconnect-my.sharepoint.com/:x:/p/dilip_warrier/Ed_n6GxZ3hVNlzUX_CPNbE0BjLoxb_8zBn6ZIkVfkL2DQw?e=VswZud][Metrics review]] to staff meeting agenda :Browser:
-   SCHEDULED: <2025-08-24 Sun +4w>
+   SCHEDULED: <2025-09-21 Sun +4w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-08-11 Mon 07:54]
+   :LAST_REPEAT: [2025-08-24 Sun 16:20]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-08-24 Sun 16:20]
    - State "DONE"       from "TODO"       [2025-08-11 Mon 07:54]
 
 
@@ -682,24 +684,6 @@ in a quarter. The third month is a town hall meeting.
    :END:
 
 
-*** DONE Prepare Confluence page for information for skip-level
-    SCHEDULED: <2025-08-15 Fri>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** DONE Answer questions left-over from skip-level
-    SCHEDULED: <2025-08-21 Thu>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
 *** TODO Setup tasks for next skip level
     SCHEDULED: <2025-08-27 Wed>
    :PROPERTIES:
@@ -710,6 +694,27 @@ in a quarter. The third month is a town hall meeting.
 
 
 :end:
+
+
+*** Archive                                                         :ARCHIVE:
+**** DONE Prepare Confluence page for information for skip-level
+    SCHEDULED: <2025-08-15 Fri>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :ARCHIVE_TIME: 2025-08-24 Sun 21:28
+   :END:
+
+
+**** DONE Answer questions left-over from skip-level
+    SCHEDULED: <2025-08-21 Thu>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :ARCHIVE_TIME: 2025-08-24 Sun 21:28
+   :END:
 
 
 * Town hall meetings                                               :Meetings:
