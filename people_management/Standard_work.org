@@ -24,13 +24,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-08-25 Mon 06:00 +7d>
+   SCHEDULED: <2025-09-01 Mon 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-08-18 Mon 19:54]
+   :LAST_REPEAT: [2025-08-25 Mon 07:37]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-25 Mon 07:37]
    - State "DONE"       from "TODO"       [2025-08-18 Mon 19:54]
    - State "DONE"       from "TODO"       [2025-08-11 Mon 19:46]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
@@ -70,13 +71,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-08-26 Tue 08:00 +7d>
+   SCHEDULED: <2025-09-02 Tue 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-08-19 Tue 07:45]
+   :LAST_REPEAT: [2025-08-26 Tue 07:30]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-26 Tue 07:30]
    - State "DONE"       from "TODO"       [2025-08-19 Tue 07:45]
    - State "DONE"       from "TODO"       [2025-08-14 Thu 05:57]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
@@ -282,13 +284,14 @@ SCHEDULED: <2025-08-29 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
-   SCHEDULED: <2025-08-25 Mon 10:00 +7d>
+   SCHEDULED: <2025-09-01 Mon 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-08-18 Mon 19:54]
+   :LAST_REPEAT: [2025-08-26 Tue 05:59]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-26 Tue 05:59]
    - State "DONE"       from "TODO"       [2025-08-18 Mon 19:54]
    - State "DONE"       from "TODO"       [2025-08-14 Thu 05:57]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
@@ -770,7 +773,7 @@ in a quarter. The third month is a town hall meeting.
 * Tasks
 
 
-** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
+** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]]                              :Meetings:
 SCHEDULED: <2025-08-25 Mon +7d>
 :PROPERTIES:
 :EFFORT:  00:15
