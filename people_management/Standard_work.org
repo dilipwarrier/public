@@ -327,7 +327,7 @@ SCHEDULED: <2025-08-29 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2025-01-13 Mon 10:12]
 
 
-** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
+** DONE Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
    SCHEDULED: <2025-08-26 Tue 10:00>
    :PROPERTIES:
    :EFFORT: 00:15
