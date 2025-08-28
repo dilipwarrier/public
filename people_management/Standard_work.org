@@ -117,13 +117,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-08-27 Wed 06:00 +7d>
+   SCHEDULED: <2025-09-03 Wed 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-08-21 Thu 16:54]
+   :LAST_REPEAT: [2025-08-27 Wed 21:20]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-27 Wed 21:20]
    - State "DONE"       from "TODO"       [2025-08-21 Thu 16:54]
    - State "DONE"       from "TODO"       [2025-08-14 Thu 05:57]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
@@ -372,7 +373,7 @@ SCHEDULED: <2025-08-29 Fri 19:00 +7d>
    :END:
 
 
-** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
+** DONE Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
    SCHEDULED: <2025-08-27 Wed 10:00>
    :PROPERTIES:
    :EFFORT: 00:15
