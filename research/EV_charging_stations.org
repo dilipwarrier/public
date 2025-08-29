@@ -76,6 +76,39 @@ The following data is for L2 and DCFC ports.
 Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]] and [[https://www.rabobank.com/knowledge/d011438559-the-rise-of-electric-vehicles-in-the-us-building-a-robust-charging-network?utm_source=chatgpt.com][Rabobank research]]
 
 
+From [[https://www.eia.gov/totalenergy/data/monthly/pdf/mer_F_FULL.pdf?utm_source=chatgpt.com][AFDC-based data]], at the end of June 2025, there were about 60k
+DCFC ports and 180k L2 ports. These are a combination of public and
+private (although the private count excludes single-home chargers).
+
+The total is about 240k out of which about 72k are at public locations
+and 3.6k at private locations. So, we can assume that 3.6/(72+3.6) or about 5% of
+all ports are private. Multiplying the numbers above by 95%, we get
+the estimated number of DCFC ports to be about 60k*0.95 = 57k and the
+estimated number of L2 ports to be about 180k*0.95 = 171k.
+
+At the end of 2023, the numbers were 40695*(63069/(63069+3106)) = 39k DCFC
+ports and 161534*(63069/(63069+3106)) = 154k L2 ports.
+
+At the end of 2024, the numbers were 52539*(69616/(69616+3546)) = 50k DCFC
+ports and 172220*(69616/(69616+3546)) = 164k L2 ports.
+
+This gives a growth of (50-39)/39 = 28% in DCFC ports and
+(164-154)/154 = 6.5% in L2 ports in 2024. The total port growth was
+(214-193)/193 = 11% in 2024.
+
+That gives a growth of (57-50)/50 = 14% in DCFC ports and
+(171-164)/164 = 4% in L2 ports in the first half of 2025. The total
+port growth was (228 - 214)/214 = 6.5% in the first half of 2025.
+
+
+*** TODO Look at [[https://www.eia.gov/totalenergy/data/monthly/pdf/mer_F_FULL.pdf?utm_source=chatgpt.com][AFDC-based data]] and update this table         :Browser:Work:
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
+
+
 ** Composition by CPO
 
 The composition of ports in 2024 is as follows.

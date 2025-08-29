@@ -2,7 +2,7 @@
 #+FILETAGS: :Automotive:
 #+STARTUP: content
 
-* EV market trends                                            :Review:
+* EV market trends                                                   :Review:
 :PROPERTIES:
 :ID:       1f2c0984-0b3d-49f9-804b-35d5df1e011f
 :END:
@@ -59,9 +59,9 @@ that BEVs will account for 30% of a total US auto sales of about 16M.
 :CUSTOM_ID: EV_Volumes_2023
 :END:
 
-[[file:Screenshot 2023-04-23 171648.png][EV sales from 2013 to 2022]]
+[[file:Screenshot 2023-04-23 171648.png][Global EV sales from 2013 to 2022]]
 
-[[file:Screenshot 2023-12-07 130520.png][EV sales forecast up to 2035]]
+[[file:Screenshot 2023-12-07 130520.png][Global EV sales forecast up to 2035]]
 
 Source: EV Volumes forecast in 2023
 
@@ -119,7 +119,7 @@ estimated to be at about 15M. This is down from a high in CY19
   [[file:Screenshot 2023-08-26 183025.jpg][Levels and what they mean]]
 
 
-* [[https://ihsmarkit.com/topic/IEBAutoTech.html#video-9-container][Battery technology trends]] - Youmin Rong, IHS Markit :Review:
+* [[https://ihsmarkit.com/topic/IEBAutoTech.html#video-9-container][Battery technology trends]] - Youmin Rong, IHS Markit                :Review:
 
   [[file:research/Screenshot 2022-03-04 144459.jpg][Automotive market]] is dominant for lithium ion batteries.
 
@@ -148,7 +148,7 @@ estimated to be at about 15M. This is down from a high in CY19
   Toyota is the world leader in patents on solid-state batteries.
 
 
-* Battery [[https://www.youtube.com/watch?v=s3HPdv9iD00][thermal management system]] design - MathWorks :Review:
+* Battery [[https://www.youtube.com/watch?v=s3HPdv9iD00][thermal management system]] design - MathWorks               :Review:
 
   [[file:research/Screenshot 2022-03-05 171057.jpg][Lifetime trend]]
 

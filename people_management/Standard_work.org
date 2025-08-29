@@ -209,13 +209,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-08-29 Fri 06:00 +7d>
+   SCHEDULED: <2025-09-05 Fri 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-08-22 Fri 10:04]
+   :LAST_REPEAT: [2025-08-29 Fri 10:03]
    :END:
+   - State "DONE"       from "TODO"       [2025-08-29 Fri 10:03]
    - State "DONE"       from "TODO"       [2025-08-22 Fri 10:04]
    - State "DONE"       from "TODO"       [2025-08-16 Sat 06:26]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:17]
