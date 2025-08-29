@@ -55,7 +55,6 @@ Source: [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][DoE site]]
 Growth in the first 6 months of 2025 was roughly 8% annualized for L2
 chargers and 14% annualized for DCFCs.
 
-
 ** Growth trend for ports
 :PROPERTIES:
 :ID:       155a9380-eb88-4b00-9365-15511ce0c60f
