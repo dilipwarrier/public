@@ -254,16 +254,17 @@
 
 
 ** TODO Review [[elisp:(org-agenda t "wb")][work backlog]]
-SCHEDULED: <2025-08-29 Fri 19:00 +7d>
+SCHEDULED: <2025-09-05 Fri 19:00 +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-08-24 Sun 15:57]
+:LAST_REPEAT: [2025-08-30 Sat 08:17]
 :END:
 
 
 
+- State "DONE"       from "TODO"       [2025-08-30 Sat 08:17]
 - State "DONE"       from "TODO"       [2025-08-24 Sun 15:57]
 - State "DONE"       from "TODO"       [2025-08-16 Sat 06:26]
 - State "DONE"       from "TODO"       [2025-08-04 Mon 12:10]
@@ -331,15 +332,16 @@ SCHEDULED: <2025-08-29 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
-   SCHEDULED: <2025-08-29 Fri 10:00 +7d>
+   SCHEDULED: <2025-09-05 Fri 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-08-22 Fri 16:37]
+   :LAST_REPEAT: [2025-08-30 Sat 08:17]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-08-30 Sat 08:17]
    - State "DONE"       from "TODO"       [2025-08-22 Fri 16:37]
    - State "DONE"       from "TODO"       [2025-08-16 Sat 06:26]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:17]
