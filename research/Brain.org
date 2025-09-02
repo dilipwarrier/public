@@ -81,8 +81,36 @@ follows.
 ** References
 
 - "Pragmatic Thinking and Learning" by Andy Hunt
-- [[https://www.coursera.org/learn/learning-how-to-learn/][Learning to learn]] Coursera course
 
+
+* Creativity                                                         :Review:
+
+The brain can typically work in a Focused mode or a Diffuse mode.
+
+The Focused mode is most useful when you are executing on a task. The
+Diffuse mode is when the mind is free and wanders. Western cultures
+especially emphasize spending time in Focused mode. However, to get
+creative ideas, you need to spend time in Diffuse mode.
+
+Diffuse mode allows the brain to work on the tough problems and discover
+connections that you cannot find in Focused mode. The brain does
+Diffuse mode when you go on a run or a walk without any other stimuli.
+
+When you have ideas, you must note them down. Have a method handy to
+note down ideas as soon as they come to you. You'll notice that, the
+more you start to write down and work on your ideas, the more ideas
+you start having.
+
+Harness and clean up those ideas frequently and keep building upon
+them.
+
+Finally, have a plan to act upon ideas.
+
+
+** References
+
+- "Pragmatic Thinking and Learning" by Andy Hunt
+- [[https://www.coursera.org/learn/learning-how-to-learn/][Learning to learn]] Coursera course
 
 
 * Models of the mind by Grace Lindsay                                :Review:
@@ -116,11 +144,10 @@ follows.
 
 * Types of bias                                                      :Review:
 
-  This note lists some key biases that affect our thinking. Methods to overcome bias are noted here.
+  This note lists some key biases that affect our thinking. Methods to
+  overcome bias are noted here.
 
-  The acronym to remember is FFRACASS (Focusing, first conclusion,
-  confirmation, representativeness, availability, social desirability,
-  survivorship)
+  The acronym to remember is FFRACASS.
 
 
 ** Focusing bias

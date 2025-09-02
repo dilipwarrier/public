@@ -24,13 +24,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-09-01 Mon 06:00 +7d>
+   SCHEDULED: <2025-09-08 Mon 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-08-25 Mon 07:37]
+   :LAST_REPEAT: [2025-09-01 Mon 20:16]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-01 Mon 20:16]
    - State "DONE"       from "TODO"       [2025-08-25 Mon 07:37]
    - State "DONE"       from "TODO"       [2025-08-18 Mon 19:54]
    - State "DONE"       from "TODO"       [2025-08-11 Mon 19:46]
@@ -288,13 +289,14 @@ SCHEDULED: <2025-09-05 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]]
-   SCHEDULED: <2025-09-01 Mon 10:00 +7d>
+   SCHEDULED: <2025-09-08 Mon 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-08-26 Tue 05:59]
+   :LAST_REPEAT: [2025-09-01 Mon 20:32]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-01 Mon 20:32]
    - State "DONE"       from "TODO"       [2025-08-26 Tue 05:59]
    - State "DONE"       from "TODO"       [2025-08-18 Mon 19:54]
    - State "DONE"       from "TODO"       [2025-08-14 Thu 05:57]
@@ -616,13 +618,14 @@ SCHEDULED: <2025-09-05 Fri 19:00 +7d>
 
 
 ** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda :Browser:
-   SCHEDULED: <2025-08-31 Sun +7d>
+   SCHEDULED: <2025-09-07 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-08-24 Sun 16:11]
+   :LAST_REPEAT: [2025-09-01 Mon 20:32]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-09-01 Mon 20:32]
    - State "DONE"       from "TODO"       [2025-08-24 Sun 16:11]
    - State "DONE"       from "TODO"       [2025-08-18 Mon 10:55]
    - State "DONE"       from "TODO"       [2025-08-11 Mon 08:04]

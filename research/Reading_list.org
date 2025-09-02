@@ -18,13 +18,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-08-31 Sun 06:00 +7d>
+   SCHEDULED: <2025-09-07 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-08-24 Sun 15:03]
+   :LAST_REPEAT: [2025-09-01 Mon 20:57]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-01 Mon 20:57]
    - State "DONE"       from "TODO"       [2025-08-24 Sun 15:03]
    - State "DONE"       from "TODO"       [2025-08-17 Sun 07:32]
    - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
@@ -174,7 +175,7 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :END:
 
 
-** TODO Read "Pragmatic Thinking and Learning" and [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][update notes]]
+** DONE Read "Pragmatic Thinking and Learning" and [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][update notes]]
 SCHEDULED: <2025-08-24 Sun>
 :PROPERTIES:
 :EFFORT:  10:00
