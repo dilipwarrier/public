@@ -1,5 +1,5 @@
 #+TITLE: Notes on marketing
-#+FILETAGS: :Marketing:BookNotes:
+#+FILETAGS: :Marketing:
 #+STARTUP: overview
 
 * Marketing management by Philip Kotler                              :Review:
@@ -110,9 +110,9 @@ adequate performance in the other two.
 
 Generally, market experts recommend positioning 1 to 2 benefits. One
 benefit if the market is new. However, the auto market is mature, so
-Volvo might position itself as safer and more durable. However,
-positioning more benefits is harder because the customer may not
-believe you and the clear positioning is lost.
+Volvo might position itself as safer and more durable. Positioning
+more benefits is harder because the customer may not believe you and
+the clear positioning is lost.
 
 
-** Scott Galloway: You are not as smart as you thought; they are not as dumb as you hoped. :quotes:
+** Scott Galloway: You are not as smart as you thought; they are not as dumb as you imagined. :quotes:

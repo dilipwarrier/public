@@ -71,6 +71,38 @@
   ML SDK on the Adreno.
 
 
+* Intel                                                              :Review:
+
+In Sep 2025, Ben Thompson defended the case for the US government
+acquiring a 10% stake in Intel [1].
+
+His argument consists of two key points. First, chip investments need
+to be in the 10-20 year time frame. No private market can meet that
+demand fast enough. Chip purchasers will not buy from Intel without a
+guarantee of their stability and Intel cannot invest without a
+guaranteed market for its chips.
+
+Secondly, due to the universality of chips, chip supply has strategic
+importance for the country. Taiwan and Korea are very close to
+China. A US military planner will perceive this as a threat that must
+be mitigated by alternate sites for chip production. The US is across
+the globe and, hence, sites in the US provide a safer
+alternative. Intel is the only company that has existing large chip
+manufacturing sites in the US. Other companies like TSMC have promised
+to build such sites but that will take years to bear fruit.
+
+He acknowledges the two big counter-arguments. First, this creates
+a troublesome precedent of government intervention in private
+industry. It will naturally lead to the US government mandating other
+companies to buy chips from Intel foundries. It will lead to
+inefficiency and potential failure of the entire venture.
+
+The base rate of success of government intervention in industry will
+need to be looked at. In general, such base rates are quite
+poor. However, we need to look at not just commercial success but also
+geo-political success.
+
+
 * ASML                                                      :LinkedIn:Review:
 
   I came across [[https://www.visualcapitalist.com/the-50-most-valuable-companies-in-the-world-in-2023/?utm_source=Newsletter&utm_campaign=37abfa8c9a-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-37abfa8c9a-9546361][this infographic]] on the 50 most valuable companies in
@@ -92,3 +124,8 @@
 
 
 ** Anonymous: When everybody is digging for gold, it's good to be in the pick and shovel business :quotes:
+
+
+* References
+
+[1] Ben Thompson, [[https://stratechery.com/2025/u-s-intel/][U.S. Intel]], Aug 2025.

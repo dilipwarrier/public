@@ -745,7 +745,7 @@
    They decide "who will do what, by when".
 
 
-*** Peter Drucker: No decision has been made until carrying it out has become someone's work assignment :quotes:
+*** Peter Drucker: An executive has not completed a decision until they have assigned someone to take the next steps :quotes:
 
 
 ** Change management
@@ -778,8 +778,7 @@ true, both are necessary in organizations.
 
 Instead of saying "Please complete the client file updates by 2 pm
 tomorrow," you should say "Please complete the client files updates
-and email the link to me by 2 pm
-tomorrow."
+and email the link to me by 2 pm tomorrow."
 
 
 *** Completing tasks
@@ -1417,6 +1416,9 @@ tomorrow."
 
    They recommend a 360 evaluation from:
    [[https://www.ccl.org/leadership-solutions/leadership-development-tools/leadership-assessments/][Center for Creative Leadership]].
+
+
+** Manager Tools: You do not stop learning when you grow old; you grow old when you stop learning :quotes:
 
 
 ** Culture
