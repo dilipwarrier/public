@@ -168,13 +168,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-09-04 Thu 08:00 +7d>
+   SCHEDULED: <2025-09-11 Thu 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-08-29 Fri 05:50]
+   :LAST_REPEAT: [2025-09-04 Thu 11:52]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-04 Thu 11:52]
    - State "DONE"       from "TODO"       [2025-08-29 Fri 05:50]
    - State "DONE"       from "TODO"       [2025-08-21 Thu 16:54]
    - State "DONE"       from "TODO"       [2025-08-16 Sat 06:26]
@@ -407,14 +408,15 @@ SCHEDULED: <2025-09-05 Fri 19:00 +7d>
 
    - State "DONE"       from "TODO"       [2025-09-02 Tue 20:08]
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
-   SCHEDULED: <2025-09-03 Wed 10:00 +7d>
+   SCHEDULED: <2025-09-10 Wed 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-01 Mon 21:09]
+   :LAST_REPEAT: [2025-09-04 Thu 05:07]
    :ARCHIVE_TIME: 2025-08-29 Fri 16:46
    :END:
+   - State "DONE"       from "TODO"       [2025-09-04 Thu 05:07]
    - State "DONE"       from "TODO"       [2025-09-01 Mon 21:09]
    - State "DONE"       from "TODO"       [2025-08-21 Thu 16:54]
    - State "DONE"       from "TODO"       [2025-08-14 Thu 05:57]
@@ -454,27 +456,29 @@ SCHEDULED: <2025-09-05 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (evening)
-   SCHEDULED: <2025-09-03 Wed 18:30 +7d>
+   SCHEDULED: <2025-09-10 Wed 18:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-01 Mon 21:09]
+   :LAST_REPEAT: [2025-09-04 Thu 05:07]
    :ARCHIVE_TIME: 2025-08-29 Fri 16:46
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-09-04 Thu 05:07]
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
-   SCHEDULED: <2025-09-04 Thu 10:00 +7d>
+   SCHEDULED: <2025-09-11 Thu 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-01 Mon 21:08]
+   :LAST_REPEAT: [2025-09-04 Thu 18:28]
    :ARCHIVE_TIME: 2025-08-29 Fri 16:46
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-09-04 Thu 18:28]
    - State "DONE"       from "TODO"       [2025-09-01 Mon 21:08]
    - State "DONE"       from "TODO"       [2025-08-22 Fri 10:04]
    - State "DONE"       from "TODO"       [2025-08-16 Sat 06:26]
@@ -511,16 +515,17 @@ SCHEDULED: <2025-09-05 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (evening)
-   SCHEDULED: <2025-09-04 Thu 18:30 +7d>
+   SCHEDULED: <2025-09-11 Thu 18:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-01 Mon 21:09]
+   :LAST_REPEAT: [2025-09-05 Fri 06:20]
    :ARCHIVE_TIME: 2025-08-29 Fri 16:46
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-09-05 Fri 06:20]
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
    SCHEDULED: <2025-09-05 Fri 10:00 +7d>
    :PROPERTIES:
@@ -900,14 +905,15 @@ in a quarter. The third month is a town hall meeting.
 * Tasks
 
 
-** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]]                              :Meetings:
-SCHEDULED: <2025-08-25 Mon +7d>
+** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
+SCHEDULED: <2025-09-01 Mon +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-08-19 Tue 19:44]
+:LAST_REPEAT: [2025-09-04 Thu 19:43]
 :END:
+- State "DONE"       from "TODO"       [2025-09-04 Thu 19:43]
 - State "DONE"       from "TODO"       [2025-08-19 Tue 19:44]
 - State "DONE"       from "TODO"       [2025-08-11 Mon 20:39]
 - State "DONE"       from "TODO"       [2025-08-04 Mon 16:50]
