@@ -18,13 +18,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-09-07 Sun 06:00 +7d>
+   SCHEDULED: <2025-09-14 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-09-01 Mon 20:57]
+   :LAST_REPEAT: [2025-09-07 Sun 10:52]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-07 Sun 10:52]
    - State "DONE"       from "TODO"       [2025-09-01 Mon 20:57]
    - State "DONE"       from "TODO"       [2025-08-24 Sun 15:03]
    - State "DONE"       from "TODO"       [2025-08-17 Sun 07:32]

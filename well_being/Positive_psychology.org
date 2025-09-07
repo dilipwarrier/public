@@ -2,83 +2,82 @@
 #+FILETAGS: :Science:Psychology:
 #+STARTUP: overview, hideallblocks
 
-* Positive psychology                                                :Review:
+* Subjective Well-Being or Happiness                                 :Review:
 
-  [[https://en.wikipedia.org/wiki/Positive_psychology][Positive psychology]] has grown as a field since the 1980s. Martin
-  Seligman and Mihaly Csikszentmihalyi are credited with starting this
-  field.
-
-  Sonja Lyubomirsky has written a book on interventions based on
-  positive psychology called "The How of Happiness".
+A related concept within the field of positive psychology is
+Subjective Well-Being (SWB), pioneered by Ed Diener. Diener suggests
+that SWB consists of two components, Affective Balance and Life
+Satisfaction. The SWB score is the sum of the two scores.
 
 
-* Subjective well-being                                              :Review:
-  :PROPERTIES:
-  :CUSTOM_ID: SWB
-  :END:
+** Affective Balance
 
-  A related concept within the field of positive psychology is [[https://en.wikipedia.org/wiki/Subjective_well-being][Subjective well-being]] (SWB),
-  pioneered by Ed Diener. Diener suggests that SWB consists of two
-  components.
-    - Affective balance :: The difference between positive affects or
-      feelings and negative affects. This is a measure of the
-      moods of a person usually measured through questionnaires. An
-      example measure is [[https://en.wikipedia.org/wiki/Positive_and_Negative_Affect_Schedule][Positive and Negative Affect Schedule]]
-      (PANAS).
-    - Life satisfaction :: The satisfaction with various life domains
-      (work, family, friends, leisure). This is a cognitive measure.
+Affective balance is the difference between positive affects or
+feelings and negative affects. This is a measure of the moods of a
+person and is emotional in nature. An example measure for Affective
+Balance is the [[https://en.wikipedia.org/wiki/Positive_and_Negative_Affect_Schedule][Positive and Negative Affect Schedule]] (PANAS).
 
-  An SWB score for an individual is the sum of the scores on these two
-  components.
+The brain has a negativity bias. We feel the loss of something more
+sharply than the gain of an equal amount. Also, negative feelings are
+generated much faster through the amygdala than positive feelings.
 
-  From [[http://labs.psychology.illinois.edu/~ediener/SWLS.html][Diener's web site]] on Satisfaction With Life Scale (SWLS):
-#+begin_quote
-    To understand life satisfaction scores, it is helpful to understand
-    some of the components that go into most people's experience of
-    satisfaction. One of the most important influences on happiness is
-    social relationships. People who score high on life satisfaction tend
-    to have close and supportive family and friends, whereas those who do
-    not have close friends and family are more likely to be
-    dissatisfied. Of course the loss of a close friend or family member
-    can cause dissatisfaction with life, and it may take time for
-    the person to bounce back from the loss.
+Lack of control over factors such as noise and commute time can cause
+unhappiness.
 
-    Another factor that influences the life satisfaction of most people
-    is work or school, or performance in an important role such as
-    homemaker or grandparent. When the person enjoys their work,
-    whether it is paid or unpaid work, and feels that it is meaningful and
-    important, this contributes to life satisfaction. When work is going
-    poorly because of bad circumstances or a poor fit with the person’s
-    strengths, this can lower life satisfaction. When a person has
-    important goals and fails to make adequate progress toward them,
-    this too can lead to life dissatisfaction.
 
-    A third factor that influences the life satisfaction of most people
-    is personal – satisfaction with the self, religious or spiritual life,
-    learning and growth, and leisure. For many people these are sources of
-    satisfaction. However, when these sources of personal worth are
-    frustrated, they can be powerful sources of dissatisfaction. Of course
-    there are additional sources of satisfaction and dissatisfaction –
-    some that are common to most people such as health, and others that
-    are unique to each individual. Most people know the factors that lead
-    to their satisfaction or dissatisfaction, although a person’s
-    temperament – a general tendency to be happy or unhappy – can color
-    their responses.
+** Life Satisfaction
 
-    There is no single key to life satisfaction, but rather a recipe that
-    includes a number of ingredients. With time and persistent work,
-    people’s life satisfaction usually goes up when they are
-    dissatisfied. People who have had a loss recover over time. People who
-    have a dissatisfying relationship or work often make changes over time
-    that will increase their satisfaction. One key ingredient to
-    happiness, as mentioned above, is social relationships, and another
-    key ingredient is to have important goals that derive from one’s
-    values, and to make progress toward those goals. For many people it is
-    important to feel a connection to something larger than oneself. When
-    a person tends to be chronically dissatisfied, they should look within
-    themselves and ask whether they need to develop more positive
-    attitudes to life and the world.
-#+end_quote
+Life Satisfaction (LS) is the satisfaction with important life
+domains - society, work, and leisure. This is a cognitive measure
+i.e. it is how you would evaluate life if you stepped back to reflect
+on it. Life Satisfaction is more long-term while Affective Balance can
+show short-term fluctuations.
+
+One of the most important influences on LS is social
+relationships. People who score high on LS tend to have close and
+supportive family and friends, whereas those who do not have close
+friends and family are more likely to be dissatisfied.
+
+Another factor is work or, more generallly, performance in an important role
+such as homemaker or grandparent. When the person enjoys their work,
+and feels that it is meaningful and important, it increases their
+LS. When work is going poorly because of bad external
+circumstances or a poor fit with the person’s strengths, this can
+lower LS.
+
+Human beings generally feel pleasure from working towards a goal. The
+goal has to be challenging but achievable and they should get regular
+feedback. This allows them to achieve a state of flow. However, they
+do not gain much pleasure after having achieved the goal although they
+perceive that there is pleasure to be gained after achieving the
+goal. Eg. winning a lottery, getting your ideal job etc. This is
+analogous to the movie "Memento" where the protagonist continually
+sets new goals to challenge himself.
+
+A third factor that influences the LS of most people is
+personal – satisfaction with the self, religious or spiritual life,
+learning and growth, and leisure. For many people, these are sources of
+satisfaction. However, when these sources of personal worth are
+frustrated, they can be powerful sources of dissatisfaction.
+
+There could be additional sources of satisfaction and dissatisfaction
+– common sources such as health and other sources that
+are unique to each individual. Most people know the factors that lead
+to their satisfaction or dissatisfaction, although a person’s
+temperament – a general tendency to be happy or unhappy – can color
+their responses. This temperament is highly correlated with genes.
+
+There is no single key to LS. However, a dissatisfied
+person can increase their LS with time and effort. For
+instance, people who suffer a loss recover over time. People who have
+dissatisfaction in any one domain often make changes over time that
+will increase their satisfaction. If a person is chronically
+dissatisfied, they should look within themselves and develop more
+positive attitudes to life and the world.
+
+Buddha said that happiness comes from within. It cannot be achieved by
+making the outside world conform to your wishes. Modern positive
+psychology agrees.
 
 
 * Quantitative measurements of quality of life                       :Review:
@@ -97,7 +96,7 @@
    US has not yet.
 
 
-* Cost of QALY                                                       :Review:
+** Cost of QALY                                                      :Review:
   :PROPERTIES:
   :CUSTOM_ID: Cost of one QALY
   :END:
@@ -109,3 +108,10 @@
 
 
 ** John Donne: No man is an island, entire of itself; ...therefore never send to know for whom the bells tolls; it tolls for thee. :quotes:
+
+
+* References
+
+- The Happiness Hypothesis, Jonathan Haidt
+- Happiness, Edward Diener and Robert Biswas-Diener
+- The How of Happiness, Sonja Lyubomirsky
