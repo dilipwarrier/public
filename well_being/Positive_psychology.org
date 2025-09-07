@@ -21,7 +21,7 @@
   pioneered by Ed Diener. Diener suggests that SWB consists of two
   components.
     - Affective balance :: The difference between positive affects or
-      emotions/feelings and negative affects. This is a measure of the
+      feelings and negative affects. This is a measure of the
       moods of a person usually measured through questionnaires. An
       example measure is [[https://en.wikipedia.org/wiki/Positive_and_Negative_Affect_Schedule][Positive and Negative Affect Schedule]]
       (PANAS).
@@ -40,17 +40,17 @@
     to have close and supportive family and friends, whereas those who do
     not have close friends and family are more likely to be
     dissatisfied. Of course the loss of a close friend or family member
-    can cause dissatisfaction with life, and it may take quite a time for
+    can cause dissatisfaction with life, and it may take time for
     the person to bounce back from the loss.
 
     Another factor that influences the life satisfaction of most people
     is work or school, or performance in an important role such as
-    homemaker or grandparent. When the person enjoys his or her work,
+    homemaker or grandparent. When the person enjoys their work,
     whether it is paid or unpaid work, and feels that it is meaningful and
     important, this contributes to life satisfaction. When work is going
     poorly because of bad circumstances or a poor fit with the person’s
     strengths, this can lower life satisfaction. When a person has
-    important goals, and is failing to make adequate progress toward them,
+    important goals and fails to make adequate progress toward them,
     this too can lead to life dissatisfaction.
 
     A third factor that influences the life satisfaction of most people
@@ -65,7 +65,7 @@
     temperament – a general tendency to be happy or unhappy – can color
     their responses.
 
-    There is no one key to life satisfaction, but rather a recipe that
+    There is no single key to life satisfaction, but rather a recipe that
     includes a number of ingredients. With time and persistent work,
     people’s life satisfaction usually goes up when they are
     dissatisfied. People who have had a loss recover over time. People who
@@ -89,8 +89,7 @@
    that mean less than perfect health or quality of life. A value of 0
    represents death. Different interventions can be measured by
    summing up the resulting measures over the number of years of life
-   that they provide. DALYs
-   (Disability-adjusted life years) relies on a similar concept.
+   that they provide.
 
    [[https://www.wsj.com/articles/obscure-model-puts-a-price-on-good-healthand-drives-down-drug-costs-11572885123][This article]] talks about the use of QALYs by a research
    organization called ICER in the US and how it could reduce drug

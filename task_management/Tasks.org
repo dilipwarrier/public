@@ -76,33 +76,33 @@ field matches text in the tag.
 
 * Possible criteria for prioritization
 
-   One could use the Eisenhower matrix, as described below. Alternately, the
-   Effective Altruism organization method for deciding what to work on may be
-   useful. The criteria they use are as follows.
-   - Scale
-   - Solvability
-   - Personal fit
-   - Neglectedness
+One could use the Eisenhower matrix, as described below. Alternately, the
+Effective Altruism organization method for deciding what to work on may be
+useful. The criteria they use are as follows.
+- Scale
+- Solvability
+- Personal fit
+- Neglectedness
 
-   The first two may be particularly useful for prioritizing projects
-   and are basically a cost-benefit analysis.
+The first two may be particularly useful for prioritizing projects
+and are basically a cost-benefit analysis.
 
-   - Scale or Benefit :: How much potential benefit/value would this
-     project bring (to you, to the family etc.) if you completed it?
+- Scale or Benefit :: How much potential benefit/value would this
+  project bring (to you, to the family etc.) if you completed it?
 
-   - Solvability or Cost :: How much effort/cost would this project
-     take to bring to fruition?
+- Solvability or Cost :: How much effort/cost would this project
+  take to bring to fruition?
 
-   - Personal fit or Uniqueness :: If you didn't solve this problem,
-     would someone else solve it just as well? Generally speaking, for
-     work that supports poor people or underserved sections (like
-     animals), there isn't a large substitution effect i.e. there
-     probably aren't many people who would do the job if you
-     didn't. If there is someone else who can solve the problem, you
-     could consider outsourcing i.e. donate money to them so that they
-     can solve it more efficiently.
+- Personal fit or Uniqueness :: If you didn't solve this problem,
+  would someone else solve it just as well? Generally speaking, for
+  work that supports poor people or underserved sections (like
+  animals), there isn't a large substitution effect i.e. there
+  probably aren't many people who would do the job if you
+  didn't. If there is someone else who can solve the problem, you
+  could consider outsourcing i.e. donate money to them so that they
+  can solve it more efficiently.
 
-   NPV analysis can be done to calculate the cost-benefit tradeoff.
+NPV analysis can be done to calculate the cost-benefit tradeoff.
 
 
 * Eisenhower matrix
@@ -140,111 +140,104 @@ activities.
 
 
 * Time efficiency calculation                                        :Review:
+:PROPERTIES:
+:ID:       d603eda4-57ed-4a5c-b36f-a8bb3d249063
+:END:
 
-   You can spend 2 person-hours of effort to save 1 person-min/day of
-   effort.
+You can spend up to 16 person-hours of one-time effort to save 1
+person-min/day of effort. Alternately, you can spend $1000 of one-time
+cost to save $1/day of costs. The costs and savings are
+interchangeable. So, you can spend $1000 of one-time cost to save 1
+person-min/day of effort. If it requires more effort or more cost than
+that, there's probably something else you could do that has a better
+cost/benefit trade-off.
 
-   Here's the reasoning.
+Assume that you could save t units of time per day for the next 3
+years. That converts to roughly t*365 units per year for 3
+years. Using a 10% discount rate, your total savings is:
+t*365*[1 + (1/1.1) + (1/1.1)^2] = t*365*2.74
+                                = t*1000
 
-   Assume you could save t units of time per day for the next 3
-   years. That converts to roughly t*400 units per year for 3
-   years. Using a 10% discount rate, your total savings is:
-   t*400*[1 + (1/1.1) + (1/1.1)^2] = t*400*2.75
-                                   = t*400*(11/4)
-                                   ~ t*1000
+So, that's the upper bound on how much effort you should spend on
+that improvement.
 
-   So, that's the upper bound on how much effort you should spend on that
-   improvement.
+For instance, if you save 1 min/day for 3 years, you can spend up
+to 1000 min or 16 hours.
 
-   For instance, if you save 1 min/day for 3 years, you can spend up to
-   1000 min or 16 hours.
-
-   Assuming the need for a 10x gain, you get the desired result.
-
-
-* Execution of task management                                       :Review:
-
-
-   All this philosophy needs to be translated into an execution
-   mechanism. This section describes a reasonable execution
-   mechanism for tasks.
-
-   This is heavily influenced by David Allen's "Getting Things Done"
-   book.
+Assume a conversion rate of $1/person-min for cost to effort and the
+other result follows.
 
 
-* Tasks and projects
+** Labor costs
+
+$1/person-min equates to 1*60*40*50 = $120k/year of hired labor.
+
+
+* Projects
 :PROPERTIES:
 :ID:       a5b61d92-df98-46da-bfb4-cb5b948795be
 :END:
 
-First, consider projects. Projects have a defined date by which they
-must be completed and a defined deliverable or goal to be
-completed. The deliverable or goal and the reason for the defined date
-should be explainable to someone outside the project team.
+Projects have a defined date by which they must be completed and a
+defined goal to be completed. The goal and the reason for the defined
+date should be explainable to a user of the project, who is typically
+someone outside the project team.
 
 Recurring activities don't count as projects. Those should be
-considered as tasks or processes.
+considered as tasks.
 
-Projects get further sub-divided into sub-tasks.
-
-All projects or tasks should have the following properties.
+All projects and tasks should have the following properties.
 - Benefit from the project (b)
-- Cost of the project (fc) :: This is typically the cost of buying
-  equipment, third-party costs, etc.
-- Estimated labor costs left (lc)
-- Number of days left to the deadline for the project (d) :: d should
-  be normalized by the number of days from the creation of the project
-  to the completion of the project. d can be infinity to indicate that
-  the project has no deadline.
+- Estimated capital costs remaining (cc)
+- Estimated labor costs remaining (lc)
 
-Then, the remaining benefit-to-cost ratio is b/(fc + lc).
+Then, the remaining benefit-to-cost ratio is b/(cc + lc). If the
+duration of the costs or the duration of the benefit is more than 3
+years, you should use an NPV analysis.
 
-Assume an S-function for benefit accrual.
+By using remaining costs, you avoid the sunk cost fallacy.
 
-So, incorporating benefit accrual over time, the benefit-to-cost-ratio
-as a function of d is as follows.
-R(d) = b*S(d)/(fc + lc)
-where:
-S(d) = 1 - exp(-alpha*d)
+Usually, labor is the scarce resource while capital is the easily
+available resource. So, a more precise benefit-to-cost ratio could
+weigh labor costs higher.
 
 
 * Task management for teams                               :Review:Management:
 
-   Software development teams typically use Jira or a similar database
-   for logging software tasks or defects. We recommend that you use
-   the same repository to record internal action items related to the
-   project. This allows all activities to be documented in the same
-   repository.
+Software development teams typically use Jira or a similar database
+for logging software tasks or defects. We recommend that you use
+the same repository to record internal action items related to the
+project. This allows all activities to be documented in the same
+repository.
 
-   If the task is created in a customer meeting and needs to be
-   tracked with a customer, it should be maintained in a customer open
-   points list. Such a list can be maintained in an appropriate
-   repository. If possible, also record it as a task in the project
-   Jira repository for tracking purposes.
+If the task is created in a customer meeting and needs to be
+tracked with a customer, it should be maintained in a customer open
+points list. Such a list can be maintained in an appropriate
+repository. However, also record it as a task in the project
+Jira repository for tracking purposes.
 
-   Even if the time required for the action item is small, we
-   recommend that you record it to ensure that it gets completed. We
-   suggest implementing automation to reduce the friction of creating
-   action items from messaging apps/scripts etc.
+Even if the time required for the action item is small, we
+recommend that you record it to ensure that it gets completed. We
+suggest implementing automation to reduce the friction of creating
+action items.
 
-   An action items should answer the question - Who does what by when?
-   The "who" should only be one person. If multiple
-   people do the task together, you should still have one lead person who
-   will ensure that the task is completed on time. The "what" should be a clear
-   deliverable that someone with superficial knowledge of the product can
-   understand. The "when" should be a clear date and time.
+An action item should answer the question - Who does what by when?
+The "who" should only be one person. If multiple
+people do the task together, you should still have one person who
+will ensure that the task is completed on time. The "what" should be a clear
+deliverable that someone with superficial knowledge of the product can
+understand. The "when" should be a clear date and time.
 
-   Each person should periodically review their action items and
-   complete them on time. After completion, they should report the
-   completion to the requester and mark the task as done.
+Each person should periodically review their action items and
+complete them on time. After completion, they should report the
+completion to the requester and mark the task as done.
 
-   Each person should give a realistic deadline to the requester when
-   asked to do a task. If an action item cannot be completed on time,
-   the assignee should give the requester early notice (nominally at
-   around 80% of the time from task assignment to the original
-   deadline) and suggest an extension.
+Each person should give a realistic deadline to the requester when
+asked to do a task. If an action item cannot be completed on time,
+the assignee should give the requester early notice (nominally at
+around 80% of the time from task assignment to the original
+deadline) and suggest an extension.
 
-   Please be professional and try to complete action items as much as
-   possible on time. At most, you should only need one deadline
-   extension.
+Please be professional and try to complete action items as much as
+possible on time. At most, you should only need one deadline
+extension.
