@@ -2,35 +2,18 @@
 #+FILETAGS: :Work:Manager:
 #+STARTIP: overview, hideallblocks
 
-#+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2025-08-22 Fri 16:38]
-| Headline                              |    Time |      |
-|---------------------------------------+---------+------|
-| *Total time*                          | *12:14* |      |
-|---------------------------------------+---------+------|
-| Weekday focus tasks                   |   11:34 |      |
-| \_  Complete [[elisp:(org-agenda t... |         | 4:02 |
-| \_  Complete [[elisp:(org-agenda t... |         | 2:47 |
-| \_  Complete [[elisp:(org-agenda t... |         | 3:15 |
-| \_  Complete [[elisp:(org-agenda t... |         | 1:30 |
-| Weekday work tasks                    |    0:34 |      |
-| \_  Complete [[elisp:(org-agenda t... |         | 0:07 |
-| \_  Complete [[elisp:(org-agenda t... |         | 0:27 |
-| Tasks                                 |    0:06 |      |
-| \_  Run...                            |         | 0:06 |
-#+END:
-
 * Weekday focus tasks                                              :Periodic:
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-09-08 Mon 06:00 +7d>
+   SCHEDULED: <2025-09-15 Mon 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-09-01 Mon 20:16]
+   :LAST_REPEAT: [2025-09-08 Mon 07:36]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-08 Mon 07:36]
    - State "DONE"       from "TODO"       [2025-09-01 Mon 20:16]
    - State "DONE"       from "TODO"       [2025-08-25 Mon 07:37]
    - State "DONE"       from "TODO"       [2025-08-18 Mon 19:54]
@@ -294,13 +277,14 @@ SCHEDULED: <2025-09-12 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
-   SCHEDULED: <2025-09-08 Mon 10:00 +7d>
+   SCHEDULED: <2025-09-15 Mon 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-01 Mon 21:09]
+   :LAST_REPEAT: [2025-09-08 Mon 20:58]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-08 Mon 20:58]
    - State "DONE"       from "TODO"       [2025-09-01 Mon 21:09]
    - State "DONE"       from "TODO"       [2025-09-01 Mon 20:32]
    - State "DONE"       from "TODO"       [2025-08-26 Tue 05:59]
@@ -340,15 +324,16 @@ SCHEDULED: <2025-09-12 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (evening)
-   SCHEDULED: <2025-09-08 Mon 18:30 +7d>
+   SCHEDULED: <2025-09-15 Mon 18:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-02 Tue 05:51]
+   :LAST_REPEAT: [2025-09-08 Mon 20:58]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-09-08 Mon 20:58]
    - State "DONE"       from "TODO"       [2025-09-02 Tue 05:51]
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
    SCHEDULED: <2025-09-09 Tue 10:00 +7d>
@@ -586,6 +571,7 @@ SCHEDULED: <2025-09-12 Fri 19:00 +7d>
 
 
    - State "DONE"       from "TODO"       [2025-09-05 Fri 20:12]
+
 * Questions for performance improvement
   :PROPERTIES:
   :CUSTOM_ID: questions_improvement
@@ -611,7 +597,7 @@ SCHEDULED: <2025-09-12 Fri 19:00 +7d>
 
 #+RESULTS:
 :results:
-*** TODO Review and approve metrics updates from direct reports
+*** DONE Review and approve metrics updates from direct reports
     SCHEDULED: <2025-09-08 Mon>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -688,13 +674,14 @@ SCHEDULED: <2025-09-12 Fri 19:00 +7d>
 
 
 ** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda :Browser:
-   SCHEDULED: <2025-09-07 Sun +7d>
+   SCHEDULED: <2025-09-14 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-09-01 Mon 20:32]
+   :LAST_REPEAT: [2025-09-08 Mon 10:38]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-09-08 Mon 10:38]
    - State "DONE"       from "TODO"       [2025-09-01 Mon 20:32]
    - State "DONE"       from "TODO"       [2025-08-24 Sun 16:11]
    - State "DONE"       from "TODO"       [2025-08-18 Mon 10:55]
@@ -735,15 +722,16 @@ SCHEDULED: <2025-09-12 Fri 19:00 +7d>
 
 
 ** TODO Add a monthly [[https://www.manager-tools.com/map-of-the-universe][Manager Tools podcast]] for discussion to staff meeting agenda :Browser:
-   SCHEDULED: <2025-09-07 Sun +4w>
+   SCHEDULED: <2025-10-05 Sun +4w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-08-11 Mon 07:54]
+   :LAST_REPEAT: [2025-09-08 Mon 16:47]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-09-08 Mon 16:47]
    - State "DONE"       from "TODO"       [2025-08-11 Mon 07:54]
 
 
