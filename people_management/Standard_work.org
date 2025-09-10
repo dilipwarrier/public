@@ -55,13 +55,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-09-09 Tue 08:00 +7d>
+   SCHEDULED: <2025-09-16 Tue 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-09-02 Tue 08:59]
+   :LAST_REPEAT: [2025-09-09 Tue 17:18]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-09 Tue 17:18]
    - State "DONE"       from "TODO"       [2025-09-02 Tue 08:59]
    - State "DONE"       from "TODO"       [2025-08-26 Tue 07:30]
    - State "DONE"       from "TODO"       [2025-08-19 Tue 07:45]
@@ -336,14 +337,15 @@ SCHEDULED: <2025-09-12 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2025-09-08 Mon 20:58]
    - State "DONE"       from "TODO"       [2025-09-02 Tue 05:51]
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
-   SCHEDULED: <2025-09-09 Tue 10:00 +7d>
+   SCHEDULED: <2025-09-16 Tue 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-02 Tue 20:08]
+   :LAST_REPEAT: [2025-09-09 Tue 20:27]
    :ARCHIVE_TIME: 2025-08-29 Fri 16:46
    :END:
+   - State "DONE"       from "TODO"       [2025-09-09 Tue 20:27]
    - State "DONE"       from "TODO"       [2025-09-02 Tue 20:08]
    - State "DONE"       from "TODO"       [2025-09-01 Mon 21:09]
    - State "DONE"       from "TODO"       [2025-08-19 Tue 19:44]
@@ -384,15 +386,16 @@ SCHEDULED: <2025-09-12 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (evening)
-   SCHEDULED: <2025-09-09 Tue 18:30 +7d>
+   SCHEDULED: <2025-09-16 Tue 18:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-02 Tue 20:08]
+   :LAST_REPEAT: [2025-09-09 Tue 20:27]
    :ARCHIVE_TIME: 2025-08-29 Fri 16:46
    :END:
 
+   - State "DONE"       from "TODO"       [2025-09-09 Tue 20:27]
    - State "DONE"       from "TODO"       [2025-09-02 Tue 20:08]
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
    SCHEDULED: <2025-09-10 Wed 10:00 +7d>
