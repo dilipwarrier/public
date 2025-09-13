@@ -199,13 +199,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-09-12 Fri 06:00 +7d>
+   SCHEDULED: <2025-09-19 Fri 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-09-05 Fri 20:08]
+   :LAST_REPEAT: [2025-09-12 Fri 10:52]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-12 Fri 10:52]
    - State "DONE"       from "TODO"       [2025-09-05 Fri 20:08]
    - State "DONE"       from "TODO"       [2025-08-29 Fri 10:03]
    - State "DONE"       from "TODO"       [2025-08-22 Fri 10:04]
@@ -245,16 +246,17 @@
 
 
 ** TODO Review [[elisp:(org-agenda t "wb")][work backlog]]
-SCHEDULED: <2025-09-12 Fri 19:00 +7d>
+SCHEDULED: <2025-09-19 Fri 19:00 +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-09-05 Fri 20:13]
+:LAST_REPEAT: [2025-09-13 Sat 10:00]
 :END:
 
 
 
+- State "DONE"       from "TODO"       [2025-09-13 Sat 10:00]
 - State "DONE"       from "TODO"       [2025-09-05 Fri 20:13]
 - State "DONE"       from "TODO"       [2025-08-30 Sat 08:17]
 - State "DONE"       from "TODO"       [2025-08-24 Sun 15:57]
@@ -524,15 +526,16 @@ SCHEDULED: <2025-09-12 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2025-09-12 Fri 08:18]
    - State "DONE"       from "TODO"       [2025-09-05 Fri 06:20]
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
-   SCHEDULED: <2025-09-12 Fri 10:00 +7d>
+   SCHEDULED: <2025-09-19 Fri 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-05 Fri 17:59]
+   :LAST_REPEAT: [2025-09-13 Sat 09:17]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-09-13 Sat 09:17]
    - State "DONE"       from "TODO"       [2025-09-05 Fri 17:59]
    - State "DONE"       from "TODO"       [2025-08-30 Sat 08:17]
    - State "DONE"       from "TODO"       [2025-08-22 Fri 16:37]
@@ -570,16 +573,17 @@ SCHEDULED: <2025-09-12 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (evening)
-   SCHEDULED: <2025-09-12 Fri 18:30 +7d>
+   SCHEDULED: <2025-09-19 Fri 18:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-05 Fri 20:12]
+   :LAST_REPEAT: [2025-09-13 Sat 09:17]
    :END:
 
 
 
+   - State "DONE"       from "TODO"       [2025-09-13 Sat 09:17]
    - State "DONE"       from "TODO"       [2025-09-05 Fri 20:12]
 
 * Questions for performance improvement
