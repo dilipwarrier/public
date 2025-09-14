@@ -80,7 +80,8 @@ follows.
 
 ** References
 
-- "Pragmatic Thinking and Learning" by Andy Hunt
+- Andy Hunt, Pragmatic Thinking and Learning
+- Dreyfus brothers, [[https://drive.google.com/file/d/0B5vaNNyT6fShdHVDM2I1cDhmSHc/view?usp=drive_link&resourcekey=0-4LNorgv2lUJo_5BfAC5YBg][Acquiring New Skills]]
 
 
 * Creativity                                                         :Review:

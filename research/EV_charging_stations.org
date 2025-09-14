@@ -55,6 +55,7 @@ Source: [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][DoE site]]
 Growth in the first 6 months of 2025 was roughly 8% annualized for L2
 chargers and 14% annualized for DCFCs.
 
+
 ** Growth trend for ports
 :PROPERTIES:
 :ID:       155a9380-eb88-4b00-9365-15511ce0c60f
@@ -72,10 +73,7 @@ The following data is for L2 and DCFC ports.
 | 2016 |  30,000         |               |  30,000            |            |
 |------+-----------------+---------------+--------------------+------------|
 
-Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]] and [[https://www.rabobank.com/knowledge/d011438559-the-rise-of-electric-vehicles-in-the-us-building-a-robust-charging-network?utm_source=chatgpt.com][Rabobank research]]
-
-
-From [[https://www.eia.gov/totalenergy/data/monthly/pdf/mer_F_FULL.pdf?utm_source=chatgpt.com][AFDC-based data]], at the end of June 2025, there were about 60k
+At the end of June 2025, there were about 60k
 DCFC ports and 180k L2 ports. These are a combination of public and
 private (although the private count excludes single-home chargers).
 
@@ -100,7 +98,13 @@ That gives a growth of (57-50)/50 = 14% in DCFC ports and
 port growth was (228 - 214)/214 = 6.5% in the first half of 2025.
 
 
-*** TODO Look at [[https://www.eia.gov/totalenergy/data/monthly/pdf/mer_F_FULL.pdf?utm_source=chatgpt.com][AFDC-based data]] and update this table         :Browser:Work:
+*** References
+- [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]]
+- [[https://www.rabobank.com/knowledge/d011438559-the-rise-of-electric-vehicles-in-the-us-building-a-robust-charging-network?utm_source=chatgpt.com][Rabobank research]]
+- [[https://www.eia.gov/totalenergy/data/monthly/pdf/mer_F_FULL.pdf][AFDC-based data from EIA]]
+
+
+*** TODO Look at [[https://www.eia.gov/totalenergy/data/monthly/pdf/mer_F_FULL.pdf?utm_source=chatgpt.com][AFDC-based data]] and update this table         :Browser:Home:
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
@@ -149,16 +153,6 @@ Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGP
 
   A DC fast charger is equivalent to about 150 US homes at its peak charging. Even
   a level 2 charger is equivalent to about 7 US homes.
-
-
-* Power consumption of an average US home
-:PROPERTIES:
-:ID:       d51a7c0d-0649-40cf-b9fb-29e759f4ea6a
-:END:
-
-  An average US home consumes about 1 kW of power. Since a year has
-  about 9000 hours, that translates to 9 MWh/year of consumption.
-
 
 
 * Tasks

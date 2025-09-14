@@ -1,6 +1,74 @@
-#+Title: Energy consumption by sector and source
+#+Title: Energy consumption for homes and business
 #+FILETAGS: :Technology:
 #+STARTUP: overview
+
+* Power consumption for AI data centers                              :Review:
+
+
+** Consumption trend
+
+|-------+----------------+-------------+-----------------+--------------|
+| Year  | US ex-AI power | US AI power | RoW ex-AI power | RoW AI power |
+|-------+----------------+-------------+-----------------+--------------|
+| 2030* |            347 |         151 |             426 |          166 |
+| 2025* |            230 |          35 |             291 |           45 |
+| 2024* |            203 |          17 |             258 |           22 |
+| 2023  |            171 |           5 |             228 |            7 |
+|-------+----------------+-------------+-----------------+--------------|
+
+- All energy numbers are in TWh of consumption.
+- RoW: Rest of World
+- Years with * next to them have estimated numbers.
+
+The US AI power growth represents 34% y-o-y growth from 2025
+through 2030.
+
+
+*** References
+
+- Goldman Sachs, [[https://www.goldmansachs.com/insights/articles/how-ai-is-transforming-data-centers-and-ramping-up-power-demand?lid=ke27fg9lc38k&chl=em&cid=2025-09-09&plt=briefings][Global power demand from AI data centers]]
+
+
+** Reasons for trending changes in data centers
+
+Until 2022, data centers focused on general-purpose
+computing. However, after the introduction of ChatGPT, the focus has
+shifted towards high-performance computing.
+
+Data transfers between GPUs is still a bottleneck in high-performance
+computing. To avoid this, GPUs are now crowded closer to each
+other. So, GPUs are getting crowded into servers. Servers in turn are
+getting crowded into racks.
+
+In 2022, Nvidia had 8 GPUs in a server. In 2024, it had a rack that
+could operate as a single server with 144 GPUs but it requires 10x the
+power of a specific rack. In 2027, Nvidia will deliver a system with
+576 GPUs in a single rack requiring 600 kW of power. We are trending
+towards 1 MW per rack. This is 50x the power density per rack of 2020.
+
+Heat management is also a significant concern. Air cooling cannot
+handle this level of heat generation. Liquid cooling is needed
+instead.
+
+The infrastructure systems in data centers are fast evolving. This, in
+turn, means fast obsolescence for infrastructure. Companies cannot
+assume that their capital investments will have a 10-year life cycle.
+
+When mobile phones first launched, they incorporated infrastructure
+from the PC and MP3 player industry. However, pretty quickly, the
+mobile phone market outstripped the PC market and led to its own
+supply chain creation. As a result, TSMC far overtook Intel in chip
+production capability.
+
+Similarly, the switch from traditional cloud centers to
+high-performance compute based data centers may create its own supply
+chain with its own set of winners and losers.
+
+
+*** References
+
+- [[https://www.goldmansachs.com/insights/articles/rising-power-density-disrupts-ai-infrastructure][Goldman Sachs - Rising power density in AI infrastructure]]
+
 
 * US energy consumption                                              :Review:
 
@@ -9,3 +77,73 @@
   such as natural gas and petroleum.
 
   See [[https://drive.google.com/file/d/1mgCN8V5FYhhD-obrXtLrbDzbbZWOd58R/view?usp=drive_link][this picture from 2023]] for details.
+
+
+** Power consumption of an average US home
+:PROPERTIES:
+:ID:       d51a7c0d-0649-40cf-b9fb-29e759f4ea6a
+:END:
+
+  An average US home consumes about 1 kW of power. Since a year has
+  about 9000 hours, that translates to 9 MWh/year of consumption.
+
+
+* Solar power generation
+
+
+** Solar power generation in the US                                  :Review:
+
+- As of 2024, California remains the national leader in solar generation, showing
+  steady year-over-year growth.
+- Texas has emerged as a fast-growing solar state, with generation
+  increasing more than threefold between 2019 and 2023.
+- Florida continues to expand solar capacity, although 2023 saw a
+  slight decline.
+- Together, these three states accounted for over half of U.S. solar
+  generation in 2023, though their collective share has declined
+  slightly as solar expands nationwide.
+
+|------+--------------------+----------------------+-----------------+-------------------+---------------|
+| Year | US Total Solar GWh | California Solar GWh | Texas Solar GWh | Florida Solar GWh | % of US Total |
+|------+--------------------+----------------------+-----------------+-------------------+---------------|
+| 2024 | 245.0 (9.4%)       | 71.0 (3.2%)          | 34.0 (7.3%)     | 18.0 (10.4%)      | 50.2 (-3.8%)  |
+| 2023 | 224.0 (9.3%)       | 68.8 (5.8%)          | 31.7 (2.3%)     | 16.3 (-6.9%)      | 52.2 (-5.8%)  |
+| 2022 | 205.0 (25.0%)      | 65.0 (4.8%)          | 31.0 (29.2%)    | 17.5 (25.0%)      | 55.4 (-9.2%)  |
+| 2021 | 164.0 (23.3%)      | 62.0 (8.8%)          | 24.0 (50.0%)    | 14.0 (33.3%)      | 61.0 (-2.9%)  |
+| 2020 | 133.0 (25.5%)      | 57.0 (7.5%)          | 16.0 (70.2%)    | 10.5 (28.0%)      | 62.8 (-5.7%)  |
+| 2019 | 106.0              | 53.0                 | 9.4             | 8.2               | 66.6          |
+|------+--------------------+----------------------+-----------------+-------------------+---------------|
+
+These numbers are a combination of residential and commercial energy
+generation.
+
+On average, a US home can generate 6 MWh/year of solar energy. Compare
+that with average [[id:d51a7c0d-0649-40cf-b9fb-29e759f4ea6a][US household energy consumption]] of 9 MWh/year.
+
+
+** References
+
+- [[https://www.reuters.com/markets/commodities/key-states-driving-us-solar-power-boom-2024-06-19/][Reuters - Key States Driving U.S. Solar Power Boom (2024)]]
+- [[https://www.ft.com/content/ef2f6f8e-60df-4ccd-8c4f-ef5cd0eb3176][Financial Times - Solar Growth in Texas (2024)]]
+- [[https://en.wikipedia.org/wiki/Solar_power_in_the_United_States][Wikipedia – Solar Power in the United States]]
+- [[https://www.seia.org/research-resources/solar-market-insight-report-2024-year-review][SEIA – Solar Market Insight Report 2024 Year-in-Review]]
+
+
+* Tasks
+
+
+** TODO Review [[https://drive.google.com/file/d/1ceLnnTtiKzzoe7lxHt6FAlPQeH7i0Y1i/view?usp=drive_link][IEA Energy and AI report]]                            :Learning:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :END:
+
+
+** TODO Review [[https://www.datacenterknowledge.com/][Data Center Knowledge]] web site                      :Learning:
+SCHEDULED: <2025-09-28 Sun +4w>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :END:
