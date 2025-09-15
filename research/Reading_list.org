@@ -174,22 +174,6 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :END:
 
 
-** DONE Read "Pragmatic Thinking and Learning" and [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][update notes]]
-SCHEDULED: <2025-08-24 Sun>
-:PROPERTIES:
-:EFFORT:  10:00
-:BENEFIT: 1000
-:RATIO: 1.00
-:END:
-:LOGBOOK:
-CLOCK: [2025-06-29 Sun 07:21]--[2025-06-29 Sun 08:16] =>  0:51
-CLOCK: [2025-05-11 Sun 06:40]--[2025-05-11 Sun 07:40] =>  1:00
-CLOCK: [2025-02-23 Sun 06:50]--[2025-02-23 Sun 08:02] =>  1:12
-CLOCK: [2025-02-09 Sun 06:37]--[2025-02-09 Sun 07:33] =>  0:56
-CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
-:END:
-
-
 ** TODO Read CMMI book
   :PROPERTIES:
   :EFFORT: 06:00
@@ -223,3 +207,19 @@ CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+** Archive                                                          :ARCHIVE:
+*** DONE Read "Pragmatic Thinking and Learning" and [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][update notes]]
+SCHEDULED: <2025-08-24 Sun>
+:PROPERTIES:
+:EFFORT:  10:00
+:BENEFIT: 1000
+:RATIO: 1.00
+:ARCHIVE_TIME: 2025-09-14 Sun 21:06
+:END:
+:LOGBOOK:
+CLOCK: [2025-06-29 Sun 07:21]--[2025-06-29 Sun 08:16] =>  0:51
+CLOCK: [2025-05-11 Sun 06:40]--[2025-05-11 Sun 07:40] =>  1:00
+CLOCK: [2025-02-23 Sun 06:50]--[2025-02-23 Sun 08:02] =>  1:12
+CLOCK: [2025-02-09 Sun 06:37]--[2025-02-09 Sun 07:33] =>  0:56
+CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
+:END:

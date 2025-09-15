@@ -611,26 +611,8 @@ SCHEDULED: <2025-09-19 Fri 19:00 +7d>
 
 #+RESULTS:
 :results:
-*** DONE Review and approve metrics updates from direct reports
-    SCHEDULED: <2025-09-08 Mon>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
 *** TODO Send metrics and goals updates to manager to review
     SCHEDULED: <2025-09-08 Mon>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
-
-*** TODO Send reviewed and approved metrics and goals to org
-    SCHEDULED: <2025-09-10 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -662,6 +644,26 @@ SCHEDULED: <2025-09-19 Fri 19:00 +7d>
    :END:
 
 
+**** DONE Review and approve metrics updates from direct reports
+    SCHEDULED: <2025-09-08 Mon>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :ARCHIVE_TIME: 2025-09-14 Sun 21:06
+   :END:
+
+
+**** DONE Send reviewed and approved metrics and goals to org
+    SCHEDULED: <2025-09-10 Wed>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :ARCHIVE_TIME: 2025-09-14 Sun 21:06
+   :END:
+
+
 * Meetings with direct reports
 
 
@@ -688,13 +690,14 @@ SCHEDULED: <2025-09-19 Fri 19:00 +7d>
 
 
 ** TODO Update [[https://evconnect.atlassian.net/wiki/spaces/te/folder/4292083736?atlOrigin=eyJpIjoiNTVhYjY3YWQzNDA3NDJmYzkwYzA2YTZkMjBkYWQ3ODAiLCJwIjoiYyJ9][staff meeting]] agenda :Browser:
-   SCHEDULED: <2025-09-14 Sun +7d>
+   SCHEDULED: <2025-09-21 Sun +7d>
    :PROPERTIES:
-   :LAST_REPEAT: [2025-09-08 Mon 10:38]
+   :LAST_REPEAT: [2025-09-14 Sun 21:05]
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+   - State "DONE"       from "TODO"       [2025-09-14 Sun 21:05]
    - State "DONE"       from "TODO"       [2025-09-08 Mon 10:38]
    - State "DONE"       from "TODO"       [2025-09-01 Mon 20:32]
    - State "DONE"       from "TODO"       [2025-08-24 Sun 16:11]
@@ -912,13 +915,15 @@ in a quarter. The third month is a town hall meeting.
 
 
 ** TODO Run [[id:bb62fc36-9d1f-4426-8f23-bc2494720adf][Code to generate next 1-1]] :Meetings:
-SCHEDULED: <2025-09-01 Mon +7d>
+SCHEDULED: <2025-09-15 Mon +7d>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-09-04 Thu 19:43]
+:LAST_REPEAT: [2025-09-14 Sun 20:41]
 :END:
+- State "DONE"       from "TODO"       [2025-09-14 Sun 20:41]
+- State "DONE"       from "TODO"       [2025-09-14 Sun 20:41]
 - State "DONE"       from "TODO"       [2025-09-04 Thu 19:43]
 - State "DONE"       from "TODO"       [2025-08-19 Tue 19:44]
 - State "DONE"       from "TODO"       [2025-08-11 Mon 20:39]
@@ -958,15 +963,16 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
 
 
 ** TODO Clean up calendar for the upcoming week through the following Monday :Messages:
-   SCHEDULED: <2025-09-12 Fri +1w>
+   SCHEDULED: <2025-09-19 Fri +1w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-05 Fri 19:37]
+   :LAST_REPEAT: [2025-09-14 Sun 21:05]
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-09-14 Sun 21:05]
    - State "DONE"       from "TODO"       [2025-09-05 Fri 19:37]
    - State "DONE"       from "TODO"       [2025-08-29 Fri 17:40]
    - State "DONE"       from "TODO"       [2025-08-22 Fri 16:27]
