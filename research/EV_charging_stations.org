@@ -41,14 +41,16 @@
 ** Growth trend for US charging stations
 
 The following table shows the number of public L2 and DCFC charging
-stations in the US.
+stations in thousands in the US.
 
-|-----------+--------+--------|
-| Date      | L2     | DCFC   |
-|-----------+--------+--------|
-| 01-Dec-24 | 60,000 | 12,000 |
-| 27-Jun-25 | 62,500 | 12,800 |
-|-----------+--------+--------|
+|--------+------+------+-------|
+| Date   |   L2 | DCFC | Total |
+|--------+------+------+-------|
+| Sep-25 | 64.5 | 13.6 |  78.1 |
+| Jun-25 | 62.5 | 12.8 |  75.3 |
+| Dec-24 | 60.0 | 12.0 |  72.0 |
+|--------+------+------+-------|
+#+TBLFM: $4=vsum($2..$3);%.1f
 
 Source: [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][DoE site]]
 
@@ -105,6 +107,7 @@ port growth was (228 - 214)/214 = 6.5% in the first half of 2025.
 
 
 *** TODO Look at [[https://www.eia.gov/totalenergy/data/monthly/pdf/mer_F_FULL.pdf?utm_source=chatgpt.com][AFDC-based data]] and update this table         :Browser:Home:
+SCHEDULED: <2025-10-05 Sun +12w>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
@@ -159,7 +162,7 @@ Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGP
 
 
 ** TODO Update [[id:9f94c234-8138-48c1-9e67-7a97a066d91c][table]] with latest information on charging sites in the US :Browser:Home:
-SCHEDULED: <2025-09-15 Mon +12w>
+SCHEDULED: <2025-10-05 Sun +12w>
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
