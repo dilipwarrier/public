@@ -1,0 +1,46 @@
+#+TITLE: Interviews and other material on Jeff Bezos
+#+FILETAGS:
+#+STARTUP: overview
+
+* Notes
+
+Jeff does meetings from 9 am to 7 pm every day in 2024 after
+"retiring" from Amazon.
+
+He is optimistic by nature about the state of the world and what we
+can do to improve it.
+
+He paid himself $80k in salary and earned the rest through Amazon
+stock.
+
+Those translate into some essential practices like Bar Raiser hiring,
+Working Backwards from the customer need, written narratives like a 6
+pager or a PR/FAQ, single threaded teams with single threaded leaders,
+focusing on input metrics.
+
+
+* Quotes                                                             :quotes:
+
+
+** Jeff Bezos: Human beings tend to overestimate risk and underestimate opportunity.
+
+
+** Jeff Bezos: Customers are divinely discontented. Yesterday's wow quickly becomes today's ordinary.
+
+
+** Jeff Bezos: All the positive emotions - joy, optimism, etc. - were allowed in my family. The only negative emotion allowed was anger; never fear and anxiety.
+
+
+** Jeff Bezos: Missionaries want to build great products; mercerenaries want to build companies and flip them. Missionaries have curiosity, passion and customer centricity.
+
+
+** Jeff Bezos: You cannot catch the latest wave as an entrepreneur; you have to position yourself and wait for the wave.
+
+
+* References
+
+- [[https://www.youtube.com/watch?v=s71nJQqzYRQ][Interview by Aaron Ross Sorkin]]
+- [[https://youtu.be/f3NBQcAqyu4?si=xpDnFbwePNySOa5f][Interview by David Rubenstein]]
+- [[https://www.youtube.com/watch?v=O4MtQGRIIuA][2012 re:Invent fireside chat]]
+- "Working backwards", Colin Bryar and Bill Carr
+- Amazon's [[https://www.amazon.jobs/content/en/our-workplace/leadership-principles][leadership principles]]

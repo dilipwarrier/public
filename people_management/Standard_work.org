@@ -156,13 +156,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-09-18 Thu 08:00 +7d>
+   SCHEDULED: <2025-09-25 Thu 08:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-09-12 Fri 08:18]
+   :LAST_REPEAT: [2025-09-18 Thu 11:35]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-18 Thu 11:35]
    - State "DONE"       from "TODO"       [2025-09-12 Fri 08:18]
    - State "DONE"       from "TODO"       [2025-09-04 Thu 11:52]
    - State "DONE"       from "TODO"       [2025-08-29 Fri 05:50]
@@ -474,16 +475,17 @@ SCHEDULED: <2025-09-19 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2025-09-11 Thu 05:28]
    - State "DONE"       from "TODO"       [2025-09-04 Thu 05:07]
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
-   SCHEDULED: <2025-09-18 Thu 10:00 +7d>
+   SCHEDULED: <2025-09-25 Thu 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-12 Fri 08:18]
+   :LAST_REPEAT: [2025-09-18 Thu 07:32]
    :ARCHIVE_TIME: 2025-08-29 Fri 16:46
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-09-18 Thu 07:32]
    - State "DONE"       from "TODO"       [2025-09-12 Fri 08:18]
    - State "DONE"       from "TODO"       [2025-09-04 Thu 18:28]
    - State "DONE"       from "TODO"       [2025-09-01 Mon 21:08]
@@ -522,16 +524,17 @@ SCHEDULED: <2025-09-19 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (evening)
-   SCHEDULED: <2025-09-18 Thu 18:30 +7d>
+   SCHEDULED: <2025-09-25 Thu 18:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-12 Fri 08:18]
+   :LAST_REPEAT: [2025-09-18 Thu 16:51]
    :ARCHIVE_TIME: 2025-08-29 Fri 16:46
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-09-18 Thu 16:51]
    - State "DONE"       from "TODO"       [2025-09-12 Fri 08:18]
    - State "DONE"       from "TODO"       [2025-09-05 Fri 06:20]
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
@@ -620,7 +623,7 @@ SCHEDULED: <2025-09-19 Fri 19:00 +7d>
 
 #+RESULTS:
 :results:
-*** TODO Send metrics and goals updates to manager to review
+*** DONE Send metrics and goals updates to manager to review
     SCHEDULED: <2025-09-08 Mon>
    :PROPERTIES:
    :EFFORT: 00:15
