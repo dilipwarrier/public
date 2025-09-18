@@ -105,13 +105,14 @@
 
 
 ** TODO Complete [[elisp:(org-agenda t "wf")][work focus time tasks]]
-   SCHEDULED: <2025-09-17 Wed 06:00 +7d>
+   SCHEDULED: <2025-09-24 Wed 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-09-10 Wed 07:40]
+   :LAST_REPEAT: [2025-09-18 Thu 06:35]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-18 Thu 06:35]
    - State "DONE"       from "TODO"       [2025-09-10 Wed 07:40]
    - State "DONE"       from "TODO"       [2025-09-03 Wed 07:52]
    - State "DONE"       from "TODO"       [2025-08-27 Wed 21:20]
@@ -408,14 +409,15 @@ SCHEDULED: <2025-09-19 Fri 19:00 +7d>
    - State "DONE"       from "TODO"       [2025-09-09 Tue 20:27]
    - State "DONE"       from "TODO"       [2025-09-02 Tue 20:08]
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
-   SCHEDULED: <2025-09-17 Wed 10:00 +7d>
+   SCHEDULED: <2025-09-24 Wed 10:00 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-11 Thu 05:28]
+   :LAST_REPEAT: [2025-09-18 Thu 06:35]
    :ARCHIVE_TIME: 2025-08-29 Fri 16:46
    :END:
+   - State "DONE"       from "TODO"       [2025-09-18 Thu 06:35]
    - State "DONE"       from "TODO"       [2025-09-11 Thu 05:28]
    - State "DONE"       from "TODO"       [2025-09-11 Thu 05:28]
    - State "DONE"       from "TODO"       [2025-09-04 Thu 05:07]
@@ -458,16 +460,17 @@ SCHEDULED: <2025-09-19 Fri 19:00 +7d>
 
 
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (evening)
-   SCHEDULED: <2025-09-17 Wed 18:30 +7d>
+   SCHEDULED: <2025-09-24 Wed 18:30 +7d>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-09-11 Thu 05:28]
+   :LAST_REPEAT: [2025-09-18 Thu 06:35]
    :ARCHIVE_TIME: 2025-08-29 Fri 16:46
    :END:
 
 
+   - State "DONE"       from "TODO"       [2025-09-18 Thu 06:35]
    - State "DONE"       from "TODO"       [2025-09-11 Thu 05:28]
    - State "DONE"       from "TODO"       [2025-09-04 Thu 05:07]
 ** TODO Complete [[elisp:(org-agenda t "wt")][weekday work tasks]] (morning)
