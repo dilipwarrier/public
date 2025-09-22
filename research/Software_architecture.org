@@ -1,0 +1,62 @@
+#+TITLE: The practice of software architecture
+#+FILETAGS: :software:
+#+startup: overview
+
+** What is architecture?
+
+The architecture of a system is a combination of the following.
+- The structure of the system,
+- The key characteristics ("-ilities") that the system must support,
+- The key architectural decisions and trade-offs, and
+- The design principles.
+
+Software architecture is different from other system architectures
+in that changes over the past decade due to cloud services,
+containerization, etc. have completely changed architectural
+thinking. Many of the constraints placed on software architectures
+such as availability of servers have been removed.
+
+The Laws of Software Architecture are as follows.
+- Everything in software architecture is a trade-off.
+- Documenting the "Why" of architectural decisions is more important
+  than documenting the "how".
+
+
+** The practice of architecture
+
+The core expectations placed on an architect are as follows.
+- Make key architecture decisions and navigate the repercussions
+- Ensure the compliance of the implementation with architectural decisions
+- Continually analyze and update the architecture
+- Continually refresh business domain knowledge
+- Keep current with latest industry trends
+
+Every decision made by an architect will be challenged. Product
+managers will want to deliver features faste. Feature leads will want
+performance improvements like latency without worrying about system
+consistency. Architects have to navigate this politics, which can be
+quite frustrating.
+
+Architects should spend part of their time doing hands-on code
+development. They should, however, avoid code in the critical
+path. They can work on lower priority stories, automation, code
+reviews, etc.
+
+
+** Key architecture decisions
+
+
+** Documenting the structure
+
+The structure of a system can be described in detail through the [[https://c4model.com/][C4 method]].
+
+
+** Connections to systems thinking
+
+Thinking and practising architecture is closely related to the [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][Expert
+phase]] in the Dreyfus model.
+
+
+** References
+
+- "[[https://read.amazon.com/?asin=B0849MPK73&ref_=kwl_kr_iv_rec_4][Fundamentals of software architecture]]", Mark Richards, Neal Ford

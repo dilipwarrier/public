@@ -1,0 +1,75 @@
+#+TITLE: Interviews and other material on Jeff Bezos and Amazon
+#+FILETAGS:
+#+STARTUP: overview
+
+* Notes
+
+Jeff does meetings from 9 am to 7 pm every day in 2024 after
+"retiring" from Amazon.
+
+He is optimistic by nature about the state of the world and what we
+can do to improve it.
+
+He paid himself $80k in salary and earned the rest through Amazon
+stock.
+
+He gave himself a 30% chance of success at Amazon and knew that that
+was 3x higher than the average startup success.
+
+Stress comes from having something that you're not doing. Even when
+you're out of a job, if you have a disciplined approach and are taking
+specific steps, you'll feel the stress reduce.
+
+Those translate into some essential practices like Bar Raiser hiring,
+Working Backwards from the customer need, written narratives like a 6
+pager or a PR/FAQ, single threaded teams with single threaded leaders,
+focusing on input metrics.
+
+** References
+
+- [[https://www.youtube.com/watch?v=p7FgXSoqfnI][Early interview]]
+
+** Quotes
+
+*** Jeff Bezos: Human beings tend to overestimate risk and underestimate opportunity. :quotes:
+
+
+*** Jeff Bezos: Customers are divinely discontented. Yesterday's wow quickly becomes today's ordinary. :quotes:
+
+
+*** Jeff Bezos: All the positive emotions - joy, optimism, etc. - were allowed in my family. The only negative emotion allowed was anger; never fear and anxiety. :quotes:
+
+
+*** Jeff Bezos: Missionaries want to build great products; mercerenaries want to build companies and flip them. Missionaries have curiosity, passion and customer centricity. :quotes:
+
+
+*** Jeff Bezos: You cannot catch the latest wave as an entrepreneur; you have to position yourself and wait for the wave. :quotes:
+
+
+* The Amazon 6-pager
+
+You can write 6-pagers for any topic e.g. a 6-month operations plan
+for a business.
+
+The main text is 6 pages; the appendix can be much longer. The
+document needs to stand on its own in printed form i.e. there will be
+no linked documents that you need to read.
+
+Jeff emphasized the narrative structure of these and called them
+6-page narratives.
+
+However, these plans also rely heavily on data, lessons learned, etc.
+
+
+** References
+
+- [[https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9][Deep dive into 6-pagers]] by a former Amazon employee
+
+
+* References
+
+- [[https://www.youtube.com/watch?v=s71nJQqzYRQ][Interview by Aaron Ross Sorkin]]
+- [[https://youtu.be/f3NBQcAqyu4?si=xpDnFbwePNySOa5f][Interview by David Rubenstein]]
+- [[https://www.youtube.com/watch?v=O4MtQGRIIuA][2012 re:Invent fireside chat]]
+- "Working backwards", Colin Bryar and Bill Carr
+- Amazon's [[https://www.amazon.jobs/content/en/our-workplace/leadership-principles][leadership principles]]

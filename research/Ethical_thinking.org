@@ -15,11 +15,11 @@
   considering social utility, you should consider the innate or natural
   preference.)
 
-  We can assume�such preferences exist for beings that are aware of
+  We can assume such preferences exist for beings that are aware of
   themselves and have an image of themselves in the past, present and
-  future. Note that, for instance,�a fish doesn't�necessarily have this
-  self-image. However, it�may still struggle when it's about to
-  die. That's self-preservation which is separate�from having a
+  future. Note that, for instance, a fish doesn't necessarily have this
+  self-image. However, it may still struggle when it's about to
+  die. That's self-preservation which is separate from having a
   self-image in the future.
 
   For self-aware beings with a sense of past, present and future and a
@@ -58,10 +58,38 @@
   John Locke and Robert Nozick argue from a theory of rights ie the
   right against interference. By their argument, everyone has a right
   against interference from others but not a right to assistance from
-  others. However, this may not hold due�to problems like buying
+  others. However, this may not hold due to problems like buying
   resources from despots, global warming, and purchasing products the
   manufacture of which causes suffering to others.
 
+* Vegetarianism                                                      :Review:
+
+The meat industry causes suffering to and kills 74B animals every year.
+
+If animal lives are even 1% as important as human lives, that's like
+killing 740M humans a year. If we are 1% sure that those animals can
+sense suffering, then also it is equivalent to killing 740M humans a
+year. All this suffering is in aid of a discretionary interest that we
+can do without, ie. eating animal flesh.
+
+If you hear about a disaster that killed five people, you feel sorry
+about that. If you hear about one that killed five thousand people,
+you don’t feel a thousand times as sorry. Our feelings follow an
+S-curve in that respect.
+
+Stealing is disapproved of in our society, and you've internalized
+that. Meat-eating isn’t, and almost everyone around you is doing
+it. That’s why you keep eating meat, no matter how wrong it is, but
+you won’t steal, no matter how much it would benefit you.
+
+For most of the wrongs of the past – slavery, colonialism, the
+oppression of women – the victims could and did speak up. In the
+present case, the victims will never be able to act or speak for
+themselves. There is no one to speak against what we humans are doing,
+except us. So we have to do it. If we don’t, it will never stop.
+
+** References
+- Michael Huemer, "Dialogues on Ethical Vegetarianism"
 
 * The Life you can save by Peter Singer                              :Review:
 
@@ -75,7 +103,7 @@
   organizations. Anything less can be considered unethical.
 
   In FY19, [[https://explorer.usaid.gov/][US foreign aid]] was $49B and US GDP was $2T. So, foreign aid
-  was roughly 2.5% of GDP.� The US is one of the highest contributors of
+  was roughly 2.5% of GDP.  The US is one of the highest contributors of
   donations in absolute numbers but it is one of the lowest contributors
   as a percentage of GDP or income. A lot of this aid goes to countries
   that the US has political interests in and are not the poorest

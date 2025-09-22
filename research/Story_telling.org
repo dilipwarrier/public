@@ -1,0 +1,20 @@
+#+TITLE: Story telling
+#+FILETAGS:
+#+STARTUP: overview, hideallblocks
+
+* Samuel Johnson: What is written without effort is read without pleasure :quotes:
+
+* Why is story telling important?                                 :Review:
+
+The map is not the terrain. Most importantly, it's a conceptual
+framework.
+
+When we say something that's compelling but not true, we
+dupe our audience. That may work for a while but, sooner or later, we
+will get caught. However, when we say something that's both
+interesting and true, we go beyond the facts and create a
+powerful story. We must always aim to create such a story.
+
+** References
+
+- Seth Godin, [[https://seths.blog/2025/04/a-powerful-story/][A powerful story]]

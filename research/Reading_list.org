@@ -7,15 +7,16 @@
 
 * Periodic tasks                                                   :Periodic:
 
-
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-09-21 Sun 06:00 +7d>
+   SCHEDULED: <2025-09-28 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-09-14 Sun 09:46]
+   :LAST_REPEAT: [2025-09-22 Mon 05:45]
    :END:
+   - State "DONE"       from "TODO"       [2025-09-22 Mon 05:45]
+   - State "DONE"       from "TODO"       [2025-09-21 Sun 07:28]
    - State "DONE"       from "TODO"       [2025-09-14 Sun 09:46]
    :LOGBOOK:
    CLOCK: [2025-09-14 Sun 07:28]--[2025-09-14 Sun 08:45] =>  1:17
@@ -42,7 +43,6 @@
    - State "DONE"       from "TODO"       [2025-05-04 Sun 15:59]
    - State "DONE"       from "TODO"       [2025-04-27 Sun 16:47]
 
-
 ** TODO Review [[elisp:(org-agenda t "lb")][learning backlog]]
    SCHEDULED: <2025-10-12 Sun 06:00 +28d>
    :PROPERTIES:
@@ -60,12 +60,10 @@
    - State "DONE"       from "TODO"       [2025-06-15 Sun 07:12]
    - State "DONE"       from "TODO"       [2025-05-18 Sun 17:01]
 
-
 * Tasks
 
-
-** TODO Copy over book-related Keep notes and Evernote to Org
-SCHEDULED: <2025-09-14 Sun>
+** TODO Copy over notes from [[https://www.evernote.com/client/web#/notebooks][Evernote notebooks]] to Org
+SCHEDULED: <2025-09-14 Sun +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2025-08-10 Sun 15:19]
    :EFFORT: 00:15
@@ -77,7 +75,6 @@ SCHEDULED: <2025-09-14 Sun>
    - State "DONE"       from "TODO"       [2025-08-10 Sun 15:19]
    - State "DONE"       from "TODO"       [2025-07-29 Tue 11:25]
    - State "DONE"       from "TODO"       [2025-07-19 Sat 11:15]
-
 
 ** TODO Review Amazon annual shareholder letter
    SCHEDULED: <2026-04-12 Sun +52w>
@@ -92,7 +89,6 @@ SCHEDULED: <2025-09-14 Sun>
    - State "DONE"       from "TODO"       [2025-04-12 Sat 18:16]
    - State "DONE"       from "TODO"       [2024-04-20 Sat 13:38]
 
-
 ** TODO Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] and update [[id:1f2c0984-0b3d-49f9-804b-35d5df1e011f][EV market trends]]
 SCHEDULED: <2026-05-31 Sun +52w>
 :PROPERTIES:
@@ -106,14 +102,12 @@ SCHEDULED: <2026-05-31 Sun +52w>
 CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
 :END:
 
-
 ** TODO Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates  :Software:
    :PROPERTIES:
    :EFFORT: 04:00
    :BENEFIT: 500
    :RATIO: 1.25
    :END:
-
 
 ** TODO Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
   :PROPERTIES:
@@ -122,14 +116,12 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
   :RATIO: 0.40
   :END:
 
-
 ** TODO Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
-
 
 ** TODO Read [[https://www.bing.com/search?q=open+charging+alliance+certification+renewal+requirements&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=open+charging+alliance+certification+renewal+requirements+&sc=10-58&sk=&cvid=16D1A17E2FA0491DA541591E79113EEF&ghsh=0&ghacc=0&ghpl][OCPP requirements]]
    :PROPERTIES:
@@ -141,14 +133,12 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    CLOCK: [2025-02-23 Sun 06:50]--[2025-02-23 Sun 06:50] =>  0:00
    :END:
 
-
 ** TODO Find a book on cleaning the house 5S, Marie Kondo, etc
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
-
 
 ** TODO Read about process flow and flow chart drawing conventions
    :PROPERTIES:
@@ -157,7 +147,6 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :RATIO: 1.00
    :END:
 
-
 ** TODO Vasily Arkhipov, world's greatest man, https://en.m.wikipedia.org/wiki/Vasily_Arkhipov
    :PROPERTIES:
    :EFFORT: 00:15
@@ -165,14 +154,12 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :RATIO: 0.40
    :END:
 
-
 ** TODO Read [[https://drive.google.com/file/d/1ojOT-hP7nFUTNCUCGk_AKMN45E547Tvd/view?usp=drive_link][capitalism is better than donation for global poverty]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
-
 
 ** TODO Read CMMI book
   :PROPERTIES:
@@ -184,14 +171,12 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
   CLOCK: [2025-01-12 Sun 10:40]--[2025-01-12 Sun 11:40] =>  1:00
   :END:
 
-
 ** TODO Save [[https://seths.blog/2005/03/dont_shave_that/][Don't shave that yak]] article
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
-
 
 ** TODO Review [[https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/][good forecasting practices]]                          :Learning:
    :PROPERTIES:
@@ -200,13 +185,13 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :RATIO: 0.40
    :END:
 
-
 ** TODO Take the Superforecasting [[https://good-judgment.thinkific.com/courses/Superforecasting-Fundamentals][Good Judgement training]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+
 ** Archive                                                          :ARCHIVE:
 *** DONE Read "Pragmatic Thinking and Learning" and [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][update notes]]
 SCHEDULED: <2025-08-24 Sun>
@@ -223,3 +208,25 @@ CLOCK: [2025-02-23 Sun 06:50]--[2025-02-23 Sun 08:02] =>  1:12
 CLOCK: [2025-02-09 Sun 06:37]--[2025-02-09 Sun 07:33] =>  0:56
 CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
 :END:
+
+** TODO Read about the [[https://c4model.com/][C4 architecture method]]
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :END:
+
+** TODO Read [[https://joincolossus.com/article/ai-will-not-make-you-rich/][who will benefit from AI]]
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :END:
+
+
+** TODO https://www.wsj.com/economy/a-guaranteed-income-wont-stop-people-from-wanting-to-work-03c4ab31?st=yeDmB6           :Learning:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:

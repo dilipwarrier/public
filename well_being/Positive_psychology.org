@@ -1,13 +1,77 @@
 #+TITLE: The science of happiness and well-being
 #+FILETAGS: :Science:Psychology:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: overview, hideallblocks, inlineimages
 
 * Subjective Well-Being or Happiness                                 :Review:
+:PROPERTIES:
+:ID:       20490abc-0f84-4536-aeb1-e9a37bea6812
+:END:
 
-A related concept within the field of positive psychology is
+In the field of positive psychology, a concept related to Happiness is
 Subjective Well-Being (SWB), pioneered by Ed Diener. Diener suggests
 that SWB consists of two components, Affective Balance and Life
 Satisfaction. The SWB score is the sum of the two scores.
+
+#+BEGIN_SRC python :results file graphics :exports results :file graph.png :eval yes :cache yes
+    import matplotlib.pyplot as plt
+    import networkx as nx
+    import os
+
+    # Create the graph
+    G = nx.Graph()
+    G.add_edge("Subjective Well-Being", "Affective Balance")
+    G.add_edge("Subjective Well-Being", "Life Satisfaction")
+
+    G.add_edge("Life Satisfaction", "Work fulfillment")
+    G.add_edge("Life Satisfaction", "Social connections")
+    G.add_edge("Life Satisfaction", "Self satisfaction")
+
+    G.add_edge("Affective Balance", "Positive emotions")
+    G.add_edge("Affective Balance", "Negative emotions")
+
+    # Define a manual hierarchical layout
+    pos = {
+        "Subjective Well-Being": (0, 2),   # root, top center
+
+        "Affective Balance": (-1, 1),      # left branch
+        "Life Satisfaction": (1, 1),       # right branch
+
+        "Positive emotions": (-1.5, 0),
+        "Negative emotions": (-0.5, 0),
+
+        "Work fulfillment": (1.0, 0),
+        "Social connections": (0.5, 0),
+        "Self satisfaction": (1.5, 0),
+    }
+
+    # Helper to wrap labels nicely
+    def wrap_label(label, max_words=1):
+        words = label.split()
+        return "\n".join(
+            [" ".join(words[i:i+max_words]) for i in range(0, len(words), max_words)]
+        )
+
+    # Create wrapped labels for all nodes
+    labels = {node: wrap_label(node, max_words=1) for node in G.nodes()}
+
+    # Draw the graph with wrapped labels
+    nx.draw(
+        G, pos,
+        labels=labels,
+        with_labels=True,
+        node_color="lightblue",
+        node_size=3500,   # enough space for multiline text
+        font_size=9
+    )
+
+    # Save and return the path to Org Babel
+    filename = "graph.png"
+    plt.savefig(filename)
+    plt.close()
+#+END_SRC
+
+#+RESULTS[d75e0ece5234fa7ec34db4b0dd73a37bfafa7d65]:
+[[file:graph.png]]
 
 
 ** Affective Balance
@@ -21,8 +85,23 @@ The brain has a negativity bias. We feel the loss of something more
 sharply than the gain of an equal amount. Also, negative feelings are
 generated much faster through the amygdala than positive feelings.
 
-Lack of control over factors such as noise and commute time can cause
-unhappiness.
+You can't completely be rid of the negative feelings in the left
+column below. In the short-term, you will be overcome by them but you
+should try to move towards the positive feelings on the right in the
+long-term.
+
+|------------------+---------------------|
+| Negative feeling | Positive equivalent |
+|------------------+---------------------|
+| Fear             | Courage             |
+| Envy             | Satisfaction        |
+| Regret           | Learning            |
+| Greed            | Generosity          |
+| Anger            | Equanimity          |
+| Pride            | Humility            |
+|------------------+---------------------|
+| FERGAP           | CSLGEH              |
+|------------------+---------------------|
 
 
 ** Life Satisfaction
@@ -38,7 +117,7 @@ relationships. People who score high on LS tend to have close and
 supportive family and friends, whereas those who do not have close
 friends and family are more likely to be dissatisfied.
 
-Another factor is work or, more generallly, performance in an important role
+Another factor is work or, more generally, performance in an important role
 such as homemaker or grandparent. When the person enjoys their work,
 and feels that it is meaningful and important, it increases their
 LS. When work is going poorly because of bad external
@@ -80,35 +159,30 @@ making the outside world conform to your wishes. Modern positive
 psychology agrees.
 
 
-* Quantitative measurements of quality of life                       :Review:
+* Measurements of quality of life                                    :Review:
 
-   A commonly used quantitative measurement of life is
-   [[https://en.wikipedia.org/wiki/Quality-adjusted_life_year][Quality-adjusted life year]] or QALY. A QALY measure of 1.0 means a
-   year of perfect health while values below
-   that mean less than perfect health or quality of life. A value of 0
-   represents death. Different interventions can be measured by
-   summing up the resulting measures over the number of years of life
-   that they provide.
+A commonly used quantitative measurement of life is [[https://en.wikipedia.org/wiki/Quality-adjusted_life_year][Quality-adjusted
+life year]] or QALY. A QALY measure of 1.0 means a year of perfect
+health while values below that mean less than perfect health or
+quality of life. A value of 0 represents death. Different
+interventions can be measured by summing up the resulting measures
+over the number of years of life that they provide.
 
-   [[https://www.wsj.com/articles/obscure-model-puts-a-price-on-good-healthand-drives-down-drug-costs-11572885123][This article]] talks about the use of QALYs by a research
-   organization called ICER in the US and how it could reduce drug
-   prices. While other countries have adopted QALY as a measure, the
-   US has not yet.
+[[https://www.wsj.com/articles/obscure-model-puts-a-price-on-good-healthand-drives-down-drug-costs-11572885123][This article]] talks about the use of QALYs by a research
+organization called ICER in the US and how it could reduce drug
+prices. While other countries have adopted QALY as a measure, the
+US has not yet.
 
+From the [[ https://www.wsj.com/articles/obscure-model-puts-a-price-on-good-healthand-drives-down-drug-costs-11572885123][WSJ article]], ICER puts the cost of one QALY in the US at
+$150,000. A graph of QALYs used by other countries is in the
+article. The approach of using QALYs was first established in the
+UK.
 
-** Cost of QALY                                                      :Review:
-  :PROPERTIES:
-  :CUSTOM_ID: Cost of one QALY
-  :END:
-
-  From the [[ https://www.wsj.com/articles/obscure-model-puts-a-price-on-good-healthand-drives-down-drug-costs-11572885123][WSJ article]], ICER puts the cost of one QALY in the US at
-  $150,000. A graph of QALYs used by other countries is in the
-  article. The approach of using QALYs was first established in the
-  UK.
-
+* Quotes
 
 ** John Donne: No man is an island, entire of itself; ...therefore never send to know for whom the bells tolls; it tolls for thee. :quotes:
 
+** King Crimson: I'm happy with what I have to be happy with         :quotes:
 
 * References
 

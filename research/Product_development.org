@@ -2,8 +2,7 @@
 #+Filetags: :Product:
 #+startup: overview
 
-
-* Problem versus solution                                 :MartyCagan:Review:
+* Problem versus solution                                            :Review:
 
   People have this overly simplistic notion that product management and
   product design work to define the problem, and then engineering works
@@ -14,9 +13,6 @@
 
   Unfortunately, this overly simplistic thinking usually kills any
   chance for real innovation.
-
-
-* Product versus feature teams                            :MartyCagan:Review:
 
   Product teams are cross-functional (product, design, engineering),
   they are focused on and measured by outcomes, they are empowered to
@@ -42,26 +38,23 @@
 
   A true product team has responsibility and accountability.
 
+** References
+- Marty Cagan, "Inspired"
 
-* Competencies                                            :MartyCagan:Review:
+* Competencies for product development                               :Review:
 
+A product manager must have deep knowledge of:
+- your users and customers
+- the data that's generated about your products
+- your industry, and
+- how your business works.
 
-** Competencies for a product manager
-
-   A deep knowledge of:
-   - your users and customers
-   - the data that's generated about your products
-   - your industry, and
-   - how your business works.
-
-
-** Competencies for the head of product management
-
-   - Team Development
-   - Product Vision
-   - Execution
-   - Product Culture
-   - Empathy
+A head of product management must be skilled at:
+- Team Development
+- Product Vision
+- Execution
+- Product Culture
+- Empathy
 
 
 * Feature prioritization                                    :LinkedIn:Review:
@@ -72,19 +65,19 @@
 
   Here's the rough model. Think of features in three categories.
 
-  - Basic Needs :: Basic Needs are features that people take for
-    granted. No one notices them when they work as they should. But if
+  - Known Needs :: Customers take these for granted.
+    No one notices them when they work as they should. But if
     they aren’t in place, your customer can get upset.  e.g. a clean
     room in a hotel.
 
-  - Performance Needs :: Performance Needs are those needs that are
-    top of mind and essential for users. The more of these that you
-    implement, the more satisfied the user will be. e.g. a comfortable
-    mattress in a hotel.
+  - Performance Needs :: "How much" should a known need be satisfied?
+    Customers know about them and get dissatisfied if they are not up
+    to their standard. e.g. how comfortable is the mattress in a hotel?
 
-  - Delighters :: Delighters are features that cause excitement when
+  - Unknown Needs :: The fulfilment of these surprise customers and cause delight.
+    Delighters are features that cause excitement when
     fully implemented, but are unnoticeable if they are not included
-    at all. e.g. free food upon check-in to a hotel.
+    at all. e.g. a free cookie upon check-in to a hotel.
 
   It's easiest to think of the categorization using the Wikipedia
   graph.
@@ -92,7 +85,9 @@
   [[file:Screenshot 2022-02-07 164005.jpg][Feature categories]]
 
   If you want to satisfy your customer, meeting the basic needs might be
-  enough but, if you want to delight your customer (and don't we all?),
+  enough but, if you want to delight your customer,
   you must think about introducing delighters. The hard work, of course,
   is to identify what those delighters are and how to accomplish them
   such that they serve both your customers and your business.
+
+** Arthur Schopenhauer: Talent hits a target no one else can hit; genius hits a target no one else can see. :quotes:

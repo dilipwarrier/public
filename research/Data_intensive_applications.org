@@ -178,5 +178,6 @@
 
 * Links
 
-  - [[https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook-dp-B06XPJML5D/dp/B06XPJML5D/ref=mt_other?_encoding=UTF8&me=&qid=][Amazon link]]
-  - [[https://github.com/ept/ddia-references][Updated links to references]]
+- [[https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook-dp-B06XPJML5D/dp/B06XPJML5D/ref=mt_other?_encoding=UTF8&me=&qid=][Amazon link]]
+- [[https://github.com/ept/ddia-references][Updated links to references]]
+- See also Computer architecture article

@@ -152,7 +152,7 @@ thinking, etc.
 ** Bertrand Russell: The trouble with the world is that the stupid are cocksure and the intelligent full of doubt. :quotes:
 
 
-* Moral reasoning
+* Moral reasoning                                                    :Review:
 
 The principles of moral psychology are :
 1. Intuitions come first, strategic reasoning second.
@@ -222,9 +222,27 @@ if the secular ones demanded sacrifices). Investing the needs of
 sacrifice in a higher being seemed to make them more likely to be
 followed and contribute to the integrity of the organization.
 
+
 ** References
 
 - The righteous mind, Jonathan Haidt
+
+
+* Knowledge                                                          :Review:
+
+Think of all knowlege as a pyramid. At the top of the pyramid is the
+small set of things you know.
+
+Below that is a broader section of the
+things you know you don't know. You are aware that these things exist
+but you haven't delved into them in detail. Perhaps you have a Novice
+level knowledge of them or you just have awareness that they exist.
+
+Finally, at the base of the pyramid are the much larger set of things
+that you don't know you don't know. They exist out there but you are
+not even aware that they exist. Further, that base is growing faster
+in time than either of the two sections above because the two sections
+above only grow at the rate that you can learn.
 
 
 * Types of bias                                                      :Review:
