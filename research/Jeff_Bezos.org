@@ -4,7 +4,7 @@
 
 * Notes
 
-Jeff does meetings from 9 am to 7 pm every day in 2024 after
+Jeff does meetings from 9 am to 7 pm every day even after
 "retiring" from Amazon.
 
 He is optimistic by nature about the state of the world and what we
@@ -20,14 +20,11 @@ Stress comes from having something that you're not doing. Even when
 you're out of a job, if you have a disciplined approach and are taking
 specific steps, you'll feel the stress reduce.
 
-Those translate into some essential practices like Bar Raiser hiring,
-Working Backwards from the customer need, written narratives like a 6
-pager or a PR/FAQ, single threaded teams with single threaded leaders,
-focusing on input metrics.
-
 ** References
 
 - [[https://www.youtube.com/watch?v=p7FgXSoqfnI][Early interview]]
+- [[https://www.youtube.com/watch?v=s71nJQqzYRQ][Interview by Aaron Ross Sorkin]]
+- [[https://youtu.be/f3NBQcAqyu4?si=xpDnFbwePNySOa5f][Interview by David Rubenstein]]
 
 ** Quotes
 
@@ -45,6 +42,17 @@ focusing on input metrics.
 
 *** Jeff Bezos: You cannot catch the latest wave as an entrepreneur; you have to position yourself and wait for the wave. :quotes:
 
+* Leadership principles
+
+Amazon's leadership principles translate into some essential practices like Bar Raiser hiring,
+Working Backwards from the customer need, written narratives like a 6
+pager or a PR/FAQ, single threaded teams with single threaded leaders,
+focusing on input metrics.
+
+** References
+
+- "Working backwards", Colin Bryar and Bill Carr
+- Amazon's [[https://www.amazon.jobs/content/en/our-workplace/leadership-principles][leadership principles]]
 
 * The Amazon 6-pager
 
@@ -60,7 +68,6 @@ Jeff emphasized the narrative structure of these and called them
 
 However, these plans also rely heavily on data, lessons learned, etc.
 
-
 ** References
 
 - [[https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9][Deep dive into 6-pagers]] by a former Amazon employee
@@ -68,8 +75,4 @@ However, these plans also rely heavily on data, lessons learned, etc.
 
 * References
 
-- [[https://www.youtube.com/watch?v=s71nJQqzYRQ][Interview by Aaron Ross Sorkin]]
-- [[https://youtu.be/f3NBQcAqyu4?si=xpDnFbwePNySOa5f][Interview by David Rubenstein]]
 - [[https://www.youtube.com/watch?v=O4MtQGRIIuA][2012 re:Invent fireside chat]]
-- "Working backwards", Colin Bryar and Bill Carr
-- Amazon's [[https://www.amazon.jobs/content/en/our-workplace/leadership-principles][leadership principles]]
