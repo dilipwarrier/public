@@ -1,0 +1,53 @@
+#+TITLE: The physics of the Universe and the Big Bang
+#+FILETAGS: :Physics:Science:
+#+STARTUP: overview, hideallblocks
+
+* Causality and the arrow of time                                    :Review:
+
+The universe is Markovian in nature. If you know the state of the
+universe at a given time, you can calculate the state of the universe
+at a future time by applying the laws of physics. You can also
+calculate the state at a previous time because the physical laws are
+reversible.
+
+The only reason that there is an arrow of time is that the total
+entropy in the universe increases over time. This is because, when the
+big bang happened, the universe had an initial state of very low
+entropy, and its entropy was increasing over time. All the other
+physical laws are symmetric with respect to time.
+
+The Big Bang happened 14 billion years ago. The Milky Way has about
+100 billion stars, and the universe has about 100 billion galaxies
+like the Milky Way.
+
+Quantum field theory shows that any forces that we have not found so
+far are either very short-range or very weak. For instance, any new
+force that we discover in the future would have to be much weaker than
+gravity.
+
+* Multiverse theory                                                  :Review:
+
+The Multiverse principle means that there may be other areas in
+the universe that have a different set of physical constants of
+nature. If this principle is proven, it would explain why we exist only here in this
+part of space. We exist because the physical constants in this corner
+of space are such that life can be generated from them.
+
+The Multiverse principle comes about as a result of string theory and
+inflation, both of which are still unproven. According to string
+theory, there are more dimensions in space than the three that we
+observe. These remaining dimensions get compacted into a very small
+space in a very specific way. The way in which they get compacted
+determines the physical constants in that area of space.
+
+Further,inflation says that parts of the universe can expand starting from the
+Big Bang but the expansion can stop. From inflation and string theory,
+we can thus determine that there may be different areas in space that
+exhibit different physical laws. These different areas in space may be
+far enough apart that light needs a long time to get from one area to
+the other. As a result, we may not be able to directly prove their
+existence for a long time.
+
+* References
+
+- Sean Carroll, "The big picture"

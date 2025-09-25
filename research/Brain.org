@@ -1,5 +1,5 @@
-#+Title: Books and research on the brain
-#+FILETAGS: :Brain:
+#+TITLE: Books and research on the brain
+#+FILETAGS: :Brain:Science:
 #+STARTUP: overview, hideallblocks
 
 * The Dreyfus model of skill acquisition                             :Review:
@@ -154,7 +154,7 @@ thinking, etc.
 
 * Moral reasoning                                                    :Review:
 
-The principles of moral psychology are :
+The principles of moral psychology are:
 1. Intuitions come first, strategic reasoning second.
 2. There's more to morality than harm and fairness (WEIRD morality).
 3. Morality binds and blinds.
@@ -180,9 +180,9 @@ Reasoning has evolved not to help us find truth but to help us engage
 in arguments, persuasion, and manipulation in the context of
 discussions with other people.
 
-Understanding the argument from the other side is hard because the
+Understanding the argument from the other side is hard because our
 confirmation bias is a built-in feature (of an argumentative mind),
-not a bug that can be removed (from a platonic mind).
+and not a bug that can be removed (from a platonic mind).
 
 Reasoning can take us to almost any conclusion we want to reach,
 because we ask “Can I believe it?” when we want to believe something,
@@ -208,27 +208,25 @@ people to become part of one large group with a common purpose. If you
 look only at the cost (injury to players, alcoholism etc), you're
 missing the full picture.
 
-People have hypersensitive agency detectors : they see an agent behind
+People have hypersensitive agency detectors: they see an agent behind
 an action even when there isn't one. Evolution programmed us to have a
-high number of false positives in this aspect. This was step 1 in
-developing religion. Step 2 was probably the cultural (as opposed to
-genetic) development of religious tribes through group
-selection. Groups that had religious beliefs may have been more
-cohesive and lasted longer than groups that did not.
+high number of false positives in this aspect. This was the first step
+in developing religion. The second step was probably the cultural
+development of religious tribes through group selection. Groups that
+had religious beliefs may have been more cohesive and lasted longer
+than groups that did not.
 
 Research shows that religious communes that require significant
-sacrifices from its members survive longer than secular communes (even
-if the secular ones demanded sacrifices). Investing the needs of
-sacrifice in a higher being seemed to make them more likely to be
-followed and contribute to the integrity of the organization.
-
+sacrifices from its members survive longer than secular communes, even
+if the secular ones demanded sacrifices. Investing the needs of
+sacrifice in a higher being may make them more likely to be
+followed and may contribute to the integrity of the organization.
 
 ** References
 
 - The righteous mind, Jonathan Haidt
 
-
-* Knowledge                                                          :Review:
+* The architecture of knowledge                                      :Review:
 
 Think of all knowlege as a pyramid. At the top of the pyramid is the
 small set of things you know.
@@ -244,6 +242,73 @@ not even aware that they exist. Further, that base is growing faster
 in time than either of the two sections above because the two sections
 above only grow at the rate that you can learn.
 
+
+* Poetic naturalism                                                  :Review:
+
+Poetic naturalism - Naturalism is the belief that the world revealed
+through scientific inquiry is the only true world.
+
+Poetic implies that there are many ways of describing this natural
+world. All the good ways of talking about the world must be consistent
+with each other and with the observed reality of the world. The best
+way of describing the world depends upon what you want to achieve.
+
+One way might be derived from another. For instance, fluid dynamics
+can be a macro-level view of a fluid derived from the quantum-level
+understanding of it. In this case, the quantum level view is called
+fundamental, and the fluid dynamic view is called emergent. Each model
+is autonomous and doesn't rely upon the other. Each model has its
+own domain of applicability.
+
+Phase transitions happen when the underlying system moves from one
+domain of applicability to another. For instance, the big bang, then
+atoms, then life, then multi-cellular organisms, etc.
+
+Sometimes, these models can be hierarchical, starting from a
+fundamental model and becoming more coarse-grained. More
+coarse-grained models allow for easier computation and cognition to
+get insights. However, they may have a limited domain of
+applicability.
+
+You can think of probability in two ways. One way is that, if you
+simulate an event infinite times, the probability of the event tells
+you how often that event will happen. However, Bayesians think of the
+probability of an event as the credence that you give it in the
+presence of uncertainty. With this method, you never give certainty to
+any belief because there is always a chance that you will be proven
+wrong by later events. As events unfold, you update the credence you
+give to the event by using the Bayesian formula.
+
+There are three features that characteristize life as we know
+it. They are compartmentalization, metabolism, and replication with
+variation.
+
+Compartmentalization means that a living form typically has a membrane
+that separates it from the inside. This is relatively easy to
+achieve. For example, Thomas Schelling showed that, if the following properties
+hold:
+1. A community is represented by Xs and Os,
+2. Each of them is unhappy if they are surrounded by 70% or more of
+   the other, and
+3. When they are unhappy, they're able to move to a random open slot
+then you reach an equilibrium where the Xs and Os are largely
+segregated.
+
+This could be interpreted as membranes around the Xs and Os.
+
+In biology, lipids are commonly used for membranes. They have
+hydrophilic heads and hydrophobic tails which have the capacity to be
+"happy".
+
+Most scientists believe that replication happened first before
+metabolism. Our cells are constructed so that information is stored in
+the DNA while the actual work is done through proteins. The
+translation from the blueprint to work is done by an intermediate
+layer called mRNA in the ribosomes.
+
+** References
+
+- Sean Carroll, "The big picture"
 
 * Types of bias                                                      :Review:
 

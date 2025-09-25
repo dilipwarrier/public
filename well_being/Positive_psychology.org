@@ -159,6 +159,36 @@ making the outside world conform to your wishes. Modern positive
 psychology agrees.
 
 
+* A Buddhist take on happiness                                       :Review:
+
+We look for happiness outside ourselves when it is basically an inner
+state of being.
+
+The essential thing is to identify the types of mental activity that
+lead to well being and those that lead to suffering, even when the
+latter afford us brief instances of pleasure.
+
+Systematically blaming others and holding them responsible for our
+suffering is the surest way to lead an unhappy life.
+
+Recognize your aspiration for happiness, then extend that aspiration
+to those you love and finally to your friends, strangers and even your
+enemies. Little by little, altruism and benevolence will saturate your
+mind, until it becomes second nature.
+
+Boredom is the fate of those who rely entirely on distraction, for
+whom life is one big entertainment.
+
+** Quotes
+
+*** Matthieu Ricard: What do you need to accomplish or what do you need to discard in order to achieve well-being and live a meaningful life? :quotes:
+
+*** Matthieu Ricard: Why don't we devote even the briefest of moments once a day to introspection? :quotes:
+
+** References
+
+- Matthieu Ricard, "Happiness"
+
 * Measurements of quality of life                                    :Review:
 
 A commonly used quantitative measurement of life is [[https://en.wikipedia.org/wiki/Quality-adjusted_life_year][Quality-adjusted
