@@ -1,4 +1,4 @@
-#+Title: Articles on EV charging stations and market trends
+#+TITLE: Articles on EV charging stations and market trends
 #+FILETAGS: :Charging:Review:
 #+STARTUP: content
 
@@ -146,19 +146,41 @@ Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGP
 :ID:       f652f1ee-71e3-4455-93bc-c090ab71254c
 :END:
 
-  A standard AC socket in the US (120 V, 15 A) can give about 1.8 kW of
-  power. A Level 2 charger (240 V, 30 A) can provide about 7.2 kW of
-  power.
+A standard AC socket in the US (120 V, 15 A) can give about 1.8 kW of
+power. A Level 2 charger (240 V, 30 A) can provide about 7.2 kW of
+power.
 
-  DC fast chargers (Level 3) can provide up to 150 kW of power. For a
-  70 kWh battery, that implies full charge in about 30 min. The same
-  full charge would take 10 hours on a level 2 charger.
+DC fast chargers (Level 3) can provide up to 150 kW of power. For a
+70 kWh battery, that implies full charge in about 30 min. The same
+full charge would take 10 hours on a level 2 charger.
 
-  A DC fast charger is equivalent to about 150 US homes at its peak charging. Even
-  a level 2 charger is equivalent to about 7 US homes.
+A DC fast charger is equivalent to about 150 US homes at its peak charging. Even
+a level 2 charger is equivalent to about 7 US homes.
 
+However, assuming an average of 10k miles driven in a year, that
+translates to a requirement of 10k/300*70 kWh/year or about 2.4
+MWh/year. An average US home consumes 1 kW * 9000 hours/year = 9
+MWh/year. So, on average, an EV will add about 25% to the energy
+consumption of a house.
+
+See discussion on [[id:c9493bda-aa50-4371-9eed-5e56699d58ba][US energy consumption]].
+
+* OCPP
+
+[[https://www.embedded.com/the-impact-of-ocpp-in-the-ev-industry-and-evolution-from-ocpp1-6-to-ocpp2-1][Introduction article]] on OCPP
 
 * Tasks
+
+
+** TODO Read [[https://www.bing.com/search?q=open+charging+alliance+certification+renewal+requirements&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=open+charging+alliance+certification+renewal+requirements+&sc=10-58&sk=&cvid=16D1A17E2FA0491DA541591E79113EEF&ghsh=0&ghacc=0&ghpl][OCPP requirements]]                                     :Learning:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :END:
+   :LOGBOOK:
+   CLOCK: [2025-02-23 Sun 06:50]--[2025-02-23 Sun 06:50] =>  0:00
+   :END:
 
 
 ** TODO Update [[id:9f94c234-8138-48c1-9e67-7a97a066d91c][table]] with latest information on charging sites in the US :Browser:Home:

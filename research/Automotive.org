@@ -88,27 +88,6 @@ estimated to be at about 15M. This is down from a high in CY19
 (pre-pandemic) of about 17M.
 
 
-* EV charging                                                        :Review:
-
-  A standard AC socket in the US (120 V, 15 A) can give about 1.8 kW of
-  power. A Level 2 charger (240 V, 30 A) can provide about 7.2 kW of
-  power.
-
-  DC fast chargers (Level 3) can provide up to 150 kW of power. For a
-  70 kWh battery, that implies full charge in about 30 min. The same
-  full charge would take 10 hours on a level 2 charger.
-
-  An average US home consumes about 1 kW of power, so a DC fast
-  charger is equivalent to about 150 homes at its peak charging. Even
-  a level 2 charger is equivalent to about 7 US homes.
-
-  However, assuming an average of 10k miles driven in a year, that
-  translates to a requirement of 10k/300*70 kWh/year or about 2.4
-  MWh/year. An average US home consumes 1 kW * 9000 hours/year = 9
-  MWh/year. So, on average, an EV will add about 25% to the energy
-  consumption of a house.
-
-
 * Picture of automotive engine                                       :Review:
 
   [[file:Screenshot 2023-08-26 173914.jpg][Diagram of engine]]

@@ -123,16 +123,6 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :RATIO: 0.40
    :END:
 
-** TODO Read [[https://www.bing.com/search?q=open+charging+alliance+certification+renewal+requirements&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=open+charging+alliance+certification+renewal+requirements+&sc=10-58&sk=&cvid=16D1A17E2FA0491DA541591E79113EEF&ghsh=0&ghacc=0&ghpl][OCPP requirements]]
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-   :LOGBOOK:
-   CLOCK: [2025-02-23 Sun 06:50]--[2025-02-23 Sun 06:50] =>  0:00
-   :END:
-
 ** TODO Find a book on cleaning the house 5S, Marie Kondo, etc
    :PROPERTIES:
    :EFFORT: 00:15
@@ -230,5 +220,3 @@ CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
-
-
