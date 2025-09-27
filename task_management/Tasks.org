@@ -102,8 +102,7 @@ and are basically a cost-benefit analysis.
   could consider outsourcing i.e. donate money to them so that they
   can solve it more efficiently.
 
-NPV analysis can be done to calculate the cost-benefit tradeoff.
-
+[[id:8f3f8921-b064-48d8-a5e1-1ac27043a733][NPV analysis]] can be done to calculate the cost-benefit tradeoff.
 
 * Eisenhower matrix
    :PROPERTIES:
@@ -152,7 +151,7 @@ person-min/day of effort. If it requires more effort or more cost than
 that, there's probably something else you could do that has a better
 cost/benefit trade-off.
 
-Assume that you could save t units of time per day for the next 3
+Assume that you could save t units of calendar time per day for the next 3
 years. That converts to roughly t*365 units per year for 3
 years. Using a 10% discount rate, your total savings is:
 t*365*[1 + (1/1.1) + (1/1.1)^2] = t*365*2.74
@@ -161,17 +160,28 @@ t*365*[1 + (1/1.1) + (1/1.1)^2] = t*365*2.74
 So, that's the upper bound on how much effort you should spend on
 that improvement.
 
-For instance, if you save 1 min/day for 3 years, you can spend up
-to 1000 min or 16 hours.
+For instance, if you save 1 calendar-min/day for 3 years, you can spend up
+to 1000 calendar-min or 16 calendar-hours.
 
 Assume a conversion rate of $1/person-min for cost to effort and the
 other result follows.
 
+** Calculation for business
+
+This calculation needs to be adjusted slightly for business. Assume
+you can save 1 person 1 min/business-day. That person typically works
+40*50 or 2000 business-hours/year. Since there are ~9000
+calendar-hours/year, that means that the ratios in the previous
+section need to be multiplied by about (2/9)=0.2.
+
+Thus, to save 1 business minute/day for 3 years, you can spend up to 3
+business-hours.
 
 ** Labor costs
 
 $1/person-min equates to 1*60*40*50 = $120k/year of hired labor.
 
+It equates to 1*60*9000 = $540k/year of calendar labor.
 
 * Projects
 :PROPERTIES:
@@ -186,21 +196,24 @@ someone outside the project team.
 Recurring activities don't count as projects. Those should be
 considered as tasks.
 
+* Value of a project
+:PROPERTIES:
+:ID:       8f3f8921-b064-48d8-a5e1-1ac27043a733
+:END:
+
 All projects and tasks should have the following properties.
 - Benefit from the project (b)
 - Estimated capital costs remaining (cc)
 - Estimated labor costs remaining (lc)
 
-Then, the remaining benefit-to-cost ratio is b/(cc + lc). If the
+Then, the value from the project (v) is the difference, b - (cc + lc). If the
 duration of the costs or the duration of the benefit is more than 3
 years, you should use an NPV analysis.
 
 By using remaining costs, you avoid the sunk cost fallacy.
 
-Usually, labor is the scarce resource while capital is the easily
-available resource. So, a more precise benefit-to-cost ratio could
-weigh labor costs higher.
-
+If you have many projects to choose from, you should rank them by
+benefit and work on the highest value project first.
 
 * Task management for teams                               :Review:Management:
 
