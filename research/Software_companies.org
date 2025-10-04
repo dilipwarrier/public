@@ -1,5 +1,6 @@
 #+TITLE: Software company news and analysis
 #+FILETAGS: :SoftwareIndustry:
+#+STARTUP: overview, hideallblocks
 
 * Atlassian products                                                 :Review:
 :PROPERTIES:

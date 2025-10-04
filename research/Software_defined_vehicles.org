@@ -1,10 +1,31 @@
-#+TITLE: Software for cars
-#+FILETAGS: :SoftwareIndustry:Automotive:
+#+TITLE: Embedded software
+#+FILETAGS: :Software:Automotive:
+#+STARTUP: overview, hideallblocks
 
-* Blackberry                                                         :Review:
+* Wind River                                                         :Review:
+
+Wind River owns the VxWorks OS which is a leading competitor to QNX
+OS.
+
+* QNX                                                                :Review:
 
   Video on [[https://youtu.be/yViw8Rh8T1w][Blackberry's evolution]] from mobile phones to IoT and security
 
+
+* Eclipse ThreadX
+
+This is an open-source RTOS that was previously Azure RTOS. It is
+managed by the Eclipse foundation.
+
+* RTOS vendors by industry
+
+|------+-----------------------+-----------------------+------------------------------+--------------------------------|
+| Rank | Industrial Automation | Automotive            | Healthcare (Medical Devices) | Home appliances / Consumer IoT |
+|------+-----------------------+-----------------------+------------------------------+--------------------------------|
+|    1 | FreeRTOS              | QNX                   | QNX                          | FreeRTOS                       |
+|    2 | VxWorks               | Green Hills INTEGRITY | INTEGRITY                    | Eclipse ThreadX                |
+|    3 | Zephyr                | VxWorks               | VxWorks                      | Zephyr                         |
+|------+-----------------------+-----------------------+------------------------------+--------------------------------|
 
 * Software companies working on EVs and batteries                    :Review:
 

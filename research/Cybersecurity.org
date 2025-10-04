@@ -1,11 +1,28 @@
-#+Title: Cybersecurity culture and practices
+#+Title: Privacy, security, and identity
 #+FILETAGS: :Technology:
-#+STARTUP: content
+#+STARTUP: overview, hideallblocks
 
 * Cybersecurity practice overview                                    :Review:
 
-  ISACA/CMMI paper on [[https://drive.google.com/file/d/1NAcGLX0zRCvYRjzHlqjj3eBoYzCLuvXs/view?usp=drive_link][cybersecurity culture]]
+ISACA/CMMI paper on [[https://drive.google.com/file/d/1NAcGLX0zRCvYRjzHlqjj3eBoYzCLuvXs/view?usp=drive_link][cybersecurity culture]]
 
-  Most orgs spend a lot of budget on employee training. However,
-  successful orgs spend a larger part of their cybersecurity budget on
-  certifications, consultants, etc.
+Most orgs spend a lot of budget on employee training. However,
+successful orgs spend a larger part of their cybersecurity budget on
+certifications, consultants, etc.
+
+* Identity                                                           :Review:
+
+Most entities that require identity don't need all parts of your
+identity. For instance, if you buy alcohol at a liquor store, you show
+your state ID which shows your name, your photograph, your birth
+date, and your residential address. However, the store owner only
+needed your birth date and your photograph.
+
+The fundamental problem to solve in identity, then, is to allow
+requests for identity to get the needed information without getting
+any extraneous information.
+
+** References
+
+- The Economist, [[https://www.economist.com/christmas-specials/2018/12/18/establishing-identity-is-a-vital-risky-and-changing-business][Establishing identity]], 2018.
+- Caryn Seidman-Becker, [[https://podcasts.apple.com/us/podcast/caryn-seidman-becker-rebuilding-clear/id1154105909?i=1000716294219][Interview on "Invest like the Best"]], 2025.

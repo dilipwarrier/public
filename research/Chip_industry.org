@@ -1,75 +1,55 @@
-#+Title: Chip industry
+#+TITLE: Chip industry
 #+FILETAGS: :Technology:Semiconductors:
 #+STARTUP: overview
 
 * PC chip industry                                                   :Review:
 
-  As of early 2022, the PC chip industry has seen significant growth
-  in the first two years of the COVID pandemic (2020-22).  AMD has
-  about 20% share in the industry and has gained a large market share from
-  Intel.
+As of early 2022, the PC chip industry has seen significant growth
+in the first two years of the COVID pandemic (2020-22).  AMD has
+about 20% share in the industry and has gained a large market share from
+Intel.
 
-  PC shipments increased to about 340M units in CY21, compared
-  to an average of 265M units in the five years comprising CY15
-  through CY19. Forecasts are that this higher level will stay steady
-  but will not increase significantly. Intel is depending upon the
-  revenue from the PC market to fund an expensive effort to build up
-  manufacturing to compete with TSMC.
+PC shipments increased to about 340M units in CY21, compared
+to an average of 265M units in the five years comprising CY15
+through CY19. Forecasts are that this higher level will stay steady
+but will not increase significantly. Intel is depending upon the
+revenue from the PC market to fund an expensive effort to build up
+manufacturing to compete with TSMC.
 
-  Other competitors are ARM (Apple used ARM technology for its
-  in-house chips) and Qualcomm which is making in-roads into the
-  market with Snapdragon.
+Other competitors are ARM (Apple used ARM technology for its
+in-house chips) and Qualcomm which is making in-roads into the
+market with Snapdragon.
 
+* Relative sizes of markets                                          :Review:
 
-* Relative sizes of market                                           :Review:
-
-  In 2022, the units sold every year are as follows.
-     - 1.5B smart phones (~150M smart phones/OEM)
-     - 340M PCs/laptops
-     - 80M cars
-
-
-* TSMC                                                               :Review:
-
-  Every car has about 20 MCUs on average.
-  About 70% of all MCUs are manufactured by TSMC.
-  Yet, automotive chips are only 3% of TSMC revenue.
-
+In 2022, the units sold every year are as follows.
+  - 1.5B smart phones (~150M smart phones/OEM)
+  - 340M PCs/laptops
+  - 80M cars
 
 * NXP                                                                :Review:
 
-  [[https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform:S32][S32 microcontrollers]]
-
+[[https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform:S32][S32 microcontrollers]]
 
 ** S32K
 
-   These are general-purpose MCUs typically with clock rates in 100s
-   of MHz.
+These are general-purpose MCUs typically with clock rates in 100s of
+MHz.
 
-   [[https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32k-general-purpose-mcus/s32k3-microcontrollers-for-general-purpose:S32K3][S32K3 family comparison]]
+[[https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32k-general-purpose-mcus/s32k3-microcontrollers-for-general-purpose:S32K3][S32K3 family comparison]]
 
-   S32K344 - 4 MB flash, 512 kB SRAM, 1x lockstep Cortex M7
-   core @ 160 MHz
-
+S32K344 - 4 MB flash, 512 kB SRAM, 1x lockstep Cortex M7 core @ 160
+MHz.
 
 ** S32G
 
-   These are network processors, typically with combinations of ARM
-   Cortex-M (real-time) and Cortex-A (application) cores. Clock rates
-   are in GHz for the Cortex-A (see screenshot below).
+These are network processors, typically with combinations of ARM
+Cortex-M (real-time) and Cortex-A (application) cores. Clock rates
+are in GHz for the Cortex-A (see screenshot below).
 
-   32 KB I-cache and D-cache and 512 KB L2 per cluster.
+32 KB I-cache and D-cache and 512 KB L2 per cluster. 4-8 MB SRAM.
 
-   4-8 MB SRAM.
-
-   [[file:Screenshot 2023-01-29 114928.jpg]]
-
-
-* Qualcomm Snapdragon                                                :Review:
-
-  [[https://developer.qualcomm.com/blog/ml-training-edge-training-mobile-devices][Limited retraining]] is supported on the Snapdragon using the OpenCL
-  ML SDK on the Adreno.
-
+[[file:Screenshot 2023-01-29 114928.jpg]]
 
 * Intel                                                              :Review:
 
@@ -103,29 +83,32 @@ poor. However, we need to look at not just commercial success but also
 geo-political success.
 
 
+* TSMC                                                               :Review:
+
+Every car has about 20 MCUs on average. About 70% of all those MCUs
+are manufactured by TSMC. Yet, automotive chips are only 3% of TSMC
+revenue.
+
 * ASML                                                      :LinkedIn:Review:
 
-  I came across [[https://www.visualcapitalist.com/the-50-most-valuable-companies-in-the-world-in-2023/?utm_source=Newsletter&utm_campaign=37abfa8c9a-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-37abfa8c9a-9546361][this infographic]] on the 50 most valuable companies in
-  the world. Most of the names in the IT sector are household names,
-  but ASML?
+I came across [[https://www.visualcapitalist.com/the-50-most-valuable-companies-in-the-world-in-2023/?utm_source=Newsletter&utm_campaign=37abfa8c9a-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-37abfa8c9a-9546361][this infographic]] on the 50 most valuable companies in
+the world. Most of the names in the IT sector are household names,
+but ASML?
 
-  Netherlands-based ASML is the world leader in lithography
-  techniques for etching chips and deserves to be better known.
+Netherlands-based ASML is the world leader in lithography
+techniques for etching chips and deserves to be better known.
 
-  Companies like Applied Materials and Lam Research combine their
-  technology with layering techniques to build the multiple layers that
-  are needed for today's chips. For example, today's logic chips can
-  have up to 20 wiring layers stacked up, one on top of another.
+Companies like Applied Materials [2] and Lam Research combine their
+technology with layering techniques to build the multiple layers that
+are needed for today's chips. For example, today's logic chips can
+have up to 20 wiring layers stacked up, one on top of another.
 
-  Manufacturers like TSMC (also on that list) then manufacture
-  #semiconductor chips using this layering technology.
-
-  Source: [[https://www.wsj.com/articles/applied-materials-chips-61bbed0e][WSJ article]]
-
+Manufacturers like TSMC (also on that list) then manufacture
+semiconductor chips using this layering technology.
 
 ** Anonymous: When everybody is digging for gold, it's good to be in the pick and shovel business :quotes:
 
-
 * References
 
-[1] Ben Thompson, [[https://stratechery.com/2025/u-s-intel/][U.S. Intel]], Aug 2025.
+1. Ben Thompson, [[https://stratechery.com/2025/u-s-intel/][U.S. Intel]], Aug 2025.
+2. WSJ, [[https://www.wsj.com/articles/applied-materials-chips-61bbed0e][article on ASML]].
