@@ -1,135 +1,134 @@
-#+TITLE: The best place to work by Ron Friedman
+#+TITLE: Work engagement
 #+FILETAGS: :Management:
-#+STARTUP: :overview:
+#+STARTUP: overview, hideallblocks
 
 * How to handle employee disengagement
 
-  A Gallup poll has found that 70% of Americans are disengaged from
-  their work. Although management in most companies recognize this
-  problem, they have been going about fixing the problem the wrong
-  way. This is partly due to reliance on manufacturing methods like
-  Taylorism that do not make sense for today's knowledge workers.
+A Gallup poll has found that 70% of Americans are disengaged from
+their work. Although management in most companies recognize this
+problem, they have been going about fixing the problem the wrong
+way. This is partly due to reliance on manufacturing methods like
+Taylorism that do not make sense for today's knowledge workers.
 
-  The following sections describe some easy actions that organizations
-  and managers can take to resolve this problem.
+The following sections describe some easy actions that organizations
+and managers can take to resolve this problem.
 
+* Failure and experimentation                                        :Review:
 
-* Lessons of failure                                                 :Review:
+High achievers fail multiple times and make a lot more attempts than
+others. Workplaces should not encourage individuals to do the same
+thing over and over. Experimentation is necessary in today's
+climate.
 
-  High achievers fail multiple times and make a lot more attempts than
-  others. Workplaces should not encourage individuals to do the same
-  thing over and over. Experimentation is necessary in today's
-  climate.
+* Workspace design                                                   :Review:
 
+Introduce elements from nature such as seating next to large
+windows, aquariums, plants etc.
 
-* Lessons of workspace design                                        :Review:
+Modern workspaces provide opportunities for different types of
+activities e.g. cubicles for distraction-free work, open spaces for
+collaboration etc. This is often called providing caves and campfires.
 
-  Introduce elements from nature such as seating next to large
-  windows, aquariums, plants etc.
+Employees should have the opportunity to personalize their office
+setting. A comfortable, personalized space can help improve
+productivity. This is one of the key reasons people like working
+from home.
 
-  Modern workspaces provide opportunities for different types of
-  activities e.g. cubicles for distraction-free work, open spaces for
-  collaboration etc. This is often called providing caves and campfires.
+There should also be plenty of opportunities to step away from the
+office space to allow the brain to recharge.
 
-  Employees should have the opportunity to personalize their office
-  setting. A comfortable, personalized space can help improve
-  productivity. This is one of the key reasons people like working
-  from home.
+* Distractions and play                                              :Review:
 
-  There should also be plenty of opportunities to step away from the
-  office space to allow the brain to recharge.
+Modern leaders should consider themselves less as designers and more
+as gardeners who help the seeds of ideas in employees' minds grow.
 
+The subconscious mind is better at processing complex
+problems. Taking some time to step away from a problem can lead to
+more insights.
 
-* Lessons of distractions and play                                   :Review:
+Distractions can also help. Hence, it is worthwhile to have book
+clubs or TED talk discussions for the organization. Similarly,
+physical exercise can lead to improved complex task processing. Make
+time for these in company schedules.
 
-  Modern leaders should consider themselves less as designers and more
-  as gardeners who help the seeds of ideas in employees' minds grow.
+See also [[id:8b5f3072-ad2e-4005-9934-cd3ae189e99f][Creativity and learning]].
 
-  The subconscious mind is better at processing complex
-  problems. Taking some time to step away from a problem can lead to
-  more insights.
+* Happiness                                                          :Review:
 
-  Distractions can also help. Hence, it is worthwhile to have book
-  clubs or TED talk discussions for the organization. Similarly,
-  physical exercise can lead to improved complex task processing. Make
-  time for these in company schedules.
+When the team needs to think big-picture or to brainstorm, then
+starting with good news that makes the team happy can improve
+output. However, this does not help with careful analysis or
+troubleshooting.
 
-  See also [[./Brain.org::#learning_to_learn][Learning to learn]].
+Modest but frequent positive experiences (positive feedback from
+managers, high-quality espresso every day, catered lunches
+occasionally) can have a greater impact on employee wellness than
+large infrequent positive experiences.
 
+Have occasional forums where people express gratitude for the things
+that go well. For instance, you can have a meeting dedicated only to
+the accomplishments over the past month rather than the gaps or
+delays. This can also be part of the "What Went Well" part of a
+retrospective.
 
-* Lessons of happiness                                               :Review:
+* Friendship                                                         :Review:
 
-  When the team needs to think big-picture or to brainstorm, then
-  starting with good news that makes the team happy can improve
-  output. However, this does not help with careful analysis or
-  troubleshooting.
+Employees feel more connected to work when they have strong
+friendships at work. Find opportunities for employees to connect on
+common interests.
 
-  Modest but frequent positive experiences (positive feedback from
-  managers, high-quality espresso every day, catered lunches
-  occasionally) can have a greater impact on employee wellness than
-  large infrequent positive experiences.
+People connect closely based on the following factors.
+- Proximity
+- Similarity
+- Familiarity
+- Self-disclosure
 
-  Have occasional forums where people express gratitude for the things
-  that go well. For instance, you can have a meeting dedicated only to
-  the accomplishments over the past month rather than the gaps or
-  delays.
+Employees should be encouraged to invite family
+members to events; employees enjoy being able to show off their work
+place to their families. Also, instead of awkward social
+get-togethers, consider having events with a common goal that people
+work towards.
 
+If you are having constant conflicts with a colleague, find common
+goals that you can both strive towards. Gossip is a powerful tool in
+human communications but be careful about encouraging it too much.
 
-* Lessons of friendship                                              :Review:
+* Autonomy                                                           :Review:
 
-  Employees feel more connected to work when they have strong
-  friendships at work. Find opportunities for employees to connect on
-  common interests.
+Let the team steer its own path. Your job is to ask questions and
+provide feedback.
 
-  People connect closely based on the following factors.
-  - Proximity
-  - Similarity
-  - Familiarity
-  - Self-disclosure
+Human beings generally appreciate higher autonomy more than higher
+income in a new job.
 
-  Employees should be encouraged to invite family
-  members to events; employees enjoy being able to show off their work
-  place to their families. Also, instead of awkward social
-  get-togethers, consider having events with a common goal that people
-  work towards.
+In addition to autonomy, human beings need to increase their
+competence through increasing challenges and need to see the meaning
+of what they are doing.
 
-  If you are having constant conflicts with a colleague, find common
-  goals that you can both strive towards. Gossip is a powerful tool in
-  human communications but be careful about encouraging it too much.
+For established companies, make sure that employees understand the
+history of the company. For new companies, make sure that employees
+have reason to be passionate about the work of the company. This can
+lead to employees being more engaged. Also, let employees be seen as
+publicly owning their work. This is better than reinforcing
+anonymity.
 
+* Listening                                                          :Review:
 
-* Lessons of autonomy                                                :Review:
+Increase your listening-to-talking ratio and your
+questions-to-answers ratio.
 
-  Let the team steer its own path. Your job is to ask questions and
-  provide feedback.
+Find a PEARLS (Partnership, Empathy, Acknowledgement, Respect, Legitimacy,
+Support) item to add in every workplace conversation.
 
-  Human beings generally appreciate higher autonomy more than higher
-  income in a new job.
+Clear the relationship channel first when you have issues in the
+task channel. For instance, if you are having a heated conversation
+over a tactical issue, let your colleague know that you respect
+their overall capability.
 
-  In addition to autonomy, human beings need to increase their
-  competence through increasing challenges and need to see the meaning
-  of what they are doing.
-
-  For established companies, make sure that employees understand the
-  history of the company. For new companies, make sure that employees
-  have reason to be passionate about the work of the company. This can
-  lead to employees being more engaged. Also, let employees be seen as
-  publicly owning their work. This is better than reinforcing
-  anonymity.
-
-
-* Lessons of listening                                               :Review:
-
-  Increase your listening-to-talking ratio and your
-  questions-to-answers ratio.
-
-  Find a PEARLS (Partnership, Empathy, Acknowledgement, Respect, Legitimacy,
-  Support) item to add in every workplace conversation.
-
-  Clear the relationship channel first when you have issues in the
-  task channel. For instance, if you are having a heated conversation
-  over a tactical issue, let your colleague know that you respect
-  their overall capability.
-
+See also [[id:588c4c43-869b-437d-b96c-8f61b0f6ed48][Having conversations about changes in direction]].
 
 ** Ron Friedman: You do not progress in your career by winning arguments; you progress by finding common ground. :quotes:
+
+* References
+
+- Ron Friedman, The best places to work.

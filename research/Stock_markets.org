@@ -1,0 +1,16 @@
+#+TITLE: Financial markets
+#+FILETAGS: :Finances:
+#+STARTUP: overview, hideallblocks
+
+* Stock market performance                                           :Review:
+
+In the 40 years leading up to 2021, global stocks had an average annual
+return of 7.4% and global bonds 6.3%. However, the long-run averages
+for those numbers are 5% and 1.7% a year respectively.
+
+Youngsters investing after 2021 should not expect the returns of the past
+40 years. Those returns have been extraordinary.
+
+** References
+
+- Economist, [[https://www.economist.com/finance-and-economics/2023/11/16/how-the-young-should-invest][How the young should invest]], Nov 2023.

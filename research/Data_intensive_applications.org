@@ -1,6 +1,6 @@
 #+TITLE: Designing data-intensive applications
 #+Author: Martin Kleppmann
-#+Filetags: :ComputerScience:BookNotes:
+#+Filetags: :ComputerScience:
 
 * Introduction                                                       :Review:
 

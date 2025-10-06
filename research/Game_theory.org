@@ -1,5 +1,5 @@
 #+TITLE: An introduction to game theory by Steven Tadelis
-#+FILETAGS: :economics:games:mathematics:probability:BookNotes:
+#+FILETAGS: :economics:mathematics:
 #+STARTUP: content
 
 * Three factors to making a decision                                 :Review:

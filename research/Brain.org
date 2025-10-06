@@ -75,7 +75,7 @@ follows.
   bring about process excellence.
 
 
-** Andy Hunt: Software isn't designed in a tool, it is created in our heads :quotes:
+** Andy Hunt: Software isn't designed in a tool, it is created in our heads. :quotes:
 
 
 ** References
@@ -84,7 +84,94 @@ follows.
 - Dreyfus brothers, [[https://drive.google.com/file/d/0B5vaNNyT6fShdHVDM2I1cDhmSHc/view?usp=drive_link&resourcekey=0-4LNorgv2lUJo_5BfAC5YBg][Acquiring New Skills]]
 
 
-* Creativity                                                         :Review:
+* Principles of effective teaching                                   :Review:
+
+1. Take the difficulty level you naturally want to use.  Now divide it
+   by 10.  Remember: The material is only obvious to you because you
+   are the teacher.  It is non-obvious to your students because they
+   are the students.
+
+2. If you're teaching at MIT or Caltech, you are now at the right
+   difficulty level.  If you're anywhere else, divide by 10 again.
+   Remember: Even smart people are, at first, terrible at almost
+   everything.
+
+3. Don't expects students to "figure things out for themselves."
+   Start with model problems, then work through them at a snail's
+   pace.
+
+4. Once you have shown students clear model problems, assign a bunch
+   of slightly different problems.  Tell them to get to work.
+
+5. If your students do less than 75% of their problems correctly, your
+   problems are still too hard.  Walk them through problems so easy
+   you can't even imagine their inability to do them.  This will
+   improve their knowledge and your imagination.
+
+6. If your students do 75-94% of their problems correctly, give them
+   more practice.  Drill, drill, drill.
+
+7. If your students do 95%+ of their problems correctly, they are
+   ready to advance.  Even then, remember that they are likely to
+   forget unless you periodically give them refresher work (except for
+   highly sequential subjects).
+
+8. Never confuse logic with psycho-logic – and remember that
+   psycho-logic is much more important for pedagogy.  What does that
+   mean?  Don’t expect students to grasp that A–>B simply because
+   A–>B.  Your job is to make truisms seem obvious to ignorant minds.
+   Vary your examples.  Mix it up.  Switch around.  Use repetition.
+   Use repetition.  Use repetition.
+
+9. Look at your students' faces.  If they are bored, be more fun.
+   Tell jokes.  Mock yourself.  Clown around.  Playfully exaggerate
+   all emotions.  Throw your pride aside; a teacher is an entertainer
+   or he is a failure.
+
+10. Look at your students' faces.  If they are frustrated, be more
+    patient.  Never add negative emotion on top of negative emotion.
+    If a student is upset, be a model of mild-mannered stoicism.
+    Without fail.  Without fail.  Without fail.
+
+11. Look at your students' faces.  If they feel like their efforts are
+    pointless, sell them your subject.  Tell them what learning your
+    subject will do for them, even if the only honest answer is, "You
+    need this for graduation."
+
+12. Look at your students’ faces.  If they don’t trust you, earn their
+    trust.  Don’t merely avoid deception; be frank.  Don’t sugarcoat
+    the world, even for little kids.  Unless the ugly truth will give
+    them nightmares or get you fired, share it with equanimity.
+
+13. Look at your students’ faces.  If you can’t read their emotions,
+    ask them questions.  Press them.  Find out what they already know.
+    Find out what confuses them.  Find out whether they are happy or
+    sad or think you’re crazy.  Accept their answers beatifically and
+    adjust your pedagogy to fit the students you actually have.
+
+14. Maintain discipline.  If you have a schedule, stick to it.  If you
+    announce a punishment, stick to it.  If you promise a break, stick
+    to it.  Education is for the students, but it is not a democracy.
+    Listen carefully to what your students say, but only reform from a
+    position of strength.  Don’t be generous; be magnanimous!  If you
+    think this contradicts Principle #9, know that you are wrong.  Act
+    like a jester – but rule like a king.
+
+15. All of these principles are optimized for one-on-one teaching.  If
+    you’re teaching more students, you have to strike a balance.  You
+    will always shortchange someone.  Sorry, that’s a classroom –
+    another point in favor of homeschooling.
+
+** Morpheus: Neo, there’s a difference between knowing the path and walking the path. :quotes:
+
+** References
+
+- Bryan Caplan, [[https://www.econlib.org/teaching-teaching/][Teaching teaching]]
+
+* Creativity and learning                                            :Review:
+:PROPERTIES:
+:ID:       8b5f3072-ad2e-4005-9934-cd3ae189e99f
+:END:
 
 The brain can typically work in a Focused mode or a Diffuse mode.
 
@@ -110,7 +197,6 @@ There are many ways to help the R-mode in its work: doodling, drawing
 mind maps that enhance non-linear relationships, just walking or doing
 other mundane tasks, thinking in metaphors, writing down what you are
 thinking, etc.
-
 
 ** References
 
@@ -241,7 +327,6 @@ that you don't know you don't know. They exist out there but you are
 not even aware that they exist. Further, that base is growing faster
 in time than either of the two sections above because the two sections
 above only grow at the rate that you can learn.
-
 
 * Poetic naturalism                                                  :Review:
 

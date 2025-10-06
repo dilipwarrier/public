@@ -1,0 +1,178 @@
+#+TITLE: Communicating and listening
+#+FILETAGS: :Communication:
+#+STARTUP: overview, hideallblocks
+
+* Reacting emotionally to situations                                 :Review:
+
+We often assume Newton's second law for our emotions, i.e. something
+happens (an action) and we have a reaction. In fact, there are two
+crucial steps that happen in between. When something happens, we tell
+a story based on that action. From that story, we generate an emotion
+and finally we have a reaction based on the emotion.
+
+The stories are often clever but false stories like "I am the victim",
+"He is the villain", and "I had no choice". We can, however, transform
+them into inconvenient but true stories like "I am partially at
+fault", "He is a decent and rational human being", and "I have
+choices".
+
+* Responding well to feedback                                        :Review:
+
+We think that feedback harms our safety. Our inner monologue says that
+"My life might be ruined because of this negative feedback." We may
+also think that it harms our self-worth: "I see myself as competent
+based on what others think of me."
+
+To resolve this, first, we must reframe our perspective. We must
+understand that our worth and competence exist independently of
+others' opinions.
+
+Then, we can use the CURE framework to respond to feedback.
+
+- Collect yourself
+  + Take a deep breath.
+  + Mentally prepare.
+
+- Understand
+  + Be curious.
+  + Ask: Why would a rational, decent human being give me this
+    feedback?
+
+- Recover
+  + Take a break from the feedback.
+  + Give yourself space to process it.
+
+- Engage
+  + Reflect and identify useful insights.
+  + Return to the person who gave the feedback.
+  + Share what you plan to do with it.
+
+* Having conversations about changes in direction                    :Review:
+:PROPERTIES:
+:ID:       588c4c43-869b-437d-b96c-8f61b0f6ed48
+:END:
+
+- Share your good intent
+- Apologize, if appropriate
+- Contrast to provide clarity
+  + Share what you intend
+  + Share what you don’t intend
+- Achieve common purpose by CRIB
+  + Commit to seek mutual purpose
+  + Recognize the purpose behind the strategy
+  + Invent a mutual purpose, if necessary
+  + Brainstorm new strategies
+- Then, tell your story
+  + Share your facts
+    - Start with the least controversial, most persuasive elements
+      from your Path to Action.
+  + Tell your story tentatively
+    - Explain what you’re beginning to conclude.
+    - State your story as a story — don’t disguise it as a fact.
+  + Ask for others’ paths
+    - Encourage others to share both their facts and their stories.
+    - Make it safe for others to express differing or even opposing
+      views.
+
+* Having productive conversations on disagreements                   :Review:
+
+Successful responses follow a five-step process (ALRAS) that helps make
+conversations less polarized and more productive.
+
+- Ask open-ended and genuinely curious questions.
+
+- Listen to what people you disagree with say.
+
+- Reflect back their perspective by summarizing their answers.
+
+- Agree with appropriate aspects before disagreeing.
+
+- Share your perspective by telling a story about a personal
+  experience.
+
+At the heart of this method is a simple idea. People cannot
+communicate effectively when they feel
+threatened. Direct attacks trigger the sympathetic nervous
+system. Most political conversations fail because belief challenges
+trigger a fight-or-flight responses. That limits our capacity for
+reason, empathy, and self-reflection.
+
+To have productive conversations, first, make people feel safe. The
+goal should be to keep the rational brain engaged so that people can
+hear new ideas, absorb them, and adapt to them.
+
+While powerful, this method is not easy. It takes patience, tolerance,
+and conscious engagement on your part. You carry the responsibility
+for keeping the conversation calm by avoiding triggering others or
+getting triggered yourself.
+
+It may be tempting to skip this difficult task and to avoid political
+talk in mixed company. Why provoke your angry uncle when you could
+just talk about pumpkin pie? However, avoidance sacrifices the
+opportunity to foster understanding and facilitate change.
+
+Remember, your goal is not to prove your point, to score points, to
+vent, or to put people in their place. Your goal is to make a
+difference by sharing your message in a way others can truly hear.
+
+* Explaining ideas                                                   :Review:
+
+Explanation is the process of making facts more understandable.
+
+Explanation is an craft. We are all born with some innate ability to
+explain but we need to practice to get better.
+
+A person who has the task of explaining has "the curse of
+knowledge". This hinders them from clearly explaining the idea to
+those who do not know.
+
+Think of an explanation as a package of ideas with a fixed size. Only
+a certain number of ideas can fit into the package. You have to choose
+those ideas.
+
+To explain a concept to the outside world, you have to step out of the
+bubble of your world. Instead of saying things that make you look
+smart, you have to make the audience feel smarter.
+
+Providing context is an important first step in an explanation. This
+involves showing the forest first before the trees. Alternatively,
+think of it as demonstrating the why before the how. In the context,
+you always want to provide a few statements that everyone can agree
+on.
+
+An important part of an explanation is being able to tell a story and
+not just the facts. In telling a story, you try to put a human wrapper
+around your explanation. The steps may be:
+- Meet Bob, he's just like you.
+- Bob has a problem that makes him feel bad.
+- Bob found a solution and he feels good.
+- Don't you want to feel like Bob?
+
+When explaining something new, connect it to something old and known
+but describe the pain with the known thing. For example, Netflix is
+just like borrowing movies from your neighborhood movie rental but
+imagine the pain of finding out that they are out of the movie you
+want.
+
+When you want to simplify a complex idea,
+- Focus on the big picture. Ignore the details and exceptions.
+- Emphasize understanding over accuracy.
+- Only use standard and well-known terms.
+
+The map is not the terrain. Your explanation is conceptual and its
+goal is clarity.
+
+However, when you say something that's compelling but not true, you
+are duping your audience. That may work for a while but, sooner or
+later, you will get caught. Learn to say things that are both
+interesting and true. That makes a powerful story.
+
+** Samuel Johnson: What is written without effort is read without pleasure :quotes:
+
+* References
+
+- Kelly Patterson, "Crucial conversations"
+- Karin Tamerius, [[https://www.nytimes.com/interactive/2018/11/18/opinion/thanksgiving-family-argue-chat-bot.html][How to have a conversation about politics]], NY
+  Times 2018.
+- Seth Godin, [[https://seths.blog/2025/04/a-powerful-story/][A powerful story]]
+- Lee Lefever, "The art of explanation"
