@@ -1,0 +1,36 @@
+#+TITLE: Persistence and Optimism
+#+FILETAGS: :Psychology:Brain:
+#+STARTUP: overview, hideallblocks
+
+* Optimistic people
+
+- [[id:7f9a58c8-e894-452c-be5f-9e5ff7c00dbb][Jeff Bezos]]
+- Bryan Caplan
+- Mark Horztmann
+
+* The five meetings rule                                             :Review:
+:PROPERTIES:
+:ID:       64050850-821b-419e-bb04-ad9f8e5cdb3e
+:END:
+
+Anything good takes five meetings to achieve, whether that be getting
+a job, closing a deal, making a major change, or getting a date.
+
+The flip side is also true: if it's taking a lot more than five
+meetings, perhaps it's time to move on.
+
+Roughly, the five meetings are as follows.
+- The introduction :: Get to know each other, keep it 30 minutes tops.
+- The story :: Tell your story.
+  No embellishments but make it a good narrative. See also [[id:c252436c-dc01-41fd-8ee1-c2339323c36e][Explaining ideas]].
+- The data :: Show your slide deck, your data, etc.
+- The ask :: Pop the question but also pitch to a mutual friend.
+  They are bound to ask that mutual friend who will then
+  reinforce your story.
+- The close :: Easy because you've had four touch points already.
+
+Like all important concepts, this is easy to grasp but hard to follow.
+
+** References
+
+- Andy Kessler, WSJ, [[https://www.wsj.com/articles/anything-good-takes-exactly-five-meetings-1542578334][Anything good takes five meetings]]

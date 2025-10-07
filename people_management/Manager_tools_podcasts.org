@@ -659,7 +659,6 @@
 
 ** Communication
 
-
 *** Listening to others
 
     [[https://www.manager-tools.com/print/353111?pod=353116][How to listen better]]
@@ -668,51 +667,51 @@
 *** Pre-wiring a presentation
     :PROPERTIES:
     :CUSTOM_ID: pre_wire
+    :ID:       8996fe86-bcc2-43e0-80ee-14f40b2f7bf5
     :END:
 
-     All important presentations are pre-wired. An information briefing or
-     decision briefing must feel like a slam-dunk. However, the slam-dunk
-     doesn't happen in the presentation or briefing; it happens in the
-     pre-wiring process.
+All important presentations are pre-wired. An information briefing or
+decision briefing must feel like a slam-dunk. However, the slam-dunk
+doesn't happen in the presentation or briefing; it happens in the
+pre-wiring process.
 
-     This advice also applies when your direct presents in your boss'
-     staff meeting. Your direct doesn't have enough information about
-     your boss or about your peers. You must prep them. (Give the team the
-     example of your direct's directs giving presentations during your staff
-     meetings. Your direct must be briefed first. Use this and
-     presentations in your manager's staff meeting for pre-wiring.)
+This advice also applies when your direct presents in your boss'
+staff meeting. Your direct doesn't have enough information about
+your boss or about your peers. You must prep them. (Give the team the
+example of your direct's directs giving presentations during your staff
+meetings. Your direct must be briefed first. Use this and
+presentations in your manager's staff meeting for pre-wiring.)
 
-     - Know your time limit :: Make sure you know how much time you
-          have. Start with that, the information in the briefing matters
-          less.
+- Know your time :: Find out how much time you will have.
+  Start with that, the information in the briefing matters less.
 
-     - Decide your key message :: 1 slide every 5 minutes. They don't
-          need to know every detail you know.
+- Decide your key message :: 1 slide every 5 minutes.
+  They don't need to know every detail you know.
 
-     - Prep slides in draft form and brief your manager
+- Prep slides in draft form and brief your manager
 
-     - Get a list of attendees :: Decide which attendees are key
-          attendees who will need pre-wiring. Make sure anybody who may
-          disagree or have a strong opinion is part of the pre-wiring
-          process.
+- Get a list of attendees :: Decide who will need pre-wiring.
+  Make sure anybody who may disagree or have a strong opinion is part of the pre-wiring
+  process.
 
-     - Brief key attendees :: Draft will go through multiple
-          revisions. Take care of curve-balls and disagreements. Request
-          30 minutes and walk through the slides (pre-reads may not be
-          read).
+- Brief key attendees :: Draft will go through multiple
+     revisions. Take care of curve-balls and disagreements. Request
+     30 minutes and walk through the slides (pre-reads may not be
+     read).
 
-     - Re-brief your manager :: Still a draft. Tell your manager the
-          changes that you have made.
+- Re-brief your manager :: Still a draft. Tell your manager the
+     changes that you have made.
 
-     - Finalize your slides and rehearse your presentation
+- Finalize your slides and rehearse your presentation
 
-     The goal of this exercise is to have no surprises and you want to get
-     agreement.
+The goal of this exercise is to have no surprises and to get
+agreement.
 
-     [[https://www.manager-tools.com/2007/11/how-to-prewire-a-meeting%0A][Podcast link]]
+[[https://www.manager-tools.com/2007/11/how-to-prewire-a-meeting%0A][Podcast link]]
 
+See also [[id:191d7627-b7f7-4d64-932e-7058f26558c4][The Amazon 6-pager]].
 
-*** Open door policy
+** Open door policy
 
     This does not mean that your door is open all the time.
 

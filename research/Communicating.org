@@ -74,6 +74,8 @@ Then, we can use the CURE framework to respond to feedback.
     - Make it safe for others to express differing or even opposing
       views.
 
+See also [[id:64050850-821b-419e-bb04-ad9f8e5cdb3e][The five meetings rule]].
+
 * Having productive conversations on disagreements                   :Review:
 
 Successful responses follow a five-step process (ALRAS) that helps make
@@ -116,6 +118,9 @@ vent, or to put people in their place. Your goal is to make a
 difference by sharing your message in a way others can truly hear.
 
 * Explaining ideas                                                   :Review:
+:PROPERTIES:
+:ID:       c252436c-dc01-41fd-8ee1-c2339323c36e
+:END:
 
 Explanation is the process of making facts more understandable.
 
@@ -176,3 +181,4 @@ interesting and true. That makes a powerful story.
   Times 2018.
 - Seth Godin, [[https://seths.blog/2025/04/a-powerful-story/][A powerful story]]
 - Lee Lefever, "The art of explanation"
+- [[id:0eb3a5c5-a835-4111-82e2-6ea81e25ba4a][Interesting videos]]

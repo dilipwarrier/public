@@ -1,8 +1,11 @@
-#+TITLE: Interviews and other material on Jeff Bezos and Amazon
-#+FILETAGS:
+#+TITLE: Jeff Bezos and Amazon
+#+FILETAGS: :Business:
 #+STARTUP: overview
 
-* Notes
+* Notes on Jeff Bezos                                                :Review:
+:PROPERTIES:
+:ID:       7f9a58c8-e894-452c-be5f-9e5ff7c00dbb
+:END:
 
 Jeff does meetings from 9 am to 7 pm every day even after
 "retiring" from Amazon.
@@ -32,46 +35,66 @@ specific steps, you'll feel the stress reduce.
 
 *** Jeff Bezos: Customers are divinely discontented. Yesterday's wow quickly becomes today's ordinary. :quotes:
 
-
 *** Jeff Bezos: All the positive emotions - joy, optimism, etc. - were allowed in my family. The only negative emotion allowed was anger; never fear and anxiety. :quotes:
 
-
 *** Jeff Bezos: Missionaries want to build great products; mercerenaries want to build companies and flip them. Missionaries have curiosity, passion and customer centricity. :quotes:
-
 
 *** Jeff Bezos: You cannot catch the latest wave as an entrepreneur; you have to position yourself and wait for the wave. :quotes:
 
 * Leadership principles
 
-Amazon's leadership principles translate into some essential practices like Bar Raiser hiring,
-Working Backwards from the customer need, written narratives like a 6
-pager or a PR/FAQ, single threaded teams with single threaded leaders,
-focusing on input metrics.
+Amazon's leadership principles translate into some essential practices
+like Bar Raiser hiring, Working Backwards from the customer need,
+written narratives like a six-page narrative, single threaded teams
+with single threaded leaders, focusing on input metrics.
 
-** References
-
-- "Working backwards", Colin Bryar and Bill Carr
-- Amazon's [[https://www.amazon.jobs/content/en/our-workplace/leadership-principles][leadership principles]]
-
-* The Amazon 6-pager
+* The Amazon 6-pager                                                 :Review:
+:PROPERTIES:
+:ID:       191d7627-b7f7-4d64-932e-7058f26558c4
+:END:
 
 You can write 6-pagers for any topic e.g. a 6-month operations plan
-for a business.
+for a business. Typically, you write them on large decisions that
+require a number of people to review in person and either agree or
+disagree and commit. For example, you may use them for product
+strategy tradeoffs, project scoping, engineering implementation
+tradeoffs, annual business plans, etc.
 
-The main text is 6 pages; the appendix can be much longer. The
-document needs to stand on its own in printed form i.e. there will be
-no linked documents that you need to read.
+The main text excluding the appendix should be six pages long. The
+appendix can be much longer and can contain tables and figures of
+supporting data but should not contain narrative text. The document
+needs to stand on its own in printed form i.e. there will be no linked
+documents that you need to read.
 
-Jeff emphasized the narrative structure of these and called them
-6-page narratives.
+The document must be neutral about all options to be considered. It
+should clearly highlight weakness, risks, and disagreements. If
+stakeholders are likely to disagree, then that disagreement should be
+understood before the meeting and documented in the narrative.
 
-However, these plans also rely heavily on data, lessons learned, etc.
+Jeff Bezos emphasized the narrative structure of these and called them
+6-page narratives. However, the document also relies heavily on data,
+lessons learned, etc.
 
-** References
+The review meeting consists of 20 minutes for everyone to read the
+document in silence, 20 minutes for the author to walk through the
+document and invite comments, 10 minutes for discussion of the
+decision, and 5 minutes for the next steps and action items.
 
-- [[https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9][Deep dive into 6-pagers]] by a former Amazon employee
+Six-page narratives and the accompanying meetings have the following
+advantages over Powerpoint slides.
+- Introverts who may not otherwise speak up have a better chance of
+  speaking up in a review meeting.
+- The audience can consume the information at their own pace rather
+  than at the pace of the presenter.
+- The author is forced by the narrative structure to think clearly and
+  consider opposing points of view.
 
+See also [[id:8996fe86-bcc2-43e0-80ee-14f40b2f7bf5][Pre-wiring a presentation]]
 
 * References
 
-- [[https://www.youtube.com/watch?v=O4MtQGRIIuA][2012 re:Invent fireside chat]]
+- [[https://www.youtube.com/watch?v=O4MtQGRIIuA][2012 re:Invent fireside chat]] with Jeff
+- Jesse Freeman, [[https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9][The anatomy of an Amazon 6-pager]]
+- Ian Nowland, [[https://inowland.medium.com/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909][Using 6 page and 2 page documents...]]
+- Colin Bryar and Bill Carr, "Working backwards"
+- Amazon.com, [[https://www.amazon.jobs/content/en/our-workplace/leadership-principles][Leadership principles]]
