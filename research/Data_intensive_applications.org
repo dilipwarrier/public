@@ -1,41 +1,40 @@
-#+TITLE: Designing data-intensive applications
-#+Author: Martin Kleppmann
-#+Filetags: :ComputerScience:
+#+TITLE: Data-intensive applications
+#+FILETAGS: :Software:
+#+STARTUP: overview, hideallblocks
 
 * Introduction                                                       :Review:
 
-  In data-intensive applications, the storage, access
-  and modification of data is the primary challenge as opposed to
-  computation-intensive applications where the computations are the
-  primary challenge.
+In data-intensive applications, the storage, access
+and modification of data is the primary challenge as opposed to
+computation-intensive applications where the computations are the
+primary challenge.
 
-  Data-intensive applications are systems comprising the following
-  building blocks.
-   - Databases :: to store data and access later
-   - Caches :: to remember the results from expensive operations
-   - Search indexes :: to search and filter data by keywords
-   - Stream processing :: to send messages to asynchronous processes
-   - Batch processing :: to periodically crunch a large amount of data
+Data-intensive applications are systems comprising the following
+building blocks.
+- Databases :: to store data and access later
+- Caches :: to remember the results from expensive operations
+- Search indexes :: to search and filter data by keywords
+- Stream processing :: to send messages to asynchronous processes
+- Batch processing :: to periodically crunch a large amount of data
 
-  Typically, some glue application code stitches together tools for
-  each of these building blocks so that the resulting system is
-  efficient. See [[file:Screenshot 2021-12-12 144728.jpg][this example]].
+Typically, some glue application code stitches together tools for
+each of these building blocks so that the resulting system is
+efficient. See [[file:Screenshot 2021-12-12 144728.jpg][this example]].
 
-  Three concerns for such software systems are as follows.
-    - Reliability :: The system must perform correctly even if some
-      sub-parts work incorrectly (software or hardware faults or user
-      errors).
-    - Scalability :: As the system grows in user volume, data volume,
-      complexity etc., the system should be able to handle this growth
-      gracefully.
-    - Maintainability :: As more people start using and developing the
-      system (engineers and operations people), the system must be
-      easily changeable so that people can work on it productively.
+Three concerns for such software systems are as follows.
+- Reliability :: The system must perform correctly even if some
+  sub-parts work incorrectly (software or hardware faults or user
+  errors).
+- Scalability :: As the system grows in user volume, data volume,
+  complexity etc., the system should be able to handle this growth
+  gracefully.
+- Maintainability :: As more people start using and developing the
+  system (engineers and operations people), the system must be
+  easily changeable so that people can work on it productively.
 
-  Faults are defined as problems with sub-systems. Reliability is a
-  measure of how much a fault in a sub-system results in a failure of
-  the entire system.
-
+Faults are defined as problems with sub-systems. Reliability is a
+measure of how much a fault in a sub-system results in a failure of
+the entire system.
 
 * Relational versus document databases                               :Review:
 
@@ -68,16 +67,15 @@
   in. This is an advantage of a graph query over a relational database
   query.
 
-
 * Query languages                                                    :Review:
 
-  SQL is a declarative language i.e. it follows relational algebra
-  very closely. Consider a database for animals where some of the
-  animals may be of the shark family.
+  SQL is a declarative language. It describes what must be true of a
+  result but it does not describe how to achieve that result. In this
+  sense, it follows relational algebra closely.
 
-  In relational algebra, this is represented as:
+  For example, consider a database for animals where some of the animals may be from the
+  shark family. In relational algebra, this is represented as:
   \[ Sharks = \Sigma_{family = "Sharks"} Animals \]
-
   In SQL, this representation is followed closely as:
   #+begin_src
   SELECT * FROM animals WHERE family = "sharks"
@@ -132,7 +130,6 @@
   now does not need to contain the byte offsets for all keys but only
   for a sparse subset of the keys.
 
-
 * Online Analytics Processing (OLAP)                                 :Review:
 
   Previously, standard queries were all of the type where one or a few
@@ -175,9 +172,8 @@
   map is created for each of the values that can be taken on. The ith
   bit map value indicates whether row i contains that value or not.
 
-
 * Links
 
-- [[https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook-dp-B06XPJML5D/dp/B06XPJML5D/ref=mt_other?_encoding=UTF8&me=&qid=][Amazon link]]
+- Martin Klepmann, [[https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook-dp-B06XPJML5D/dp/B06XPJML5D/ref=mt_other?_encoding=UTF8&me=&qid=][Designing data-intensive applications]]
 - [[https://github.com/ept/ddia-references][Updated links to references]]
 - See also Computer architecture article

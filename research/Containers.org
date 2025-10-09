@@ -1,0 +1,37 @@
+#+TITLE: Containers
+#+FILETAGS: :Software:
+#+STARTUP: content, hideallblocks
+
+* Containers                                                         :Review:
+:PROPERTIES:
+:ID:       ba0757bb-3fc9-462e-af71-336b3e3c1ad3
+:END:
+
+A container is a standardized unit that packages up your code and
+all its dependencies. Docker is a well-known container runtime
+that simplifies the management of the entire stack needed for
+container isolation.
+
+Compared to VMs, containers don't have their own OS, so they can
+start up very quickly.
+
+[[./Screenshot 2022-07-24 110105.jpg]]
+
+
+* Orchestration                                                      :Review:
+
+Orchestration tools allow you to start, stop, terminate, and monitor
+container services.
+
+Modern orchestrators are declarative, not
+imperative. For instance, programmers do not state "Start
+a container" in Kubernetes. Instead, they state that "There should be
+3 replicas of service X." The orchestrator runs control loops that
+continuously compare the desired state versus the actual and reconcile
+them.
+
+* Services
+
+A container is a runtime unit. On the other hand, a service is a
+logical grouping of containers to provide some application-level
+functionality e.g. a web front-end service.

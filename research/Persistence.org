@@ -22,7 +22,9 @@ The flip side is also true: if it's taking a lot more than five
 meetings, perhaps it's time to move on.
 
 Roughly, the five meetings are as follows.
-- The introduction :: Get to know each other, keep it 30 minutes tops.
+- The introduction :: Get to know each other, keep it to 30 minutes.
+  Get to know the person, find a common connection, this will help you in
+  the "ask" phase.
 - The story :: Tell your story.
   No embellishments but make it a good narrative. See also [[id:c252436c-dc01-41fd-8ee1-c2339323c36e][Explaining ideas]].
 - The data :: Show your slide deck, your data, etc.
