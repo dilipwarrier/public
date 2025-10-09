@@ -216,6 +216,6 @@ UK.
 
 * References
 
-- The Happiness Hypothesis, Jonathan Haidt
-- Happiness, Edward Diener and Robert Biswas-Diener
-- The How of Happiness, Sonja Lyubomirsky
+- Jonathan Haidt, The Happiness Hypothesis
+- Edward Diener and Robert Biswas-Diener, Happiness
+- Sonja Lyubomirsky, The How of Happiness

@@ -1,8 +1,11 @@
 #+TITLE: Books on US Civil Rights
-#+FILETAGS: :BookNotes:
+#+FILETAGS: :History:
 #+STARTUP: overview
 
 * King by Jonathan Eig                                               :Review:
+:PROPERTIES:
+:ID:       713fd85f-8a0f-4522-9404-8f9b7b243cf1
+:END:
 
 MLK had taken a job as a preacher in Montgomery, Alabama, just weeks before Rosa
 Parks' boycott. He was still relatively unknown in the NAACP and other
@@ -78,6 +81,9 @@ The march was completed by Coretta Scott King after he died.
 
 
 * The Rebellious Life of Mrs Rosa Parks by Jeanne Theoharis          :Review:
+:PROPERTIES:
+:ID:       c1c0dddd-1bf1-47de-a73d-c088059c741b
+:END:
 
 Rosa Parks was heavily involved in the NAACP Montgomery chapter. She
 allied with E. D. Nixon to champion voting rights, registration,

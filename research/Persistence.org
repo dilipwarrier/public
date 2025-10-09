@@ -1,14 +1,17 @@
-#+TITLE: Persistence and Optimism
+#+TITLE: Optimism and persistence
 #+FILETAGS: :Psychology:Brain:
 #+STARTUP: overview, hideallblocks
 
-* Optimistic people
+* Optimistic people                                                  :Review:
 
 - [[id:7f9a58c8-e894-452c-be5f-9e5ff7c00dbb][Jeff Bezos]]
 - Bryan Caplan
 - Seth Godin
 - Steven Pinker
 - Mark Horztmann
+- [[id:c1c0dddd-1bf1-47de-a73d-c088059c741b][Rosa Parks]]
+- [[id:713fd85f-8a0f-4522-9404-8f9b7b243cf1][Martin Luther King Jr]]
+- Omana ammai
 
 * The five meetings rule                                             :Review:
 :PROPERTIES:
