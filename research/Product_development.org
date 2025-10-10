@@ -1,44 +1,81 @@
 #+Title: Notes on the discipline of product development/planning/management
 #+Filetags: :Product:
-#+startup: overview
+#+startup: overview, inlineimages
+
+* Scaled Agile Framework                                             :Review:
+
+SAFe is a structured way to apply Lean and Agile principles in an
+organization. It is based on 10 immutable Lean-Agile
+principles.
+
+1. Take an economic view
+2. Apply systems thinking
+3. Assume variability; preserve options
+4. Build incrementally with fast integrated learning cycles
+5. Base milestones on objective evaluation of working systems
+6. Make value flow without interruptions
+7. Apply cadence and synchronize with cross-domain planning
+8. Unlock the intrinsic motivation of knowledge workers
+9. Decentralize decision-making
+10. Organize around value
+
+** Epics and stories
+
+An epic is a significant initiative that requires portfolio-level
+oversight. It requires an MVP, a business case, and a cost
+estimate. There are two types of epics: business epics that deliver
+value directly to the customer and enabler epics that enhance
+architectural runway.
+
+An epic consists of many stories. A story is a deliverable piece of
+functionality that an Agile team can deliver in an iteration. The
+story must be written from a user perspective. Stories can also be
+business stories that deliver value to the user or enabler stories
+that improve the product architecture.
+
+** References
+
+- [[https://studio.scaledagile.com/][Scaled Agile Studio]]
+- [[https://drive.google.com/drive/folders/1PbG5T-doqF-FdYbhQOxQ4_W5OWVGqvfB][Introduction to SAFe 2025]]
 
 * Problem versus solution                                            :Review:
 
-  People have this overly simplistic notion that product management and
-  product design work to define the problem, and then engineering works
-  to build a solution.
+People have this overly simplistic notion that product management and
+product design work to define the problem, and then engineering works
+to build a solution.
 
-  Such a nice, clean separation between what product and design do, and
-  what engineering does.
+Such a nice, clean separation between what product and design do, and
+what engineering does.
 
-  Unfortunately, this overly simplistic thinking usually kills any
-  chance for real innovation.
+Unfortunately, this overly simplistic thinking usually kills any
+chance for real innovation.
 
-  Product teams are cross-functional (product, design, engineering),
-  they are focused on and measured by outcomes, they are empowered to
-  figure out the best way to solve problems.
+Product teams are cross-functional (product, design, engineering),
+they are focused on and measured by outcomes, they are empowered to
+figure out the best way to solve problems.
 
-  The purpose of a product team is to solve a problem in ways that the
-  customer loves, yet work for the business.
+The purpose of a product team is to solve a problem in ways that the
+customer loves, yet work for the business.
 
-  There are four types of product risks.
-  - Value risk :: Will people use it?
-  - Viability risk :: Will the solution work for our business?
-  - Usability risk :: Will people figure out how to use it?
-  - Feasibility risk :: Can we build it with the time, skills, and technology we have?
+There are four types of product risks.
+- Value risk :: Will people use it?
+- Viability risk :: Will the solution work for our business?
+- Usability risk :: Will people figure out how to use it?
+- Feasibility risk :: Can we build it with the time, skills, and technology we have?
 
-  Risks 1 and 2 are owned by the product manager, risk 3 by the designer
-  and risk 4 by the engineer.
+Risks 1 and 2 are owned by the product manager, risk 3 by the designer
+and risk 4 by the engineer.
 
-  The crucial difference between a product team and a feature team is
-  that the feature team doesn't have responsibility for the value and
-  viability. Instead, some executive stakeholder does. When this
-  happens, the team might not even believe that there's a viable
-  product. This leads to friction aand dissonance.
+The crucial difference between a product team and a feature team is
+that the feature team doesn't have responsibility for the value and
+viability. Instead, some executive stakeholder does. When this
+happens, the team might not even believe that there's a viable
+product. This leads to friction aand dissonance.
 
-  A true product team has responsibility and accountability.
+A true product team has responsibility.
 
 ** References
+
 - Marty Cagan, "Inspired"
 
 * Competencies for product development                               :Review:
@@ -56,14 +93,13 @@ A head of product management must be skilled at:
 - Product Culture
 - Empathy
 
-
 * Feature prioritization                                    :LinkedIn:Review:
 
   I was recently introduced to the Kano method of prioritization of
   features for a product (hat tip: Melissa Perri's product management
   online course and Wikipedia).
 
-  Here's the rough model. Think of features in three categories.
+  Features fall into three categories.
 
   - Known Needs :: Customers take these for granted.
     No one notices them when they work as they should. But if
@@ -79,15 +115,14 @@ A head of product management must be skilled at:
     fully implemented, but are unnoticeable if they are not included
     at all. e.g. a free cookie upon check-in to a hotel.
 
-  It's easiest to think of the categorization using the Wikipedia
-  graph.
+  If you want to satisfy your customer, meeting the basic needs might
+  be enough. However, if you want to delight your customer, you must
+  think about introducing delighters. The hard work is to identify
+  what those delighters are and how to accomplish them such that they
+  serve both your customers and your business.
 
-  [[file:Screenshot 2022-02-07 164005.jpg][Feature categories]]
-
-  If you want to satisfy your customer, meeting the basic needs might be
-  enough but, if you want to delight your customer,
-  you must think about introducing delighters. The hard work, of course,
-  is to identify what those delighters are and how to accomplish them
-  such that they serve both your customers and your business.
+  Over time, once a delighter is successfully implemented, it can
+  become a basic need. Hence, the Jeff Bezos comment about customers
+  being divinely discontent.
 
 ** Arthur Schopenhauer: Talent hits a target no one else can hit; genius hits a target no one else can see. :quotes:
