@@ -148,6 +148,7 @@ in a quarter. The third month is a town hall meeting.
 :end:
 
 
+
 * Town hall meetings                                               :Meetings:
 
 Town hall meetings are a good way to broadcast information, discuss
@@ -176,6 +177,10 @@ every quarter.
 :results:
 
 
+** References
+
+- Manager Tools, [[https://www.manager-tools.com/2012/01/routine-town-hall-meetings-part-1][Routine town hall meetings]]
+
 * Interesting videos for presentations
 :PROPERTIES:
 :ID:       0eb3a5c5-a835-4111-82e2-6ea81e25ba4a
@@ -192,7 +197,6 @@ every quarter.
 - [[https://www.youtube.com/watch?v=saEzjJxeKr8&ab_channel=HassaanKhan][Maa ko tohfa (Deewaar)]]
 
 * Quarterly staff workshops                                        :Meetings:
-
 
 ** Task list for staff workshops
 

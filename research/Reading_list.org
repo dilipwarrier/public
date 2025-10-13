@@ -70,12 +70,13 @@
 SCHEDULED: <2025-09-15 Mon +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2025-10-06 Mon 08:14]
-   :EFFORT: 00:15
+   :Effort:   20:00
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
    - State "DONE"       from "TODO"       [2025-10-06 Mon 08:14]
    :LOGBOOK:
+   CLOCK: [2025-10-13 Mon 06:58]--[2025-10-13 Mon 08:10] =>  1:12
    CLOCK: [2025-10-07 Tue 06:21]--[2025-10-07 Tue 07:38] =>  1:17
    CLOCK: [2025-10-06 Mon 06:08]--[2025-10-06 Mon 08:14] =>  2:06
    :END:

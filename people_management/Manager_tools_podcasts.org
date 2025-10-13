@@ -2,106 +2,102 @@
 #+Filetags: :Management:
 #+startup: overview
 
-* Manager                                                            :Review:
-
+* Manager
 
 ** Manager basics
 
+*** One-on-ones                                                      :Review:
 
-*** One-on-ones
+- 25 minutes every week - rarely missed
+   - 10 min: Direct
+   - 10 min: Manager
+   -  5 min: Future (e.g. career development, feedback etc.)
 
-     - 25 minutes every week - rarely missed
-        - 10 min: Direct
-        - 10 min: Manager
-        -  5 min: Future (e.g. career development, feedback etc.)
+- Your relationship with your direct is an emotional bank account
+   - 1-1s are deposits; you may need to make withdrawals in times of stress
 
-     - Your relationship with your direct is an emotional bank account
-        - 1-1s are deposits; you may need to make withdrawals in times of stress
+- Through 1-1s, great managers know each individual's strengths and gaps in detail
 
-     - Through 1-1s, great managers know each individual's strengths and gaps in detail
+- A 1-1 is a platform that you are providing to your direct report
 
-     - 1-1 is a platform that you are providing to your direct report
+- As you do 1-1s consistently, you'll notice that direct reports
+  will have less questions for you. They'll wait for the 1-1
+  instead.
 
-     - As you do 1-1s consistently, you'll notice that direct reports
-       will have less questions for you. They'll wait for the 1-1
-       instead.
+- Take notes during your 1-1.
 
-     - Take notes during your 1-1.
+- Ask the same question each time to your direct
+  (e.g. "How is it going?")
 
-     - Ask the same question each time to your direct
-       (e.g. "How is it going?")
+- 1-1s are not micro-management. Micro-management means telling
+  people when, what and how to do something.
 
-     - 1-1s are not micro-management. Micro-management means telling
-       people when, what and how to do something.
+- If your direct talks about their family, then you
+  should talk about your family too.
 
-     - If your direct wants to talk about their family, then you
-       should talk about your family too.
+*** Feedback                                                         :Review:
 
+Format of feedback:
+1. May I give you some feedback?
+2. When you did X, Y happened.
+3. Thank you for doing that or could you do that differently?
 
-*** Feedback
+Don't use feedback as punishment. People will just find ways of
+covering up in the future. Neither punishment nor praise helps
+improve productivity. Productivity drives happiness and not vice
+versa. You cannot take responsibility to make your directs happy.
 
-     Format of feedback:
-     1. May I give you some feedback?
-     2. When you did X, Y happened.
-     3. Thank you for doing that or could you do that differently?
+Feedback should be done often and on small things. Feedback is
+like potato chips. Any one chip doesn't really matter but, when
+you eat a whole pack, it has an impact. Feedback can be delivered
+within 30 seconds. Concentrate on keeping it that small. It will
+allow you to deliver it frequently.
 
-     Don't use feedback as punishment. People will just find ways of
-     covering up in the future. Neither punishment nor praise helps
-     improve productivity. Productivity drives happiness and not vice
-     versa. You cannot take responsibility to make your directs happy.
+Your tone should be casual and easy and it should be exactly the
+same for positive feedback or negative feedback. You can do that
+by focusing on what you want the direct to do in the future, not
+what the direct did in the past. That will ensure that the tone
+is enthusiastic irrespective of whether the feedback is positive
+or negative.
 
-     Feedback should be done often and on small things. Feedback is
-     like potato chips. Any one chip doesn't really matter but, when
-     you eat a whole pack, it has an impact. Feedback can be delivered
-     within 30 seconds. Concentrate on keeping it that small. It will
-     allow you to deliver it frequently.
+The second and third time should be exactly the same; no more
+negative tone than the first. Usually, you have to do it seven times
+before you decide you have a different problem.
 
-     Your tone should be casual and easy and it should be the same in
-     case of positive feedback or negative feedback. You can do that
-     by focusing on what you want the direct to do in the future, not
-     what the direct did in the past. That will ensure that the tone
-     is enthusiastic irrespective of whether the feedback is positive
-     or negative.
+Always ask if the direct is ready for feedback. Otherwise, they
+may be too distracted, in which case the feedback will be
+ineffective.
 
-     The second and third time should be exactly the same; no more
-     negative tone than the first. Usually, you have to do it seven times
-     before you decide you have a different problem.
+Feedback should not be about what is going on in your directs'
+minds. You are not a psychologist. Instead, feedback should focus
+on behaviors:
+- What and how they communicate (verbal or written)
+- Facial expressions and body language
+- Work product (quality, accuracy, timeliness)
+Be specific about which action the direct should either repeat or
+should stop.
 
-     Always ask if the direct is ready for feedback. Otherwise, they
-     may be too distracted, in which case the feedback will be
-     ineffective.
+Don't say "I felt that..." If you say that, you're making an
+interpretation of their behavior. Focus instead on the behavior:
+"When you...".
 
-     Feedback should not be about what is going on in your directs'
-     minds. You are not a psychologist. Instead, feedback should focus
-     on behaviors:
-     - What and how they communicate (verbal or written)
-     - Facial expressions and body language
-     - Work product (quality, accuracy, timeliness)
-     Be specific about which action the direct should either repeat or
-     should stop.
+The description of the impact should be based on the [[#DISC_profile][DISC profile]]
+of the direct.
 
-     Don't say "I felt that..." If you say that, you're making an
-     interpretation of their behavior. Focus instead on the behavior:
-     "When you...".
+When you give feedback, the focus should be on the future, not the
+past. Your direct may get defensive about the feedback but that is
+based on defending what they did in the past. You should let the
+defense slide (i.e. ignore it completely) and focus on what
+behavior modification needs to happen for the future.
 
-     The description of the impact should be based on the [[#DISC_profile][DISC profile]]
-     of the direct.
+Provide positive feedback only first, and only to your star
+performers. This matches well with the guideline of spending more
+time on your star performers.
 
-     When you give feedback, the focus should be on the future, not the
-     past. Your direct may get defensive about the feedback but that is
-     based on defending what they did in the past. You should let the
-     defense slide (i.e. ignore it completely) and focus on what
-     behavior modification needs to happen for the future.
-
-     Provide positive feedback only first, and only to your star
-     performers. This matches well with the guideline of spending more
-     time on your star performers.
-
-     Even if the direct is remote, your method of feedback should work
-     exactly the same as above: frequent, short, mostly positive
-     occasionally negative. For remote directs, you must give feedback
-     with face-to-face Zoom calls as opposed to phone calls.
-
+Even if the direct is remote, your method of feedback should work
+exactly the same as above: frequent, short, mostly positive and
+occasionally negative. For remote directs, you must give feedback
+with face-to-face Zoom calls as opposed to phone calls.
 
 *** Delegation
 
@@ -199,72 +195,69 @@
          - Reporting
          - What do you need from me?
 
-
 *** Coaching
 
-     Feedback makes incremental changes. Coaching helps individuals
-     move to a different level of effectiveness. Feedback is tactical
-     while coaching is strategic.
+Feedback makes incremental changes. Coaching helps individuals
+move to a different level of effectiveness. Feedback is tactical
+while coaching is strategic.
 
-     You are not a trainer; you are a coach. Managers do not need to be
-     experts at what they coach. If we don't do this, there are very
-     limited coaching opportunities.
+You are not a trainer; you are a coach. Managers do not need to be
+experts at what they coach. If we don't do this, there are very
+limited coaching opportunities.
 
-     On the positive side, coaching is required because the market
-     environment can change significantly (discontinuities), requiring
-     new skills, or for career development. [Each of us needs to
-     prepare a succession plan.]
+On the positive side, coaching is required because the market
+environment can change significantly (discontinuities), requiring
+new skills, or for career development. [Each of us needs to
+prepare a succession plan.]
 
-     Use 5 minutes during your weekly 1-1.
+Use 5 minutes during your weekly 1-1.
 
-     Coaching is most effective when it's collaborative. It's like a
-     treasure hunt where two players each hold half of the map.  There
-     is a relaxed feel to coaching.
+Coaching is most effective when it's collaborative. It's like a
+treasure hunt where two players each hold half of the map.  There
+is a relaxed feel to coaching.
 
-     Goal, resources, plan, act.
+Goal, resources, plan, act.
 
-     Step 1: Collaborate with our direct and set a goal (a measurable
-     result with a deadline). It has to be a goal that actually
-     involves doing something, it can't be just reading a book or
-     taking a class (although reading a book may be the first step of a
-     goal).
+Step 1: Collaborate with our direct and set a goal (a measurable
+result with a deadline). It has to be a goal that actually
+involves doing something, it can't be just reading a book or
+taking a class (although reading a book may be the first step of a
+goal).
 
-     Step 2: Collaborate with our direct and decide resources. Take 2-3
-     minutes to figure out a list of potential resources. This should
-     be a large list of 20 to 30 items.
+Step 2: Collaborate with our direct and decide resources. Take 2-3
+minutes to figure out a list of potential resources. This should
+be a large list of 20 to 30 items.
 
-     Step 3: Collaborate with the direct and plan next steps on about 3
-     resources.
+Step 3: Collaborate with the direct and plan next steps on about 3
+resources.
 
-     Step 4: Direct report acts on the plan (no collaboration here;
-     this is entirely on the direct).
+Step 4: Direct report acts on the plan (no collaboration here;
+this is entirely on the direct).
 
-     Celebrate the success!
-
+Celebrate the success!
 
 *** Rolling out the basic practices
 
-    Every manager should do the following.
-    - 1-1s
-    - Feedback
-    - Coaching
-    - Delegation
+Every manager should do the following.
+- 1-1s
+- Feedback
+- Coaching
+- Delegation
 
-    Never introduce (implement) a managerial change without first
-    introducing (communicate) that change.
+Never introduce (implement) a managerial change without first
+introducing (communicate) that change.
 
-    Great executives have:
-    - Great relationships with directs through 1-1s
-    - Clear and frequent feedback to directs
-    - Coaching and demanding notably better performance over time
-    - Delegating a lot to your directs
+Great executives have:
+- Great relationships with directs through 1-1s
+- Clear and frequent feedback to directs
+- Coaching and demanding notably better performance over time
+- Delegating a lot to your directs
 
-    "Doing" activities that position you as a leader versus "Being" a
-    leader.
+You must "do" activities that position you as a leader rather than
+just "be" a leader.
 
-    Practice 1-1s for 6-8 weeks before you introduce the next aspects
-    of the trinity (feedback, coaching etc.)
-
+Practice 1-1s for 6-8 weeks before you introduce the next aspects
+of the trinity (feedback, coaching etc.)
 
 ** Direct reports
 
@@ -417,7 +410,6 @@
 
 ** Peers
 
-
 *** Peer one-on-ones
 
     See also [[#peer_feedback][peer feedback]].
@@ -487,8 +479,8 @@
       what has been impacted from that lens.
 
     - Rise above the muck :: No matter what the provocation from your
-      peer, you should stay professional. You should also guide your
-      direct to do the same.
+      peer, stay professional. You should also guide your direct to do
+      the same.
 
     - Ask again :: If a task has been missed, ask the direct to ask
       again and give a new
@@ -500,9 +492,9 @@
       email/say. Make sure the tone is professional with no slight,
       sarcasm etc.
 
-    - Ask to be kept posted :: Make sure you get updates from your
-      report regularly on progress, especially if the matter gets
-      resolved.
+    - Ask your direct to keep you posted :: Make sure you get updates
+      from your report regularly on progress, especially if the matter
+      gets resolved.
 
     - If needed, you call :: If the matter is not resolved, you call
       the peer with the same polite, professional approach. Your direct
@@ -510,7 +502,7 @@
       after that.
       For instance, "Paul, just calling to ask for your
       help on project X. We're getting behind, and need your documents
-      by net Tuesday. Please call me and let's make sure we're on the
+      by next Tuesday. Please call me and let's make sure we're on the
       same page."
 
     - Keep copious records :: Whatever emails/Slack messages you get,
@@ -657,74 +649,18 @@
     on creating relationships (personal vs formal or business relationships).
 
 
-** Communication
-
-*** Listening to others
-
-    [[https://www.manager-tools.com/print/353111?pod=353116][How to listen better]]
-
-
-*** Pre-wiring a presentation
-    :PROPERTIES:
-    :CUSTOM_ID: pre_wire
-    :ID:       8996fe86-bcc2-43e0-80ee-14f40b2f7bf5
-    :END:
-
-All important presentations are pre-wired. An information briefing or
-decision briefing must feel like a slam-dunk. However, the slam-dunk
-doesn't happen in the presentation or briefing; it happens in the
-pre-wiring process.
-
-This advice also applies when your direct presents in your boss'
-staff meeting. Your direct doesn't have enough information about
-your boss or about your peers. You must prep them. (Give the team the
-example of your direct's directs giving presentations during your staff
-meetings. Your direct must be briefed first. Use this and
-presentations in your manager's staff meeting for pre-wiring.)
-
-- Know your time :: Find out how much time you will have.
-  Start with that, the information in the briefing matters less.
-
-- Decide your key message :: 1 slide every 5 minutes.
-  They don't need to know every detail you know.
-
-- Prep slides in draft form and brief your manager
-
-- Get a list of attendees :: Decide who will need pre-wiring.
-  Make sure anybody who may disagree or have a strong opinion is part of the pre-wiring
-  process.
-
-- Brief key attendees :: Draft will go through multiple
-     revisions. Take care of curve-balls and disagreements. Request
-     30 minutes and walk through the slides (pre-reads may not be
-     read).
-
-- Re-brief your manager :: Still a draft. Tell your manager the
-     changes that you have made.
-
-- Finalize your slides and rehearse your presentation
-
-The goal of this exercise is to have no surprises and to get
-agreement.
-
-[[https://www.manager-tools.com/2007/11/how-to-prewire-a-meeting%0A][Podcast link]]
-
-See also [[id:191d7627-b7f7-4d64-932e-7058f26558c4][The Amazon 6-pager]].
-
 ** Open door policy
 
-    This does not mean that your door is open all the time.
+This does not mean that your door is open all the time.
 
-    It means that anyone in the company can setup time to talk to you on
-    any topic, with emphasis on management related issues.
+It means that anyone in the company can setup time to talk to you on
+any topic, with emphasis on management related issues.
 
-    As an executive, you're allowed to ask what the meeting is about. They
-    are not confidential or anonymous except in very rare cases of whistle
-    blowing.
+As an executive, you're allowed to ask what the meeting is about. They
+are not confidential or anonymous except in very rare cases of whistle-blowing.
 
-    The requesting employee must follow the chain of command, except when
-    retribution might be a factor.
-
+The requesting employee must follow the chain of command, except when
+retribution might be a factor.
 
 ** Decision making
 
@@ -1014,7 +950,7 @@ and email the link to me by 2 pm tomorrow."
 
    The theme of [[https://www.manager-tools.com/2012/06/90-day-new-job-plan-overview][the first 90 days]] is to "fit in". It is wrong to change
    a lot of things, there is already a disruption due to your
-   joining. A new person (you) changes the relationship structure.
+   joining. A new person like you changes the relationship structure.
 
    You may start 1-1s in the first 90 days but you may not start giving
    negative feedback. Crises that require immediate solutions are
@@ -1039,7 +975,11 @@ and email the link to me by 2 pm tomorrow."
       it out yet. Do some cost-benefit analysis. You should only have
       1-2 priorities.
 
-      Your top priority must be something that your boss cares about.
+      Your top priority must be something that your boss cares
+      about. Make sure you understand what your "unofficial" job
+      description is. If you come in to a job that already has some
+      priorities, don't fight it. You have limited political capital
+      in the beginning; you shouldn't waste it on this.
 
    4. Establish some measurement baselines so that you can measure
       improvements.  Otherwise, you do not know that the changes you
@@ -1047,7 +987,6 @@ and email the link to me by 2 pm tomorrow."
 
    5. At the end of 90 days, make one change at a time, not many
       changes together. Remember changes need to be [[#pre_wire][pre-wired]].
-
 
 *** The boss                                                           :Boss:
     :PROPERTIES:
@@ -1091,98 +1030,178 @@ and email the link to me by 2 pm tomorrow."
 
 
 *** Relationship building
-    :PROPERTIES:
-    :CUSTOM_ID: Relationship_building
-    :END:
+:PROPERTIES:
+:CUSTOM_ID: Relationship_building
+:END:
 
-    Building relationships is one of the most important things you need
-    to do.
+Building relationships is one of the most important things you need
+to do.
 
-    First step, ask. Ask what people do, ask about processes
-    etc. Asking questions is not a sign of weakness.
+First step, ask. Ask what people do, ask about processes
+etc. Asking questions is not a sign of weakness.
 
-    Make them gentle open-ended questions, not questions intended to be
-    transactional information-gathering. e.g. How long have you worked
-    here? Where do you live? Can you tell me how what you do relates to
-    what Jill does? Who's the expert on X?
+Make them gentle open-ended questions, not questions intended to be
+transactional information-gathering. e.g. How long have you worked
+here? Where do you live? Can you tell me how what you do relates to
+what Jill does? Who's the expert on X?
 
-    It's OK to ask personal questions. Ask people's family members'
-    names. Make sure you write down the names and birth years. It's not
-    rude. On the contrary, not asking about a person's family after
-    knowing them on a sustained professional basis is rude.
+It's OK to ask personal questions. Ask people's family members'
+names. Make sure you write down the names and birth years. It's not
+rude. On the contrary, not asking about a person's family after
+knowing them on a sustained professional basis is rude.
 
-    This is particularly important for the people/services you will need
-    e.g. security, admin, catering, etc. A list from your previous job
-    will help you. The best statement you can make is "I don't need
-    anything right now; I just wanted to say hello".
-
-
-*** Setting priorities
-
-   Begin to think about what your top priority will be but don't roll
-   it out yet. Do some cost-benefit analysis.
-
-   You should only have 1 or a maximum of 2 priorities.
-
-   Your top priority must be something that your boss cares about.
-
-   Make sure you understand what your "unofficial" job description
-   is. If you come in to a job that already has some priorities, don't
-   fight it. You have limited political capital in the beginning; you
-   shouldn't waste it on this.
-
-   You should define metrics against which you are compared.
-
+This is particularly important for the people/services you will need
+e.g. security, admin, catering, etc. A list from your previous job
+will help you. The best statement you can make is "I don't need
+anything right now; I just wanted to say hello".
 
 ** Mentoring
 
-   [[https://www.manager-tools.com/2006/06/basics-mentoring-part-1-2][Podcast link]]
+The mentor-mentee relationship is a 2-person relation. When
+Corporate HR gets involved, the value can be diluted. It's better
+for you to manage that relationship yourself.
 
-   The mentor-mentee relationship is a 2-person relation. When
-   Corporate HR gets involved, the value can be diluted. It's better
-   for you to manage that relationship yourself.
+Later in your life, you may want a personal board of directors.
 
-   Later in your life, you may want a personal board of directors.
+- Choose someone whom you admire who will be helpful in achieving
+  your goals. Your boss cannot be your mentor. In a big company, you
+  can find a mentor within.
 
-   - Choose someone whom you admire who will be helpful in achieving
-     your goals. Your boss cannot be your mentor. In a big company, you
-     can find a mentor within.
+  Decide what your goals are, before you approach a mentor.
 
-     Decide what your goals are, before you approach a mentor.
+- Decide how long the relation will last. It shouldn't last any more
+  than 3 years. It shouldn't be for a short period of the order of
+  weeks. It shouldn't be for specific challenges you face right now,
+  such as getting a promotion etc.
 
-   - Decide how long the relation will last. It shouldn't last any more
-     than 3 years. It shouldn't be for a short period of the order of
-     weeks. It shouldn't be for specific challenges you face right now,
-     such as getting a promotion etc.
+- Make a specific ask to someone to be your mentor. Specify the time
+  commitment. Nominally, this may be quarterly in-person meetings
+  with periodic phone/email conversations. You have to trust your
+  mentor and open up to feedback. You should be ready to share
+  details with them that you would not share with your boss, both on
+  the professional and personal level.
 
-   - Make a specific ask to someone to be your mentor. Specify the time
-     commitment. Nominally, this may be quarterly in-person meetings
-     with periodic phone/email conversations. You have to trust your
-     mentor and open up to feedback. You should be ready to share
-     details with them that you would not share with your boss, both on
-     the professional and personal level.
+  You are responsible for the operational part e.g. scheduling
+  meetings, sending information for pre-reads, rescheduling as
+  necessary etc.
 
-     You are responsible for the operational part e.g. scheduling
-     meetings, sending information for pre-reads, rescheduling as
-     necessary etc.
+- For the first meeting, have a resume, performance evaluations,
+  key projects etc. Set an agenda. Mix professional and personal
+  e.g. a one hour meeting in the office on the professional topics
+  followed by a lunch outside to get to know each other personally:
+  family, life goals etc.
 
-   - For the first meeting, have a resume, performance evaluations,
-     key projects etc. Set an agenda. Mix professional and personal
-     e.g. a one hour meeting in the office on the professional topics
-     followed by a lunch outside to get to know each other personally:
-     family, life goals etc.
+- Don't try to educate your mentor on the feedback model etc., just
+  take feedback as they give it to you. Listen to the feedback, take
+  notes, make changes.
 
-   - Don't try to educate your mentor
-     on the feedback model etc., just take feedback as they give
-     you. Listen to the feedback, take notes, make changes.
+  Ask specific questions so that you are respectful of their
+  time. Make sure you close the loop on guidance they have given
+  you. e.g. "Help me learn from what just happened".
 
-     Ask specific questions so that you are respectful of their
-     time. Make sure you close the loop on guidance they have given
-     you. e.g. "Help me learn from what just happened".
+  Hand-written thank-you notes are the gold standard of saying
+  thanks.
 
-     Hand-written thank-you notes are the gold standard of saying
-     thanks.
+** References
 
+[[https://www.manager-tools.com/2006/06/basics-mentoring-part-1-2][Podcast link]]
+
+* Communication
+
+** Listening to others
+- [[https://www.manager-tools.com/print/353111?pod=353116][How to listen better]]
+
+** Pre-wiring a presentation                                         :Review:
+    :PROPERTIES:
+    :ID:       8996fe86-bcc2-43e0-80ee-14f40b2f7bf5
+    :END:
+
+All important presentations are pre-wired. An information briefing or
+decision briefing must feel like a slam-dunk. However, the slam-dunk
+doesn't happen in the presentation or briefing; it happens in the
+pre-wiring process.
+
+This advice also applies when your direct report presents in your boss'
+staff meeting. Your direct doesn't have enough information about
+your boss or about your peers. You must prep them.
+
+*** Know your time
+Find out how much time you will have. Ensure that your key message can
+be delivered in that much time..
+
+*** Decide your key message
+Use a rough guideline of one slide every five minutes. The listeners
+don't need to know every detail you know.
+
+*** Prepare a draft version of your slides
+Prepare the slides in draft form and brief your manager.
+
+*** Get a list of attendees
+Decide which of the attendees will need pre-wiring. Make sure anybody
+who may disagree or who may have a strong opinion is part of the
+pre-wiring process.
+
+*** Brief the key attendees
+Your draft will now go through multiple revisions. Take care of any
+curve-balls and disagreements. Request 30 minutes and walk through the
+slides with each key attendee. Assume that, even if you sent them a
+pre-read, they won't read it.
+
+*** Re-brief your manager
+Your slide deck is still a draft. Tell your manager the changes that
+you have made. Collect more feedback from her.
+
+*** Finalize your slides and rehearse your presentation
+The goal of this exercise is to have no surprises and to get
+agreement.
+
+*** References
+
+- [[https://www.manager-tools.com/2007/11/how-to-prewire-a-meeting%0A][Podcast link]]
+- [[id:191d7627-b7f7-4d64-932e-7058f26558c4][The Amazon 6-pager]].
+
+** Decision Briefing                                                 :Review:
+
+There is no pain for the boss in delaying a decision. However, she
+could undergo potential pain if the decision is wrong. So, the risk is
+high for her after the decision is made, while the risk is high for
+you before the decision is made. Hence, you must convince her to make
+a decision. The decision brief is a tool to do exactly that.
+
+Writing a decision briefing can also help you by exposing gaps in
+your logic and knowledge. Effective decision briefs are always
+pre-wired.
+
+Use the ISOCRR model for all decisions. You can customize it to a long
+or short version depending upon the size and the impact of the
+decision. The acronym ISOCRR stands for the following.
+
+*** (I) Introduction
+State clearly that this is a decision briefing and not just an
+information briefing. This sets expectations for the audience.
+
+*** (S) Situation
+Focus on the current situation. Avoid historical storytelling; this
+isn't the place for that.
+
+*** (O) Options
+Always include a "status quo" option. Avoid calling it "do nothing"
+because it sounds negative.
+
+*** (C) Criteria
+Present the options first, then the criteria. Apply the criteria only
+after listing both. Your analysis should appear professional and
+unbiased. You should not come across as having an agenda.
+
+*** (R) Recommendation
+Keep it to one sentence.
+
+*** (R) Request
+Clearly ask: "What is your decision?"
+
+*** References
+- [[https://www.manager-tools.com/2010/03/how-give-a-decision-briefing-part-1][How to give a decision briefing]]
+- [[id:8996fe86-bcc2-43e0-80ee-14f40b2f7bf5][Pre-wiring a presentation]]
 
 * Executive                                                          :Review:
 
