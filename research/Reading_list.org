@@ -8,13 +8,14 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-10-12 Sun 06:00 +7d>
+   SCHEDULED: <2025-10-19 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-10-06 Mon 08:15]
+   :LAST_REPEAT: [2025-10-13 Mon 06:35]
    :END:
+   - State "DONE"       from "TODO"       [2025-10-13 Mon 06:35]
    - State "DONE"       from "TODO"       [2025-10-06 Mon 08:15]
    - State "DONE"       from "TODO"       [2025-09-29 Mon 06:33]
    - State "DONE"       from "TODO"       [2025-09-22 Mon 05:45]
@@ -46,16 +47,17 @@
    - State "DONE"       from "TODO"       [2025-04-27 Sun 16:47]
 
 ** TODO Review [[elisp:(org-agenda t "lb")][learning backlog]]
-   SCHEDULED: <2025-10-12 Sun 06:00 +28d>
+   SCHEDULED: <2025-11-09 Sun 06:00 +28d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-09-14 Sun 11:49]
+   :LAST_REPEAT: [2025-10-13 Mon 06:35]
    :END:
 
 
 
+   - State "DONE"       from "TODO"       [2025-10-13 Mon 06:35]
    - State "DONE"       from "TODO"       [2025-09-14 Sun 11:49]
    - State "DONE"       from "TODO"       [2025-08-17 Sun 07:32]
    - State "DONE"       from "TODO"       [2025-07-14 Mon 10:50]
