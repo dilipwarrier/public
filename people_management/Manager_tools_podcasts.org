@@ -355,39 +355,38 @@ of the trinity (feedback, coaching etc.)
 
 *** How to fire someone (almost)
 
-    [[https://www.manager-tools.com/2006/02/how-to-fire-someone-well-almost][Podcast link]]
+[[https://www.manager-tools.com/2006/02/how-to-fire-someone-well-almost][Podcast link]]
 
-    The following are the steps in failure coaching.
-    - Feedback
-    - Systemic Feedback
-    - One on One Performance Discussion
-    - Coaching
-    - Formal Performance Discussion and Notification
-    - Coaching Within Your Corporate Process
+The following are the steps in failure coaching.
+- Feedback
+- Systemic Feedback
+- One on One Performance Discussion
+- Coaching
+- Formal Performance Discussion and Notification
+- Coaching Within Your Corporate Process
 
-    At each step, you have to try to hardest to turn around the
-    performance problem.
+At each step, you have to try to hardest to turn around the
+performance problem.
 
-    Systemic feedback sounds like the following. You only invoke it
-    after you have given feedback multiple times.
+Systemic feedback sounds like the following. You only invoke it
+after you have given feedback multiple times.
 
-    May I give you some feedback? When I ask you to improve your slides
-    and I have to give you repeated feedback, I worry that we have a
-    bigger problem on our hands. Your performance suffers and I cannot
-    assign you special projects...
+May I give you some feedback? When I ask you to improve your slides
+and I have to give you repeated feedback, I worry that we have a
+bigger problem on our hands. Your performance suffers and I cannot
+assign you special projects.
 
-    The One-on-one performance discussion is where you first document
-    the performance issue. You make it a part of the 1-1 agenda and you
-    ask if there is something going on in your direct's lives that is
-    affecting things.
+The One-on-one performance discussion is where you first document
+the performance issue. You make it a part of the 1-1 agenda and you
+ask if there is something going on in your direct's lives that is
+affecting things.
 
-    If things still haven't worked out, you start a 3-month coaching
-    process.
+If things still haven't worked out, you start a 3-month coaching
+process.
 
-    The formal performance discussion comes in if even the coaching
-    process has failed. At this point, you notify the direct that they
-    could be fired if their performance does not improve.
-
+The formal performance discussion comes in if even the coaching
+process has failed. At this point, you notify the direct that they
+could be fired if their performance does not improve.
 
 *** How to respond to "Can I get promoted?"
 
@@ -399,14 +398,13 @@ of the trinity (feedback, coaching etc.)
     projects.
 
     After that you have to build relationships - with your peers and
-    your boss' peers. This is particular important because your boss
+    your boss' peers. This is particularly important because your boss
     has to fight for your promotion with others who are vying for the
     same budget. So, if they agree that you deserve it, the battle is
     much easier.
 
-    Finally, even if you're ready for a promotion, it may not happen
-    due to economic conditions, reorganizations, etc.
-
+Finally, even if you're ready for a promotion, it may not happen due
+to economic conditions, reorganizations, etc.
 
 ** Peers
 
@@ -1106,6 +1104,7 @@ Later in your life, you may want a personal board of directors.
 
 [[https://www.manager-tools.com/2006/06/basics-mentoring-part-1-2][Podcast link]]
 
+
 * Communication
 
 ** Listening to others
@@ -1202,6 +1201,7 @@ Clearly ask: "What is your decision?"
 *** References
 - [[https://www.manager-tools.com/2010/03/how-give-a-decision-briefing-part-1][How to give a decision briefing]]
 - [[id:8996fe86-bcc2-43e0-80ee-14f40b2f7bf5][Pre-wiring a presentation]]
+
 
 * Executive                                                          :Review:
 
@@ -1471,13 +1471,11 @@ Clearly ask: "What is your decision?"
 
 * Job search and career                                              :Review:
 
-
 ** Promotions
    :PROPERTIES:
    :CUSTOM_ID: Promotions
    :ID:       82dddbd5-9c7a-4acc-a551-9d63a3ad9bbc
    :END:
-
 
 *** Getting ready to get promoted
 
@@ -1542,229 +1540,216 @@ has to decide that you should be promoted.
 
 There are only two exceptions to this rule and they hold in very
 rare circumstances.
-- You are moving from a big company to a smaller one. In a
+- You are moving from a big company to a smaller one.
+  In a
   smaller company, management expects that you have learnt
   processes better through internal and on-the-job training than
   any one who may be within the smaller company.
-- You are being directly sought by the hiring manager in the new
-  company.
+- You are being directly sought by the hiring manager.
 
 [[https://www.manager-tools.com/2023/08/company-change-promotion-unlikely][Podcast link]]
 
-
 ** Setting career goals
 
-   [[https://www.manager-tools.com/2023/07/what-goes-career-development-plan-part-1][Podcast link]]
+[[https://www.manager-tools.com/2023/07/what-goes-career-development-plan-part-1][Podcast link]]
 
-   You don't need to be able to connect the dots to the future. Just
-   follow your instinct and pick an area of career development for,
-   say, the next year. It's much easier to connect the dots from the
-   past.
+You don't need to be able to connect the dots to the future. Just
+follow your instinct and pick an area of career development for,
+say, the next year. It's much easier to connect the dots from the
+past.
 
-   Set goals in 5 areas (DRUMS)
-   - D: Develop Relationships
-   - R: Receive and Act On Feedback
-   - U: Understand The Industry
-   - M: Master Job Responsibilities
-   - S: Seek Additional Responsibilities
+Set goals in 5 areas (DRUMS)
+- D: Develop Relationships
+- R: Receive and Act On Feedback
+- U: Understand The Industry
+- M: Master Job Responsibilities
+- S: Seek Additional Responsibilities
 
-   Make your goals Measurable and Time-bound
-
+Make your goals Measurable and Time-bound
 
 ** Creating an effective resume
 
-   Update your resume once every quarter
+Update your resume once every quarter. The resume does not need to
+include a statement of purpose.
 
-   Resume does not need to include a statement of purpose.
-
-   For each job, list the responsibilities and accomplishments.
-
+For each job, list the responsibilities and accomplishments.
 
 ** Cover letter
 
-   Three paragraphs:
+The goal of a cover letter is to get the recruiter to read your
+resume. The goal of a resume is to get you an interview. Finally, the
+goal of the interview is to get you the job.
 
-   - First, state your interest and the position you are interested
-     in, where you saw it and who referred you within the company.
-
-   - Second, describe how your experience will help the company match
-     its objectives. Do this by matching some of the items in the job
-     description with accomplishments in your resume.
-
-   - Third, promise to follow up with a phone call.
-
+Your cover letter should have the following three paragraphs:
+- State your interest and the position you are interested in,
+  where you saw it, and who referred you within the company.
+- Describe how your experience will help the company meet
+  its objectives. Do this by matching some of the items in the job
+  description with accomplishments in your resume.
+- Promise to follow up with a phone call.
 
 ** Searching for a job
 
-
 *** The big picture
 
-    A job search is not easy. You need to use multiple channels for
-    your job search, not just one. The channels are as follows.
+A job search is not easy. You need to use multiple channels for your
+job search, not just one. The channels are as follows.
 
-       - Companies you know :: You have driven past them, know of them,
-         admire them etc. If you know someone in the company, it might
-         be useful for them to refer you rather than submit your resume
-         directly.
+  - Companies you know :: You have driven past them, know of them,
+    admire them etc. If you know someone in the company, it might
+    be useful for them to refer you rather than submit your resume
+    directly.
 
-       - Companies you don't know :: Do your research
-         (Google/LinkedIn/Indeed etc.). Use location-based
-         searches. This list is much bigger than the companies you know
-         of, because you typically only know of B2C companies.
+  - Companies you don't know :: Do your research
+    (Google/LinkedIn/Indeed etc.). Use location-based
+    searches. This list is much bigger than the companies you know
+    of, because you typically only know of B2C companies.
 
-       - Job boards :: Use more than one.
+  - Job boards :: Use more than one.
 
-       - Your connections :: Maintain a healthy list of networking
-         connections whom you've been in touch with. Reach out to them:
-         in person coffee/lunch/dinner is better than voice call is
-         better than email/text.
+  - Your connections :: Maintain a healthy list of networking
+    connections whom you've been in touch with. Reach out to them:
+    in-person coffee/lunch/dinner is better than a voice call,
+    which in turn is better than email/text.
 
-       - Recruiters :: You should reach out to recruiters, find the
-         ones you are comfortable working with and work with them
-         regularly.
-
+  - Recruiters :: You should reach out to recruiters, find the
+    ones you are comfortable working with and work with them
+    regularly.
 
     [[https://www.manager-tools.com/2016/06/search-big-picture-part-1][Podcast]]
 
-
 *** Be open to opportunities
 
-    You can be happy in your current job and still be open to
-    opportunities. Always have the conversation.
+You can be happy in your current job and still be open to
+opportunities. Always have the conversation. If the job isn't right
+for you, suggest someone else.
 
-    If the job isn't right for you, suggest someone else.
-
-    [[https://www.manager-tools.com/2020/10/open-opportunities][Podcast]]
-
+[[https://www.manager-tools.com/2020/10/open-opportunities][Podcast]]
 
 ** Interviewing
 
+[[https://manager-tools.com/print/288986?pod=139512][Shownotes on Interviewing Series]]
 
 *** Horstman's 3rd law
 
-    "We'll take 90% less ability for 10% more attitude every day of the
-    week." This is an exaggerated claim but it is in the right spirit.
+"We'll take 90% less ability for 10% more attitude every day of the
+week." This is an exaggerated claim but it is in the right spirit.
 
-    People are hired for technical reasons and fired for personality
-    reasons. Interviewing is a wasteful process but energy and
-    enthusiasm expressed the right way are crucial.
+People are hired for technical reasons and fired for personality
+reasons. Interviewing is a wasteful process but energy and
+enthusiasm expressed the right way are crucial.
 
-    Six behaviors to show energy.
+Six behaviors to show energy.
 
-    - Smiles :: Your smile must be the first thing the interviewer sees
-      about you. This is the highest value behavior.
+- Smiles :: Your smile must be the first thing the interviewer sees
+  about you. This is the highest value behavior.
 
-    - Handshakes :: Make it energetic. Your webbing between the thumb
-      and forefinger should touch the other person's webbing.
+- Handshakes :: Make it energetic. Your webbing between the thumb
+  and forefinger should touch the other person's webbing.
 
-    - Voice volume :: Men should raise their volume slightly while
-      speaking. This allows them to have tonal changes more easily,
-      which in turn communicates energy and enthusiasm.
+- Voice volume :: Men should raise their volume slightly while
+  speaking. This allows them to have tonal changes more easily,
+  which in turn communicates energy and enthusiasm.
 
-    - Hand gestures :: These are extremely important as a measure of
-      energy. There is a gesture box (above the waist, below the
-      torso). Gestures inside the box are not useful. You want gestures
-      outside the box with fast and sharp responses.
+- Hand gestures :: These are extremely important as a measure of
+  energy. There is a gesture box (above the waist, below the
+  torso). Gestures inside the box are not useful. You want gestures
+  outside the box with fast and sharp responses.
 
-    - Postures :: Lean forward from the waist. This is a useful
-      gesture/posture. Do this at least twice in 30 min.
+- Postures :: Lean forward from the waist. This is a useful
+  gesture/posture. Do this at least twice in 30 min.
 
-    - Laughs :: Having a laugh or two (a self-deprecating moment etc.)
-      will create a relaxing moment.
+- Laughs :: Having a laugh or two (a self-deprecating moment etc.)
+  will create a relaxing moment.
 
-    The good thing about behaviors is that they can be practised.
+The good thing about behaviors is that they can be practised.
 
-    An interview is a sales opportunity. It's not unethical - don't
-    assume that you cannot be authentic while practising this behavior.
-
+An interview is a sales opportunity. It's not unethical - don't
+assume that you cannot be authentic while practising this behavior.
 
 *** Introduction
 
-    Energy, energy, energy. Pump yourself up in prep!
+Energy, energy, energy. Pump yourself up in prep!
 
-    Be aware of news about the company, about the local area and
-    national news in general so that you can talk about it if needed.
+Be aware of news about the company, about the local area and
+national news in general so that you can talk about it if needed.
 
-    Make your handshakes energetic (see guidance above).
-
+Make your handshakes energetic (see guidance above).
 
 *** "Tell me about yourself"
 
-    Be able to give a 3-4 minute overview of your career.
+Be able to give a 3-4 minute overview of your career.
 
-    If education was a key part of your life, you should highlight
-    it. Remember that you are selling yourself as a candidate and you
-    want to make the best impression possible.
-
+If education was a key part of your life, you should highlight
+it. Remember that you are selling yourself as a candidate and you
+want to make the best impression possible.
 
 *** Significant accomplishments
 
-    Behavioral interview: Ask about past accomplishments because the
-    past is the best predictor of the future. Don't ask how the
-    candidate will address future problems; they will give you the
-    answer you want to hear.
+Behavioral interview: Ask about past accomplishments because the
+past is the best predictor of the future. Don't ask how the
+candidate will address future problems; they will give you the
+answer you want to hear.
 
-    This is the single most important section of the interview.
+This is the single most important section of the interview.
 
-    In prep, make a list of your accomplishments. For each
-    accomplishment, tag it with traits/skills like leadership,
-    problem-solving etc. Then, be aware of all accomplishments under
-    the leadership trait, etc.
+In preparation, make a list of your accomplishments. For each
+accomplishment, tag it with traits/skills like leadership,
+problem-solving etc. Then, be aware of all accomplishments under
+the leadership trait, etc.
 
-    Avoid narrating a chronological sequence of events.
+Avoid narrating a chronological sequence of events.
 
-    Make sure you start a short description of your accomplishment with one
-    sentence. Then, elaborate! For instance, "Here's how I achieved it..."
-
+Make sure you start with a short description of your accomplishment in one
+sentence. Then, elaborate! For instance, "Here's how I achieved it..."
 
 *** Your turn to ask questions
 
-    Have 3-5 questions memorized
+Have 3-5 questions memorized
 
-    Make the questions specific
+Make your questions specific but with broad answers.
 
-    Think on your feet and ask questions related to the conversation
-    you just had. Such questions might take the form "Could you please
-    expand on...?"
+Think on your feet and ask questions related to the conversation
+you just had. Such questions might take the form "Could you please
+expand on...?"
 
-    Ask questions with broad answers and not specific answers
+Don't ask about the company, the industry, and the benefits.
 
-    Don't ask about the company, the industry and benefits
-
+Interviews are not two-way streets. In interviews, the hiring team has
+role power. They have to first decide to make you an offer. After you
+have an offer, you can ask all the questions you want. So, do not ask
+any questions about the company or the culture or the compensation
+during the interview. Wait till you have an offer.
 
 *** Closing
 
-    "Mike, I want an offer and here's why..."
-
+"Mike, I want an offer and here's why..."
 
 *** Follow-up
 
-    Hand-written note if possible. Polite e-mail/phone call every week
-    for up to 15 weeks.
-
+Send a hand-written note, if possible. Polite e-mail/phone call every week for
+up to 15 weeks.
 
 *** Compensation
 
-    Do research on your expected salary and state it at the
-    beginning. Don't bring it up again until you have an offer. You may
-    negotiate after you have the offer but be careful! It's often not
-    worth it. You want to maintain good relations with the people who
-    you will be working with later.
-
+Do research on your expected salary and state it at the
+beginning. Don't bring it up again until you have an offer. You may
+negotiate after you have the offer but be careful! It's often not
+worth it. You want to maintain good relations with the people who
+you will be working with later.
 
 ** Planning for layoffs
 
-   [[https://www.manager-tools.com/2007/11/getting-laid-off-finances-rule][Finances rule podcast]]
+[[https://www.manager-tools.com/2007/11/getting-laid-off-finances-rule][Finances rule podcast]]
 
-   Layoffs and firing are a fact of corporate life in every industry
-   and at every level. Getting fired can be a liberating experience; you just go find
-   another job. However, you need to prepare in advance.
+Layoffs and firing are a fact of corporate life in every industry
+and at every level. Getting fired can be a liberating experience; you just go find
+another job. However, you need to prepare in advance.
 
-   Cardinal rule: get 6 months of liquidity in your personal finances now! You need to
-   be prepared for a period of not finding the next job. That way, you
-   remove the stress of worrying about cash flow and can focus on the
-   job search.
-
+Cardinal rule: get 6 months of liquidity in your personal finances now! You need to
+be prepared for a period of not finding the next job. That way, you
+remove the stress of worrying about cash flow and can focus on the
+job search.
 
 * DISC profile                                                       :Review:
   :PROPERTIES:
