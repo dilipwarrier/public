@@ -1,21 +1,6 @@
 #+TITLE: Embedded software
-#+FILETAGS: :Software:Automotive:
+#+FILETAGS: :Software:
 #+STARTUP: overview, hideallblocks
-
-* Wind River                                                         :Review:
-
-Wind River owns the VxWorks OS which is a leading competitor to QNX
-OS.
-
-* QNX                                                                :Review:
-
-  Video on [[https://youtu.be/yViw8Rh8T1w][Blackberry's evolution]] from mobile phones to IoT and security
-
-
-* Eclipse ThreadX
-
-This is an open-source RTOS that was previously Azure RTOS. It is
-managed by the Eclipse foundation.
 
 * RTOS vendors by industry
 
@@ -27,24 +12,32 @@ managed by the Eclipse foundation.
 |    3 | Zephyr                | VxWorks               | VxWorks                      | Zephyr                         |
 |------+-----------------------+-----------------------+------------------------------+--------------------------------|
 
-* Software companies working on EVs and batteries                    :Review:
+** Wind River
 
+Wind River owns the VxWorks OS which is a leading competitor to QNX OS.
+
+** QNX
+
+** Eclipse ThreadX
+
+This is an open-source RTOS that was previously Azure RTOS. It is
+managed by the Eclipse foundation.
+
+* Software companies working on EVs and batteries                    :Review:
 
 ** Qnovo
 
-   Qnovo has a [[https://www.qnovo.com/news/borgwarner-and-ogci-climate-investments-complete-new-investments-in-qnovo-in-24m-series-c-funding][$24M Series-C funding]] from Borg-Warner among others.
+Qnovo has a [[https://www.qnovo.com/news/borgwarner-and-ogci-climate-investments-complete-new-investments-in-qnovo-in-24m-series-c-funding][$24M Series-C funding]] from Borg-Warner among others.
 
-   They build software for batteries but so far don't advertise any
-   automotive products. They do software for consumer batteries like
-   in cell phones.
+They build software for batteries but so far don't advertise any
+automotive products. They do software for consumer batteries like
+in cell phones.
 
-   However, they had a [[https://mobex.io/webinars/nxp-semiconductors-and-qnovo-collaborate-on-xev-battery-performance/][joint webinar with NXP]] on improving EV
-   performance.
+However, they had a [[https://mobex.io/webinars/nxp-semiconductors-and-qnovo-collaborate-on-xev-battery-performance/][joint webinar with NXP]] on improving EV performance.
 
-   [[file:Screenshot 2023-02-28 110603.jpg][Advantages]]
+[[file:Screenshot 2023-02-28 110603.jpg][Advantages]]
 
-   [[file:Screenshot 2023-02-28 110653.jpg][Cloud/Edge]]
-
+[[file:Screenshot 2023-02-28 110653.jpg][Cloud/Edge]]
 
 * Automotive software                                                :Review:
 
@@ -57,7 +50,6 @@ managed by the Eclipse foundation.
 
 
 * Software Defined Vehicles                                          :Review:
-
 
 ** NXP presentation on [[https://drive.google.com/file/d/1CwpQtYjES7SIZdqAIBEjyhuh_g1udObI/view?usp=share_link][Software Defined Vehicles]]
 
@@ -74,7 +66,6 @@ managed by the Eclipse foundation.
      to provide maximum value
    - Applications are deployed as microservices through efficient
      cloud-based deployment and maintenance tools
-
 
 ** Trends                                                          :LinkedIn:
 

@@ -1471,6 +1471,28 @@ Clearly ask: "What is your decision?"
 
 * Job search and career                                              :Review:
 
+** Creating a network
+
+You build your network first, and you use it later.
+
+Rule 1: Seek diversity in your network.
+
+Resist adding only people like
+yourself or people who are above you in their positions. Go for
+volume - add anyone to your network. You should not be thinking, "What
+do I gain out of adding them to your network?" If everyone thought
+that way, there would be no networks.
+
+Your network should contain both people in your current organization
+and people outside.
+
+Rule 2: Give, give, give.
+
+Offer to help people in your network in any way you can. Learn more
+about them each time to make your giving more focused.
+
+Rule 3: Stay in touch regularly!
+
 ** Promotions
    :PROPERTIES:
    :CUSTOM_ID: Promotions
@@ -1630,9 +1652,9 @@ for you, suggest someone else.
 
 [[https://manager-tools.com/print/288986?pod=139512][Shownotes on Interviewing Series]]
 
-*** Horstman's 3rd law
+*** How to conduct an interview
 
-"We'll take 90% less ability for 10% more attitude every day of the
+Horstman's 3rd law: "We'll take 90% less ability for 10% more attitude every day of the
 week." This is an exaggerated claim but it is in the right spirit.
 
 People are hired for technical reasons and fired for personality
@@ -1693,15 +1715,33 @@ answer you want to hear.
 
 This is the single most important section of the interview.
 
+Avoid narrating a chronological sequence of events. Start with a short
+description of your accomplishment in one sentence e.g. "I reduced R&D
+expenses by 30% while improving uptime by 5x".
+
+Introduce the context e.g. "When I joined, my manager informed me that
+the R&D organization was adrift and needed leadership. Further, there
+were a large number of contracting agencies that were fighting with
+each other."
+
+Describe your overall approach. This is the transition into the next
+section. For instance, "Here are the three top things I did. I will
+walk you through each one."
+
+Now, describe each of the core activities you did in detail. Describe
+each one in 1 minute.
+
+Conclude with the benefits of your work and thank the team that did
+the work.
+
+This approach reflects [[id:39adaa1a-6dde-47b7-a6ee-7d8bf9efe57c][The hamburger model of a persuasive essay]].
+
+**** Preparation using flash cards
+
 In preparation, make a list of your accomplishments. For each
 accomplishment, tag it with traits/skills like leadership,
 problem-solving etc. Then, be aware of all accomplishments under
 the leadership trait, etc.
-
-Avoid narrating a chronological sequence of events.
-
-Make sure you start with a short description of your accomplishment in one
-sentence. Then, elaborate! For instance, "Here's how I achieved it..."
 
 *** Your turn to ask questions
 

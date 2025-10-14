@@ -174,6 +174,24 @@ interesting and true. That makes a powerful story.
 
 ** Samuel Johnson: What is written without effort is read without pleasure :quotes:
 
+* The hamburger model of a persuasive essay                          :Review:
+:PROPERTIES:
+:ID:       39adaa1a-6dde-47b7-a6ee-7d8bf9efe57c
+:END:
+
+[[file:Screenshot 2025-10-14 080320.png]]
+
+In high school, you're taught the "hamburger" model of a persuasive
+essay. This consists of:
+- Top bun :: A short sentence or paragraph that is the hook and the
+  context for why the problem is important.
+- Lettuce :: Flimsiest of the three filler arguments. Light, meant to
+  ease the reader in.
+- Tomato :: Second in sturdiness of argument.
+- Patty :: The strongest argument comes last.
+- Bottom bun :: Review your arguments and state the good things that
+  resulted or could result from solving the problem.
+
 * References
 
 - Kelly Patterson, "Crucial conversations"
@@ -181,4 +199,5 @@ interesting and true. That makes a powerful story.
   Times 2018.
 - Seth Godin, [[https://seths.blog/2025/04/a-powerful-story/][A powerful story]]
 - Lee Lefever, "The art of explanation"
+- Emma Dunn, [[https://uwaterloo.ca/writing-and-communication-centre/blog/how-turn-high-school-hamburger-essay-university-level-paper][How to turn the hamburger essay into a university-level paper]]
 - [[id:0eb3a5c5-a835-4111-82e2-6ea81e25ba4a][Interesting videos]]

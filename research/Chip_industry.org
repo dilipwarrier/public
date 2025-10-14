@@ -20,6 +20,7 @@ Other competitors are ARM (Apple used ARM technology for its
 in-house chips) and Qualcomm which is making in-roads into the
 market with Snapdragon.
 
+
 * Relative sizes of markets                                          :Review:
 
 In 2022, the units sold every year are as follows.
@@ -51,6 +52,7 @@ are in GHz for the Cortex-A (see screenshot below).
 
 [[file:Screenshot 2023-01-29 114928.jpg]]
 
+
 * Intel                                                              :Review:
 
 In Sep 2025, Ben Thompson defended the case for the US government
@@ -65,8 +67,8 @@ guaranteed market for its chips.
 Secondly, due to the universality of chips, chip supply has strategic
 importance for the country. Taiwan and Korea are very close to
 China. A US military planner will perceive this as a threat that must
-be mitigated by alternate sites for chip production. The US is across
-the globe and, hence, sites in the US provide a safer
+be mitigated by alternate sites for chip production. As a location
+across the globe from China, the US provides a safer
 alternative. Intel is the only company that has existing large chip
 manufacturing sites in the US. Other companies like TSMC have promised
 to build such sites but that will take years to bear fruit.
@@ -81,7 +83,6 @@ The base rate of success of government intervention in industry will
 need to be looked at. In general, such base rates are quite
 poor. However, we need to look at not just commercial success but also
 geo-political success.
-
 
 * TSMC                                                               :Review:
 
@@ -98,7 +99,7 @@ but ASML?
 Netherlands-based ASML is the world leader in lithography
 techniques for etching chips and deserves to be better known.
 
-Companies like Applied Materials [2] and Lam Research combine their
+Companies like Applied Materials and Lam Research combine their
 technology with layering techniques to build the multiple layers that
 are needed for today's chips. For example, today's logic chips can
 have up to 20 wiring layers stacked up, one on top of another.
