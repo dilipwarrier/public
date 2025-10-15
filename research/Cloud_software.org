@@ -1,0 +1,495 @@
+#+TITLE: Cloud fundamentals
+#+FILETAGS: :Software:
+#+STARTUP: hideallblocks, content
+
+* AWS cloud services                                                 :Review:
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2023-10-15 Sun 12:35]
+| Headline           | Time   |      |
+|--------------------+--------+------|
+| *Total time*       | *7:29* |      |
+|--------------------+--------+------|
+| AWS cloud services | 7:29   |      |
+| \_  AWS security   |        | 2:50 |
+| \_  AWS compute    |        | 1:58 |
+| \_  AWS storage    |        | 1:04 |
+| \_  AWS monitoring |        | 1:37 |
+#+END:
+
+
+** AWS regions and availability zones
+
+   A cluster of data centers is called an Availability Zone or
+   AZ. Clusters of AZs are called Regions e.g. Northern VA region
+   us-east-1. A zone within Northern VA may be us-east-1a.
+
+   Considerations for deciding regions:
+   - Compliance
+   - Latency
+   - Pricing
+   - Service availability (some services may not be available in every
+     region)
+
+** AWS APIs
+
+   There are three methods to manage your cloud services: AWS cloud
+   management console, Command Line Interface (CLI), and SDK. The web
+   console is a good starting point but is UI-based. Over time, you
+   can migrate to the CLI or SDK. For example, the AWS SDK for Python
+   is called [[https://aws.amazon.com/sdk-for-python/][boto3]].
+
+** AWS security
+   :LOGBOOK:
+   CLOCK: [2022-09-11 Sun 11:39]--[2022-09-11 Sun 12:24] =>  0:45
+   CLOCK: [2022-09-04 Sun 09:19]--[2022-09-04 Sun 10:31] =>  1:12
+   CLOCK: [2022-08-28 Sun 08:04]--[2022-08-28 Sun 08:57] =>  0:53
+   :END:
+
+   AWS and you share responsibility for security as in the diagram
+   below.
+
+   [[file:Screenshot 2022-07-07 095829.jpg]]
+
+   Roughly speaking, AWS is responsible for security of the
+   cloud just as a building manager may be responsible for security
+   guards on the building premises. You are responsible for security
+   in the cloud just as you are responsible to keep your apartment
+   door locked or your valuables in a safe.
+
+   Authentication is the process of determining that the user is who
+   they say they are (password, MFA etc.). Access control relates to
+   the privileges that are available to a user or group of users after
+   they are authenticated.
+
+   IAM roles are temporary access privileges that are given to
+   applications in a programmatic fashion. Roles do not have user
+   names and passwords. Roles are commonly used by one AWS service to
+   access another AWS service. This access must be specified and is
+   not provided by default even if the services belong to the same
+   account.
+
+   Each account has an account access policy that is defined by
+   JSON. Each access policy has an effect (allow or deny), an action
+   (which API) and a resource (S3, EC2 etc.).
+
+   An admin account should have AWS CloudTrail set up to monitor all the
+   AWS cloud traffic. The [[https://aws.amazon.com/organizations/features/][AWS Organizations]] service should be used for
+   configuration of AWS cloud accounts to match your organizational
+   structure.
+
+*** Identity and access services
+
+IAM allows you to manage users, groups, roles or federated
+permissions.
+
+It is best practice to separate an identity store for enterprise
+users from one for end users.
+
+*** Network isolation
+
+AWS Virtual Private Cloud (VPC) offers Layer-3 isolation. See
+details in [[id:6becc95b-6eec-4466-ab3a-0758521dee7f][AWS Networking]].
+
+*** Services for auditing
+
+    AWS CloudTrail allows you to see who is doing what in your AWS
+    deployment.
+
+    AWS Config is a service that enables you to assess, audit, and
+    evaluate the configurations of your AWS resources. Config
+    continuously monitors and records your AWS resource configurations
+    and allows you to automate the evaluation of recorded
+    configurations against desired configurations.
+
+    AWS Inspector runs an automated security assessment of your AWS
+    account. The findings can either be a static report or can be
+    called through an API to do automatic remediation of security
+    flaws.
+
+    AWS Trusted Advisor is another service that assists you in
+    provisioning AWS services through best practices. It produces a
+    report under five different categories:
+     - Cost optimization
+     - Performance
+     - Security
+     - Fault tolerance
+     - Service limits
+
+
+*** Services for monitoring
+
+AWS Guard Duty is a threat-detection service that
+continuously monitors for malicious or unauthorized behavior to
+help you protect your AWS accounts and resources. This service
+uses machine learning, anomaly detection, and integrated threat
+intelligence to identify and prioritize threats.
+
+AWS Security Hub combines information from all these services in
+one place.
+
+*** Data encryption
+
+    Depending upon the type of data, you could use different AWS
+    services.
+
+    [[file:Screenshot 2022-09-04 094247.jpg]]
+
+    Different types of data require different levels of encryption in
+    transit. For instance, credit card information may need Transport
+    Layer Security (TLS) which is Layer 4 security. Internet Protocol
+    Security or IPSec is a network layer or layer 3 security. You can
+    implement IPSec by having a VPN to connect between your
+    on-premises computer and your AWS VPC.
+
+    For data at rest, you can use AWS Key Management Service
+    (KMS). For instance, S3 buckets can be encrypted using Server-side
+    encryption through either S3-managed keys (SSE-S3) or KMS-managed
+    keys (SSE-KMS). DynamoDB has SSE turned on by default. EBS can
+    also be encrypted using KMS.
+
+
+*** Security for EC2
+    :PROPERTIES:
+    :CUSTOM_ID: security_for_EC2
+    :END:
+
+Network accesses to EC2 instances should be controlled using
+security groups and NACLs. For logging into EC2 instances, SSH
+keys should be used. Finally, API accesses from EC2 instances
+should be allowed only through IAM roles.
+
+Typically, you should use IAM roles to manage security. For
+instance, you can store a secret in S3 and set an IAM role so that
+an ECS instance can access the secret from the S3 bucket.
+
+Enable auditing and monitoring of all of this using AWS CloudTrail.
+
+*** Secrets Management
+
+AWS Secrets Manager can be used to store secrets such as
+passwords, database credentials etc. It does this without the need
+to store the secrets on any EC2 instance, local storage or
+container.
+
+** AWS compute
+  :LOGBOOK:
+  CLOCK: [2022-07-24 Sun 09:43]--[2022-07-24 Sun 11:41] =>  1:58
+  :END:
+
+There are 3 compute options:
+- Virtual machines
+- Container services
+- Serverless
+
+*** Virtual machines (EC2)
+
+In AWS, virtual machines are called instances of Elastic Compute Cloud
+(EC2). Behind the scenes, AWS handles the VM OS (aka the guest OS)
+and the Hypervisor layers.
+
+First, you create an Amazon Machine Image (AMI) which consists of
+an OS, compute and memory capabilities, and some applications on
+startup.
+
+Think of an AMI as a class of which a VM is an object.
+
+Every compute instance has to exist on some network. In AWS, these
+networks are called VPCs or Virtual Private Clouds. By default,
+VMs are assigned to the AWS default VPC. This is easy to do but is
+public and accessible to the Internet. Over time, you will want to
+switch to your own VPC.
+
+EC2 instances can be run, stopped or terminated. When EC2
+instances are terminated, all the data on them is lost. Costs are
+only incurred when EC2 instances are in the running state or in
+the stopping state prior to entering "Stopped".
+
+file:Screenshot 2022-07-24 101827.jpg]]
+
+There are 3 pricing options for EC2:
+
+- On-demand :: Highest price and you don't have to worry about availability.
+
+- Reserved Instances (RI) :: Lower than "On-demand"
+
+- Spot Instances :: You name a spot price and, if unused AWS compute
+  capability is available at that spot price, you get it.
+
+See also [[#security_for_EC2][Security for EC2]].
+
+*** Container services
+
+AWS provides two orchestration tools:
+- Amazon Elastic Container Services (ECS), and
+- Amazon Elastic Kubernetes Services (EKS)
+
+The first uses Amazon's own orchestration tool while the second
+uses Kubernetes.
+
+See [[id:ba0757bb-3fc9-462e-af71-336b3e3c1ad3][What are containers?]] for an introduction.
+
+** AWS Serverless
+
+*** AWS Lambda
+
+AWS Lambda is an example of a serverless technology to run quick
+compute jobs (< 15 min in duration).
+
+[[./Screenshot 2022-07-24 111505.jpg]]
+
+AWS Lambda functions can be set up to run on multiple triggers that
+you can program. Under the hood, AWS runs the code in the AWS
+Lambda function in an isolated environment.
+
+[[https://docs.aws.amazon.com/lambda/latest/dg/welcome.html][AWS Lambda developer guide]]
+
+*** AWS Fargate
+
+AWS Fargate is another serverless compute solution on which you can
+run your containers. Amazon ECS or EKS can run in two modes: either
+EC2 mode in which you use your own EC2 instances to run containers
+or AWS Fargate mode in which you use Fargate serverless compute for
+your containers. With the latter, you are not responsible for
+activities like patching the OS etc. as you would be if you used
+your own EC2 instances.
+
+** AWS networking
+   :PROPERTIES:
+   :ID:       6becc95b-6eec-4466-ab3a-0758521dee7f
+   :END:
+
+A VPC is created using a region and an IP range (CIDR
+notation). Within a VPC, you may have multiple subnets, for
+example one subnet connected to the public Internet and the other
+private. Subnets are connected to one AZ inside a region and have
+an IP sub-range from the VPC range. Public subnets need to connect
+to the public Internet through an Internet gateway.
+
+Route tables determine how data is routed between the various
+subnets and the Internet gateway. There is always a main route
+table that applies, by default, to all subnets. In addition, you
+can add custom route tables, for instance, for public subnets to
+access the Internet through the Internet gateway.
+
+Network Access Control Lists (ACLs) act as firewalls around each
+subnet. Security groups, on the other hand, work around EC2
+instances.
+
+** AWS storage
+  :LOGBOOK:
+  CLOCK: [2022-08-07 Sun 08:19]--[2022-08-07 Sun 09:23] =>  1:04
+  :END:
+
+There are 2 types of storage: block and object. In block storage, a
+1 GB file is divided up into smaller chunks while, in object
+storage, it is considered atomic.
+
+If you have a photograph, you'll probably work on it as an object
+and not update pieces of it. So, object storage might make more
+sense. For a large text file, the reverse may hold.
+
+*** AWS block storage
+
+For an EC2 instance, there can be 2 types of block storage: EC2
+instance store and AWS Elastic Block Storage (EBS) volumes. The EC2
+instance store is attached to the EC2 compute instance and hence is
+fast access. However, its lifecycle is attached to the EC2 instance
+and hence the data is lost when the EC2 instance is lost.
+
+In contrast, an EBS volume can be attached to an EC2 instance just
+like an external memory drive can be attached to a laptop. EBS
+volumes are separate from the instance and are persistent
+storage. They can be SSD or HDD backed volumes. If you use EBS
+volumes, you must use backups (called snapshots) so that you can
+recreate them when needed.
+
+*** AWS S3
+
+AWS S3 (Stand-alone Storage Solution) is an object storage
+methodology. The advantage is that it can be attached to multiple
+EC2 instances at a time. S3 contain region-specific
+buckets. Buckets are potentially accessible over the Internet by
+users with access permissions. By default, bucket data is private.
+
+Access to S3 buckets is determined by bucket policies. These are
+encoded as JSON. They are different from IAM policies in that they
+only apply to buckets.
+
+S3 buckets are commonly used for software downloads, data lakes,
+media files, static web sites (i.e. web sites that only run
+client-side code like Javascript) etc.
+
+Objects in S3 buckets can be versioned to get all the benefits of
+version control.
+
+S3 solutions can come in multiple flavors e.g. S3 Glacier which
+allows you to get cheap memory for archiving.
+
+Note that S3 is a flat storage system i.e. there is no
+hierarchical structure. Hence, it is not a good choice for storing
+folder structures. Amazon Elastic File Storage (EFS) or FSx for
+Windows is the right choice for that.
+
+** AWS databases
+
+For relational databases, Amazon RDS is the appropriate
+service. It can support multiple options for databases such as
+MySQL, PostgreSQL and Amazon Aurora. RDS can automatically take
+care of replication across multiple AZs.
+
+Amazon DynamoDB is a fully managed noSQL serverless database. It
+may not be the right database choice for all workloads. The
+following is a list of Amazon database choices.
+
+[[file:Screenshot 2022-08-07 091801.jpg]]
+
+** AWS monitoring
+   :LOGBOOK:
+   CLOCK: [2022-08-14 Sun 08:03]--[2022-08-14 Sun 09:40] =>  1:37
+   :END:
+
+   Instead of waiting for users to report app issues, you want to be
+   notified automatically through monitoring. There are other benefits
+   to monitoring such as the following.
+
+   - Improve performance, reliability and costs of your resources ::
+
+   - Recognize security threats and events ::
+
+   - Make data-driven decisions for your business :: For instance, you
+     can collect data on how many users are using the new application
+     you created.
+
+   AWS CloudWatch allows you to collect all your monitoring data in
+   one place (EC2, RDS etc.). Many AWS services provide a free level
+   of data monitoring to CloudWatch consisting of 1 data point per
+   metric per 5-min interval. This may often be enough for basic
+   monitoring. Additional monitoring has an added fee.
+
+   Multiple EC2 instances can be added for high availability. This can
+   be done automatically through auto-scaling in CloudWatch.
+
+   The Amazon Elastic Load Balancer (ELB) is a high-availability
+   region-based service. It can be used to route traffic to the
+   multiple instances. It works seamlessly with auto-scaling to
+   provide high-availability for your application.
+
+   ELB can be either an Application Load Balancer (Layer 7) or a Network Load
+   Balancer (Layer 4). It has 3 components - Listener, Target Groups and
+   Rules. Each target in a target group should have an associated
+   health check defined so that the load balancer can check the health
+   of the target group before sending traffic to it. Since ALB is OSI
+   layer 7, it can have rules based on application traffic content.
+
+
+** AWS architectural options
+
+[[file:Screenshot 2022-08-14 090415.jpg]]
+
+The following architecture can also be used and does a better job
+of separating the presentation layer (HTML, CSS, JS) from the
+application layer (business logic) and the data layer (DynamoDB and
+S3).
+
+Some new components are added in:
+- AWS RT53 to do dynamic routing
+- AWS Cloudfront to do global caching of web pages closer to the
+  user
+- AWS API Gateway to host the APIs to application layer code
+
+Note that this solution does not use any EC2 instances, VPC etc.
+
+[[file:Screenshot 2022-08-14 091212.jpg]]
+
+Thus, you can use multiple AWS architectures for your applications.
+
+
+*** AWS Well-Architected                                           :glossary:
+
+   This has been developed to help architects build applications that
+   optimize across 5 pillars (acronym CORPS):
+   - Cost
+   - Operational excellence
+   - Reliability
+   - Performance
+   - Security
+
+
+* Comparison of Azure and AWS services                               :Review:
+:PROPERTIES:
+:ID:       4864503f-e8d4-446c-9f46-5025058732d9
+:END:
+
+|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
+| *Category* | *Notes*                                              | *AWS*                                | *Azure*                                   |
+|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
+| Compute    | General-purpose compute instances; full OS control.  | EC2 (Elastic Compute Cloud)          | Virtual Machines (VMs)                    |
+|            | Serverless event-driven compute; pay per execution.  | Lambda                               | Azure Functions                           |
+|            | Automatically scale compute instances based on load. | Auto Scaling Groups                  | Virtual Machine Scale Sets                |
+|            | Simplified hosting for small apps or websites.       | Lightsail                            | Static Web Apps                           |
+|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
+| Container  | Run containers without managing servers.             | Elastic Container Service (ECS)      | Azure Container Instances (ACI)           |
+|            | Managed Kubernetes clusters.                         | Elastic Kubernetes Service (EKS)     | Azure Kubernetes Service (AKS)            |
+|            | Serverless container compute backend                 | Fargate                              | ACI / AKS Virtual Nodes                   |
+|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
+| Database   | Managed relational DBs                               | RDS (Relational Database Service)    | Azure SQL Database                        |
+|            | High-performance managed relational DB               | Aurora                               | SQL Managed Instance                      |
+|            | Fully managed NoSQL database.                        | DynamoDB                             | Cosmos DB                                 |
+|            | Graph database service.                              | Neptune                              | Cosmos DB                                 |
+|            | In-memory data store / cache.                        | ElastiCache                          | Azure Cache for Redis                     |
+|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
+| Storage    | Object storage for unstructured data.                | S3 (Simple Storage Service)          | Blob Storage                              |
+|            | Block storage for VMs.                               | EBS (Elastic Block Store)            | Managed Disks                             |
+|            | Managed NFS-style shared file storage.               | EFS (Elastic File System)            | Azure Files                               |
+|            | Long-term cold storage.                              | Glacier                              | Archive Storage                           |
+|            | Hybrid cloud storage integration.                    | Storage Gateway                      | File Sync                                 |
+|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
+| Networking | Isolated private network environment.                | VPC (Virtual Private Cloud)          | Virtual Network (VNet)                    |
+|            | Distribute traffic across resources.                 | Elastic Load Balancing               | Load Balancer / Application Gateway       |
+|            | Managed DNS and traffic routing.                     | Route 53                             | Azure DNS                                 |
+|            | Content delivery network                             | CloudFront                           | Azure CDN                                 |
+|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
+| Security   | Identity, authentication, and access control.        | IAM (Identity and Access Management) | Azure Active Directory (Entra ID)         |
+|            | Centralized key and secret management.               | KMS (Key Management Service)         | Azure Key Vault                           |
+|            | Protects web apps from common exploits.              | WAF (Web Application Firewall)       | Azure WAF                                 |
+|            | Threat detection and compliance monitoring.          | GuardDuty                            | Defender for Cloud                        |
+|            | DDoS mitigation and network security policy control. | Shield / Firewall Manager            | DDoS Protection / Network Security Groups |
+|            | Manage application secrets securely.                 | Secrets Manager                      | Azure Key Vault / Managed Identity        |
+|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
+
+* Comparison of data and AI/ML services
+
+|------------------------------+-------------------------------------+--------------------------------------|
+| *Capability*                 | *AWS Service*                       | *Azure Service*                      |
+|------------------------------+-------------------------------------+--------------------------------------|
+| Data Lake                    | Amazon S3 + AWS Lake Formation      | Azure Data Lake Storage (ADLS)       |
+| Data Catalog / ETL           | AWS Glue                            | Azure Data Factory + Data Catalog    |
+| Data Warehouse               | Amazon Redshift                     | Azure Synapse Analytics              |
+| Machine Learning Platform    | Amazon SageMaker                    | Azure Machine Learning (Azure ML)    |
+|------------------------------+-------------------------------------+--------------------------------------|
+
+* Learning project for AWS
+:PROPERTIES:
+:ID:       0ed956b1-7a46-41f8-9823-03db651ce312
+:END:
+
+Setup an AWS EC2 Linux instance or an AWS Lambda so that I can do the
+following regularly.
+
+- Startup the instance
+- Git checkout my repositories
+- Run Emacs
+- Update Org files
+- Run copy_Google_tasks.py
+- Git commit the results
+- Teardown the instance
+
+Pricing:  [[https://aws.amazon.com/ec2/pricing/on-demand/]]
+
+* Links and other logistics
+
+[[https://www.coursera.org/learn/aws-cloud-technical-essentials][Essentials course]]
+
+[[https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk][Security course]]
+
+[[https://drive.google.com/open?id=13ufnk8-wtGvLWX8lZBGgabCUZzjgUoPW&authuser=dilipgwarrier%40gmail.com&usp=drive_fs][Course completion certificate]]
