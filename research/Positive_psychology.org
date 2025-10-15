@@ -12,67 +12,82 @@ Subjective Well-Being (SWB), pioneered by Ed Diener. Diener suggests
 that SWB consists of two components, Affective Balance and Life
 Satisfaction. The SWB score is the sum of the two scores.
 
-#+BEGIN_SRC python :results file graphics :exports results :file graph.png :eval yes :cache yes
-    import matplotlib.pyplot as plt
-    import networkx as nx
-    import os
+#+BEGIN_SRC python :results file graphics :exports results :file graph.png :eval yes
+  import matplotlib.pyplot as plt
+  import networkx as nx
+  import os
 
-    # Create the graph
-    G = nx.Graph()
-    G.add_edge("Subjective Well-Being", "Affective Balance")
-    G.add_edge("Subjective Well-Being", "Life Satisfaction")
+  # Create the graph
+  G = nx.Graph()
+  G.add_edge("Subjective Well-Being", "Affective Balance")
+  G.add_edge("Subjective Well-Being", "Life Satisfaction")
 
-    G.add_edge("Life Satisfaction", "Work fulfillment")
-    G.add_edge("Life Satisfaction", "Social connections")
-    G.add_edge("Life Satisfaction", "Self satisfaction")
+  G.add_edge("Affective Balance", "Positive emotions")
+  G.add_edge("Affective Balance", "Negative emotions")
 
-    G.add_edge("Affective Balance", "Positive emotions")
-    G.add_edge("Affective Balance", "Negative emotions")
+  G.add_edge("Life Satisfaction", "Self")
+  G.add_edge("Life Satisfaction", "Work")
+  G.add_edge("Life Satisfaction", "Society")
 
-    # Define a manual hierarchical layout
-    pos = {
-        "Subjective Well-Being": (0, 2),   # root, top center
+  G.add_edge("Self", "Health")
+  G.add_edge("Self", "Wealth")
+  G.add_edge("Self", "Wisdom")
 
-        "Affective Balance": (-1, 1),      # left branch
-        "Life Satisfaction": (1, 1),       # right branch
+  G.add_edge("Work", "Autonomy")
+  G.add_edge("Work", "Mastery")
+  G.add_edge("Work", "Purpose")
 
-        "Positive emotions": (-1.5, 0),
-        "Negative emotions": (-0.5, 0),
+  # Define a manual hierarchical layout
+  pos = {
+      "Subjective Well-Being": (0, 2),   # root, top center
 
-        "Work fulfillment": (1.0, 0),
-        "Social connections": (0.5, 0),
-        "Self satisfaction": (1.5, 0),
-    }
+      "Affective Balance": (-1, 1),      # left branch
+      "Life Satisfaction": (1, 1),       # right branch
 
-    # Helper to wrap labels nicely
-    def wrap_label(label, max_words=1):
-        words = label.split()
-        return "\n".join(
-            [" ".join(words[i:i+max_words]) for i in range(0, len(words), max_words)]
-        )
+      "Positive emotions": (-1.5, 0),
+      "Negative emotions": (-0.5, 0),
 
-    # Create wrapped labels for all nodes
-    labels = {node: wrap_label(node, max_words=1) for node in G.nodes()}
+      "Self": (0.5, 0),
+      "Work": (1.5, 0),
+      "Society": (2.5, 0),
 
-    # Draw the graph with wrapped labels
-    nx.draw(
-        G, pos,
-        labels=labels,
-        with_labels=True,
-        node_color="lightblue",
-        node_size=3500,   # enough space for multiline text
-        font_size=9
-    )
+      "Health": (0, -1),
+      "Wealth": (0.5, -1),
+      "Wisdom": (1.0, -1),
 
-    # Save and return the path to Org Babel
-    filename = "graph.png"
-    plt.savefig(filename)
-    plt.close()
+      "Autonomy": (1.0, -2),
+      "Mastery": (1.5, -2),
+      "Purpose": (2.0, -2),
+  }
+
+  # Helper to wrap labels nicely
+  def wrap_label(label, max_words=1):
+      words = label.split()
+      return "\n".join(
+          [" ".join(words[i:i+max_words]) for i in range(0, len(words), max_words)]
+      )
+
+  # Create wrapped labels for all nodes
+  labels = {node: wrap_label(node, max_words=1) for node in G.nodes()}
+
+  # Draw the graph with wrapped labels
+  nx.draw(
+      G, pos,
+      labels=labels,
+      with_labels=True,
+      node_color="lightblue",
+      node_size=3500,   # enough space for multiline text
+      font_size=9
+  )
+
+  # Save and return the path to Org Babel
+  filename = "graph.png"
+  plt.savefig(filename)
+  plt.close()
 #+END_SRC
 
 #+RESULTS[d75e0ece5234fa7ec34db4b0dd73a37bfafa7d65]:
 [[file:graph.png]]
-
 
 ** Affective Balance
 
@@ -103,11 +118,13 @@ long-term.
 | FERGAP           | CSLGEH              |
 |------------------+---------------------|
 
-
 ** Life Satisfaction
+:PROPERTIES:
+:ID:       3884f562-7a2e-4e3a-893e-20e9791ca16f
+:END:
 
 Life Satisfaction (LS) is the satisfaction with important life
-domains - society, work, and leisure. This is a cognitive measure
+domains - society, work, and self. This is a cognitive measure
 i.e. it is how you would evaluate life if you stepped back to reflect
 on it. Life Satisfaction is more long-term while Affective Balance can
 show short-term fluctuations.
@@ -117,21 +134,20 @@ relationships. People who score high on LS tend to have close and
 supportive family and friends, whereas those who do not have close
 friends and family are more likely to be dissatisfied.
 
-Another factor is work or, more generally, performance in an important role
-such as homemaker or grandparent. When the person enjoys their work,
-and feels that it is meaningful and important, it increases their
-LS. When work is going poorly because of bad external
+Another factor is work or, more generally, performance in an important
+role such as homemaker or grandparent. When the person enjoys their
+work, and feels that it is meaningful and important, it increases
+their LS. When work is going poorly because of bad external
 circumstances or a poor fit with the person’s strengths, this can
 lower LS.
 
 Human beings generally feel pleasure from working towards a goal. The
 goal has to be challenging but achievable and they should get regular
-feedback. This allows them to achieve a state of flow. However, they
-do not gain much pleasure after having achieved the goal although they
-perceive that there is pleasure to be gained after achieving the
-goal. Eg. winning a lottery, getting your ideal job etc. This is
-analogous to the movie "Memento" where the protagonist continually
-sets new goals to challenge himself.
+feedback. This allows them to achieve a state of flow. However, even
+though they think there is pleasure to be gained on achieving a goal,
+they do not actually gain such pleasure. Eg. winning a lottery,
+getting your ideal job etc. This is analogous to the movie "Memento"
+where the protagonist continually sets new goals to challenge himself.
 
 A third factor that influences the LS of most people is
 personal – satisfaction with the self, religious or spiritual life,
@@ -157,7 +173,6 @@ positive attitudes to life and the world.
 Buddha said that happiness comes from within. It cannot be achieved by
 making the outside world conform to your wishes. Modern positive
 psychology agrees.
-
 
 * A Buddhist take on happiness                                       :Review:
 

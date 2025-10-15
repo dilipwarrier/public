@@ -77,6 +77,9 @@ Then, we can use the CURE framework to respond to feedback.
 See also [[id:64050850-821b-419e-bb04-ad9f8e5cdb3e][The five meetings rule]].
 
 * Having productive conversations on disagreements                   :Review:
+:PROPERTIES:
+:ID:       21d82d90-754a-4ff1-8848-b62276884a76
+:END:
 
 Successful responses follow a five-step process (ALRAS) that helps make
 conversations less polarized and more productive.

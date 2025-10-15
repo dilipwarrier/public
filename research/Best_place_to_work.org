@@ -16,9 +16,10 @@ and managers can take to resolve this problem.
 * Failure and experimentation                                        :Review:
 
 High achievers fail multiple times and make a lot more attempts than
-others. Workplaces should not encourage individuals to do the same
-thing over and over. Experimentation is necessary in today's
-climate.
+others. Workplaces should encourage individuals to try different
+things and not just to do the same thing over and
+over. Experimentation is necessary both for business success and for
+employee engagement.
 
 * Workspace design                                                   :Review:
 
@@ -85,13 +86,14 @@ People connect closely based on the following factors.
 
 Employees should be encouraged to invite family
 members to events; employees enjoy being able to show off their work
-place to their families. Also, instead of awkward social
+place to their families. Instead of awkward social
 get-togethers, consider having events with a common goal that people
 work towards.
 
 If you are having constant conflicts with a colleague, find common
-goals that you can both strive towards. Gossip is a powerful tool in
-human communications but be careful about encouraging it too much.
+goals that you can both strive towards.
+
+See also [[id:21d82d90-754a-4ff1-8848-b62276884a76][Having productive conversations on disagreements]].
 
 * Autonomy                                                           :Review:
 
@@ -104,6 +106,8 @@ income in a new job.
 In addition to autonomy, human beings need to increase their
 competence through increasing challenges and need to see the meaning
 of what they are doing.
+
+See also [[id:3884f562-7a2e-4e3a-893e-20e9791ca16f][Life Satisfaction]].
 
 For established companies, make sure that employees understand the
 history of the company. For new companies, make sure that employees
