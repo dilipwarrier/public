@@ -7,23 +7,20 @@
 :CUSTOM_ID: Atlassian_products
 :END:
 
-
 ** Jira Align
 
-   From the [[https://www.atlassian.com/software/jira/align][Jira Align]] web site, it allows tracking OKRs across the
-   company and is a great way of creating and monitoring org-wide goals
-   and objectives. However, they suggest that Jira Align is a product for an
-   org of 500+ people. They also suggest that [[https://www.atlassian.com/software/jira/pricing][Jira Premium]] can be used
-   for smaller organizations.
+From the [[https://www.atlassian.com/software/jira/align][Jira Align]] web site, it allows tracking OKRs across the
+company and is a great way of creating and monitoring org-wide goals
+and objectives. However, they suggest that Jira Align is a product for an
+org of 500+ people. They also suggest that [[https://www.atlassian.com/software/jira/pricing][Jira Premium]] can be used
+for smaller organizations.
 
-   See also [[file:c:/Users/sesa785733/Documents/GitHub/private/EVC_notes.org::#Atlassian_EVC_usage][EVC notes on Atlassian usage]].
-
+See also [[id:aa3bd004-c924-46e4-939b-6820d173cde7][Measuring developer productivity]].
 
 * 2023 layoffs in software companies                                 :Review:
 
-  As [[file:Screenshot 2023-03-04 173353.png][this infographic]] from [[https://www.instagram.com/p/CoYihx7Li0z/][Scott Galloway]] shows, although there have
-  been layoffs in the big software companies, they have been small
-  compared to the growth in 2019-22.
-
+As [[file:Screenshot 2023-03-04 173353.png][this infographic]] from [[https://www.instagram.com/p/CoYihx7Li0z/][Scott Galloway]] shows, although there have
+been layoffs in the big software companies, they have been small
+compared to the growth in 2019-22.
 
 * Wes Bush: Truly great software companies are built to be product-led :quotes:

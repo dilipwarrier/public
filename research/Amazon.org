@@ -41,12 +41,16 @@ specific steps, you'll feel the stress reduce.
 
 *** Jeff Bezos: You cannot catch the latest wave as an entrepreneur; you have to position yourself and wait for the wave. :quotes:
 
-* Leadership principles
+*** Jeff Bezos: Assume that your customers have infinite information. They can find anything they want through modern tools like search and AI. :quotes:
+
+* Amazon leadership principles
 
 Amazon's leadership principles translate into some essential practices
 like Bar Raiser hiring, Working Backwards from the customer need,
 written narratives like a six-page narrative, single threaded teams
 with single threaded leaders, focusing on input metrics.
+
+[[https://www.amazon.jobs/content/en/our-workplace/leadership-principles][Leadership principles]]
 
 * The Amazon 6-pager                                                 :Review:
 :PROPERTIES:
@@ -91,10 +95,10 @@ advantages over Powerpoint slides.
 
 See also [[id:8996fe86-bcc2-43e0-80ee-14f40b2f7bf5][Pre-wiring a presentation]]
 
+
 * References
 
 - [[https://www.youtube.com/watch?v=O4MtQGRIIuA][2012 re:Invent fireside chat]] with Jeff
 - Jesse Freeman, [[https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9][The anatomy of an Amazon 6-pager]]
 - Ian Nowland, [[https://inowland.medium.com/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909][Using 6 page and 2 page documents...]]
 - Colin Bryar and Bill Carr, "Working backwards"
-- Amazon.com, [[https://www.amazon.jobs/content/en/our-workplace/leadership-principles][Leadership principles]]

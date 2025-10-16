@@ -12,7 +12,7 @@ Subjective Well-Being (SWB), pioneered by Ed Diener. Diener suggests
 that SWB consists of two components, Affective Balance and Life
 Satisfaction. The SWB score is the sum of the two scores.
 
-#+BEGIN_SRC python :results file graphics :exports results :file graph.png :eval yes
+#+BEGIN_SRC python :results file graphics :exports results :file autogen_SWB.png :eval yes
   import matplotlib.pyplot as plt
   import networkx as nx
   import os
@@ -27,11 +27,12 @@ Satisfaction. The SWB score is the sum of the two scores.
 
   G.add_edge("Life Satisfaction", "Self")
   G.add_edge("Life Satisfaction", "Work")
-  G.add_edge("Life Satisfaction", "Society")
+  G.add_edge("Life Satisfaction", "Social connections")
 
   G.add_edge("Self", "Health")
   G.add_edge("Self", "Wealth")
   G.add_edge("Self", "Wisdom")
+  G.add_edge("Self", "Leisure")
 
   G.add_edge("Work", "Autonomy")
   G.add_edge("Work", "Mastery")
@@ -49,11 +50,12 @@ Satisfaction. The SWB score is the sum of the two scores.
 
       "Self": (0.5, 0),
       "Work": (1.5, 0),
-      "Society": (2.5, 0),
+      "Social connections": (2.5, 0),
 
       "Health": (0, -1),
       "Wealth": (0.5, -1),
       "Wisdom": (1.0, -1),
+      "Leisure": (1.5, -1),
 
       "Autonomy": (1.0, -2),
       "Mastery": (1.5, -2),
@@ -81,13 +83,13 @@ Satisfaction. The SWB score is the sum of the two scores.
   )
 
   # Save and return the path to Org Babel
-  filename = "graph.png"
+  filename = "autogen_SWB.png"
   plt.savefig(filename)
   plt.close()
 #+END_SRC
 
 #+RESULTS[d75e0ece5234fa7ec34db4b0dd73a37bfafa7d65]:
-[[file:graph.png]]
+[[file:autogen_SWB.png]]
 
 ** Affective Balance
 

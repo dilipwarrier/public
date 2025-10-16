@@ -154,13 +154,13 @@ DC fast chargers (Level 3) can provide up to 150 kW of power. For a
 70 kWh battery, that implies full charge in about 30 min. The same
 full charge would take 10 hours on a level 2 charger.
 
-A DC fast charger is equivalent to about 150 US homes at its peak charging. Even
-a level 2 charger is equivalent to about 7 US homes.
+A DC fast charger is equivalent to about 150 US homes at its peak
+charging. Even a level 2 charger is equivalent to about 7 US homes.
 
 However, assuming an average of 10k miles driven in a year, that
 translates to a requirement of 10k/300*70 kWh/year or about 2.4
 MWh/year. An average US home consumes 1 kW * 9000 hours/year = 9
-MWh/year. So, on average, an EV will add about 25% to the energy
+MWh/year. So, on average, one EV will add about 25% to the energy
 consumption of a house.
 
 See discussion on [[id:c9493bda-aa50-4371-9eed-5e56699d58ba][US energy consumption]].

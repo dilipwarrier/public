@@ -10,27 +10,26 @@
 :ID:       6af95639-5f7a-4eb2-b2b1-fa3b05f5cc75
 :END:
 
-|-------+----------------+-------------+-----------------+--------------|
-| Year  | US ex-AI power | US AI power | RoW ex-AI power | RoW AI power |
-|-------+----------------+-------------+-----------------+--------------|
-| 2030* |            347 |         151 |             426 |          166 |
-| 2025* |            230 |          35 |             291 |           45 |
-| 2024* |            203 |          17 |             258 |           22 |
-| 2023  |            171 |           5 |             228 |            7 |
-|-------+----------------+-------------+-----------------+--------------|
+|-------+-----------------+--------------+------------------+---------------|
+| Year  | US ex-AI energy | US AI energy | RoW ex-AI energy | RoW AI energy |
+|-------+-----------------+--------------+------------------+---------------|
+| 2030* |             347 |          151 |              426 |           166 |
+| 2025* |             230 |           35 |              291 |            45 |
+| 2024* |             203 |           17 |              258 |            22 |
+| 2023  |             171 |            5 |              228 |             7 |
+|-------+-----------------+--------------+------------------+---------------|
 
 - All energy numbers are in TWh of consumption.
 - RoW: Rest of World
 - Years with * next to them have estimated numbers.
 
-The US AI power growth represents 34% y-o-y growth from 2025
+The US AI energy growth represents 34% y-o-y growth from 2025
 through 2030.
-
 
 *** References
 
 - Goldman Sachs, [[https://www.goldmansachs.com/insights/articles/how-ai-is-transforming-data-centers-and-ramping-up-power-demand?lid=ke27fg9lc38k&chl=em&cid=2025-09-09&plt=briefings][Global power demand from AI data centers]]
-
+- WSJ, [[https://www.wsj.com/business/energy-oil/ai-data-centers-desperate-for-electricity-are-building-their-own-power-plants-291f5c81][Data centers desperate for electricity]], Apr 2025.
 
 ** Reasons for trending changes in data centers
 
@@ -67,11 +66,9 @@ Similarly, the switch from traditional cloud centers to
 high-performance compute based data centers may create its own supply
 chain with its own set of winners and losers.
 
-
 *** References
 
 - [[https://www.goldmansachs.com/insights/articles/rising-power-density-disrupts-ai-infrastructure][Goldman Sachs - Rising power density in AI infrastructure]]
-
 
 * US energy consumption                                              :Review:
 :PROPERTIES:
@@ -96,14 +93,13 @@ in 2022. That total was split as follows.
 | Total       |           3.9 |     99% |
 |-------------+---------------+---------|
 
-The use of electrical energy for transportation is a negligible
-fraction of the total.
-
 [[id:6af95639-5f7a-4eb2-b2b1-fa3b05f5cc75][Total data center consumption]] of 220 TWh in 2024 is about 6% of total
 US electrical energy consumption in 2024.
 
 [[id:cb7304cc-fee3-4d94-b021-7c56b6620c34][Solar power generation]] at 250 GWh is a small fraction of total US
 energy production in 2024.
+
+The US is adding about 65 GW of electrical grid power in 2025.
 
 ** Consumption by state
 
@@ -118,16 +114,14 @@ See [[https://drive.google.com/file/d/1mgCN8V5FYhhD-obrXtLrbDzbbZWOd58R/view?usp
 :ID:       d51a7c0d-0649-40cf-b9fb-29e759f4ea6a
 :END:
 
-  An average US home consumes about 1 kW of power. Since a year has
-  about 9000 hours, that translates to 9 MWh/year of consumption.
-
+An average US home consumes about 1 kW of power. Since a year has
+about 9000 hours, that translates to 9 MWh/year of consumption.
 
 ** References
 
 - EIA, [[https://www.eia.gov/energyexplained/electricity/use-of-electricity.php][Use of electricity]]
 
 * Solar power generation
-
 
 ** Solar power generation in the US                                  :Review:
 :PROPERTIES:
