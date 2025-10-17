@@ -91,99 +91,99 @@ except us. So we have to do it. If we don’t, it will never stop.
 ** References
 - Michael Huemer, "Dialogues on Ethical Vegetarianism"
 
+
 * The Life you can save by Peter Singer                              :Review:
 
-  10% of the world's population lives in extreme poverty (< $2/day) as
-  of 2015. 85% lives on $30 or less per day.
+10% of the world's population lives in extreme poverty (< $2/day) as
+of 2015. 85% lives on $30 or less per day.
 
-  If you can reduce the suffering of one other person without much
-  suffering for yourself, you should do so. Giving aid to charitable
-  organizations that work with poor people will help alleviate their
-  suffering. So, you must give as much money as you can spare to such
-  organizations. Anything less can be considered unethical.
+If you can reduce the suffering of one other person without much
+suffering for yourself, you should do so. Giving aid to charitable
+organizations that work with poor people will help alleviate their
+suffering. So, you must give as much money as you can spare to such
+organizations. Anything less can be considered unethical.
 
-  In FY19, [[https://explorer.usaid.gov/][US foreign aid]] was $49B and US GDP was $2T. So, foreign aid
-  was roughly 2.5% of GDP.  The US is one of the highest contributors of
-  donations in absolute numbers but it is one of the lowest contributors
-  as a percentage of GDP or income. A lot of this aid goes to countries
-  that the US has political interests in and are not the poorest
-  countries in the world. A large part of the poorest people in the
-  world live in South Asia and in sub-Saharan Africa. Our charitable
-  donations should go to them.
+In FY19, [[https://explorer.usaid.gov/][US foreign aid]] was $49B and US GDP was $2T. So, foreign aid
+was roughly 2.5% of GDP.  The US is one of the highest contributors of
+donations in absolute numbers but it is one of the lowest contributors
+as a percentage of GDP or income. A lot of this aid goes to countries
+that the US has political interests in and are not the poorest
+countries in the world. A large part of the poorest people in the
+world live in South Asia and in sub-Saharan Africa. Our charitable
+donations should go to them.
 
-  A donation of $50 can help with avoidable problems like cataracts. A
-  donation of $3000 san save a life in a poor country. A donation of
-  $2/year can bring chlorinated water to one poor person. In contrast,
-  the cost of saving a life in the US is estimated at $2M.
+A donation of $50 can help with avoidable problems like cataracts. A
+donation of $3000 san save a life in a poor country. A donation of
+$2/year can bring chlorinated water to one poor person. In contrast,
+the cost of saving a life in the US is estimated at $2M.
 
-  According to [[https://givingusa.org/giving-usa-2020-charitable-giving-showed-solid-growth-climbing-to-449-64-billion-in-2019-one-of-the-highest-years-for-giving-on-record/][Giving USA]], in 2020, private donors (individuals,
-  foundations, companies) in the US gave $470B in charity. Out of that,
-  giving to international affairs was about $20B. That amounts to about
-  $1600/year of total charity per person and $70/year of international
-  charity. People generally prefer to give to causes that are dear to
-  their heart and not necessarily to causes that bring the most value.
+According to [[https://givingusa.org/giving-usa-2020-charitable-giving-showed-solid-growth-climbing-to-449-64-billion-in-2019-one-of-the-highest-years-for-giving-on-record/][Giving USA]], in 2020, private donors (individuals,
+foundations, companies) in the US gave $470B in charity. Out of that,
+giving to international affairs was about $20B. That amounts to about
+$1600/year of total charity per person and $70/year of international
+charity. People generally prefer to give to causes that are dear to
+their heart and not necessarily to causes that bring the most value.
 
-  A [[https://howrichami.givingwhatwecan.org/how-rich-am-i?income=200000&countryCode=USA&household%5Badults%5D=2&household%5Bchildren%5D=2][US household income]] of $200k for a family of four can put you in the
-  top 1% of the world. Donating 10% of your income still keeps you in
-  the top 1% and potentially saves about 20 human lives/year.
+A [[https://howrichami.givingwhatwecan.org/how-rich-am-i?income=200000&countryCode=USA&household%5Badults%5D=2&household%5Bchildren%5D=2][US household income]] of $200k for a family of four can put you in the
+top 1% of the world. Donating 10% of your income still keeps you in
+the top 1% and potentially saves about 20 human lives/year.
 
-  People in rich countries are already doing harm to those in poor
-  countries eg through global warming, buying goods from companies that
-  bribe officials to gain resources from poor countries, blocking
-  immigration and trade from other countries etc. The US subsidizes its
-  own farmers and applies tariffs on imports from other countries, thus
-  making it harder for farmers from poor countries to sell their goods
-  here.
+People in rich countries are already doing harm to those in poor
+countries eg through global warming, buying goods from companies that
+bribe officials to gain resources from poor countries, blocking
+immigration and trade from other countries etc. The US subsidizes its
+own farmers and applies tariffs on imports from other countries, thus
+making it harder for farmers from poor countries to sell their goods
+here.
 
-  Generally speaking, you should not give money to poor people directly
-  because it may cause dependence. Instead, money should be spent on
-  organizations that provide healthcare, education, housing etc.
+Generally speaking, you should not give money to poor people directly
+because it may cause dependence. Instead, money should be spent on
+organizations that provide healthcare, education, housing etc.
 
-  People do things based on what other people in their peer group are
-  doing. So, if you're doing something moral like going vegetarian or
-  donating a large part of your income to charity, you should announce
-  it publicly and talk about it so that your peers are induced to do the
-  same.
+People do things based on what other people in their peer group are
+doing. So, if you're doing something moral like going vegetarian or
+donating a large part of your income to charity, you should announce
+it publicly and talk about it so that your peers are induced to do the
+same.
 
-  People already show altruism in some forms eg leaving tips in
-  restaurants that they may never go back to. However, more altruism
-  needs to be directed to the world's poorest people.
+People already show altruism in some forms eg leaving tips in
+restaurants that they may never go back to. However, more altruism
+needs to be directed to the world's poorest people.
 
-  Warren Buffett donated a large part of his income after he became a
-  billionaire. It would have been a mistake if he had donated the first
-  million he made because then he wouldn't be able to donate billions in
-  later life. However, not all of us are expert investors like
-  Buffett. Most of us should donate money now rather than later, because
-  the benefit of a lesser sum now outweighs the benefit of a slightly
-  larger sum later.
+Warren Buffett donated a large part of his income after he became a
+billionaire. It would have been a mistake if he had donated the first
+million he made because then he wouldn't be able to donate billions in
+later life. However, not all of us are expert investors like
+Buffett. Most of us should donate money now rather than later, because
+the benefit of a lesser sum now outweighs the benefit of a slightly
+larger sum later.
 
-  Instead of giving a small amount of charity and using the rest of the
-  money for discretionary expenses, we should be cutting out many
-  discretionary expenses and giving more to charity.
+Instead of giving a small amount of charity and using the rest of the
+money for discretionary expenses, we should be cutting out many
+discretionary expenses and giving more to charity.
 
-  There are many reasons why it's not in human nature to give to poor
-  people on the other side of the world: no identifiable victim,
-  parochialism in generosity, illusion of futility, notion of fairness,
-  distributed responsibility etc.
+There are many reasons why it's not in human nature to give to poor
+people on the other side of the world: no identifiable victim,
+parochialism in generosity, illusion of futility, notion of fairness,
+distributed responsibility etc.
 
-  Economists like William Easterly have argued that giving aid can be
-  a wasteful effort. However, this is usually concerned with large
-  donors such as governments, World Bank etc. An individual or a
-  group's donations are unlikely to be affected by this. However,
-  individuals should try to find the best use of their money through
-  reasonable study.
+Economists like William Easterly have argued that giving aid can be
+a wasteful effort. However, this is usually concerned with large
+donors such as governments, World Bank etc. An individual or a
+group's donations are unlikely to be affected by this. However,
+individuals should try to find the best use of their money through
+reasonable study.
 
-  Moral consequentialist theory may suggest that you should save a
-  reasonable amount for your discretionary expenses and donate
-  everything else. However, in the real world, people seldom implement
-  such extreme measures. So, advocating for such extreme measures are
-  unlikely to succeed. Further, this may not hold true in the
-  deontological view.
+Moral consequentialist theory may suggest that you should save a
+reasonable amount for your discretionary expenses and donate
+everything else. However, in the real world, people seldom implement
+such extreme measures. So, advocating for such extreme measures are
+unlikely to succeed. Further, this may not hold true in the
+deontological view.
 
-  Even donating 5-10% of your net income and spreading the word to
-  others can make a significant difference. There is higher chance of
-  adoption of this level too.
-
+Even donating 5-10% of your net income and spreading the word to
+others can make a significant difference. There is higher chance of
+adoption of this level too.
 
 ** My donations
 :PROPERTIES:
@@ -206,45 +206,40 @@ except us. So we have to do it. If we don’t, it will never stop.
 
 * Effective Altruism                                                 :Review:
 
-  Ajeya Cotra has a heart-felt introduction to [[https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL][effective altruism]].
-
+Ajeya Cotra has a heart-felt introduction to [[https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL][effective altruism]].
 
 ** Why you should maximize your impact
 
-  The average doctor in the UK may add about 150 healthy
-  years over their career. The World Bank has a conversion rate of one
-  life for every 30 healthy years, so a doctor in a developed country
-  can save about 5 human lives over the course of their career.
+The average doctor in the UK may add about 150 healthy
+years over their career. The World Bank has a conversion rate of one
+life for every 30 healthy years, so a doctor in a developed country
+can save about 5 human lives over the course of their career.
 
-  Some doctors have had 100,000 times that much impact in their lives
-  e.g. the doctors who helped eradicate small-pox. Similarly, the
-  Soviet bureaucrat [[http://www.bbc.com/news/world-europe-24280831][Stanislav Petrov]] may have saved a billion lives by refusing to
-  launch nuclear missiles according to protocol. Some of this was luck
-  but, by making choices of which areas you focus on, you can get
-  100-1000 times the impact of an average person in your field.
+Some doctors have had 100,000 times that much impact in their lives
+e.g. the doctors who helped eradicate small-pox. Similarly, the
+Soviet bureaucrat [[http://www.bbc.com/news/world-europe-24280831][Stanislav Petrov]] may have saved a billion lives by refusing to
+launch nuclear missiles according to protocol. Some of this was luck
+but, by making choices of which areas you focus on, you can get
+100-1000 times the impact of an average person in your field.
 
-  You can [[https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/hk9Xh6xK5j3SQmkcn][increase your benefit to society]] in one of three ways.
-    - Helping more people
-    - Helping the same number of people to a greater extent, or
-    - Doing something which has benefits that last for a longer time.
-
+You can [[https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/hk9Xh6xK5j3SQmkcn][increase your benefit to society]] in one of three ways.
+  - Helping more people
+  - Helping the same number of people to a greater extent, or
+  - Doing something which has benefits that last for a longer time.
 
 ** The world is much better and can be much better
 
-   All three of the following are true.
-     - The world is much better
-     - The world is awful
-     - The world can be much better
+All three of the following are true.
+  - The world is much better than before
+  - The world is awful
+  - The world can be much better than it is right now
 
-     [[./Screenshot children saved.png]]
-
-   However, according to the [[http://www.fao.org/3/ca9692en/online/ca9692en.html#][State of Food Security report]] in 2020,
-   the number of undernourished has been going up since 2014. In 2020,
-   nearly 700 million people or about 9% of the world population
-   were hungry. This number has been increasing since 2014 and COVID
-   has the potential to make the trend worse. Most of the world's
-   hungry population are in Asia and Africa.
-
+However, according to the [[http://www.fao.org/3/ca9692en/online/ca9692en.html#][State of Food Security report]] in 2020,
+the number of undernourished has been going up since 2014. In 2020,
+nearly 700 million people or about 9% of the world population
+were hungry. This number has been increasing since 2014 and COVID
+has the potential to make the trend worse. Most of the world's
+hungry population are in Asia and Africa.
 
 * Poor Economics by Abhijit Banerjee and Esther Duflo                :Review:
 
@@ -269,16 +264,16 @@ need such nudges and take them for granted. For instance, we get our
 kids vaccinated because, if not, schools won't accept them. We go to
 gyms partly because our insurance subsidizes it.
 
-Although poor people could generally benefit from risk insurance, t
-they generally don't buy it. Some of this may be due to the nature of
-product (you post for something that you hope you never use). Trust in
+Although poor people could generally benefit from risk insurance, they
+generally don't buy it. Some of this may be due to the nature of the
+product (you pay for something that you hope you never use). Trust in
 the insurance agent may also be a factor.
 
 Microfinance institutions work reasonably well but are not
 transformative. They rely on strict loan repayment rules and usually
-lend to a group of people. The group emerges through social pressure
+lend to a group of people. The group ensures through social pressure
 that everyone in the group makes payments on time. Due to these strict
 rules, it's harder for example to borrow for health related
 emergencies where people may not be able to pay back
 immediately. Moneylenders continue to operate and charge much higher
-interests even in areas where such insuring are active.
+interests even in areas where such institutions are active.

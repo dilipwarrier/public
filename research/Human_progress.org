@@ -1,0 +1,30 @@
+#+TITLE: Human progress
+#+FILETAGS: :Society:
+#+STARTUP: overview, hideallblocks
+
+* Rationality and humanism
+
+Maybe it is reasonable in the 21st century for human beings to be more
+anxious than previous generations. Maybe, there are important problems
+such as global warming, the potential for nuclear disaster, etc that
+previous generations didn't face and that we should worry about and
+address. However, it is also true that the world is a better place
+than it has ever been.
+
+This has primarily been due to the Enlightenment that turned away from
+religion and towards humanism, reasoning, and problem-solving.
+
+* Humanism
+
+The American Humanist Association defines Humanism as follows.
+
+"Humanism is a progressive philosophy of life that, without theism or
+other supernatural beliefs, affirms our ability and responsibility to
+lead ethical lives of personal fulfillment that aspire to the greater
+good."
+
+Their motto is "Good without a God".
+
+** References
+
+- Steven Pinker, Enlightenment now.
