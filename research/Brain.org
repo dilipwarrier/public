@@ -331,7 +331,8 @@ above only grow at the rate that you can learn.
 * Poetic naturalism                                                  :Review:
 
 Poetic naturalism - Naturalism is the belief that the world revealed
-through scientific inquiry is the only true world.
+through scientific inquiry is the only true world. This is closely
+related to [[id:1a57ed2c-9a0e-479e-a5fe-377219d090ea][Humanism]].
 
 Poetic implies that there are many ways of describing this natural
 world. All the good ways of talking about the world must be consistent

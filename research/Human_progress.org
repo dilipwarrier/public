@@ -2,7 +2,7 @@
 #+FILETAGS: :Society:
 #+STARTUP: overview, hideallblocks
 
-* Rationality and humanism
+* Rationality                                                        :Review:
 
 Maybe it is reasonable in the 21st century for human beings to be more
 anxious than previous generations. Maybe, there are important problems
@@ -14,7 +14,11 @@ than it has ever been.
 This has primarily been due to the Enlightenment that turned away from
 religion and towards humanism, reasoning, and problem-solving.
 
-* Humanism
+** Related links
+
+- [[id:13537c7c-c8ea-4a29-819e-c49ee37b1130][The European Renaissance]]
+
+* Humanism                                                           :Review:
 
 The American Humanist Association defines Humanism as follows.
 

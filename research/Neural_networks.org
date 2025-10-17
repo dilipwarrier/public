@@ -30,9 +30,3 @@
   for a year), and cost OpenAI an estimated $4.6M. GPT-4, which is a
   much larger model, will have cost disproportionately more (in the
   realm of $100M) to train.
-
-
-** Solving math problems
-
-   According to this [[https://www.wsj.com/articles/chatgpt-openai-math-artificial-intelligence-8aba83f0][WSJ article]], GPT-3.5 and GPT-4 have gotten worse in
-   August 2023 compared to March of the same year at solving math problems.
