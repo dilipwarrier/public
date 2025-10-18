@@ -241,6 +241,73 @@ were hungry. This number has been increasing since 2014 and COVID
 has the potential to make the trend worse. Most of the world's
 hungry population are in Asia and Africa.
 
+* Political authority                                                :Review:
+
+Moral consequentialism: you should only take an action if, in doing
+so, the total benefit to society is positive. For instance, the
+argument against a person not voting is that, if everyone did that,
+there would be no voting and government would collapse. The
+counterargument is that your moral rule is to not vote, when there are
+enough other people voting already so that your not voting does not
+affect the results much.
+
+For example, if you are on a lifeboat that takes in water and three
+other people are already bailing out water, then it might not make
+much sense for you to bail out water too. It is better for you to
+spend the time on some other useful activity.
+
+We tend to see the beliefs of our own society as obviously true.
+
+Governments use many aesthetic elements to convey a sense of power eg
+state buildings have large columns, are built on top of hills, have
+statues of soldiers and cannons to remind visitors of the state's
+military might.
+
+Court proceedings are exceedingly formal, perhaps because it is here
+that the image of justice through coercion has to be reinforced.
+
+Just as kidnap victims may develop an affinity for their captors
+through Stockholm syndrome, so also citizens of a state may develop an
+affinity for their government since the government has complete
+control over them. All the conditions that lead to Stockholm syndrome
+may apply in the interaction of an individual with a state too.
+
+Stanford experiment by Philip Zombardo: people randomly assigned to be
+guards and prisoners. Guards started abusing their power quickly,
+making prisoners do tedious non-constructive work, hurling verbal
+abuse etc. Even though some guards had reservations, they did not do
+anything to stop the abusive guards. Prisoners obeyed the guards even
+though they outnumbered them and the guards did not have any means to
+enforce authority.
+
+Why do so many individuals believe in the power of the state? Perhaps
+because human beings may be wired to accept authority figures even
+when that authority is illegitimate.
+
+We are morally obligated to disobey an unjust law. We are not however
+morally obligated to undergo the punishment that
+the state may enforce for breaking an unjust law.
+
+Large failures of government tend to get rewarded rather than
+punished. For example, after 9/11, the approval ratings of the Bush
+government improved significantly. This may be partly because people
+confuse the nation with its government and hence, a patriotic feeling
+gets converted to an approval of the government. It may partly be due
+to the fact that systemic failures are hard to understand and people
+tend to ascribe easier ideas like lack of funding to failures and
+argue for more funding when there is any problem.
+
+Two factors distinguish any state service:
+Monopoly - no other agent can provide that service
+Coercion - the state can coerce you to accept the service
+
+In the US, two thirds of prisoners go back to prison within three
+years. Recidivism rates are very high.
+
+** References
+
+- Michael Huemer, The Problem of Political Authority
+
 * Poor Economics by Abhijit Banerjee and Esther Duflo                :Review:
 
 Poor people don't generally want more food. In many cases, giving them

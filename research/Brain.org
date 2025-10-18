@@ -329,9 +329,13 @@ in time than either of the two sections above because the two sections
 above only grow at the rate that you can learn.
 
 * Poetic naturalism                                                  :Review:
+:PROPERTIES:
+:ID:       16405c0a-2d59-421b-acf4-8f06b9a59a62
+:END:
 
 Poetic naturalism - Naturalism is the belief that the world revealed
-through scientific inquiry is the only true world. This is closely
+through scientific inquiry and observation is the only true world and
+there are no supernatural forces in the world. This is closely
 related to [[id:1a57ed2c-9a0e-479e-a5fe-377219d090ea][Humanism]].
 
 Poetic implies that there are many ways of describing this natural

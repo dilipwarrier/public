@@ -19,6 +19,9 @@ religion and towards humanism, reasoning, and problem-solving.
 - [[id:13537c7c-c8ea-4a29-819e-c49ee37b1130][The European Renaissance]]
 
 * Humanism                                                           :Review:
+:PROPERTIES:
+:ID:       1a57ed2c-9a0e-479e-a5fe-377219d090ea
+:END:
 
 The American Humanist Association defines Humanism as follows.
 
@@ -28,6 +31,8 @@ lead ethical lives of personal fulfillment that aspire to the greater
 good."
 
 Their motto is "Good without a God".
+
+See also [[id:16405c0a-2d59-421b-acf4-8f06b9a59a62][Poetic naturalism]].
 
 ** References
 

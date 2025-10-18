@@ -248,3 +248,10 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+** TODO Read [[https://drive.google.com/file/d/1alFqtRykdJUF-J7Ty0NBnoTK5kQCE8qE/view?usp=sharing][Inconvenient truth about AI in healthcare]]
+   SCHEDULED: <2025-10-17 Fri>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :END:
