@@ -2,8 +2,7 @@
 #+FILETAGS: :Learning:
 #+STARTUP: overview, hideallblocks
 
-* Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning :quotes:
-
+* Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
 
 * Periodic tasks                                                   :Periodic:
 
