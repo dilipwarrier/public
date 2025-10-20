@@ -1,4 +1,4 @@
-#+TITLE: An introduction to game theory by Steven Tadelis
+#+TITLE: Game theory
 #+FILETAGS: :economics:mathematics:
 #+STARTUP: content
 
@@ -37,7 +37,6 @@
   a strong assumption. For instance, if a student heard the professor
   say that there is a test the next day, he can not be sure that
   another student wasn't asleep and missed that announcement.
-
 
 * Normal-form game                                                   :Review:
 
@@ -135,7 +134,6 @@
   of the mutual destruction path is enough for rational players to
   take steps to avoid it.
 
-
 * Multi-stage games                                                  :Review:
 
   In the normal-form and extended-form games, the payoff was received
@@ -192,7 +190,6 @@
   of the game as long as you are allowed to make the discount factor
   arbitrarily close to 1.
 
-
 * Auctions                                                           :Review:
 
   Auctions can be of either the private values or the common values
@@ -214,3 +211,7 @@
   In common value settings, each player must account for the fact that
   they may win because the other player values the good lower. This is
   called "winner's curse".
+
+* References
+
+- Steven Tadelis, An Introduction to Game Theory.

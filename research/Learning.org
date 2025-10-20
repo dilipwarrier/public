@@ -7,13 +7,14 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-10-19 Sun 06:00 +7d>
+   SCHEDULED: <2025-10-26 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-10-13 Mon 06:35]
+   :LAST_REPEAT: [2025-10-19 Sun 17:03]
    :END:
+   - State "DONE"       from "TODO"       [2025-10-19 Sun 17:03]
    - State "DONE"       from "TODO"       [2025-10-13 Mon 06:35]
    - State "DONE"       from "TODO"       [2025-10-06 Mon 08:15]
    - State "DONE"       from "TODO"       [2025-09-29 Mon 06:33]
@@ -163,13 +164,6 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :RATIO: 1.00
    :END:
 
-** TODO Vasily Arkhipov, world's greatest man, https://en.m.wikipedia.org/wiki/Vasily_Arkhipov
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :END:
-
 ** TODO Read [[https://drive.google.com/file/d/1ojOT-hP7nFUTNCUCGk_AKMN45E547Tvd/view?usp=drive_link][capitalism is better than donation for global poverty]]
    :PROPERTIES:
    :EFFORT: 00:15
@@ -223,32 +217,36 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :END:
 
 
-** TODO https://www.wsj.com/economy/a-guaranteed-income-wont-stop-people-from-wanting-to-work-03c4ab31?st=yeDmB6           :Learning:
+** TODO Read [[https://www.wsj.com/economy/a-guaranteed-income-wont-stop-people-from-wanting-to-work-03c4ab31?st=yeDmB6][A guaranteed income won't stop people from wanting to work]] :Learning:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :END:
+
 ** TODO Review [[https://rodneybrooks.com/blog/][Rodney Brooks blog]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+
 ** TODO Reformat all learning quotes to be sections                :Software:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+
 ** Think about getting an adjunct prof job at BU or UMass Lowell to do exploratory work with grad students :Ideas:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
-** TODO Read [[https://drive.google.com/file/d/1alFqtRykdJUF-J7Ty0NBnoTK5kQCE8qE/view?usp=sharing][Inconvenient truth about AI in healthcare]]
-   SCHEDULED: <2025-10-17 Fri>
+
+** TODO Read [[https://drive.google.com/file/d/1alFqtRykdJUF-J7Ty0NBnoTK5kQCE8qE/view?usp=sharing][Inconvenient truth about AI in healthcare]]               :Career:
+   SCHEDULED: <2025-10-20 Mon>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25

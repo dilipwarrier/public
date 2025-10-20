@@ -11,12 +11,23 @@ previous generations didn't face and that we should worry about and
 address. However, it is also true that the world is a better place
 than it has ever been.
 
+Most religions assume that there needs to be God or an afterlife for
+human beings to be moral. However, if we conjure up a reason why God
+is needed to ensure moral behavior, then Steven Pinker makes the case
+that we can just cut out the middleman God and live by these
+ethics. This is not very convincing though. Maybe you need an entity
+that has infinite memory or afterlives where we will continue to play
+the same games we are playing in this life to justify moralistic Nash
+equilibrium behavior. However, those are also unrealistic assumptions,
+so this doesn't justify religion or spirituality either.
+
+Countries across the world are progressively becoming less religious
+over time. The United States is more religious than any other
+developed country in the Western hemisphere but, even in the US,
+religious participation is declining over time.
+
 This has primarily been due to the Enlightenment that turned away from
 religion and towards humanism, reasoning, and problem-solving.
-
-** Related links
-
-- [[id:13537c7c-c8ea-4a29-819e-c49ee37b1130][The European Renaissance]]
 
 * Humanism                                                           :Review:
 :PROPERTIES:
@@ -32,8 +43,13 @@ good."
 
 Their motto is "Good without a God".
 
+Morality and ethics can be derived from an understanding of how human
+evolution has progressed. Human beings do not need to assume the
+existence of a supernatural entity to be moral.
+
 See also [[id:16405c0a-2d59-421b-acf4-8f06b9a59a62][Poetic naturalism]].
 
-** References
+* References
 
 - Steven Pinker, Enlightenment now.
+- [[id:13537c7c-c8ea-4a29-819e-c49ee37b1130][The European Renaissance]]

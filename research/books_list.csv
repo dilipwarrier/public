@@ -2,15 +2,15 @@ Title,Author,My Rating,Average Rating,Date Read,Date Added,Genre,Status
 The DevOps Handbook,"Gene Kim, et al",,4.0,,10/10/2025,engineering,to-read
 Building secure and reliable systems,Heather Adkins,,4.0,,4/13/2025,engineering,to-read
 A woman of no importance,Sonia Purnell,,4.0,,9/8/2024,"western-biography, thriller",to-read
-The idea of the brain, Matthew Cobb,,4.0,,9/8/2024,brain,to-read
+The idea of the brain,Matthew Cobb,,4.0,,9/8/2024,brain,to-read
 Other minds: the octopus and the evolution of intelligent life,Peter Godfrey-Smith,,4.0,,9/8/2024,"biology,brain",to-read
 Automotive technology: a systems approach,Jack Erjavec,,4.0,,9/8/2024,"engineering,textbook",to-read
 Self-help is like a vaccine,Bryan Caplan,,4.0,,9/8/2024,society,to-read
 Outlive,Peter Attia,,4.0,,1/1/2024,science,to-read
 Northern Spy,Flynn Berry,,4.0,,8/2/2024,thriller,to-read
 Investment under uncertainty,"Avinash Dixit,Robert Pindyck",,4.0,,06/12/2024,maths,to-read
-Bangkok 8, John Burdett,,4.0,,03/08/2024,eastern-fiction,to-read
-Thinking in bets, Annie Duke,,4.0,,03/08/2024,"brain,maths",to-read
+Bangkok 8,John Burdett,,4.0,,03/08/2024,eastern-fiction,to-read
+Thinking in bets,Annie Duke,,4.0,,03/08/2024,"brain,maths",to-read
 The garden of tales,Vijaydan Detha,,4.0,,09/10/2023,indian-fiction,to-read
 Sovereigns of the sea,Seema Alavi,,4.0,,09/10/2023,eastern-history,to-read
 The sense of style,Steven Pinker,,4.0,,09/10/2023,society,to-read
@@ -67,43 +67,43 @@ The sleep prescription,Arik Prather,5,4.0,04/13/2025,04/13/2025,science,read
 The gatekeepers,Chris Whipple,5,4.0,04/13/2025,04/13/2025,western-history,read
 King Richard,Michael Dobbs,5,4.0,4/13/2025,4/13/2025,western-history,read
 Secure software systems,Erik Fretheim,2,4.0,1/5/2025,12/25/2024,"software,engineering",read
-Amos Walker: The Complete Story Collection,Loren D. Estleman,1.0,4.1,1/4/2025,7/17/2016,thriller,read
-"Talking to the enemy: faith, brotherhood,and the (un)making of terrorists",Scott Atran,1.0,4.0,12/14/2024,9/23/2021,society,read
-A cartoon history of the universe,Larry Gonick,2.0,4.3,12/14/2024,12/17/2021,"eastern-history,western-history",read
-Crossing Point,James Glickman,4.0,4.3,12/01/2024,11/12/2017,fiction,read
+Amos Walker: The Complete Story Collection,Loren D. Estleman,1,4.1,1/4/2025,7/17/2016,thriller,read
+"Talking to the enemy: faith, brotherhood,and the (un)making of terrorists",ott Atran,1,4.0,12/14/2024,9/23/2021,society,read
+A cartoon history of the universe,Larry Gonick,2,4.3,12/14/2024,12/17/2021,"eastern-history,western-history",read
+Crossing Point,James Glickman,4,4.3,12/01/2024,11/12/2017,fiction,read
 The Grid,Philip Schewe,4,4.0,11/11/2024,11/11/2024,"engineering,books-to-read-again",read
 Magdalena: River of dreams,Wade Davis,2,4.4,10/26/2024,9/6/2020,society,read
-Only the paranoid survive, Andrew Grove,2,4.0,10/26/2024,10/26/2024,management,read
-Becoming Trader Joe, Joe Coulombe,5,4.0,10/14/2024,10/14/2024,management,read
-The law of innocence, Michael Connelly,5,4.0,8/25/2024,8/25/2024,thriller,read
-The shadow district, Arnaldur Indridasson,4,4.0,8/20/2024,8/20/2024,thriller,read
+Only the paranoid survive,Andrew Grove,2,4.0,10/26/2024,10/26/2024,management,read
+Becoming Trader Joe,Joe Coulombe,5,4.0,10/14/2024,10/14/2024,management,read
+The law of innocence,Michael Connelly,5,4.0,8/25/2024,8/25/2024,thriller,read
+The shadow district,Arnaldur Indridasson,4,4.0,8/20/2024,8/20/2024,thriller,read
 Life on a young planet: the first 3 billion years,Andrew Knoll,1,4.0,08/20/2024,02/09/2022,biology,read
-"Knowledge,reality and value",Michael Huemer,5.0,4.1,8/16/2024,4/8/2021,"philosophy,textbook,books-to-read-again",read
-"The vital question: Energy, evolution and the origins of complex life",Nick Lane,1.0,4.2,08/01/2024,10/3/2021,"genetics,biology",read
-An introduction to decision theory,Martin Peterson,5.0,3.8,08/07/2024,12/18/2021,"maths,textbook,books-to-read-again",read
+"Knowledge,reality and value",Michael Huemer,5,4.1,8/16/2024,4/8/2021,"philosophy,textbook,books-to-read-again",read
+"The vital question: Energy, evolution and the origins of complex life",Nickane,1,4.2,08/01/2024,10/3/2021,"genetics,biology",read
+An introduction to decision theory,Martin Peterson,5,3.8,08/07/2024,12/18/2021,"maths,textbook,books-to-read-again",read
 Life 3.0: Being Human in the Age of Artificial Intelligence,Max Tegmark,1,4.1,8/2/2024,11/18/2017,brain,read
 The Florentines,Paul Strathern,5,4.1,8/2/2024,10/1/2017,western-biography,read
 Shape,Jordan Ellenberg,5,4.0,7/20/2024,7/20/2024,maths,read
 How big things get done,Bent Flyvbjerg,5,4.0,7/25/2024,2/20/2023,"management,books-to-read-again",read
-Scaling people,Claire Hughes Johnson,3.0,4.4,7/5/2024,7/8/2023,management,read
-The missing billionaires,Victor Haghani,4.0,4.0,6/20/2024,05/01/2024,"maths,finance,textbook,books-to-read-again",read
-Trillion dollar coach,"Eric Schmidt,Jonathan Rosenberg",4.0,4.0,06/05/2024,06/05/2024,management,read
+Scaling people,Claire Hughes Johnson,3,4.4,7/5/2024,7/8/2023,management,read
+The missing billionaires,Victor Haghani,4,4.0,6/20/2024,05/01/2024,"maths,finance,textbook,books-to-read-again",read
+Trillion dollar coach,"Eric Schmidt,Jonathan Rosenberg",4,4.0,06/05/2024,06/05/2024,management,read
 High output management,Andrew Grove,5,4.0,05/30/2024,05/30/2024,management,read
-Measure what matters,John Doerr,4.0,4.0,04/10/2024,7/8/2023,management,read
+Measure what matters,John Doerr,4,4.0,04/10/2024,7/8/2023,management,read
 Bubble or revolution?,Neel Mehta,5,4.0,03/30/2024,03/30/2024,"finance,maths,books-to-read-again",read
 Business model generation,Alex Osterwalder,5,4.2,01/01/2024,02/27/2022,"management,books-to-read-again",read
-The silk roads, Peter Frankopan,2.0,4.0,06/12/2024,08/11/2023,eastern-history,read
+The silk roads,Peter Frankopan,2,4.0,06/12/2024,08/11/2023,eastern-history,read
 How the world really works,Vaclav Smil,5,4.0,01/01/2024,7/8/2023,science,read
 The rebellious life of Mrs. Rosa Parks,Jeanne Theoharis,5,4.0,01/10/2024,01/10/2024,black-biography,read
 Working backwards,"Colin Bryar,Bill Carr",5,4.4,02/01/2024,3/20/2021,"management,books-to-read-again",read
 King,Jonathan Eig,5,4.0,1/12/2024,1/12/2024,"black-biography,books-to-read-again",read
 Crucial Conversations,Kerry Patterson,5,4.0,11/01/2023,08/09/2017,"management,books-to-read-again",read
-An honorable man, Paul Vidich,4.0,4.0,12/15/2023,12/01/2022,espionage,read
-The Art of Action,Stephen Bungay,2.0,4.3,12/01/2023,8/9/2019,management,read
+An honorable man,Paul Vidich,4,4.0,12/15/2023,12/01/2022,espionage,read
+The Art of Action,Stephen Bungay,2,4.3,12/01/2023,8/9/2019,management,read
 Models of the mind,Grace Lindsay,5,4.4,06/01/2023,03/13/2022,"brain,books-to-read-again",read
 The big picture,Sean B. Carroll,5,4.2,07/01/2023,02/12/2022,"science,books-to-read-again",read
 Ponniyil Selvan - book 1,Kalki,5,5.0,7/20/2023,7/20/2023,indian-fiction,read
-The diamond eye,Kate Quinn,3.0,4.3,7/5/2023,2/17/2019,thriller,read
+The diamond eye,Kate Quinn,3,4.3,7/5/2023,2/17/2019,thriller,read
 A failed empire,Vladislav Zubok,3,3.9,02/15/2023,11/14/2022,eastern-history,read
 Lenin the dictator,Victor Sebestyen,5,4.2,11/25/2022,01/13/2022,eastern-history,read
 Nuclear Folly,Serhii Plokhy,5,4.2,10/04/2022,09/15/2022,western-history,read
@@ -238,7 +238,7 @@ The Design of Everyday Things,Donald A. Norman,4,4.2,5/5/2015,11/4/2011,design,r
 Armchair Economist: Economics & Everyday Life,Steven E. Landsburg,4,3.8,9/23/2014,4/13/2012,economics,read
 Aerogrammes: and Other Stories,Tania James,5,3.7,8/16/2014,7/4/2017,indian-fiction,read
 Of Mice and Men,John Steinbeck,5,3.9,3/31/2014,11/4/2011,fiction,read
-Rise of Kali: Duryodhana's Mahabharata (Epic of the Kaurava Clan #2),Anand Neelakantan,1,4.2,1/17/2014,7/2/2017,indian-fiction,read
+"Rise of Kali: Duryodhana's Mahabharata (Epic of the Kaurava Clan #2)",Anand Neelakantan,1,4.2,1/17/2014,7/2/2017,indian-fiction,read
 Sociobiology: The New Synthesis,Edward O. Wilson,1,4.1,1/1/2014,4/8/2012,"science,textbook",read
 "The Maze of Bones  (The 39 Clues,#1)",Rick Riordan,3,3.8,1/1/2014,4/2/2012,kids,read
 "In Too Deep (The 39 Clues,#6)",Jude Watson,3,4.0,1/1/2014,3/22/2012,kids,read
@@ -391,7 +391,7 @@ What the Buddha Taught,Walpola Rahula,2,4.2,3/30/2013,11/8/2016,buddhism,read
 Lost Memory of Skin,Russell Banks,5,3.6,3/30/2013,10/10/2011,fiction,read
 Underground Airlines,Ben H. Winters,2,3.8,2/23/2013,11/4/2016,black-fiction,read
 Happiness: A Guide to Developing Life's Most Important Skill,Matthieu Ricard,5,4.1,2/11/2013,10/28/2016,buddhism,read
-Old Boys (Paul Christopher #9),Charles McCarry,4,3.8,2/4/2013,9/26/2016,espionage,read
+"Old Boys (Paul Christopher #9)",Charles McCarry,4,3.8,2/4/2013,9/26/2016,espionage,read
 Flood of Fire,Amitav Ghosh,5,4.1,2/4/2013,9/17/2016,indian-fiction,read
 The Elements of Style,William Strunk Jr.,5,4.2,2/4/2013,8/9/2016,"design,textbook",read
 Asura: Tale Of The Vanquished,Anand Neelakantan,4,3.6,2/4/2013,8/2/2016,indian-fiction,read
@@ -404,9 +404,9 @@ River of Smoke,Amitav Ghosh,5,3.9,9/28/2012,7/17/2016,indian-fiction,read
 Love and Longing in Bombay,Vikram Chandra,2,3.6,9/27/2012,6/20/2016,indian-fiction,read
 Hatchet,Gary Paulsen,3,3.7,9/21/2012,4/2/2016,kids,read
 "The Dilbert Principle: A Cubicle's-Eye View of Bosses,Meetings,Management Fads & Other Workplace Afflictions",Scott Adams,3,3.9,9/19/2012,3/9/2016,management,read
-The Other Son (Brinkmann Trilogy #2),Alexander Soderberg,5,3.5,9/19/2012,3/5/2016,scandinavian-thriller,read
+"The Other Son (Brinkmann Trilogy #2)",Alexander Soderberg,5,3.5,9/19/2012,3/5/2016,scandinavian-thriller,read
 Spycatcher: The Candid Autobiography of a Senior Intelligence Officer,Peter Maurice Wright,1,3.7,8/27/2012,3/5/2016,western-biography,read
-What If?: The World's Foremost Historians Imagine What Might Have Been (What If #1),Robert Cowley,3,3.7,8/27/2012,1/17/2016,western-history,read
+"What If?: The World's Foremost Historians Imagine What Might Have Been (What If #1)",Robert Cowley,3,3.7,8/27/2012,1/17/2016,western-history,read
 The Honourable Company: a History of the English East India Company,John Keay,2,3.7,8/27/2012,10/29/2011,eastern-history,read
 The Halo Effect,Philip M. Rosenzweig,4,3.9,6/19/2012,2/17/2012,"management,books-to-read-again",read
 The Sweet Hereafter,Russell Banks,4,3.9,6/13/2012,12/18/2015,fiction,read
@@ -428,7 +428,7 @@ More Sex Is Safer Sex: The Unconventional Wisdom of Economics,Steven E. Landsbur
 The Checklist Manifesto: How to Get Things Right,Atul Gawande,4,4.0,3/9/2012,8/22/2015,management,read
 Freedomnomics: Why the Free Market Works and Other Half-baked Theories Don't,John R. Lott Jr.,4,3.6,3/5/2012,3/1/2012,economics,read
 Invasion of the Body,Nicholas L. Tilney,2,3.5,3/1/2012,10/10/2011,biology,read
-Beyond the Grave (The 39 Clues #4),Jude Watson,3,3.9,2/26/2012,2/25/2012,kids,read
+"Beyond the Grave (The 39 Clues #4)",Jude Watson,3,3.9,2/26/2012,2/25/2012,kids,read
 Fair Play,Steven E. Landsburg,4,3.7,2/24/2012,11/22/2011,economics,read
 "Thinking, Fast and Slow",Daniel Kahneman,5,4.1,2/19/2012,10/15/2011,"brain,books-to-read-again",read
 "The House of Silk (Sherlock Holmes,#1)",Anthony Horowitz,5,4.0,1/30/2012,12/25/2011,thriller,read
@@ -455,7 +455,7 @@ The Hills of Angheri,Kavery Nambisan,2,3.1,11/21/2011,10/7/2011,indian-fiction,r
 The Quality Toolbox,Nancy R. Tague,4,4.3,11/14/2011,12/4/2014,process,read
 "Slack: Getting Past Burnout,Busywork,and the Myth of Total Efficiency",Tom DeMarco,4,4.0,11/14/2011,12/4/2014,management,read
 "Tinker,Tailor,Soldier,Spy",John le Carre,1,4.1,11/14/2011,11/29/2014,espionage,read
-The Geneva Option (Yael Azoulay #1),Adam LeBor,2,3.5,11/14/2011,11/29/2014,espionage,read
+"The Geneva Option (Yael Azoulay #1)",Adam LeBor,2,3.5,11/14/2011,11/29/2014,espionage,read
 The Sleepwalker's Guide to Dancing,Mira Jacob,5,4.0,11/14/2011,11/12/2014,indian-fiction,read
 Software Requirements: Practical Techniques for Gathering and Managing Requirements Throughout the Product Development Cycle. (Pro-Best Practices),Karl Wiegers,3,4.0,11/14/2011,11/7/2014,software,read
 "Bad Blood (Virgil Flowers,#4)",John Sandford,5,4.2,11/14/2011,10/30/2014,thriller,read
@@ -559,7 +559,7 @@ The Black Swan: The Impact of the Highly Improbable,Nassim Nicholas Taleb,1,3.9,
 Eat People: And Other Unapologetic Rules for Game-Changing Entrepreneurs,Andy Kessler,2,3.6,10/10/2011,6/13/2012,society,read
 "The Spies of Warsaw (Night Soldiers,#10)",Alan Furst,2,3.9,10/10/2011,6/1/2012,espionage,read
 Istanbul Passage,Joseph Kanon,4,3.6,10/8/2011,5/31/2012,espionage,read
-Death of a Red Heroine (Inspector Chen Cao #1),Qiu Xiaolong,2,3.8,10/8/2011,5/26/2012,thriller,read
+"Death of a Red Heroine (Inspector Chen Cao #1)",Qiu Xiaolong,2,3.8,10/8/2011,5/26/2012,thriller,read
 A Case of Exploding Mangoes,Mohammed Hanif,2,3.7,10/8/2011,5/26/2012,eastern-fiction,read
 "Surely You're Joking,Mr. Feynman!: Adventures of a Curious Character",Richard Feynman,4,4.3,10/8/2011,10/7/2011,western-biography,read
 Justice: What's the Right Thing to Do?,Michael J. Sandel,2,4.3,10/7/2011,5/26/2012,philosophy,read
@@ -579,7 +579,7 @@ Turn of Mind,Alice LaPlante,4,3.7,7/1/2011,11/4/2011,thriller,read
 The Good German,Joseph Kanon,4,3.7,6/14/2011,10/19/2011,espionage,read
 The Death and Life of the Great American School System: How Testing and Choice Are Undermining Education,Diane Ravitch,1,4.1,5/14/2011,11/4/2011,society,read
 Ike: An American Hero,Michael Korda,5,4.1,5/12/2011,10/8/2011,western-biography,read
-The Given Day (Coughlin #1),Dennis Lehane,3,4.0,4/1/2011,12/14/2011,thriller,read
+"The Given Day (Coughlin #1)",Dennis Lehane,3,4.0,4/1/2011,12/14/2011,thriller,read
 Churchill's Empire: The World That Made Him and the World He Made,Richard Toye,4,3.6,4/1/2011,11/4/2011,western-history,read
 "Thinking Strategically: The Competitive Edge in Business,Politics,and Everyday Life",Avinash K. Dixit,5,4.0,3/1/2011,11/4/2011,"strategy,management,books-to-read-again",read
 "The Most Powerful Idea in the World: A Story of Steam,Industry,and Invention",William Rosen,4,3.9,3/1/2011,11/4/2011,western-history,read

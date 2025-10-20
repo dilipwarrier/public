@@ -2,7 +2,7 @@
 #+FILETAGS: :Psychology:Brain:
 #+STARTUP: overview, hideallblocks
 
-* Optimistic people                                                  :Review:
+* Inspiring people                                                   :Review:
 
 - [[id:7f9a58c8-e894-452c-be5f-9e5ff7c00dbb][Jeff Bezos]]
 - Bryan Caplan
@@ -12,6 +12,26 @@
 - [[id:c1c0dddd-1bf1-47de-a73d-c088059c741b][Rosa Parks]]
 - [[id:713fd85f-8a0f-4522-9404-8f9b7b243cf1][Martin Luther King Jr]]
 - Omana ammai
+- Jonas Salk
+
+* World's greatest people
+
+** [[https://en.m.wikipedia.org/wiki/Vasily_Arkhipov][Vasily Arkhipov]]
+  + Voted against launching a nuclear missile even though his fellow
+    officers wanted to do it.
+  + Avoided [[id:076b2ef7-74a7-4f20-b507-937c0f1829a7][Social desirability bias]]
+
+** [[https://en.wikipedia.org/wiki/Norman_Borlaug#][Norman Borlaug]]
+
+Proved Paul Ehrlich wrong on inevitable famine, but, in his Nobel
+peace prize speech, he was still worried about responsible population
+growth.
+
+** Stanislav Petrov
+
+** Edward Jenner
+
+** Jonas Salk
 
 * The five meetings rule                                             :Review:
 :PROPERTIES:
