@@ -1,0 +1,165 @@
+#+Title: Privacy, security, and identity
+#+FILETAGS: :Technology:
+#+STARTUP: overview, hideallblocks
+
+* Digital signatures                                                 :Review:
+
+A digital signature is a cryptographic mechanism used to verify the
+authenticity, integrity, and non-repudiation of digital data.
+
+It uses asymmetric cryptography with two keys:
+- Private key: known only to the signer
+- Public key: shared with everyone
+
+The private key creates the signature; the public key verifies it.
+  1. Hashing the message:
+     The message is run through a cryptographic hash function such as
+     SHA-256, producing a fixed-length digest.
+  2. Creating the signature:
+     The signer’s private key encrypts the hash to produce the
+     signature.
+  3. Verification:
+     The verifier decrypts the signature with the public key and
+     compares the result to a freshly computed hash. If they match,
+     the message is verified for integrity and authenticity.
+
+For example, when Alice wants to send a certified email to Bob:
+1. She hashes the email.
+2. She encrypts the hash using her private key.
+3. Bob uses Alice’s public key to decrypt and verify that:
+   - The email was not altered.
+   - It was really sent by Alice.
+   Alice cannot claim that she did not send this message.
+
+Digital signatures are often tied to digital certificates issued by
+Certificate Authorities (CAs).  A certificate binds a person’s or
+organization’s identity to their public key. It establishes trust by
+linking a verified identity to a cryptographic key pair.  When you
+see a verified signature in a PDF or website, you can trust both the
+cryptography and the identity behind it.
+
+The contents of a digital certificate are:
+- Public key
+- Identity information (name, organization, domain)
+- Signature from the CA verifying the certificate’s authenticity
+- Validity period and serial number
+
+* Encryption                                                         :Review:
+
+Encryption is the process of converting readable data (plaintext) into
+an unreadable format (ciphertext) using a cryptographic key. It is
+used to maintain confidentiality or secrecy.
+
+- Types of encryption:
+  - Symmetric encryption:
+    The same key is used for both encryption and decryption (for example, AES).
+  - Asymmetric encryption:
+    A public key encrypts and a private key decrypts (for example, RSA or ECC).
+
+- Hybrid encryption:
+  Real systems use a hybrid approach:
+  1. A random symmetric key encrypts the data.
+  2. The symmetric key is encrypted using the recipient’s public key.
+  This provides both speed and security.
+
+- Goals of encryption:
+  - Confidentiality: Only authorized parties can read the data.
+  - Integrity: The data cannot be modified undetected.
+  - Authentication: Confirms who the data came from when combined with signatures.
+
+** Combining Encryption and Signatures
+- Authentication and integrity are provided by digital signatures.
+- Confidentiality is provided by encryption.
+
+Two main orders are used:
+
+*** a. Sign–then–Encrypt
+1. The message is signed using the sender’s private key.
+2. The signed message is encrypted using the recipient’s public key.
+3. The recipient decrypts it with their private key and verifies the signature.
+
+Advantages:
+- Signature is hidden from outsiders.
+- Ensures both secrecy and authenticity.
+
+Used in S/MIME, PGP, and secure document exchange.
+
+*** b. Encrypt–then–Sign
+1. The message is encrypted using the recipient’s public key.
+2. The ciphertext is signed with the sender’s private key.
+3. The recipient verifies the signature and then decrypts.
+
+Advantages:
+- Signature covers the ciphertext itself.
+- Useful for systems where intermediate parties handle encrypted data.
+
+---
+
+** Encryption in Motion (Encryption in Transit)
+- Definition:
+  Protects data while it is transmitted between systems, such as between a client and a server.
+
+- Goal:
+  Prevent interception or tampering during transmission.
+
+- How it works:
+  - Data is encrypted before leaving one system and decrypted only by the authorized receiver.
+  - Common protocols:
+    - TLS / SSL for HTTPS, IMAPS, SMTPS, APIs
+    - SSH for secure remote connections
+    - VPNs for full network encryption
+
+- Example:
+  When logging into a bank website, HTTPS (TLS) encrypts your credentials so attackers cannot read them in transit.
+
+- Analogy:
+  Like sending a sealed envelope through the mail; no one can read it while it is being delivered.
+
+---
+
+** Encryption at Rest
+It protects data while it is stored on a disk, database, or cloud storage.
+
+- Goal:
+  Prevent unauthorized access if physical storage is stolen or compromised.
+
+- How it works:
+  - Data is stored in encrypted form.
+  - Authorized users or services decrypt it only when needed.
+  - Common techniques:
+    - Full-disk encryption (BitLocker, FileVault, LUKS)
+    - Database-level encryption (TDE in SQL Server, Oracle)
+    - Cloud encryption (AWS KMS, Google Cloud KMS, Azure Key Vault)
+
+- Example:
+  A stolen laptop with disk encryption reveals only random data unless the thief has the key.
+
+- Analogy:
+  Like a locked safe; even if someone steals it, they cannot open it without the key.
+
+* The practice of cybersecurity
+
+Most orgs spend a lot of budget on employee training. However,
+successful orgs spend a larger part of their cybersecurity budget on
+certifications, consultants, etc.
+
+** References
+
+- ISACA/CMMI paper on [[https://drive.google.com/file/d/1NAcGLX0zRCvYRjzHlqjj3eBoYzCLuvXs/view?usp=drive_link][cybersecurity culture]]
+
+* Identity
+
+Most entities that require identity don't need all parts of your
+identity. For instance, if you buy alcohol at a liquor store, you show
+your state ID which shows your name, your photograph, your birth
+date, and your residential address. However, the store owner only
+needed your birth date and your photograph.
+
+The fundamental problem to solve in identity, then, is to allow
+requests for identity to get the needed information without getting
+any extraneous information.
+
+* References
+
+- The Economist, [[https://www.economist.com/christmas-specials/2018/12/18/establishing-identity-is-a-vital-risky-and-changing-business][Establishing identity]], 2018.
+- Caryn Seidman-Becker, [[https://podcasts.apple.com/us/podcast/caryn-seidman-becker-rebuilding-clear/id1154105909?i=1000716294219][Interview on "Invest like the Best"]], 2025.

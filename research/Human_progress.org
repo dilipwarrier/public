@@ -2,6 +2,32 @@
 #+FILETAGS: :Society:
 #+STARTUP: overview, hideallblocks
 
+* Human progress                                                     :Review:
+
+We are born into a pitiless universe, facing steep odds against
+order. Entropy is merciless. We are in constant jeopardy of falling
+apart. We were shaped by a force that is ruthlessly competitive. We are
+vulnerable to illusions, self-centeredness, and astounding stupidity.
+
+Yet, we are also endowed with the power to think up ideas and then
+combine those ideas recursively. We have the capacity for sympathy. We
+have an instinct for language and for using that language to form
+connections.
+
+We have found ways to magnify these powers through written, printed,
+and electronic words. We have expanded our circle of sympathy through
+a knowledge of history and the narrative arts. Our puny rational
+faculties have been multiplied by the norms of reason: intellectual
+curiosity, open debate, skepticism of authority, and the burden of
+proof to verify ideas against reality.
+
+Through these magnified powers, we eke out victories against the
+forces that grind us down including the darker parts of our own
+nature. We live longer, suffer less, learn more, and enjoy richer
+experiences. Much suffering and peril remain. But, there is no limit
+to the betterments we can attain if we apply knowledge to enhance
+human progress.
+
 * Rationality                                                        :Review:
 
 Maybe it is reasonable in the 21st century for human beings to be more
@@ -13,13 +39,13 @@ than it has ever been.
 
 Most religions assume that there needs to be God or an afterlife for
 human beings to be moral. However, if we conjure up a reason why God
-is needed to ensure moral behavior, then Steven Pinker makes the case
-that we can just cut out the middleman God and live by these
-ethics. This is not very convincing though. Maybe you need an entity
-that has infinite memory or afterlives where we will continue to play
-the same games we are playing in this life to justify moralistic Nash
-equilibrium behavior. However, those are also unrealistic assumptions,
-so this doesn't justify religion or spirituality either.
+is needed to ensure moral behavior, then we can just cut out the
+middleman God and live by those ethics. This is not very convincing
+though. Maybe you need an entity that has infinite memory or
+afterlives where we will continue to play the same games we are
+playing in this life to justify moralistic Nash equilibrium
+behavior. However, those are also unrealistic assumptions, so this
+doesn't justify religion or spirituality either.
 
 Countries across the world are progressively becoming less religious
 over time. The United States is more religious than any other
@@ -45,9 +71,27 @@ Their motto is "Good without a God".
 
 Morality and ethics can be derived from an understanding of how human
 evolution has progressed. Human beings do not need to assume the
-existence of a supernatural entity to be moral.
+existence of a supernatural entity to be moral. Morality arises from
+evolution through kin selection, etc.
 
 See also [[id:16405c0a-2d59-421b-acf4-8f06b9a59a62][Poetic naturalism]].
+
+* The scientific method                                              :Review:
+
+The scientific method alone is not a replacement for religion since it
+does not address human needs. Human needs arise from evolution - the
+need for kinship, impact, leisure, health, wealth, etc.
+
+Remember your math: An anecdote is not a trend.
+
+Remember your history: Just because something is bad today doesn't
+mean it was better yesterday. Just because something is good today
+doesn't mean it was that good yesterday.
+
+Remember your philosophy: One cannot reason that there is no such
+thing as reason.
+
+Keep some perspective: Not every problem is a crisis.
 
 * References
 
