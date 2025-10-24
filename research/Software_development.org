@@ -1,4 +1,4 @@
-#+TITLE: Software company news and analysis
+#+TITLE: Software development practices
 #+FILETAGS: :Software:
 #+STARTUP: overview, hideallblocks
 
@@ -8,9 +8,16 @@
 :END:
 
 The company DX (to be acquired by Atlassian in 2025) has implemented a
-developer score, DX Core 4, that allows organizations to think deeply
-about developer productivity. It uses four dimensions - speed,
+developer score, DX Core 4, that allows organizations to measure and
+optimize developer productivity. It uses four dimensions - speed,
 effectiveness, quality, and impact.
+
+** TODO Read [[https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/][Measuring developer productivity with DX Core 4]]       :Learning:
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
 
 ** References
 
