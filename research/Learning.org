@@ -252,3 +252,11 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+
+
+** TODO Read AWS DynamoDB incident https://www.linkedin.com/posts/... :Learning:
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:

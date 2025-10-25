@@ -381,7 +381,20 @@ options:
   - [[https://en.wikipedia.org/wiki/Royal_Society_Prizes_for_Science_Books][Royal Society awards]] for science books
   - [[https://www.thehugoawards.org/hugo-history/][Hugo prize]] for science fiction
   - [[https://en.wikipedia.org/wiki/James_Tait_Black_Memorial_Prize#List_of_recipients][James Tait Black prize]] for biography
-
+  - [[https://www.amazon.com/Oxford-Landmark-Science-19-book-series/dp/B08K79JYXS][Oxford Landmark Science]] series
   - [[https://en.wikipedia.org/wiki/DSC_Prize_for_South_Asian_Literature][DSC prize for South Asian literature]]
   - [[https://www.thejcbprize.org/#list][JCB prize for Indian fiction]]
   - [[https://en.wikipedia.org/wiki/Crossword_Book_Award][Crossword award for Indian literature]]
+
+* Tasks
+
+** DONE Look at JCB prize Indian books
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
+:LOGBOOK:
+CLOCK: [2025-10-24 Fri 09:00]--[2025-10-24 Fri 09:28] =>  0:28
+:END:
+[2025-10-24 Fri]
