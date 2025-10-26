@@ -3,6 +3,9 @@
 #+STARTUP: hideallblocks, content
 
 * AWS cloud services                                                 :Review:
+:PROPERTIES:
+:ID:       01fd57e7-4ac5-420b-8384-062995f1ee51
+:END:
 #+BEGIN: clocktable :scope subtree :maxlevel 2
 #+CAPTION: Clock summary at [2023-10-15 Sun 12:35]
 | Headline           | Time   |      |
@@ -19,16 +22,16 @@
 
 ** AWS regions and availability zones
 
-   A cluster of data centers is called an Availability Zone or
-   AZ. Clusters of AZs are called Regions e.g. Northern VA region
-   us-east-1. A zone within Northern VA may be us-east-1a.
+A cluster of data centers is called an Availability Zone
+(AZ). Clusters of AZs are called Regions e.g. Northern VA region
+us-east-1. An AZ within Northern VA may be us-east-1a.
 
-   Considerations for deciding regions:
-   - Compliance
-   - Latency
-   - Pricing
-   - Service availability (some services may not be available in every
-     region)
+Considerations for deciding regions:
+ - Compliance
+ - Latency
+ - Pricing
+ - Service availability (some services may not be available in every
+   region)
 
 ** AWS APIs
 

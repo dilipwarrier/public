@@ -2,47 +2,6 @@
 #+FILETAGS: :Business:
 #+STARTUP: overview
 
-* Notes on Jeff Bezos                                                :Review:
-:PROPERTIES:
-:ID:       7f9a58c8-e894-452c-be5f-9e5ff7c00dbb
-:END:
-
-Jeff does meetings from 9 am to 7 pm every day even after
-"retiring" from Amazon.
-
-He is optimistic by nature about the state of the world and what we
-can do to improve it.
-
-He paid himself $80k in salary and earned the rest through Amazon
-stock.
-
-He gave himself a 30% chance of success at Amazon and knew that that
-was 3x higher than the average startup success.
-
-Stress comes from having something that you're not doing. Even when
-you're out of a job, if you have a disciplined approach and are taking
-specific steps, you'll feel the stress reduce.
-
-** References
-
-- [[https://www.youtube.com/watch?v=p7FgXSoqfnI][Early interview]]
-- [[https://www.youtube.com/watch?v=s71nJQqzYRQ][Interview by Aaron Ross Sorkin]]
-- [[https://youtu.be/f3NBQcAqyu4?si=xpDnFbwePNySOa5f][Interview by David Rubenstein]]
-
-** Quotes
-
-*** Jeff Bezos: Human beings tend to overestimate risk and underestimate opportunity. :quotes:
-
-*** Jeff Bezos: Customers are divinely discontented. Yesterday's wow quickly becomes today's ordinary. :quotes:
-
-*** Jeff Bezos: All the positive emotions - joy, optimism, etc. - were allowed in my family. The only negative emotion allowed was anger; never fear and anxiety. :quotes:
-
-*** Jeff Bezos: Missionaries want to build great products; mercerenaries want to build companies and flip them. Missionaries have curiosity, passion and customer centricity. :quotes:
-
-*** Jeff Bezos: You cannot catch the latest wave as an entrepreneur; you have to position yourself and wait for the wave. :quotes:
-
-*** Jeff Bezos: Assume that your customers have infinite information. They can find anything they want through modern tools like search and AI. :quotes:
-
 * Amazon leadership principles
 
 Amazon's leadership principles translate into some essential practices
@@ -51,6 +10,67 @@ written narratives like a six-page narrative, single threaded teams
 with single threaded leaders, focusing on input metrics.
 
 [[https://www.amazon.jobs/content/en/our-workplace/leadership-principles][Leadership principles]]
+
+
+* DynamoDB outage
+
+In Oct 2025, AWS had an outage that resulted in services being down
+for more than 2000 major companies. AWS published a
+detailed summary of the root cause. This essay is an excerpt and
+clarification from it.
+
+An AWS database service called DynamoDB maintains hundreds of
+thousands of DNS records to operate load balancers in each
+region. These records get updated frequently to ensure that new
+capacity is added, hardware failures are handled etc. The outage
+happened because there was an empty DNS record for one specific
+endpoint dynamodb.us-east-1.amazonaws.com that DynamoDB users use to
+connect to their databases.
+
+The DNS update service is split into two components,
+Planner and Enactor. Planner monitors the health and capacity of load
+balancers and periodically creates a new DNS plan for each
+endpoint. Enactor enacts the plan by doing a one-time check that the
+plan it has is newer than the existing plan and by then applying the
+required changes for the new plan to AWS Route53. The Enactor works
+through each endpoint until the plan is successfully applied to all
+endpoints. Finally, it cleans up all older
+plans. There are three independent instances of the Enactor process
+that operate in distinct AZs to provide redundancy.
+
+The incident happened when one Enactor (say E1) took a long time
+processing a plan. In parallel, Planner came up with a new plan
+which a second DNS enactor (say E2) picked up. E2 was able to rapidly
+execute the updates from this new plan to all endpoints. E2 then
+initiated a cleanup process to delete all older plans including the
+plan that E1 was working off. In the meantime, E1 applied the old plan
+to the regional DynamoDB endpoint mentioned above, relying upon the
+one-time check that it had done at the beginning but that was now
+stale. Since that plan was cleaned up by E2, it had an empty DNS
+record. So, all IP addresses for this endpoint were removed.
+
+As a result, all services that needed to access the DynamoDB endpoint
+in US-East-1 got DNS failures. That included external customer
+services and internal AWS services. Customers that used DynamoDB
+global tables were able to connect to and issue requests against
+tables in other regions although with high latency. Ultimately, the
+problem was resolved by a manual intervention to the automated Enactor
+processes.
+
+** Open questions
+
+- Even after the issue happened, wouldn't Planner create a new plan
+  that assigned the right nodes to the endpoint? Wouldn't an Enactor
+  process then implement that new plan and bring operating conditions
+  back to normal?
+
+** References
+
+- [[https://aws.amazon.com/message/101925/][Summary of AWS US-EAST-1 DynamoDB service disruption]]
+- [[https://www.linkedin.com/posts/adriancockcroft_summary-of-the-amazon-dynamodb-service-disruption-activity-7387117492135133184-WG9Y/?utm_source=share&utm_medium=member_android&rcm=ACoAAAAZ0isBP1gxnt30MfLp_T0BAPWL4JS56Us][LinkedIn post about AWS DynamoDB outage]]
+
+- [[https://aws.amazon.com/premiumsupport/technology/pes/][AWS post-event summaries]]
+- [[id:01fd57e7-4ac5-420b-8384-062995f1ee51][AWS cloud services]]
 
 * The Amazon 6-pager                                                 :Review:
 :PROPERTIES:
@@ -95,6 +115,66 @@ advantages over Powerpoint slides.
 
 See also [[id:8996fe86-bcc2-43e0-80ee-14f40b2f7bf5][Pre-wiring a presentation]]
 
+
+* Notes on Jeff Bezos                                                :Review:
+:PROPERTIES:
+:ID:       7f9a58c8-e894-452c-be5f-9e5ff7c00dbb
+:END:
+
+Jeff does meetings from 9 am to 7 pm every day even after
+"retiring" from Amazon.
+
+He is optimistic by nature about the state of the world and what we
+can do to improve it.
+
+He paid himself $80k in salary and earned the rest through Amazon
+stock.
+
+He gave himself a 30% chance of success at Amazon and knew that that
+was 3x higher than the average startup success.
+
+Stress comes from having something that you're not doing. Even when
+you're out of a job, if you have a disciplined approach and are taking
+specific steps, you'll feel the stress reduce.
+
+** References
+
+- [[https://www.youtube.com/watch?v=p7FgXSoqfnI][Early interview]]
+- [[https://www.youtube.com/watch?v=s71nJQqzYRQ][Interview by Aaron Ross Sorkin]]
+- [[https://youtu.be/f3NBQcAqyu4?si=xpDnFbwePNySOa5f][Interview by David Rubenstein]]
+
+** Quotes
+
+*** Jeff Bezos: Your margin is my opportunity.                       :quotes:
+
+*** Jeff Bezos: Human beings tend to overestimate risk and underestimate opportunity. :quotes:
+
+*** Jeff Bezos: Customers are divinely discontented. Yesterday's wow quickly becomes today's ordinary. :quotes:
+
+*** Jeff Bezos: All the positive emotions - joy, optimism, etc. - were allowed in my family. The only negative emotion allowed was anger; never fear and anxiety. :quotes:
+
+*** Jeff Bezos: Missionaries want to build great products; mercerenaries want to build companies and flip them. Missionaries have curiosity, passion and customer centricity. :quotes:
+
+*** Jeff Bezos: You cannot catch the latest wave; you have to position yourself and wait for the wave. :quotes:
+
+*** Jeff Bezos: Assume that your customers have infinite information. They can find anything they need to know about you or your competition. :quotes:
+
+
+* Tasks
+
+
+** DONE Analyze DynamoDB outage                                    :Software:
+SCHEDULED: <2025-10-26 Sun>
+:PROPERTIES:
+:EFFORT:  02:00
+:BENEFIT: 100
+:RATIO: 0.50
+:END:
+:LOGBOOK:
+CLOCK: [2025-10-26 Sun 07:46]--[2025-10-26 Sun 09:46] =>  2:00
+:END:
+
+- State "DONE"       from "TODO"       [2025-10-26 Sun 09:46]
 
 * References
 

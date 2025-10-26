@@ -7,13 +7,14 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-10-26 Sun 06:00 +7d>
+   SCHEDULED: <2025-11-02 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-10-19 Sun 17:03]
+   :LAST_REPEAT: [2025-10-26 Sun 10:25]
    :END:
+   - State "DONE"       from "TODO"       [2025-10-26 Sun 10:25]
    - State "DONE"       from "TODO"       [2025-10-19 Sun 17:03]
    - State "DONE"       from "TODO"       [2025-10-13 Mon 06:35]
    - State "DONE"       from "TODO"       [2025-10-06 Mon 08:15]
@@ -254,9 +255,13 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :END:
 
 
-** TODO Read AWS DynamoDB incident https://www.linkedin.com/posts/... :Learning:
+** DONE Read AWS DynamoDB incident https://www.linkedin.com/posts/adriancockcroft_summary-of-the-amazon-dynamodb-service-disruption-activity-7387117492135133184-WG9Y?utm_source=share&utm_medium=member_android&rcm=ACoAAAAZ0isBP1gxnt30MfLp_T0BAPWL4JS56Us :Learning:
 :PROPERTIES:
 :EFFORT: 00:15
 :BENEFIT: 10
 :RATIO: 0.40
+:END:
+- State "DONE"       from "TODO"       [2025-10-26 Sun 10:44]
+:LOGBOOK:
+CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
 :END:
