@@ -388,11 +388,13 @@ options:
 
 * Tasks
 
-** DONE Look at JCB prize Indian books
+** Archive                                                          :ARCHIVE:
+*** DONE Look at JCB prize Indian books
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
+:ARCHIVE_TIME: 2025-10-26 Sun 21:36
 :END:
 :LOGBOOK:
 CLOCK: [2025-10-24 Fri 09:00]--[2025-10-24 Fri 09:28] =>  0:28

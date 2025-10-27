@@ -84,6 +84,17 @@ CLOCK: [2025-02-09 Sun 06:37]--[2025-02-09 Sun 07:33] =>  0:56
 CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
 :END:
 
+*** DONE Read AWS DynamoDB incident https://www.linkedin.com/posts/adriancockcroft_summary-of-the-amazon-dynamodb-service-disruption-activity-7387117492135133184-WG9Y?utm_source=share&utm_medium=member_android&rcm=ACoAAAAZ0isBP1gxnt30MfLp_T0BAPWL4JS56Us :Learning:
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:ARCHIVE_TIME: 2025-10-26 Sun 21:36
+:END:
+- State "DONE"       from "TODO"       [2025-10-26 Sun 10:44]
+:LOGBOOK:
+CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
+:END:
 ** TODO Copy over notes from [[https://www.evernote.com/client/web#/notebooks][Evernote notebooks]] to Org
 SCHEDULED: <2025-09-15 Mon +1d>
    :PROPERTIES:
@@ -253,15 +264,3 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
-
-
-** DONE Read AWS DynamoDB incident https://www.linkedin.com/posts/adriancockcroft_summary-of-the-amazon-dynamodb-service-disruption-activity-7387117492135133184-WG9Y?utm_source=share&utm_medium=member_android&rcm=ACoAAAAZ0isBP1gxnt30MfLp_T0BAPWL4JS56Us :Learning:
-:PROPERTIES:
-:EFFORT: 00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:END:
-- State "DONE"       from "TODO"       [2025-10-26 Sun 10:44]
-:LOGBOOK:
-CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
-:END:
