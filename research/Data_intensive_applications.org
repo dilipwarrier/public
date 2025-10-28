@@ -19,7 +19,9 @@ building blocks.
 
 Typically, some glue application code stitches together tools for
 each of these building blocks so that the resulting system is
-efficient. See [[file:Screenshot 2021-12-12 144728.jpg][this example]].
+efficient. See the example in the figure below.
+
+[[file:Screenshot 2021-12-12 144728.jpg]]
 
 Three concerns for such software systems are as follows.
 - Reliability :: The system must perform correctly even if some
@@ -69,40 +71,43 @@ the entire system.
 
 * Query languages                                                    :Review:
 
-  SQL is a declarative language. It describes what must be true of a
-  result but it does not describe how to achieve that result. In this
-  sense, it follows relational algebra closely.
+SQL is a declarative language. It describes what must be true of a
+result but it does not describe how to achieve that result. In this
+sense, it follows relational algebra closely.
 
-  For example, consider a database for animals where some of the animals may be from the
-  shark family. In relational algebra, this is represented as:
-  \[ Sharks = \Sigma_{family = "Sharks"} Animals \]
-  In SQL, this representation is followed closely as:
-  #+begin_src
-  SELECT * FROM animals WHERE family = "sharks"
-  #+end_src
+For example, consider a database for animals where some of the animals may be from the
+shark family. In relational algebra, this is represented as:
+\[ Sharks = \Sigma_{family = "Sharks"} Animals \]
+In SQL, this representation is followed closely as:
+#+begin_src
+SELECT * FROM animals WHERE family = "sharks"
+#+end_src
 
-  This doesn't guarantee any particular order, etc., so the query
-  optimizer can choose how to implement this query. In this sense,
-  declarative languages are different from imperative languages that
-  tell a compiler/optimizer *how* to generate some data.
+This doesn't guarantee any particular order, etc., so the query
+optimizer can choose how to implement this query. In this sense,
+declarative languages are different from imperative languages that
+tell a compiler/optimizer *how* to generate some data.
 
-  In addition, declarative queries can be more concise and may lend
-  themselves well to parallelization.
+In addition, declarative queries can be more concise and may lend
+themselves well to parallelization.
 
-  Many DB languages allow MapReduce extensions. The Map part is a
-  function that runs on each selected item in a database and emits a
-  (key, value) pair. The Reduce part then takes all such tuples that
-  have the same key value and runs a function to calculate an
-  aggregate value (such as the sum of all the values). MapReduce
-  functions have certain restrictions e.g. they must be pure functions
-  and must have no side effects. With these restrictions, they allow
-  for significant parallelism. Hadoop MapReduce allows for Java
-  callback functions for the map() and reduce() parts. In between, the
-  MapReduce intrinsics automatically do merging and sorting. The
-  inputs are typically files in the Hadoop Distributed File System (HDFS).
+* MapReduce
 
-  [[file:Screenshot 2022-01-09 114730.jpg][Pictorial representation of MapReduce]]
+Many DB languages allow MapReduce extensions. The Map part is a
+function that runs on each selected item in a database and emits a
+(key, value) pair. The Reduce part then takes all such tuples that
+have the same key value and runs a function to calculate an
+aggregate value (such as the sum of all the values). MapReduce
+functions have certain restrictions e.g. they must be pure functions
+and must have no side effects. With these restrictions, they allow
+for significant parallelism. Hadoop MapReduce allows for Java
+callback functions for the map() and reduce() parts. In between, the
+MapReduce intrinsics automatically do merging and sorting. The
+inputs are typically files in the Hadoop Distributed File System (HDFS).
 
+[[file:Screenshot 2022-01-09 114730.jpg]]
+
+See also [[id:c63978d7-17dd-49e9-a52f-2fb47c7190c3][Apache Spark]].
 
 * Under the hood of databases                                        :Review:
 
@@ -132,45 +137,45 @@ the entire system.
 
 * Online Analytics Processing (OLAP)                                 :Review:
 
-  Previously, standard queries were all of the type where one or a few
-  records from a database was accessed and one or all of the fields
-  were presented to the end-user. This was called Online Transaction
-  Processing (OLTP). More recently, business analysts need to run
-  queries where a large number of records are accessed and summary
-  statistics calculations are run on them. These are called OLAP.
+Previously, standard queries were all of the type where one or a few
+records from a database was accessed and one or all of the fields
+were presented to the end-user. This was called Online Transaction
+Processing (OLTP). More recently, business analysts need to run
+queries where a large number of records are accessed and summary
+statistics calculations are run on them. These are called OLAP.
 
-  Typically, you don't want OLAP queries running on the same servers
-  that run your production databases. Instead, a new concept of data
-  warehouses has emerged where data is occasionally synced from the
-  transaction servers to the data warehouse. The data warehouse is
-  structured to efficiently run analytical queriees. Input data is fed
-  into the warehouse through an Extract-Transform-Load (ETL) mechanism
-  where the data from several transaction databases is extracted,
-  cleaned up for querying and uploaded to the warehouse.
+Typically, you don't want OLAP queries running on the same servers
+that run your production databases. Instead, a new concept of data
+warehouses has emerged where data is occasionally synced from the
+transaction servers to the data warehouse. The data warehouse is
+structured to efficiently run analytical queriees. Input data is fed
+into the warehouse through an Extract-Transform-Load (ETL) mechanism
+where the data from several transaction databases is extracted,
+cleaned up for querying and uploaded to the warehouse.
 
-  Most data warehouses are relational databases and use a standard
-  star schema. Under this schema, there is a central "fact table" in
-  which each record is an event of a transaction/web click etc. Each
-  record then has links to records in other "dimension tables" such as
-  customer tables, store tables, product tables etc. to provide more
-  details on the what/how/when of the event. Large data warehouses
-  could have trillions of rows in their fact tables. Each row in a fact
-  table could have hundreds of columns.
+Most data warehouses are relational databases and use a standard
+star schema. Under this schema, there is a central "fact table" in
+which each record is an event of a transaction/web click etc. Each
+record then has links to records in other "dimension tables" such as
+customer tables, store tables, product tables etc. to provide more
+details on the what/how/when of the event. Large data warehouses
+could have trillions of rows in their fact tables. Each row in a fact
+table could have hundreds of columns.
 
-  The typical data query requires only a few of those hundreds of
-  columns to be returned for a huge number of records. The performance
-  of such queries have to be optimized in data warehouses. This is
-  different from a typical query in a transaction database.
+The typical data query requires only a few of those hundreds of
+columns to be returned for a huge number of records. The performance
+of such queries have to be optimized in data warehouses. This is
+different from a typical query in a transaction database.
 
-  In order to support this, column-wise storage can be used where each
-  column is stored separately. When a query requires the results from
-  some columns, only those columns need to be accessed. Further,
-  column-wise storage can make compression of data easy since the data
-  in each column may not vary much. Finally, techniques like bit-map
-  encoding can be used to improve performance. In bit-map encoding, if
-  entries in a column can take on a small subset of values, then a bit
-  map is created for each of the values that can be taken on. The ith
-  bit map value indicates whether row i contains that value or not.
+In order to support this, column-wise storage can be used where each
+column is stored separately. When a query requires the results from
+some columns, only those columns need to be accessed. Further,
+column-wise storage can make compression of data easy since the data
+in each column may not vary much. Finally, techniques like bit-map
+encoding can be used to improve performance. In bit-map encoding, if
+entries in a column can take on a small subset of values, then a bit
+map is created for each of the values that can be taken on. The ith
+bit map value indicates whether row i contains that value or not.
 
 * Links
 

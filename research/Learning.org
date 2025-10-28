@@ -115,6 +115,20 @@ SCHEDULED: <2025-09-15 Mon +1d>
    - State "DONE"       from "TODO"       [2025-07-29 Tue 11:25]
    - State "DONE"       from "TODO"       [2025-07-19 Sat 11:15]
 
+** TODO Read Apache Spark book (~500 pages)
+SCHEDULED: <2025-10-29 Wed +1d>
+:PROPERTIES:
+:EFFORT:  50:00
+:BENEFIT: 2000
+:RATIO: 0.40
+:LAST_REPEAT: [2025-10-28 Tue 08:19]
+:END:
+- State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
+:LOGBOOK:
+CLOCK: [2025-10-28 Tue 07:15]--[2025-10-28 Tue 08:19] =>  1:04
+CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 07:13] =>  0:02
+:END:
+
 ** TODO Review Amazon annual shareholder letter
    SCHEDULED: <2026-04-12 Sun +52w>
    :PROPERTIES:
@@ -257,7 +271,7 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :RATIO: 1.00
    :END:
 
-** TODO Read [[https://drive.google.com/file/d/1alFqtRykdJUF-J7Ty0NBnoTK5kQCE8qE/view?usp=sharing][Inconvenient truth about AI in healthcare]]               :Career:
+** DONE Read [[https://drive.google.com/file/d/1alFqtRykdJUF-J7Ty0NBnoTK5kQCE8qE/view?usp=sharing][Inconvenient truth about AI in healthcare]] :Career:
    SCHEDULED: <2025-10-20 Mon>
    :PROPERTIES:
    :EFFORT: 00:15

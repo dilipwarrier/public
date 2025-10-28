@@ -1,0 +1,42 @@
+#+TITLE: Apache Spark
+#+FILETAGS: :Software:Data:
+#+STARTUP: contents, hideallblocks
+
+* TODO Get the pyspark cmd to work - may need an installation of Spark
+
+* Introduction
+:PROPERTIES:
+:ID:       c63978d7-17dd-49e9-a52f-2fb47c7190c3
+:END:
+
+Apache Spark is a unified computing engine and set of libraries for
+parallel data processing on computing clusters.
+
+Spark is unified in the sense that it can handle a variety of
+computing tasks ranging from simple SQL queries to ML
+computations. Further, it can optimize combinations of these
+computations.
+
+Spark differs from Apache Hadoop in that Hadoop specifies both a file
+storage system, Hadoop Distributed File System (HDFS), and a computing
+engine, MapReduce. In Apache Hadoop, these are tightly
+integrated. Apache Spark, however, focuses entirely on the computing
+engine part and keeps the storage as abstracted as possible.
+
+Spark provides several libraries on top of its core engine. For
+instance, it has libraries for SQL (Spark SQL), machine learning
+(Spark MLLib), stream processing (Spark Streaming), and graph
+analytics (graphX).
+
+Collecting data in the real world keeps getting cheaper due to
+improvements in camera technology, reduced prices of sensors,
+etc. Storing that data also keeps getting cheaper. However, the
+processing of data relies more and more on parallel computation rather
+than increasing processor speeds. This is the driving motivation for
+Spark.
+
+* References
+
+- Bill Chambers and Matei Zaharia, Spark: The Definitive Guide
+- [[https://github.com/databricks/Spark-The-Definitive-Guide][GitHub code for the book]]
+- [[id:d2581d0c-3791-4e3d-b2f3-a61f2b32e324][Spark and PySpark installation on PC]]
