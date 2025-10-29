@@ -2,8 +2,6 @@
 #+FILETAGS: :Software:Data:
 #+STARTUP: contents, hideallblocks
 
-* TODO Get the pyspark cmd to work - may need an installation of Spark
-
 * Introduction
 :PROPERTIES:
 :ID:       c63978d7-17dd-49e9-a52f-2fb47c7190c3
@@ -34,6 +32,28 @@ etc. Storing that data also keeps getting cheaper. However, the
 processing of data relies more and more on parallel computation rather
 than increasing processor speeds. This is the driving motivation for
 Spark.
+
+* Tasks
+
+** TODO Get the pyspark cmd to work - may need an installation of Spark
+:LOGBOOK:
+CLOCK: [2025-10-28 Tue 14:26]--[2025-10-28 Tue 14:56] =>  0:30
+:END:
+
+** TODO Read Apache Spark book (~500 pages)
+SCHEDULED: <2025-10-29 Wed +1d>
+:PROPERTIES:
+:EFFORT:  50:00
+:BENEFIT: 2000
+:RATIO: 0.40
+:LAST_REPEAT: [2025-10-28 Tue 08:19]
+:END:
+- State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
+:LOGBOOK:
+CLOCK: [2025-10-28 Tue 07:15]--[2025-10-28 Tue 08:19] =>  1:04
+CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 07:13] =>  0:02
+:END:
+
 
 * References
 
