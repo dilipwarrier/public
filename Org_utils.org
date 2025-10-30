@@ -16,11 +16,7 @@
       writer.writerows([entry for entry in tbl if re.search(header_re, str(entry[0]).strip()) is None])
 #+end_src
 
-
 * Add all Org files into the agenda file list
-  :PROPERTIES:
-  :CUSTOM_ID: add_files_to_agenda
-  :END:
 
 #+NAME: add_files_to_agenda
 #+BEGIN_SRC python :results output silent :var home_files=1 :var work_files=0
