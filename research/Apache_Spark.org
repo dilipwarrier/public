@@ -35,25 +35,38 @@ Spark.
 
 * Tasks
 
-** TODO Get the pyspark cmd to work - may need an installation of Spark
-:LOGBOOK:
-CLOCK: [2025-10-28 Tue 14:26]--[2025-10-28 Tue 14:56] =>  0:30
+** TODO Fix the issue with "\*.csv" read - may need winutils
+SCHEDULED: <2025-10-30 Thu>
+:PROPERTIES:
+:EFFORT:  00:30
+:BENEFIT: 20
+:RATIO: 0.40
 :END:
 
-** TODO Read Apache Spark book (~500 pages)
-SCHEDULED: <2025-10-29 Wed +1d>
+** TODO Read Apache Spark book (~500 pages at 10 pages/hour)
+SCHEDULED: <2025-10-30 Thu +1d>
 :PROPERTIES:
 :EFFORT:  50:00
 :BENEFIT: 2000
 :RATIO: 0.40
-:LAST_REPEAT: [2025-10-28 Tue 08:19]
+:LAST_REPEAT: [2025-10-29 Wed 09:02]
 :END:
+- State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
 - State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
 :LOGBOOK:
-CLOCK: [2025-10-28 Tue 07:15]--[2025-10-28 Tue 08:19] =>  1:04
-CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 07:13] =>  0:02
+CLOCK: [2025-10-29 Wed 07:26]--[2025-10-29 Wed 08:26] =>  1:00
+CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
 :END:
 
+
+** Archive                                                          :ARCHIVE:
+*** DONE Get the pyspark cmd to work - may need an installation of Spark
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-10-29 Wed 08:26
+:END:
+:LOGBOOK:
+CLOCK: [2025-10-28 Tue 14:26]--[2025-10-28 Tue 14:56] =>  0:30
+:END:
 
 * References
 

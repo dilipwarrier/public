@@ -23,11 +23,11 @@
   :END:
 
 #+NAME: add_files_to_agenda
-#+BEGIN_SRC python :results output silent :var home_files=1 :var work_files=1
+#+BEGIN_SRC python :results output silent :var home_files=1 :var work_files=0
   # Find all the Org files and copy them into the autogen file list
   import os
 
-  with open('Org_agenda_files_autogen.txt', 'w') as f:
+  with open('autogen_Org_agenda_files.txt', 'w') as f:
 
       if home_files == 1:
           private_dir = os.path.join(os.getenv("HOME"), "..","private")
