@@ -22,9 +22,14 @@ It's an open source RTOS distributed under the Apache license.
 See [[https://www.zephyrproject.org/][Zephyr project]] for details.
 
 ** Eclipse ThreadX
+:PROPERTIES:
+:ID:       59b8b305-3e77-403e-99d1-51d6eb2f4297
+:END:
 
 This is an open-source RTOS that was previously Azure RTOS. It is
 managed by the Eclipse foundation.
+
+See also [[id:30978d6c-a649-4c4e-a4c1-3a124ca965e0][Eclipse Foundation]].
 
 ** Wind River/VxWorks
 

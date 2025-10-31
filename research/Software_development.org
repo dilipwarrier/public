@@ -2,6 +2,36 @@
 #+FILETAGS: :Software:
 #+STARTUP: overview, hideallblocks
 
+* Open source software foundations
+
+** Mozilla Foundation
+
+They govern Firefox and Thunderbird development.
+
+** Cloud-Native Computing Foundation
+
+** Apache Foundation
+
+They govern Apache Spark and Apache Kafka, among other projects.
+
+** Eclipse Foundation
+:PROPERTIES:
+:ID:       30978d6c-a649-4c4e-a4c1-3a124ca965e0
+:END:
+
+They govern Ecllipse ThreadX, the RTOS, and the Eclipse IDE, among
+other projects.
+
+See also [[id:59b8b305-3e77-403e-99d1-51d6eb2f4297][Eclipse ThreadX]].
+
+** Linux Foundation
+
+** Python Software Foundation
+
+** Free Software Foundation
+
+GNU, Emacs, etc.
+
 * Measuring developer productivity                                   :Review:
 :PROPERTIES:
 :ID:       aa3bd004-c924-46e4-939b-6820d173cde7
