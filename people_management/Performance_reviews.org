@@ -24,7 +24,7 @@
 | Complete my end-quarter goal progress                                          | +75 |
 |--------------------------------------------------------------------------------+-----|
 
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab = Performance_review_tasks, start_date="2025-01-01")
+#+CALL: ../research/Tasks.org:generate_tasks_from_offset(tab = Performance_review_tasks, start_date="2025-01-01")
 
 #+RESULTS:
 :results:

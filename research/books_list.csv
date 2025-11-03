@@ -13,7 +13,6 @@ Bangkok 8,John Burdett,,4.0,,03/08/2024,eastern-fiction,to-read
 Thinking in bets,Annie Duke,,4.0,,03/08/2024,"brain,maths",to-read
 The garden of tales,Vijaydan Detha,,4.0,,09/10/2023,indian-fiction,to-read
 Sovereigns of the sea,Seema Alavi,,4.0,,09/10/2023,eastern-history,to-read
-The sense of style,Steven Pinker,,4.0,,09/10/2023,society,to-read
 Deep work,Cal Newport,,4.0,,09/10/2023,brain,to-read
 Say Nothing,Patrick Keefe,,4.4,,7/8/2023,western-history,to-read
 How do we know ourselves?,David Myers,,4.0,,12/24/2022,brain,to-read
@@ -35,7 +34,6 @@ Tasting freedom: Octavius Catto,"Daniel Biddle,Murray Dubin",,4.2,,5/9/2021,blac
 Quicksand: America's pursuit of power in the Middle East,Geoffrey Wawro,,4.1,,4/8/2021,western-history,to-read
 Before she knew him,Peter Swanson,,3.9,,3/20/2021,thriller,to-read
 Ready for anything,David Allen,,3.9,,2/15/2021,self-improvement,to-read
-A World Undone: A History of World War I,G J Meyer,,4.2,,12/27/2020,western-history,to-read
 Storytelling with data,Cole Nussbaumer Knaflic,,4.3,,10/22/2020,design,to-read
 The walking dead,Gerald Seymour,,3.9,,9/26/2020,thriller,to-read
 Oryx and Crake,Margaret Atwood,,4.0,,8/1/2020,science-fiction,to-read
@@ -54,8 +52,9 @@ The rise and reign of the mammals,Steve Brusatte,,4.0,,07/25/2022,"biology,scien
 The Makioka Sisters,Junichiro Tanizaki,,4.0,,5/13/2017,japanese-fiction,to-read
 Structures or why things don't fall down,J. E. Gordon,,4.0,,6/21/2025,engineering,to-read
 Fundamentals of software architecture,"Mark Richards,Neal Ford",,4.3,,01/29/2022,"software,engineering,textbook",reading
-From the American System to Mass Production,Richard Hounshell,,4.5,,9/1/2025,western-history,reading
-Enlightenment now,Steven Pinker,,4.5,,10/1/2025,western-history,reading
+The sense of style,Steven Pinker,,4.0,,09/10/2023,society,reading
+From the American System to Mass Production,David Hounshell,5,4.5,11/01/2025,9/1/2025,western-history,read
+Enlightenment now,Steven Pinker,5,4.5,10/17/2025,10/1/2025,western-history,read
 Statistics as principled argument,Robert Abelson,1,4.1,07/01/2025,6/23/2023,maths,read
 Pragmatic thinking and learning,Andy Hunt,5,4.0,09/01/2025,03/08/2024,brain,read
 Chrysler: The Life and Times of an Automotive Genius,Vincent Curcio,5,4.1,9/1/2025,9/1/2025,western-biography,read
@@ -68,7 +67,7 @@ The gatekeepers,Chris Whipple,5,4.0,04/13/2025,04/13/2025,western-history,read
 King Richard,Michael Dobbs,5,4.0,4/13/2025,4/13/2025,western-history,read
 Secure software systems,Erik Fretheim,2,4.0,1/5/2025,12/25/2024,"software,engineering",read
 Amos Walker: The Complete Story Collection,Loren D. Estleman,1,4.1,1/4/2025,7/17/2016,thriller,read
-"Talking to the enemy: faith, brotherhood,and the (un)making of terrorists",ott Atran,1,4.0,12/14/2024,9/23/2021,society,read
+"Talking to the enemy: faith, brotherhood,and the (un)making of terrorists",Scott Atran,1,4.0,12/14/2024,9/23/2021,society,read
 A cartoon history of the universe,Larry Gonick,2,4.3,12/14/2024,12/17/2021,"eastern-history,western-history",read
 Crossing Point,James Glickman,4,4.3,12/01/2024,11/12/2017,fiction,read
 The Grid,Philip Schewe,4,4.0,11/11/2024,11/11/2024,"engineering,books-to-read-again",read

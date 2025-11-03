@@ -7,13 +7,14 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-11-02 Sun 06:00 +7d>
+   SCHEDULED: <2025-11-09 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-10-26 Sun 10:25]
+   :LAST_REPEAT: [2025-11-02 Sun 16:11]
    :END:
+   - State "DONE"       from "TODO"       [2025-11-02 Sun 16:11]
    - State "DONE"       from "TODO"       [2025-10-26 Sun 10:25]
    - State "DONE"       from "TODO"       [2025-10-19 Sun 17:03]
    - State "DONE"       from "TODO"       [2025-10-13 Mon 06:35]
@@ -95,6 +96,14 @@ CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
 :LOGBOOK:
 CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
 :END:
+*** DONE Read [[https://drive.google.com/file/d/1alFqtRykdJUF-J7Ty0NBnoTK5kQCE8qE/view?usp=sharing][Inconvenient truth about AI in healthcare]] :Career:
+   SCHEDULED: <2025-10-20 Mon>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :ARCHIVE_TIME: 2025-11-02 Sun 16:27
+   :END:
 ** TODO Copy over notes from [[https://www.evernote.com/client/web#/notebooks][Evernote notebooks]] to Org
 SCHEDULED: <2025-09-15 Mon +1d>
    :PROPERTIES:
@@ -251,14 +260,6 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :END:
 
 ** Think about getting an adjunct prof job at BU or UMass Lowell to do exploratory work with grad students :Ideas:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
-
-** DONE Read [[https://drive.google.com/file/d/1alFqtRykdJUF-J7Ty0NBnoTK5kQCE8qE/view?usp=sharing][Inconvenient truth about AI in healthcare]] :Career:
-   SCHEDULED: <2025-10-20 Mon>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25

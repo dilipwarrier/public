@@ -22,7 +22,7 @@
 | Setup tasks for next metrics review - pick day 0 as the Monday of the last working week in the month | 14 |
 |------------------------------------------------------------------------------------------------------+----|
 
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=metrics_tasks, start_date="2025-09-01")
+#+CALL: ../research/Tasks.org:generate_tasks_from_offset(tab=metrics_tasks, start_date="2025-09-01")
 
 #+RESULTS:
 :results:
@@ -98,7 +98,7 @@ in a quarter. The third month is a town hall meeting.
 | Setup tasks for next skip level                        | +7 |
 |--------------------------------------------------------+----|
 
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=skip_level_tasks, start_date="2025-08-20")
+#+CALL: ../research/Tasks.org:generate_tasks_from_offset(tab=skip_level_tasks, start_date="2025-08-20")
 
 #+RESULTS:
 :results:
@@ -171,7 +171,7 @@ every quarter.
 | Setup tasks for next town hall                                       | +14 |
 |----------------------------------------------------------------------+-----|
 
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-07-09")
+#+CALL: ../research/Tasks.org:generate_tasks_from_offset(tab=town_hall_tasks, start_date="2025-07-09")
 
 #+RESULTS:
 :results:
@@ -209,7 +209,7 @@ every quarter.
 | Setup tasks for next staff workshop meeting date        |  +7 |
 |---------------------------------------------------------+-----|
 
-#+CALL: ../task_management/Tasks.org:generate_tasks_from_offset(tab=staff_workshop_tasks, start_date="2025-04-23")
+#+CALL: ../research/Tasks.org:generate_tasks_from_offset(tab=staff_workshop_tasks, start_date="2025-04-23")
 
 #+RESULTS:
 :results:
