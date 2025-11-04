@@ -104,6 +104,15 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
    :RATIO: 1.00
    :ARCHIVE_TIME: 2025-11-02 Sun 16:27
    :END:
+
+** TODO Check OpenAI Dev Day summary
+   SCHEDULED: <2026-10-10 Sat>
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :END:
+
 ** TODO Copy over notes from [[https://www.evernote.com/client/web#/notebooks][Evernote notebooks]] to Org
 SCHEDULED: <2025-09-15 Mon +1d>
    :PROPERTIES:
@@ -259,3 +268,10 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+
+** TODO Study apache superset as a visualization tool                 :Learning:
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
