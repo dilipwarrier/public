@@ -252,12 +252,6 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :RATIO: 1.00
    :END:
 
-** TODO Reformat all learning quotes to be sections                :Software:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
 
 ** Think about getting an adjunct prof job at BU or UMass Lowell to do exploratory work with grad students :Ideas:
    :PROPERTIES:
