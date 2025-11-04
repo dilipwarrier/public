@@ -1541,7 +1541,6 @@ or to the floor). Report early and often on progress.
 Manager tools expects that, in order to be ready to be promoted, you
 should do 100% of your job and 50% of your manager's job.
 
-
 *** A company change with a promotion is unlikely
 
 It is extremely unlikely that you will get a promotion with a
@@ -1629,7 +1628,7 @@ job search, not just one. The channels are as follows.
 
   - Job boards :: Use more than one.
 
-  - Your connections :: Maintain a healthy list of networking
+  - Connections :: Maintain a healthy list of networking
     connections whom you've been in touch with. Reach out to them:
     in-person coffee/lunch/dinner is better than a voice call,
     which in turn is better than email/text.
@@ -1782,14 +1781,14 @@ you will be working with later.
 
 [[https://www.manager-tools.com/2007/11/getting-laid-off-finances-rule][Finances rule podcast]]
 
-Layoffs and firing are a fact of corporate life in every industry
-and at every level. Getting fired can be a liberating experience; you just go find
-another job. However, you need to prepare in advance.
+Layoffs and firing are a fact of corporate life in every industry and
+at every level. Getting fired can be a liberating experience; you just
+go find another job. However, you need to prepare in advance.
 
-Cardinal rule: get 6 months of liquidity in your personal finances now! You need to
-be prepared for a period of not finding the next job. That way, you
-remove the stress of worrying about cash flow and can focus on the
-job search.
+Cardinal rule: get 6 months of liquidity in your personal finances
+now! You need to be prepared for a period of not finding the next
+job. That way, you remove the stress of worrying about cash flow and
+can focus on the job search.
 
 * DISC profile                                                       :Review:
   :PROPERTIES:

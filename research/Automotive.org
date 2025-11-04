@@ -268,9 +268,9 @@ estimated to be at about 15M. This is down from a high in CY19
 
 
 * EV fires                                                           :Review:
-  According to [[https://spectrum.ieee.org/lithium-ion-battery-fires][IEEE Spectrum]], fires in batteries in EVs have a lower incidence rate
-  than fires in vehicles in general.
 
+According to [[https://spectrum.ieee.org/lithium-ion-battery-fires][IEEE Spectrum]], fires in batteries in EVs have a lower incidence rate
+than fires in vehicles in general.
 
 * Automotive Tier-1 suppliers                                        :Review:
 

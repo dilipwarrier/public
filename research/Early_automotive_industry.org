@@ -3,6 +3,9 @@
 #+STARTUP: content, hideallblocks
 
 * Henry Leland
+:PROPERTIES:
+:ID:       340ac842-915c-4131-8a51-1dafd44ff064
+:END:
 
 Leland was described as a master of perfection. He and his son,
 Wilfred, helped build up the Cadillac Motor Company. Initially, his
