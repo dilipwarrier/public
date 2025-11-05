@@ -4,6 +4,30 @@
 
 * Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
 
+* Software technologies to learn
+
+** TODO Study Apache Superset as a visualization tool              :Learning:
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
+
+** TODO Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates  :Software:
+   :PROPERTIES:
+   :EFFORT: 04:00
+   :BENEFIT: 500
+   :RATIO: 1.25
+   :END:
+
+** TODO Read about Eclipse ThreadX                                 :Learning:
+
+** TODO Read about Rust programming                                :Learning:
+
+** TODO Read about Docker containers
+
+** TODO Read about Kubernetes
+
 * Periodic tasks                                                   :Periodic:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
@@ -159,13 +183,6 @@ SCHEDULED: <2026-05-31 Sun +52w>
 CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
 :END:
 
-** TODO Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates  :Software:
-   :PROPERTIES:
-   :EFFORT: 04:00
-   :BENEFIT: 500
-   :RATIO: 1.25
-   :END:
-
 ** TODO Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
   :PROPERTIES:
   :EFFORT: 00:15
@@ -268,10 +285,3 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
-
-** TODO Study apache superset as a visualization tool                 :Learning:
-:PROPERTIES:
-:EFFORT: 00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:END:
