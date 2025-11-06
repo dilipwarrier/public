@@ -281,13 +281,6 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :END:
 
 
-** Think about getting an adjunct prof job at BU or UMass Lowell to do exploratory work with grad students :Ideas:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :END:
-
 ** TODO Review Andrew Ng course on Agentic AI
    SCHEDULED: <2025-11-07 Fri +2d>
    :PROPERTIES:
