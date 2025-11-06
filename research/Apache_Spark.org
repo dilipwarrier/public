@@ -33,6 +33,19 @@ processing of data relies more and more on parallel computation rather
 than increasing processor speeds. This is the driving motivation for
 Spark.
 
+* Code
+
+For all the following sections, first start a local Spark session in
+Python using the following code.
+
+#+begin_src python :results output
+  from pyspark.sql import SparkSession
+  spark = SparkSession.builder.master("local[*]").getOrCreate()
+  spark.range(5).show()
+#+end_src
+
+#+RESULTS:
+
 * Transformations and Actions
 
 Spark allows the user to specify a sequence of transformations to
@@ -43,22 +56,43 @@ stages and tasks that can be run on a cluster of computers.
 
 * DataFrames
 
-DataFrames are table-like collections with rows and columns. Each
-column must have the same number of rows although some elements can be
-null. All entries in a column must be of the same type.
+DataFrames are table-like collections with rows and columns.
+
+A row in a DataFrame is a single record. Spark represents it as an
+object of type Row.
+
+#+BEGIN_SRC python :results output
+  from pyspark.sql import Row
+  myRow = Row("Hello", None, 1, False)
+  print(myRow[0])
+#+END_SRC
+
+#+RESULTS:
+: Hello
+
+A column represents a value computed on a per-record
+basis using an experssion or operation. Thus, to have a value for a
+column, you need a row and, to have a row, you need a DataFrame.
+
+#+BEGIN_SRC python :results output
+  df = spark.read.format("json").load("C:/Users/dilip/Documents/GitHub/Spark-The-Definitive-Guide/data/flight-data/json/2015-summary.json")
+  df.columns
+#+END_SRC
+
+#+RESULTS:
+
+Every DataFrame have an associated schema that maintains the
+meaning of each record.
+
+#+BEGIN_SRC python
+  df.schema
+#+END_SRC
+
+** Datasets
 
 Spark also allows Datasets which check types against schemas at
 compile time. However, this is only supported in JVM-based languages
 like Scala and Java.
-
-* Code
-
-Start a local Spark session in Python.
-
-#+begin_src python
-from pyspark.sql import SparkSession
-spark = SparkSession.builder.master("local[*]").getOrCreate()
-#+end_src
 
 * Tasks
 
@@ -74,18 +108,20 @@ SCHEDULED: <2025-11-04 Tue>
 CLOCK: [2025-11-04 Tue 07:53]--[2025-11-04 Tue 08:33] =>  0:40
 :END:
 
-** TODO Read Apache Spark book (50/500) (~500 pages at 10 pages/hour)
-SCHEDULED: <2025-11-04 Tue +1d>
+** TODO Read Apache Spark book (68/500) (~500 pages at 10 pages/hour)
+SCHEDULED: <2025-11-05 Wed +1d>
 :PROPERTIES:
 :EFFORT:  50:00
 :BENEFIT: 2000
 :RATIO: 0.40
-:LAST_REPEAT: [2025-11-03 Mon 08:26]
+:LAST_REPEAT: [2025-11-05 Wed 08:01]
 :END:
+- State "DONE"       from "TODO"       [2025-11-05 Wed 08:01]
 - State "DONE"       from "TODO"       [2025-11-03 Mon 08:26]
 - State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
 - State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
 :LOGBOOK:
+CLOCK: [2025-11-05 Wed 06:54]--[2025-11-05 Wed 07:49] =>  0:55
 CLOCK: [2025-11-03 Mon 07:55]--[2025-11-03 Mon 08:24] =>  0:29
 CLOCK: [2025-10-29 Wed 07:26]--[2025-10-29 Wed 08:26] =>  1:00
 CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
@@ -99,6 +135,21 @@ SCHEDULED: <2025-11-23 Sun>
 :BENEFIT: 10
 :RATIO: 0.40
 :END:
+
+** TODO Fix warning messages at Spark initialization (see below)
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
+
+#+BEGIN_QUOTE
+WARNING: Using incubator modules: jdk.incubator.vector
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/11/05 07:58:15 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+#+END_QUOTE
 
 ** Archive                                                          :ARCHIVE:
 *** DONE Get the pyspark cmd to work - may need an installation of Spark

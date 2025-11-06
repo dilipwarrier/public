@@ -285,3 +285,15 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+** TODO Review Andrew Ng course on Agentic AI
+   SCHEDULED: <2025-11-07 Fri +2d>
+   :PROPERTIES:
+   :EFFORT: 10:00
+   :BENEFIT: 1000
+   :RATIO: 1.00
+   :LAST_REPEAT: [2025-11-05 Wed 16:44]
+   :END:
+   - State "DONE"       from "TODO"       [2025-11-05 Wed 16:44]
+   :LOGBOOK:
+   CLOCK: [2025-11-05 Wed 16:03]--[2025-11-05 Wed 16:43] =>  0:40
+   :END:
