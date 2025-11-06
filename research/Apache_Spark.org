@@ -33,20 +33,21 @@ processing of data relies more and more on parallel computation rather
 than increasing processor speeds. This is the driving motivation for
 Spark.
 
-* Code
+* Startup code
 
 For all the following sections, first start a local Spark session in
 Python using the following code.
 
-#+begin_src python :results output
+This code assumes that [[id:d2581d0c-3791-4e3d-b2f3-a61f2b32e324][Spark and PySpark installation on PC]] has been
+completed.
+
+#+BEGIN_SRC python
   from pyspark.sql import SparkSession
   spark = SparkSession.builder.master("local[*]").getOrCreate()
   spark.range(5).show()
-#+end_src
+#+END_SRC
 
-#+RESULTS:
-
-* Transformations and Actions
+* Transformations and actions
 
 Spark allows the user to specify a sequence of transformations to
 data. This sequence of transformations forms a Directed Acyclic Graph
@@ -58,41 +59,65 @@ stages and tasks that can be run on a cluster of computers.
 
 DataFrames are table-like collections with rows and columns.
 
+** Rows and columns
+
 A row in a DataFrame is a single record. Spark represents it as an
 object of type Row.
 
-#+BEGIN_SRC python :results output
+#+BEGIN_SRC python
   from pyspark.sql import Row
   myRow = Row("Hello", None, 1, False)
   print(myRow[0])
 #+END_SRC
 
-#+RESULTS:
-: Hello
-
 A column represents a value computed on a per-record
-basis using an experssion or operation. Thus, to have a value for a
+basis using an expression or operation. Thus, to have a value for a
 column, you need a row and, to have a row, you need a DataFrame.
 
-#+BEGIN_SRC python :results output
+#+BEGIN_SRC python
   df = spark.read.format("json").load("C:/Users/dilip/Documents/GitHub/Spark-The-Definitive-Guide/data/flight-data/json/2015-summary.json")
   df.columns
 #+END_SRC
 
-#+RESULTS:
-
-Every DataFrame have an associated schema that maintains the
-meaning of each record.
+Every DataFrame has an associated schema that maintains the
+meaning of each record and associated data type.
 
 #+BEGIN_SRC python
   df.schema
 #+END_SRC
 
-** Datasets
+** Selecting and expressing
 
-Spark also allows Datasets which check types against schemas at
-compile time. However, this is only supported in JVM-based languages
-like Scala and Java.
+The simplest and most common operation is to select records based on
+column names. This is the DataFrame equivalent of an SQL query.
+
+#+BEGIN_SRC python
+  df.select("DEST_COUNTRY_NAME").show(2)
+
+  # This is equivalent to the following command in SQL
+  # SELECT DEST_COUNTRY_NAME from df LIMIT 2
+#+END_SRC
+
+An expression is the equivalent of a Python method that takes as
+inputs column names and does transformations on them.
+
+#+BEGIN_SRC python
+  from pyspark.sql.functions import expr
+  df.select(expr("DEST_COUNTRY_NAME" as destination)).show(2)
+#+END_SRC
+
+select(expr()) can be compressed to selectExpr().
+
+** Filtering
+
+You can filter records using filter() or, equivalently, where().
+
+#+BEGIN_SRC python
+  from pyspark.sql.functions import expr
+  df.filter(expr("DEST_COUNTRY_NAME") == 'United States').show(2)
+#+END_SRC
+
+You can cascade filtering operations.
 
 * Tasks
 
@@ -108,19 +133,22 @@ SCHEDULED: <2025-11-04 Tue>
 CLOCK: [2025-11-04 Tue 07:53]--[2025-11-04 Tue 08:33] =>  0:40
 :END:
 
-** TODO Read Apache Spark book (68/500) (~500 pages at 10 pages/hour)
-SCHEDULED: <2025-11-05 Wed +1d>
+** TODO Read Apache Spark book (82/500) (~500 pages at 10 pages/hour) :Career:
+SCHEDULED: <2025-11-07 Fri +1d>
 :PROPERTIES:
 :EFFORT:  50:00
 :BENEFIT: 2000
 :RATIO: 0.40
-:LAST_REPEAT: [2025-11-05 Wed 08:01]
+:LAST_REPEAT: [2025-11-06 Thu 08:26]
 :END:
+- State "DONE"       from "TODO"       [2025-11-06 Thu 08:26]
+- State "DONE"       from "TODO"       [2025-11-06 Thu 08:26]
 - State "DONE"       from "TODO"       [2025-11-05 Wed 08:01]
 - State "DONE"       from "TODO"       [2025-11-03 Mon 08:26]
 - State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
 - State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
 :LOGBOOK:
+CLOCK: [2025-11-06 Thu 06:35]--[2025-11-06 Thu 08:25] =>  1:50
 CLOCK: [2025-11-05 Wed 06:54]--[2025-11-05 Wed 07:49] =>  0:55
 CLOCK: [2025-11-03 Mon 07:55]--[2025-11-03 Mon 08:24] =>  0:29
 CLOCK: [2025-10-29 Wed 07:26]--[2025-10-29 Wed 08:26] =>  1:00
@@ -177,4 +205,3 @@ CLOCK: [2025-11-03 Mon 06:29]--[2025-11-03 Mon 07:48] =>  1:19
 
 - Bill Chambers and Matei Zaharia, Spark: The Definitive Guide
 - [[https://github.com/databricks/Spark-The-Definitive-Guide][GitHub code for the book]]
-- [[id:d2581d0c-3791-4e3d-b2f3-a61f2b32e324][Spark and PySpark installation on PC]]

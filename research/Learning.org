@@ -6,12 +6,7 @@
 
 * Software technologies to learn
 
-** TODO Study Apache Superset as a visualization tool              :Learning:
-:PROPERTIES:
-:EFFORT: 00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:END:
+** TODO Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]
 
 ** TODO Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates  :Software:
    :PROPERTIES:
@@ -27,6 +22,13 @@
 ** TODO Read about Docker containers
 
 ** TODO Read about Kubernetes
+
+** TODO Study Apache Superset as a visualization tool              :Learning:
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
 
 * Periodic tasks                                                   :Periodic:
 
@@ -285,6 +287,7 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :BENEFIT: 25
    :RATIO: 1.00
    :END:
+
 ** TODO Review Andrew Ng course on Agentic AI
    SCHEDULED: <2025-11-07 Fri +2d>
    :PROPERTIES:

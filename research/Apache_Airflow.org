@@ -6,12 +6,11 @@
 
 Apache Airflow is an open-source platform for developing, scheduling,
 and monitoring batch-oriented workflows. It generates a Directed Acyclic
-Graphs (DAG) to specify a workflow. It is written in pure Python.
+Graph (DAG) to specify a workflow. It is written in pure Python.
 
 * Integration with Kubernetes
 
-Airflow
-
+Kubernetes takes care of executing each of the tasks specified by Airflow.
 
 * References
 
