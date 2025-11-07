@@ -44,7 +44,28 @@ completed.
 #+BEGIN_SRC python
   from pyspark.sql import SparkSession
   spark = SparkSession.builder.master("local[*]").getOrCreate()
-  spark.range(5).show()
+
+  spark_data_dir = "C:/Users/dilip/Documents/GitHub/Spark-The-Definitive-Guide/data/"
+  json_file_name = spark_data_dir + "flight-data/json/2015-summary.json"
+  csv_file_name = spark_data_dir + "retail-data/by-day/2010-12-01.csv"
+
+  df1_spark = spark.read\
+                   .format("json")\
+                   .load(json_file_name)
+
+  # The JSON file has malformed lines that Pandas fails on.
+  # So, read the JSON file through Spark first and then convert it to Pandas
+  df1_pd = df1_spark.toPandas()
+
+  df2_spark = spark.read\
+                   .option("header", "true")\
+                   .format("csv")\
+                   .option("inferSchema", "true")\
+                   .load(csv_file_name)
+
+  df2_pd = pd.read_csv(csv_file_name,\
+                       header=0)
+
 #+END_SRC
 
 * Transformations and actions
@@ -75,15 +96,17 @@ basis using an expression or operation. Thus, to have a value for a
 column, you need a row and, to have a row, you need a DataFrame.
 
 #+BEGIN_SRC python
-  df = spark.read.format("json").load("C:/Users/dilip/Documents/GitHub/Spark-The-Definitive-Guide/data/flight-data/json/2015-summary.json")
-  df.columns
+  df1_spark.columns
+
+  # Refer to a column name directly
+  df1_spark.DEST_COUNTRY_NAME
 #+END_SRC
 
 Every DataFrame has an associated schema that maintains the
 meaning of each record and associated data type.
 
 #+BEGIN_SRC python
-  df.schema
+  df1_spark.printSchema()
 #+END_SRC
 
 ** Selecting and expressing
@@ -92,18 +115,20 @@ The simplest and most common operation is to select records based on
 column names. This is the DataFrame equivalent of an SQL query.
 
 #+BEGIN_SRC python
-  df.select("DEST_COUNTRY_NAME").show(2)
+  df1_spark.select("DEST_COUNTRY_NAME").show(5)
 
   # This is equivalent to the following command in SQL
-  # SELECT DEST_COUNTRY_NAME from df LIMIT 2
+  # SELECT DEST_COUNTRY_NAME from df LIMIT 5
+
+  df1_pd.DEST_COUNTRY_NAME[0:4]
 #+END_SRC
 
-An expression is the equivalent of a Python method that takes as
+An expression is a SQL-like query that takes as
 inputs column names and does transformations on them.
 
 #+BEGIN_SRC python
   from pyspark.sql.functions import expr
-  df.select(expr("DEST_COUNTRY_NAME" as destination)).show(2)
+  df1_spark.select(expr("DEST_COUNTRY_NAME" as destination)).show(2)
 #+END_SRC
 
 select(expr()) can be compressed to selectExpr().
@@ -114,10 +139,38 @@ You can filter records using filter() or, equivalently, where().
 
 #+BEGIN_SRC python
   from pyspark.sql.functions import expr
-  df.filter(expr("DEST_COUNTRY_NAME") == 'United States').show(2)
+  df1_spark.filter(df1_spark.DEST_COUNTRY_NAME == "United States").show(2)
+
+  df1_pd[df1_pd.DEST_COUNTRY_NAME == "United States"]
 #+END_SRC
 
-You can cascade filtering operations.
+* Comparisons with other data analytics packages
+
+** Spark vs Pandas
+
+Both Spark and Pandas can be used for data analysis and
+processing. Typically, Pandas operates at the MB-GB of data levels
+while Spark operates at the TB-EB levels. Further, Pandas runs locally
+on your PC while Spark is optimized to run in a distributed fashion on
+computing clusters.
+
+A typical workflow might be to use Spark to process and clean a large
+data set but then use Pandas to sample a small fraction of it for
+exploration. Since both use data frames as their base types, it is
+easy to convert between the two.
+
+** NumPy vs Pandas
+
+NumPy allows you to do fast mathematical operations on numeric
+multi-dimensional arrays e.g. FFTs, linear algebra, etc. Pandas, on
+the other hand, allows you to manipulate 2-D arrays with heterogeneous
+data types.
+
+A typical workflow might be to use Pandas to clean and pre-process
+structured data into numeric data and then use NumPy to do analysis on
+the numeric data efficiently.
+
+Under the hood, Pandas uses NumPy arrays.
 
 * Tasks
 
@@ -133,14 +186,15 @@ SCHEDULED: <2025-11-04 Tue>
 CLOCK: [2025-11-04 Tue 07:53]--[2025-11-04 Tue 08:33] =>  0:40
 :END:
 
-** TODO Read Apache Spark book (82/500) (~500 pages at 10 pages/hour) :Career:
-SCHEDULED: <2025-11-07 Fri +1d>
+** TODO Read Apache Spark book (87/500) (~500 pages at 10 pages/hour) :Career:
+SCHEDULED: <2025-11-08 Sat +1d>
 :PROPERTIES:
 :EFFORT:  50:00
 :BENEFIT: 2000
 :RATIO: 0.40
-:LAST_REPEAT: [2025-11-06 Thu 08:26]
+:LAST_REPEAT: [2025-11-07 Fri 09:01]
 :END:
+- State "DONE"       from "TODO"       [2025-11-07 Fri 09:01]
 - State "DONE"       from "TODO"       [2025-11-06 Thu 08:26]
 - State "DONE"       from "TODO"       [2025-11-06 Thu 08:26]
 - State "DONE"       from "TODO"       [2025-11-05 Wed 08:01]
@@ -148,6 +202,7 @@ SCHEDULED: <2025-11-07 Fri +1d>
 - State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
 - State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
 :LOGBOOK:
+CLOCK: [2025-11-07 Fri 06:36]--[2025-11-07 Fri 09:01] =>  2:25
 CLOCK: [2025-11-06 Thu 06:35]--[2025-11-06 Thu 08:25] =>  1:50
 CLOCK: [2025-11-05 Wed 06:54]--[2025-11-05 Wed 07:49] =>  0:55
 CLOCK: [2025-11-03 Mon 07:55]--[2025-11-03 Mon 08:24] =>  0:29

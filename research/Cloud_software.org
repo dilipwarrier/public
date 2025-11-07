@@ -7,7 +7,7 @@
 :ID:       01fd57e7-4ac5-420b-8384-062995f1ee51
 :END:
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2023-10-15 Sun 12:35]
+#+CAPTION: Clock summary at [2025-11-07 Fri 09:15]
 | Headline           | Time   |      |
 |--------------------+--------+------|
 | *Total time*       | *7:29* |      |
@@ -470,6 +470,30 @@ Thus, you can use multiple AWS architectures for your applications.
 | Data Warehouse               | Amazon Redshift                     | Azure Synapse Analytics              |
 | Machine Learning Platform    | Amazon SageMaker                    | Azure Machine Learning (Azure ML)    |
 |------------------------------+-------------------------------------+--------------------------------------|
+
+* Comparison of Apache and CNCF projects
+
+CNCF addresses runtime infrastructure. It answers the question: How
+do we run and observe cloud applications safely, reliably, and portably?
+
+Apache addresses data and compute frameworks. It answers the question:
+How do we move, transform, and analyze data efficiently and scalably?
+
+You can think of CNCF tools as horizontal enablers, and Apache tools
+as vertical data capabilities. In cloud-native data platforms, you
+often run Apache tools on CNCF infrastructure.
+
+|---------------------------+------------------------------------------+----------------------------------+---------------------|
+| Layer                     | Representative Technologies / Tools      | Notes / Ecosystem                | Open-source project |
+|---------------------------+------------------------------------------+----------------------------------+---------------------|
+| Business intelligence     | Superset, Metabase, Grafana, Redash      | Visualization and BI dashboards  | Apache              |
+| Query / analytics         | Druid, Hive, Trino                       | OLAP engines and query layers    | Apache              |
+| Data processing           | Spark, Flink, Beam, Airflow              | ETL and stream/batch computation | Apache              |
+| Data ingestion            | Kafka, NiFi, Pulsar, Debezium            | Data capture and event streams   | Apache              |
+| Data storage              | Hudi, Iceberg, Parquet, HDFS             | Data lakes and table formats     | Apache              |
+| Infrastructure            | Kubernetes, Helm, Argo, Prometheus, etc. | Ecosystem for orchestration      | CNCF                |
+| Cloud provider / hardware | AWS, GCP, Azure, Bare Metal              | Underlying compute and storage   |                     |
+|---------------------------+------------------------------------------+----------------------------------+---------------------|
 
 * Learning project for AWS
 :PROPERTIES:
