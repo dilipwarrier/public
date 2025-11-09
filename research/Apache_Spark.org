@@ -174,18 +174,6 @@ Under the hood, Pandas uses NumPy arrays.
 
 * Tasks
 
-** DONE Clean up Spark setup and ipython startup with Emacs editor
-SCHEDULED: <2025-11-04 Tue>
-:PROPERTIES:
-:EFFORT:  00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:END:
-- State "DONE"       from "TODO"       [2025-11-04 Tue 08:33]
-:LOGBOOK:
-CLOCK: [2025-11-04 Tue 07:53]--[2025-11-04 Tue 08:33] =>  0:40
-:END:
-
 ** TODO Read Apache Spark book (87/500) (~500 pages at 10 pages/hour) :Career:
 SCHEDULED: <2025-11-08 Sat +1d>
 :PROPERTIES:
@@ -258,6 +246,19 @@ SCHEDULED: <2025-10-30 Thu>
 CLOCK: [2025-11-03 Mon 06:29]--[2025-11-03 Mon 07:48] =>  1:19
 :END:
 [2025-11-03 Mon]
+
+*** DONE Clean up Spark setup and ipython startup with Emacs editor
+SCHEDULED: <2025-11-04 Tue>
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:ARCHIVE_TIME: 2025-11-09 Sun 09:48
+:END:
+- State "DONE"       from "TODO"       [2025-11-04 Tue 08:33]
+:LOGBOOK:
+CLOCK: [2025-11-04 Tue 07:53]--[2025-11-04 Tue 08:33] =>  0:40
+:END:
 
 * References
 
