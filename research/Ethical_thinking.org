@@ -4,64 +4,57 @@
 
 * Practical Ethics by Peter Singer                                   :Review:
 
-  Preference utilitarianism says that, if a person has a preference,
-  then that preference should not be tampered with, all other things
-  being equal. All people have a preference to stay alive, desires that
-  they want to fulfill etc. So, killing them is not acceptable. (John
-  Harsanyi suggests an amendment of manifest preference vs innate or
-  natural preference. For instance, someone may outwardly suggest a
-  preference for something irrational or based on faulty logic. That
-  person may act upon that personal preference. However, when
-  considering social utility, you should consider the innate or natural
-  preference.)
+Preference utilitarianism says that, if a person has a preference,
+then that preference should not be tampered with, all other things
+being equal. All people have a preference to stay alive, desires that
+they want to fulfill etc. So, killing them is not acceptable.
 
-  We can assume such preferences exist for beings that are aware of
-  themselves and have an image of themselves in the past, present and
-  future. Note that, for instance, a fish doesn't necessarily have this
-  self-image. However, it may still struggle when it's about to
-  die. That's self-preservation which is separate from having a
-  self-image in the future.
+We can assume such preferences exist for beings that are aware of
+themselves and have an image of themselves in the past, present and
+future. Note that, for instance, a fish doesn't necessarily have this
+self-image. However, it may still struggle when it's about to
+die. That is self-preservation which is separate from having a
+self-image in the future.
 
-  For self-aware beings with a sense of past, present and future and a
-  set of preferences, it may not be ok to kill such a person even if you
-  introduce a new person with preferences. On the other hand, for a
-  being with no sense of time and self-image, it may be OK to kill such
-  a person if you substitute with another person who also has
-  preferences and if the killing can be done instantaneously without
-  suffering.
+For self-aware beings with a sense of past, present and future and a
+set of preferences, it may not be ok to kill such a person even if you
+introduce a new person with preferences. On the other hand, for a
+being with no sense of time and self-image, it may be OK to kill such
+a person if you substitute with another person who also has
+preferences and if the killing can be done instantaneously without
+suffering.
 
-  This raises the question of when it is OK to kill a person. If the person
-  has explicitly declared that they would like to be killed, then
-  euthanasia should be allowed based on preference utilitarianism. It
-  should also be allowed based on other philosophical models like rights
-  (the living person has a right to life and an option to give up that
-  right). This is voluntary euthanasia.
+This raises the question of when it is OK to kill a person. If the person
+has explicitly declared that they would like to be killed, then
+euthanasia should be allowed based on preference utilitarianism. It
+should also be allowed based on other philosophical models like rights
+(the living person has a right to life and an option to give up that
+right). This is voluntary euthanasia.
 
-  If the person has not requested death but it is clear that they will
-  face intense and irredeemable pain and suffering, then euthanasia
-  should be ethical if the person who administers it has done a
-  probabilistic calculation that leads to this conclusion. On the flip
-  side, it is unethical to let such a person die passively (through
-  non-intervention) if that causes significant suffering. Just as, if a
-  dog is in distress, we may take it to the vet to administer a lethal
-  injection, so also, if a baby suffers an incurable disease that is
-  guaranteed to cause lifelong suffering, it should be ethical to kill the
-  baby.
+If the person has not requested death but it is clear that they will
+face intense and irredeemable pain and suffering, then euthanasia
+should be ethical if the person who administers it has done a
+probabilistic calculation that leads to this conclusion. On the flip
+side, it is unethical to let such a person die passively (through
+non-intervention) if that causes significant suffering. Just as, if a
+dog is in distress, we may take it to the vet to administer a lethal
+injection, so also, if a baby suffers an incurable disease that is
+guaranteed to cause lifelong suffering, it should be ethical to kill the
+baby.
 
-  The one case in which this would be unethical is if the person had
-  expressed a desire to continue to live. In that case, that person's
-  preferences take precedence.
+The one case in which this would be unethical is if the person had
+expressed a desire to continue to live. In that case, that person's
+preferences take precedence.
 
-  Contrary to popular opinion, a human life may not always be worth
-  living.
+Contrary to popular opinion, a human life may not always be worth
+living.
 
-  John Locke and Robert Nozick argue from a theory of rights ie the
-  right against interference. By their argument, everyone has a right
-  against interference from others but not a right to assistance from
-  others. However, this may not hold due to problems like buying
-  resources from despots, global warming, and purchasing products the
-  manufacture of which causes suffering to others.
-
+John Locke and Robert Nozick argue from a theory of rights ie the
+right against interference. By their argument, everyone has a right
+against interference from others but not a right to assistance from
+others. However, this may not hold due to problems like buying
+resources from despots, global warming, and purchasing products the
+manufacture of which causes suffering to others.
 
 * Vegetarianism                                                      :Review:
 
@@ -78,20 +71,20 @@ about that. If you hear about one that killed five thousand people,
 you don’t feel a thousand times as sorry. Our feelings follow an
 S-curve in that respect.
 
-Stealing is disapproved of in our society, and you've internalized
-that. Meat-eating isn’t, and almost everyone around you is doing
-it. That’s why you keep eating meat, no matter how wrong it is, but
-you won’t steal, no matter how much it would benefit you.
+Stealing is disapproved of in our society, and we have internalized
+that. Meat-eating is aproved of, and almost everyone around us is doing
+it. That’s why we keep eating meat, no matter how wrong it
+is. However, we won’t steal, no matter how much it would benefit us.
 
 For most of the wrongs of the past – slavery, colonialism, the
-oppression of women – the victims could and did speak up. In the
-present case, the victims will never be able to act or speak for
+oppression of women – the victims could and did speak up. In the case
+of eating meat, the victims will never be able to act or speak for
 themselves. There is no one to speak against what we humans are doing,
 except us. So we have to do it. If we don’t, it will never stop.
 
 ** References
-- Michael Huemer, "Dialogues on Ethical Vegetarianism"
 
+- Michael Huemer, "Dialogues on Ethical Vegetarianism"
 
 * The Life you can save by Peter Singer                              :Review:
 
@@ -163,10 +156,10 @@ Instead of giving a small amount of charity and using the rest of the
 money for discretionary expenses, we should be cutting out many
 discretionary expenses and giving more to charity.
 
-There are many reasons why it's not in human nature to give to poor
+There are many reasons why it is not in human nature to give to poor
 people on the other side of the world: no identifiable victim,
 parochialism in generosity, illusion of futility, notion of fairness,
-distributed responsibility etc.
+distributed responsibility, etc.
 
 Economists like William Easterly have argued that giving aid can be
 a wasteful effort. However, this is usually concerned with large
@@ -192,18 +185,17 @@ adoption of this level too.
 :ID:       7d940e83-ba83-4650-9076-797cc3271ca6
 :END:
 
-  By the argument above, a donation of $5000 in 2025 can save a life
-  in a poor country which can be valued at, say, $100,000. $100k is a
-  pretty conservative estimate of the lifetime value of a human
-  being. Thus, an investment of $5000 today generates a lifetime
-  revenue of $100,000. Let us assume that the investment is made in a
-  newborn baby. Let us assume that this person generates no income for
-  20 years and then generates $2.5k/year for 40 years. By this scheme,
-  the NPV to that person is about $16k at a market rate of 5%.
+By the argument above, a donation of $5000 in 2025 can save a life
+in a poor country which can be valued at, say, $100,000. $100k is a
+pretty conservative estimate of the lifetime value of a human
+being. Thus, an investment of $5000 today generates a lifetime
+revenue of $100,000. Let us assume that the investment is made in a
+newborn baby. Let us assume that this person generates no income for
+20 years and then generates $2.5k/year for 40 years. By this scheme,
+the NPV to that person is about $16k at a market rate of 5%.
 
-  Thus, for my donations, I can assume 16k/5k or a multiplier of 3
-  for value. This assumes no employer matching.
-
+Thus, for my donations, I can assume 16k/5k or a multiplier of 3
+for value. This assumes no employer matching.
 
 * Effective Altruism                                                 :Review:
 
@@ -217,10 +209,10 @@ life for every 30 healthy years, so a doctor in a developed country
 can save about 5 human lives over the course of their career.
 
 Some doctors have had 100,000 times that much impact in their lives
-e.g. the doctors who helped eradicate small-pox. Similarly, the
-Soviet bureaucrat [[http://www.bbc.com/news/world-europe-24280831][Stanislav Petrov]] may have saved a billion lives by refusing to
-launch nuclear missiles according to protocol. Some of this was luck
-but, by making choices of which areas you focus on, you can get
+e.g. the doctors who helped eradicate small-pox. Similarly, the Soviet
+bureaucrat [[http://www.bbc.com/news/world-europe-24280831][Stanislav Petrov]] may have saved a billion lives by refusing
+to launch nuclear missiles according to protocol. Some of this was
+luck but, by making choices of which areas you focus on, you can get
 100-1000 times the impact of an average person in your field.
 
 You can [[https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/hk9Xh6xK5j3SQmkcn][increase your benefit to society]] in one of three ways.
@@ -228,7 +220,7 @@ You can [[https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/hk9Xh6xK5j3S
   - Helping the same number of people to a greater extent, or
   - Doing something which has benefits that last for a longer time.
 
-** The world is much better and can be much better
+* The world is much better and can be much better
 
 All three of the following are true.
   - The world is much better than before
@@ -242,6 +234,12 @@ were hungry. This number has been increasing since 2014 and COVID
 has the potential to make the trend worse. Most of the world's
 hungry population are in Asia and Africa.
 
+5 million children or 3.6% of the world population died before
+reaching the age of 5 in 2023. These numbers were 17 million and 13.7%
+respectively 50 years ago. Thus, the numbers have gone down
+significantly both in absolute and fractional terms. However, 5
+million children dying every year is still a profound tragedy that
+deserves attention..
 
 * Political authority                                                :Review:
 
@@ -338,7 +336,7 @@ generally don't buy it. Some of this may be due to the nature of the
 product (you pay for something that you hope you never use). Trust in
 the insurance agent may also be a factor.
 
-Microfinance institutions work reasonably well but are not
+Microfinance institutions work reasonably well but they have not proven to be
 transformative. They rely on strict loan repayment rules and usually
 lend to a group of people. The group ensures through social pressure
 that everyone in the group makes payments on time. Due to these strict
