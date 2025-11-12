@@ -68,6 +68,17 @@ completed.
 
 #+END_SRC
 
+The default schema inference appears to be better for Spark compared
+to Pandas. See the results below.
+
+#+BEGIN_SRC python
+  df2_spark.schema
+  df2_pd.dtypes
+
+  # Columns like InvoiceNo are set to StringType in Spark but as generic
+  # objects in Pandas
+#+END_SRC
+
 * Transformations and actions
 
 Spark allows the user to specify a sequence of transformations to
@@ -87,6 +98,7 @@ object of type Row.
 
 #+BEGIN_SRC python
   from pyspark.sql import Row
+
   myRow = Row("Hello", None, 1, False)
   print(myRow[0])
 #+END_SRC
@@ -128,6 +140,7 @@ inputs column names and does transformations on them.
 
 #+BEGIN_SRC python
   from pyspark.sql.functions import expr
+
   df1_spark.select(expr("DEST_COUNTRY_NAME" as destination)).show(2)
 #+END_SRC
 
@@ -138,7 +151,6 @@ select(expr()) can be compressed to selectExpr().
 You can filter records using filter() or, equivalently, where().
 
 #+BEGIN_SRC python
-  from pyspark.sql.functions import expr
   df1_spark.filter(df1_spark.DEST_COUNTRY_NAME == "United States").show(2)
 
   df1_pd[df1_pd.DEST_COUNTRY_NAME == "United States"]
@@ -149,8 +161,8 @@ You can filter records using filter() or, equivalently, where().
 ** Spark vs Pandas
 
 Both Spark and Pandas can be used for data analysis and
-processing. Typically, Pandas operates at the MB-GB of data levels
-while Spark operates at the TB-EB levels. Further, Pandas runs locally
+processing. Typically, Pandas operates in the MB-GB range of data sizes
+while Spark operates in the TB-EB range. Further, Pandas runs locally
 on your PC while Spark is optimized to run in a distributed fashion on
 computing clusters.
 
@@ -174,14 +186,15 @@ Under the hood, Pandas uses NumPy arrays.
 
 * Tasks
 
-** TODO Read Apache Spark book (87/500) (~500 pages at 10 pages/hour) :Career:
-SCHEDULED: <2025-11-08 Sat +1d>
+** TODO Read Apache Spark book (116/500) (~500 pages at 10 pages/hour) :Career:
+SCHEDULED: <2025-11-12 Wed +1d>
 :PROPERTIES:
 :EFFORT:  50:00
 :BENEFIT: 2000
 :RATIO: 0.40
-:LAST_REPEAT: [2025-11-07 Fri 16:33]
+:LAST_REPEAT: [2025-11-11 Tue 07:59]
 :END:
+- State "DONE"       from "TODO"       [2025-11-11 Tue 07:59]
 - State "DONE"       from "TODO"       [2025-11-07 Fri 16:33]
 - State "DONE"       from "TODO"       [2025-11-07 Fri 16:33]
 - State "DONE"       from "TODO"       [2025-11-07 Fri 16:32]
@@ -193,6 +206,7 @@ SCHEDULED: <2025-11-08 Sat +1d>
 - State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
 - State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
 :LOGBOOK:
+CLOCK: [2025-11-11 Tue 06:29]--[2025-11-11 Tue 07:59] =>  1:30
 CLOCK: [2025-11-07 Fri 06:36]--[2025-11-07 Fri 09:01] =>  2:25
 CLOCK: [2025-11-06 Thu 06:35]--[2025-11-06 Thu 08:25] =>  1:50
 CLOCK: [2025-11-05 Wed 06:54]--[2025-11-05 Wed 07:49] =>  0:55
@@ -264,3 +278,4 @@ CLOCK: [2025-11-04 Tue 07:53]--[2025-11-04 Tue 08:33] =>  0:40
 
 - Bill Chambers and Matei Zaharia, Spark: The Definitive Guide
 - [[https://github.com/databricks/Spark-The-Definitive-Guide][GitHub code for the book]]
+- [[https://spark.apache.org/docs/latest/api/python/user_guide/][PySpark User Guide]]

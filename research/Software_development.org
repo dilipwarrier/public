@@ -32,6 +32,19 @@ See also [[id:59b8b305-3e77-403e-99d1-51d6eb2f4297][Eclipse ThreadX]].
 
 GNU, Emacs, etc.
 
+* Optimization
+
+[[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]] said that "premature optimization is the root of all
+evil." This quote, repeated by Donald Knuth, is often interpreted
+to mean that you should never optimize your code or that you can
+expect silicon improvements to get you efficiency faster than
+developers can optimize code.
+
+[[https://ubiquity.acm.org/article.cfm?id=1513451][Randall Hyde]] makes the case that all of
+these are fallacies. He argues that developers must continue to focus on
+optimization as part of the development cycle just as they focus on
+architecture, design, and validation.
+
 * Measuring developer productivity                                   :Review:
 :PROPERTIES:
 :ID:       aa3bd004-c924-46e4-939b-6820d173cde7
