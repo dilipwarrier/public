@@ -1,7 +1,32 @@
-#+TITLE: Concepts in statistics and machine learning
+#+TITLE: Concepts in statistics
 #+FILETAGS: :Math:
+#+LATEX_HEADER: \usepackage{amsmath}
 
 * Statistical quantities                                             :Review:
 
-  RMSE, MAE, MSE, R-squared
-  [[https://medium.com/wwblog/evaluating-regression-models-using-rmse-and-r%C2%B2-42f77400efee#:~:text=High%20RMSE%2C%20high%20R%C2%B2%20The%20model%20above%20has,of%204%3A%20High%20RMSE%20%28bad%29%2C%20low%20R%C2%B2%20%28bad%29][Statistical implications of RMSE and R-squared]]
+RMSE, MAE, MSE, R-squared
+[[https://medium.com/wwblog/evaluating-regression-models-using-rmse-and-r%C2%B2-42f77400efee#:~:text=High%20RMSE%2C%20high%20R%C2%B2%20The%20model%20above%20has,of%204%3A%20High%20RMSE%20%28bad%29%2C%20low%20R%C2%B2%20%28bad%29][Statistical implications of RMSE and R-squared]]
+
+* Skewness
+
+The skewness or skew of a set of values measures the asymmetry of the values
+around the mean value.
+
+One formula to measure skew is Pearson's median skew.
+
+\begin{equation*}
+\mathrm{Pearson's\ median\ skew} = 3 \times \frac{\mu - \mathrm{Median}}{\sigma}
+\end{equation}
+
+* Kurtosis
+
+Kurtosis measures whether there is a long-tail to the
+distribution.
+
+\begin{equation*}
+\mathrm{Kurtosis} = \frac{E[(X - \mu)^4]}{\sigma^4}
+\end{equation}
+
+A normal distribution has a kurtosis of 3, so other
+distributions are characterized by a value of excessive
+kurtosis. Excessive kurtosis is defined as kurtosis minus 3.

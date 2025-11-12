@@ -1,5 +1,5 @@
-#+TITLE: Apache Spark
-#+FILETAGS: :Software:Data:
+#+TITLE: Apache Spark and Pandas
+#+FILETAGS: :Software:Data:Analytics:
 #+STARTUP: contents, hideallblocks
 
 * Introduction
@@ -35,14 +35,16 @@ Spark.
 
 * Startup code
 
-For all the following sections, first start a local Spark session in
-Python using the following code.
+For all the following sections, first complete the following steps.
+- Complete [[id:4ef5ba87-d94b-494d-af79-e4f95df7a55c][Python installation]]
+- Complete [[id:d2581d0c-3791-4e3d-b2f3-a61f2b32e324][Spark and PySpark installation on PC]]
 
-This code assumes that [[id:d2581d0c-3791-4e3d-b2f3-a61f2b32e324][Spark and PySpark installation on PC]] has been
-completed.
+Then, start a local Spark session in Python using the following code.
 
 #+BEGIN_SRC python
   from pyspark.sql import SparkSession
+  import pyspark.sql.functions as sqlf
+
   spark = SparkSession.builder.master("local[*]").getOrCreate()
 
   spark_data_dir = "C:/Users/dilip/Documents/GitHub/Spark-The-Definitive-Guide/data/"
@@ -139,9 +141,7 @@ An expression is a SQL-like query that takes as
 inputs column names and does transformations on them.
 
 #+BEGIN_SRC python
-  from pyspark.sql.functions import expr
-
-  df1_spark.select(expr("DEST_COUNTRY_NAME" as destination)).show(2)
+  df1_spark.select(sqlf.expr("DEST_COUNTRY_NAME as destination")).show(2)
 #+END_SRC
 
 select(expr()) can be compressed to selectExpr().
@@ -155,6 +155,37 @@ You can filter records using filter() or, equivalently, where().
 
   df1_pd[df1_pd.DEST_COUNTRY_NAME == "United States"]
 #+END_SRC
+
+* Aggregations
+
+Aggregations are types of data transformations that collect rows of a
+DataFrame together and summarize them. Most aggregations are available
+in the spark.sql.functions package.
+
+The simplest aggregation is a count. Other examples are sum, min/max,
+average, etc.
+
+#+BEGIN_SRC python
+  df2_spark.count()
+
+  df2_pd.count()
+#+END_SRC
+
+Often, you need to group records using the values of certain columns
+first. You can use the groupBy() method to do this. It results in a
+GroupedData object.
+
+The agg() method can be used to aggregate GroupedData objects using
+a variety of aggregation transformations like count, sum, etc. The output of
+the agg() method is a DataFrame.
+
+#+BEGIN_SRC python
+  df2_group = df2_spark.groupBy("InvoiceNo")
+  df2_group.agg(sqlf.count("Quantity")).show()
+#+END_SRC
+
+Spark also provides the ability to aggregate with a
+tolerance for error. This can be useful to speed up computations.
 
 * Comparisons with other data analytics packages
 
@@ -186,14 +217,15 @@ Under the hood, Pandas uses NumPy arrays.
 
 * Tasks
 
-** TODO Read Apache Spark book (116/500) (~500 pages at 10 pages/hour) :Career:
-SCHEDULED: <2025-11-12 Wed +1d>
+** TODO Read Apache Spark book (130/500) (~500 pages at 10 pages/hour) :Career:
+SCHEDULED: <2025-11-13 Thu +1d>
 :PROPERTIES:
 :EFFORT:  50:00
 :BENEFIT: 2000
 :RATIO: 0.40
-:LAST_REPEAT: [2025-11-11 Tue 07:59]
+:LAST_REPEAT: [2025-11-12 Wed 07:53]
 :END:
+- State "DONE"       from "TODO"       [2025-11-12 Wed 07:53]
 - State "DONE"       from "TODO"       [2025-11-11 Tue 07:59]
 - State "DONE"       from "TODO"       [2025-11-07 Fri 16:33]
 - State "DONE"       from "TODO"       [2025-11-07 Fri 16:33]
@@ -206,6 +238,7 @@ SCHEDULED: <2025-11-12 Wed +1d>
 - State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
 - State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
 :LOGBOOK:
+CLOCK: [2025-11-12 Wed 06:24]--[2025-11-12 Wed 07:48] =>  1:24
 CLOCK: [2025-11-11 Tue 06:29]--[2025-11-11 Tue 07:59] =>  1:30
 CLOCK: [2025-11-07 Fri 06:36]--[2025-11-07 Fri 09:01] =>  2:25
 CLOCK: [2025-11-06 Thu 06:35]--[2025-11-06 Thu 08:25] =>  1:50
