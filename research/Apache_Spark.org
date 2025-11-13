@@ -257,13 +257,14 @@ SCHEDULED: <2025-11-23 Sun>
 :RATIO: 0.40
 :END:
 
-** TODO Fix warning messages at Spark initialization (see below)
+** DONE Fix warning messages at Spark initialization (see below)
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
 :RATIO: 0.40
 :END:
 
+- State "DONE"       from "TODO"       [2025-11-12 Wed 20:50]
 #+BEGIN_QUOTE
 WARNING: Using incubator modules: jdk.incubator.vector
 Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
