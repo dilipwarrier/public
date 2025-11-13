@@ -1,214 +1,402 @@
 #+NAME: Business strategy
 #+FILETAGS: :Strategy:
-#+STARTUP: overview
+#+STARTUP: overview, inlineimages
 
 * Purpose, vision, mission, and strategy                             :Review:
 
-  Accordingly:
-  - Company purpose - answers the why - 50-100 year timeline
-  - Company vision - answers the how - 25 year timeline
-  - Company mission - anwers the what - 10 year timeline
-  - Company strategy - Set of goals and actions - 3 year timeline
+- Company purpose - answers the why - 50-100 year timeline
+- Company vision - answers the how - 25 year timeline
+- Company mission - anwers the what - 10 year timeline
+- Company strategy - Set of goals and actions - 3 year timeline
 
-  - Why are we doing what we are doing?
+- Why are we doing what we are doing?
 
-  - How are we addressing our customer needs? This is usually covered
-    in a business plan or [[file:Business_model_generation.org][business model canvas]].
-    + Skills, technology, knowledge, competencies
+- How are we addressing our customer needs? This is usually covered
+  in a business plan or [[file:Business_model_generation.org][business model canvas]].
+  + Skills, technology, knowledge, competencies
 
-  - What is our business?
-    + Who are we satisfying? (Customer groups)
-    + What needs are we satisfying? (Customer needs)
+- What is our business?
+  + Who are we satisfying? (Customer groups)
+  + What needs are we satisfying? (Customer needs)
 
-  This is a customer-oriented business definition rather than a
-  product-oriented business definition.  A product-oriented definition
-  can obscure the true mission. For instance, many typewriter companies
-  missed that their organization's business was satisfying the customer
-  need of information processing. When IBM redefined information
-  processing by moving into computers, these typewriter companies lost
-  out.
+This is a customer-oriented business definition rather than a
+product-oriented business definition.  A product-oriented definition
+can obscure the true mission. For instance, many typewriter companies
+missed that their organization's business was satisfying the customer
+need of information processing. When IBM redefined information
+processing by moving into computers, these typewriter companies lost
+out.
 
-  The vision of the company is a high level statement for where the
-  company wants to be. It articulates, often in broad terms, what a
-  company hopes to achieve. The vision often includes values which
-  describe how the company will operate.
+The vision of the company is a high level statement for where the
+company wants to be. It articulates, often in broad terms, what a
+company hopes to achieve. The vision often includes values which
+describe how the company will operate.
 
-  The goals or strategy break down the vision into SMART objectives.
-
+The goals or strategy break down the vision into SMART objectives.
 
 * Financial metrics for a company                                    :Review:
 
-  A company is usually focused on providing value to shareholders while
-  maintaining ethics and values. The valuation of a company is driven
-  by:
-  1. ROIC (Return on Invested Capital) = NOPLAT (Net Operating Profit
-     Less Applicable Taxes) divided by IC = equity + debt
-  2. Growth rate of profitability = rate at which NOPLAT increases per year
+A company is usually focused on providing value to shareholders while
+maintaining ethics and values. The valuation of a company is driven
+by:
+1. ROIC (Return on Invested Capital) = NOPLAT (Net Operating Profit
+   Less Applicable Taxes) divided by IC = equity + debt
+2. Growth rate of profitability = rate at which NOPLAT increases per year
 
-  ROIC = Net profit/Invested capital = (Net profit/Sales) * (Sales/invested capital)
+ROIC = Net profit/Invested capital = (Net profit/Sales) * (Sales/invested capital)
 
-  That can further be divided up as follows, to understand where the
-  firm stands in terms of competitive advantage on each factor.
+That can further be divided up as follows, to understand where the
+firm stands in terms of competitive advantage on each factor.
 
-  Together, these two factors and the Weighted Average Cost of Capital
-  (WACC) determine the valuation of the company. This can be calculated
-  using cash flow analysis.
+Together, these two factors and the Weighted Average Cost of Capital
+(WACC) determine the valuation of the company. This can be calculated
+using cash flow analysis.
 
-  [[file:Screenshot 2024-02-17 1610.jpg]]
-
+[[file:Screenshot 2024-02-17 1610.jpg]]
 
 * External analysis                                                  :Review:
 
-  Each of these competitive forces could be a strength or a weakness.
-  - Risk of entry
-  - Rivalry among established firms
-  - Bargaining power of buyers
-  - Bargaining power of suppliers
-  - Threat of substitutes
-  - Power of complement providers
+Each of these competitive forces could be a strength or a weakness.
+- Risk of entry
+- Rivalry among established firms
+- Bargaining power of buyers
+- Bargaining power of suppliers
+- Threat of substitutes
+- Power of complement providers
 
-  Risk of entry or barrier to entry includes brand loyalty along with
-  factors such as government regulation, switching costs etc.
+Risk of entry or barrier to entry includes brand loyalty along with
+factors such as government or industry regulation, switching costs, etc.
 
-  Rivalry among established firms is usually high in industries with low
-  switching costs and solutions that are undifferentiated. This usually
-  results in boom-and-bust cycles where new entrants try to flood the
-  market with low-cost products in hopes to unseat the incumbents. This
-  creates excess capacity reducing prices which forces the incumbents to
-  react. A fragmented industry structure constitutes a threat rather
-  than an opportunity.
+Rivalry among established firms is usually high in industries with low
+switching costs and solutions that are undifferentiated. This usually
+results in boom-and-bust cycles where new entrants try to flood the
+market with low-cost products in hopes to unseat the incumbents. This
+creates excess capacity reducing prices which forces the incumbents to
+react. A fragmented industry structure constitutes a threat rather
+than an opportunity.
 
-  Complement providers are those who provide complementary products
-  using your products. For instance, gaming companies provide game
-  cartridges on platforms like Xbox and Nintendo. These can determine
-  the success of the platforms.
+Complement providers are those who provide complementary products
+using your products. For instance, gaming companies provide game
+cartridges on platforms like Xbox and Nintendo. These can determine
+the success of the platforms.
 
-  The problems with analyses like the competitive forces analysis are as
-  follows. These problems indicate that just a competitive force
-  analysis won't suffice.
+The problems with analyses like the competitive forces analysis are as
+follows. These problems indicate that just a competitive force
+analysis won't suffice.
 
-  - They may not apply during times of significant innovation and
-    disruption. They are more applicable in steady state for the
-    industry.
-  - According to some research, they only account for 10-20% of the
-    variance in performance of companies. Thus, being in an attractive
-    industry alone does not guarantee success. Internal factors within
-    the company are much more important.
-  - The macroenvironment can change the market forces significantly.
+- They may not apply during times of significant innovation and
+  disruption. They are more applicable in steady state for the
+  industry.
+- According to some research, they only account for 10-20% of the
+  variance in performance of companies. Thus, being in an attractive
+  industry alone does not guarantee success. Internal factors within
+  the company are much more important.
+- The macro environment can change the market forces significantly.
 
-  [[file:Screenshot 2024-02-17.jpg]]
+[[file:Screenshot 2024-02-17.jpg]]
 
-  A case study is the industry for large commercial airline jets. This
-  market is dominated by Boeing and Airbus. However, pre-COVID19, the
-  market for international travel was growing significantly as people
-  from developing countries travel more (see [[https://www.evernote.com/shard/s104/nl/11741856/b716c243-abb9-4edc-807d-a6b75f11ac3e/][this talk]] for how other
-  countries are fast becoming able to afford flights). This was making
-  it more attractive for small companies like Embraer and Bombardier
-  to enter the market. The additional competition could intensify
-  rivalry.
-
+A case study is the industry for large commercial airline jets. This
+market is dominated by Boeing and Airbus. However, pre-COVID19, the
+market for international travel was growing significantly as people
+from developing countries travel more (see [[https://www.evernote.com/shard/s104/nl/11741856/b716c243-abb9-4edc-807d-a6b75f11ac3e/][this talk]] for how other
+countries are fast becoming able to afford flights). This makes
+it more attractive for small companies like Embraer and Bombardier
+to enter the market. The additional competition could intensify
+rivalry.
 
 * Internal Analysis                                                  :Review:
 
-  Case study: For 4 decades, Southwest airlines has consistently
-  outperformed the airline market. Even in 2001-05, it returned almost
-  6% on invested capital. It has distinct features from other
-  airlines: point to point flights from smaller airports as opposed to
-  spoke and hub models, only one type of jet used, no seat
-  reservations, no participation in external ticketing sites, no
-  baggage transfers to other airlines etc.
+Case study: For four decades, Southwest airlines has consistently
+outperformed the airline market. Even in 2001-05, it returned almost
+6% on invested capital. It has distinct features from other
+airlines: point to point flights from smaller airports as opposed to
+spoke and hub models, only one type of jet used, no seat
+reservations, no participation in external ticketing sites, no
+baggage transfers to other airlines etc.
 
-  A firm has competitive advantage when it has better than the average
-  profitability of other firms in the industry. It has sustained
-  competitive advantage when it maintains that profitability for a
-  long period.
+A firm has competitive advantage when it has better than the average
+profitability of other firms in the industry. It has sustained
+competitive advantage when it maintains that profitability for a
+long period.
 
-  Competitive advantage may be gained through one or more unique
-  competencies. Competencies could be a firm's access to basic resources
-  (land, labor, capital, equipment). It could be process
-  knowledge. Process knowledge is the organization's equivalent of human
-  skills ie the routines and behaviors through which an organization
-  creates output. It could be the organizational architecture eg Apple
-  has a strong industrial design group that coordinates hardware,
-  software and manufacturing for a product. Finally, it could be unique
-  IP that a firm possesses.
+Competitive advantage may be gained through one or more unique
+competencies. Competencies could be a firm's access to basic resources
+(land, labor, capital, equipment). It could be process
+knowledge. Process knowledge is the organization's equivalent of human
+skills ie the routines and behaviors through which an organization
+creates output. It could be the organizational architecture eg Apple
+has a strong industrial design group that coordinates hardware,
+software and manufacturing for a product. Finally, it could be unique
+IP that a firm possesses.
 
-  The VRIO framework gives a good way of thinking about which
-  resources can be a sustainable competitive advantage.  VRIO stands
-  for Value, Rarity, Inimitability and Organization.
+The VRIO framework gives a good way of thinking about which
+resources can be a sustainable competitive advantage.  VRIO stands
+for Value, Rarity, Inimitability and Organization.
 
-  Typically, the advanced resources (IP, process knowledge and
-  organizational architecture) are the ones that confer a sustained
-  competitive advantage. Those can be valuable, rare and inimitable.
+Typically, the advanced resources (IP, process knowledge and
+organizational architecture) are the ones that confer a sustained
+competitive advantage. Those can be valuable, rare and inimitable.
 
+* Competitive Advantage through functional strategy                  :Review:
 
-* Competitive Advantage Through Functional Strategy                  :Review:
+All functions such as R&D, marketing, sales, manufacturing etc can
+contribute towards strategies of higher efficiency, quality,
+innovation, and customer responsiveness. These functional strategies
+allow companies to achieve competitive advantages that drive value
+creation. Quality can be quality as reliability or quality as
+excellence.
 
-  All functions such as R&D, marketing, sales, manufacturing etc can
-  contribute towards strategies of higher efficiency, quality,
-  innovation, and customer responsiveness. These functional strategies
-  allow companies to achieve competitive advantages that drive value
-  creation. Quality can be quality as reliability or quality as
-  excellence.
-
-  [[file:Screenshot 2024-02-17 1616.jpg]]
+[[file:Screenshot 2024-02-17 1616.jpg]]
 
 
 * Business level strategy                                            :Review:
 
-  The cost and differentiation axes provide a frontier that industries
-  operate at. It is possible to move the frontier out through technology,
-  processes etc. Dell did this most famously in the computer industry and
-  Toyota in the automotive industry. This process is called value
-  innovation.
+The cost and differentiation axes provide a frontier that industries
+operate at. It is possible to move the frontier out through technology,
+processes etc. Dell did this in the computer industry and
+Toyota in the automotive industry. This process is called value
+innovation.
 
-  [[file:Screenshot 2024-02-17 1619.jpg]]
+[[file:Screenshot 2024-02-17 1619.jpg]]
 
-  The cost/differentiation and market segmentation gives four broad
-  choices of business level strategy, as shown below.
+The cost/differentiation and market segmentation gives four broad
+choices of business level strategy, as shown below.
 
-  [[file:Screenshot 2024-02-17 1612.jpg]]
+[[file:Screenshot 2024-02-17 1612.jpg]]
 
-  Kim and Maugborne ("Blue ocean strategy") say that, for true value
-  innovation, companies must think through the following four
-  aspects.
+Kim and Maugborne ("Blue ocean strategy") say that, for true value
+innovation, companies must think through the following four
+aspects.
 
-  - Eliminate: What factors do rivals take for granted that can be
-    eliminated, reducing costs?
+- Eliminate: What factors do rivals take for granted that can be
+  eliminated, reducing costs?
 
-  - Reduce: What factors can be reduced, reducing costs?
+- Reduce: What factors can be reduced, reducing costs?
 
-  - Raise: What factors can be raised above the standard in the
-    industry, increasing value?
+- Raise: What factors can be raised above the standard in the
+  industry, increasing value?
 
-  - Create: What factors can be created that don't exist, increasing
-    value?
+- Create: What factors can be created that don't exist, increasing
+  value?
 
-  [[file:Screenshot 2024-02-17 1624.jpg]]
-
-
-* Business Strategy And Market Environment                           :Review:
-
-  An industry goes from an embryonic stage to a mass market stage when
-  the following events happen.
-
-  - Technology progresses so that the average consumer finds value in
-    the product.
-
-  - Complementary products are developed so that the product value
-    increases.
-
-  - Many companies join the industry and drive down prices.
-
-  Market adoption usually follows an S-curve as below.
-
-  [[file:Screenshot 2024-02-17 1634.jpg]]
+[[file:Screenshot 2024-02-17 1624.jpg]]
 
 
-* Good strategy, bad strategy by Richard Rumelt                      :Review:
+* Market stages                                                      :Review:
+
+An industry goes from an embryonic stage to a mass market stage when
+the following events happen.
+
+- Technology progresses so that the average consumer finds value in
+  the product.
+
+- Complementary products are developed so that the product value
+  increases.
+
+- Many companies join the industry and drive down prices.
+
+Market adoption usually follows an S-curve as below.
+
+[[file:Screenshot 2024-02-17 1634.jpg]]
+
+* Strategy and technology
+
+The Blu-ray/HD-DVD war shows how technology can affect business strategy. From
+2003 to 2008, Toshiba and Sony competed fiercely on the format of these disc
+players. By 2008, Toshiba conceded defeat and Blu-ray became the de facto
+standard. However, that same year, online streaming of video started taking off.
+Most households didn't have the bandwidth to stream in HD and most streaming was
+in standard definition. By 2014, Sony had announced decline in sales of Blu-ray
+players and discs compared to forecasts.
+
+Typically, a lot of companies will wage standards wars to gain a competitive
+advantage in high tech industries. These can end up being "winner take all"
+games due to the high costs of developing products adhering to multiple
+standards.
+
+Tactics that can be useful to create a technology standard include improving the
+set of complementary providers, providing killer apps, licensing the format and
+using pricing tactics like "razor and blades pricing".
+
+Another unique property of technology is the rapid improvement in technology
+that can be achieved over just a few years. Firms can improve technology faster
+than consumers can adjust to and use the improved technology. As a result, firms
+may end up focusing too much on higher end high margin technology and leave the
+low end open to competition. This is a similar argument to Christensen's
+disruptive innovation model. Andy Grove called that lower end market the
+"segment zero".
+
+An example is Microsoft focusing on the operating system for the PC market. The
+lower end OSs like Android and iOS that were originally meant for phones started
+penetrating into tablets and Chromebooks.
+
+Many high tech products exhibit networking effects ie the value of the product
+increases non-linearly as the number of products sold increases. This effect is
+more than just the cost scaling achieved as more products are sold. For
+instance, as more people started using telephones, the value of having a
+telephone increased because you could call more people. This can set up a
+positive feedback loop where value increases leading more people to buy the
+product leading to value increasing further.
+
+Many high tech companies (software, pharmaceuticals) have high fixed costs and
+low marginal costs. Changing from a high marginal cost company to a low marginal
+cost company can increase profitability. Once it's in a low marginal cost
+regime, its strategy should emphasize that structure ie drive down prices to
+increase volume and maintain profitability.
+
+[[file:ENIMAGE1604921976010.jpg]]
+
+[[file:ENIMAGE1604317976619.jpg]]
+
+First movers in an industry can have advantages and disadvantages. As an
+advantage, they can strategically drive down costs quicker or build proprietary
+technology to lock in customers faster. As a disadvantage, they may end up
+spending a lot in marketing to sell the product in a new market. Second entrants
+don't have to bear these costs.
+
+* Globalization
+
+Any firm looking to globalize faces two challenges that are conflicting:
+pressures to reduce cost and pressures to customize for local markets. Even if
+the firm starts with one strategy, it may have to switch in the face of
+competition.
+
+[[file:ENIMAGE1606307303284.jpg]]
+
+* Business units
+
+Business units can choose a strategy of horizontal or vertical integration.
+
+Horizontal integration implies buying other companies that sell similar products
+to yours.
+
+The benefits of horizontal integration include:
+
+- Lower cost structure :: Fixed costs can be spread across more units.
+  For instance, Pfizer acquires smaller pharmaceutical companies to
+  use the sales force more efficiently. Note that this assumes that
+  there is some excess capacity present before that can be
+  exploited. This can be a weak assumption.
+
+- Product differentiation :: You can enrich your portfolio by
+  providing multiple products. Eg Google offering to buy Groupon.
+
+- Leveraging a competitive advantage more broadly eg. Walmart adding Sam's club.
+
+- Reduced competition
+
+- Better bargaining power with suppliers due to scale eg Sprint T-mobile merger.
+
+However, managers tend to overestimate the benefits of a horizontal integration
+and underestimate the costs and risks (new culture, loss of key employees, etc).
+
+Vertical integration means moving into industries that provide you inputs
+(backward vertical) or industries that use your outputs (forward vertical). Eg
+IBM providing technology consulting services is forward vertical integration and
+IBM getting into disk drive manufacturing for their servers is backward
+vertical.
+
+Vertical integration can help, for instance, if you need quality control in your
+inputs that existing suppliers can't deliver. For example, McDonald's bought cow
+farms in Russia to have tighter quality control over its beef. However, there
+can be disadvantages to this approach when the technology is constantly
+changing. For instance, Sony integrated backwards into CRT manufacture for its
+TVs. As a result, though, it was late to capitalize on the shift to plasma TVs.
+
+An alternative to vertical integration that can capture some of the value is
+making strategic alliances. In the car industry, GM is known to do open bids for
+short term contracts with suppliers and award the bid to the lowest cost
+supplier. This can be a good strategy if the technology isn't changing and you
+don't need tight JIT scheduling etc. However, it can fail if the supplier's
+product quality is a competitive advantage because, with short term lowest cost
+bids, the suppliers do not have incentives to put in place quality control
+initiatives, cutting edge research etc.
+
+Strategic alliances, in turn, can induce weakness in a strategic supplier
+because they know that they have captive business. For this reason, usually
+alliance contracts are for 3-5 years and renegotiated after that period. Also,
+companies like Toyota usually have two strategic suppliers for any component.
+This induces market discipline in the suppliers.
+
+Strategic outsourcing has taken over as an option to vertical integration in
+many cases. Firms outsource their non-value added activities to other suppliers
+who specialize in that activity.
+
+Quasi-vertical integration is also practiced where a firm makes cash investments
+in machinery etc and provides it to a supplier in exchange for exclusive rights
+to the manufactured products. Apple is known to use its cash balance in this
+fashion.
+
+* Corporate diversification
+
+Product bundling does not always require diversification. It can be
+achieved through contract agreements eg McDonald's can provide toys to its
+customers by making contract agreements with toy manufacturers. It does not need
+to buy a toy manufacturer.
+
+In one form of related diversification, firms use existing competencies in an
+industry (R&D, marketing etc.) to diversify into other industries where those
+competencies can be used. Another form of related diversification is where a
+corporate function can be utilized eg strategic R&D, organization design,
+organizational strategic planning and thinking etc.
+
+Unrelated diversification is use of capital that a firm has in order to invest
+in an unrelated area. Firms are successful doing this only in countries where
+investment is hard to come by.
+
+A common misconception is that diversification allows a corporation to average
+out performance over different business cycles. In fact, stockholders in the
+company can do that diversification by themselves in a more efficient manner
+than the company can. So, it may be better for the company to pay the profits
+back to its stockholders.
+
+* Corporate governance and ethics
+
+The company has multiple stakeholders. The picture below shows how a firm
+services each stakeholder.
+
+[[file:Corp_governance_1.png]]
+
+Principal/agent problem: The principal (e.g. stockholders) elect an
+agent (e.g.  the CEO) to take actions on their behalf. Since the agent
+is involved in the day-to-day operation, they have more information
+than the principal, leading to an information asymmetry that they can
+take advantage of for selfish reasons. This can continue down the
+chain from CEO to GMs of BUs to managers.
+
+Governance is introduced to mitigate the principal/agent problem. For
+instance, the Board of Directors can play this role. The Board generally
+consists of inside directors such as the CEO and outside directors who are not
+full-time employees.
+
+Another method for governance is to grant stock options at a pre-determined
+strike price.
+
+* The balanced scorecard
+
+The building blocks of competitive advantage are efficiency, quality, customer
+responsiveness, and innovation.
+
+Internal governance can be done through a balanced scorecard that
+covers these building blocks in addition to the lagging indicator of
+financials.
+
+Financial perspective: ROIC, revenue etc.
+
+Customer perspective: quality, time to respond, customer satisfaction/delight
+etc.
+
+Internal perspective: quality, efficiency, employee satisfaction/delight etc.
+
+Innovation/learning: Number of patents, number/percent of new products
+introduced, time to market for new products, etc.
+
+q[[file:Corp_governance_2.png]]
+
+* Good and bad strategy                                              :Review:
 
 There are three main pathways to bad strategy - choosing to do many
-things rather than a few focused things, using lazy templatized
+things rather than a few focused things, using templatized
 mission statements rather than doing the hard work of understanding
 the key problems to solve, and assuming that a positive mindset or
 hard work is enough.
@@ -216,8 +404,8 @@ hard work is enough.
 A strategy consists of three elements - a problem diagnosis, a guiding
 policy, and a set of actions based on the policy.
 
-A diagnosis should replace complex reality with a simpler story that
-shows the crucial aspects of the problem.
+A diagnosis replaces the complex reality with a simpler story about
+the crucial aspects of the problem.
 
 Every organization faces a situation where the full complexity and
 ambiguity of the situation is daunting. An important duty of any
@@ -232,8 +420,7 @@ A strategy is actually a design rather than a decision. It transforms
 goals (which are overall desires) to objectives (which are operational
 targets).
 
+* References
 
-* Remaining sections
-:PROPERTIES:
-:ID:       c1c348b4-b32a-4588-9826-ba6d9851c200
-:END:
+- Hill, Jones, and Schilling, "Strategic Management"
+- Richard Rumelt, "Good strategy, bad strategy"
