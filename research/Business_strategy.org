@@ -1,6 +1,6 @@
 #+NAME: Business strategy
 #+FILETAGS: :Strategy:
-#+STARTUP: overview, inlineimages
+#+STARTUP: content, inlineimages
 
 * Purpose, vision, mission, and strategy                             :Review:
 
@@ -152,8 +152,8 @@ excellence.
 * Business level strategy                                            :Review:
 
 The cost and differentiation axes provide a frontier that industries
-operate at. It is possible to move the frontier out through technology,
-processes etc. Dell did this in the computer industry and
+operate at. It is possible to move the frontier out through
+technology, processes etc. Dell did this in the computer industry and
 Toyota in the automotive industry. This process is called value
 innovation.
 
@@ -244,9 +244,9 @@ cost company can increase profitability. Once it's in a low marginal cost
 regime, its strategy should emphasize that structure ie drive down prices to
 increase volume and maintain profitability.
 
-[[file:ENIMAGE1604921976010.jpg]]
+[[file:Screenshot 2025-11-14 4.jpg]]
 
-[[file:ENIMAGE1604317976619.jpg]]
+[[file:Screenshot 2025-11-14 5.jpg]]
 
 First movers in an industry can have advantages and disadvantages. As an
 advantage, they can strategically drive down costs quicker or build proprietary
@@ -261,7 +261,7 @@ pressures to reduce cost and pressures to customize for local markets. Even if
 the firm starts with one strategy, it may have to switch in the face of
 competition.
 
-[[file:ENIMAGE1606307303284.jpg]]
+[[file:Screenshot 2025-11-14 3.jpg]]
 
 * Business units
 
@@ -355,7 +355,7 @@ back to its stockholders.
 The company has multiple stakeholders. The picture below shows how a firm
 services each stakeholder.
 
-[[file:Corp_governance_1.png]]
+[[file:Screenshot 2025-11-14 1.png]]
 
 Principal/agent problem: The principal (e.g. stockholders) elect an
 agent (e.g.  the CEO) to take actions on their behalf. Since the agent
@@ -391,7 +391,7 @@ Internal perspective: quality, efficiency, employee satisfaction/delight etc.
 Innovation/learning: Number of patents, number/percent of new products
 introduced, time to market for new products, etc.
 
-q[[file:Corp_governance_2.png]]
+q[[file:Screenshot 2025-11-14 2.png]]
 
 * Good and bad strategy                                              :Review:
 
