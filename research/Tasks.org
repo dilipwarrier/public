@@ -104,7 +104,7 @@ and are basically a cost-benefit analysis.
 
 [[id:8f3f8921-b064-48d8-a5e1-1ac27043a733][NPV analysis]] can be done to calculate the cost-benefit tradeoff.
 
-* Eisenhower matrix
+** Eisenhower matrix
    :PROPERTIES:
    :CUSTOM_ID: Eisenhower_matrix
    :END:
@@ -208,12 +208,12 @@ All projects and tasks should have the following properties.
 
 Then, the value from the project (v) is the difference, b - (cc + lc). If the
 duration of the costs or the duration of the benefit is more than 3
-years, you should use an NPV analysis.
+years, you should use the Net Present Value (NPV) for the value v.
 
 By using remaining costs, you avoid the sunk cost fallacy.
 
 If you have many projects to choose from, you should rank them by
-benefit and work on the highest value project first.
+value and work on the highest value project first.
 
 * Task management for teams                               :Review:Management:
 
