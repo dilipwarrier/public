@@ -1,14 +1,14 @@
 #+TITLE: Containers
 #+FILETAGS: :Software:
-#+STARTUP: content, hideallblocks
+#+STARTUP: content, inlineimages
 
 * Containers                                                         :Review:
 :PROPERTIES:
 :ID:       ba0757bb-3fc9-462e-af71-336b3e3c1ad3
 :END:
 
-A container is a standardized unit that packages up your code and
-all its dependencies. Docker is a well-known container runtime
+A container is a standardized unit that packages your code and
+all its dependencies. Docker is a well-known container run-time
 that simplifies the management of the entire stack needed for
 container isolation.
 
@@ -23,15 +23,32 @@ start up very quickly.
 Orchestration tools allow you to start, stop, terminate, and monitor
 container services.
 
-Modern orchestrators are declarative, not
-imperative. For instance, programmers do not state "Start
-a container" in Kubernetes. Instead, they state that "There should be
-3 replicas of service X." The orchestrator runs control loops that
-continuously compare the desired state versus the actual and reconcile
-them.
+For instance, Kubernetes orchestrates the following.
+
+- Container placement :: Deciding which node runs which container
+
+- Scaling :: Automatically adding or removing container replicas
+
+- Load balancing :: Routing traffic to the right containers
+
+- Self-healing :: Restarting failed containers
+
+- Rolling updates :: Updating deployments with zero downtime
+
+- Service discovery :: Giving containers stable network identities
+
+- Configuration and secrets management ::
+
+- Storage provisioning ::
+
+Modern orchestrators are declarative, not imperative. For instance,
+programmers do not state "Start a container" in Kubernetes. Instead,
+they state that "There should be 3 replicas of service X." The
+orchestrator runs control loops that continuously compare the desired
+state versus the actual and reconcile them.
 
 * Services
 
-A container is a runtime unit. On the other hand, a service is a
+A container is a run-time unit. On the other hand, a service is a
 logical grouping of containers to provide some application-level
 functionality e.g. a web front-end service.
