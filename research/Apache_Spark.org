@@ -257,22 +257,6 @@ SCHEDULED: <2025-11-23 Sun>
 :RATIO: 0.40
 :END:
 
-** DONE Fix warning messages at Spark initialization (see below)
-:PROPERTIES:
-:EFFORT:  00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:END:
-
-- State "DONE"       from "TODO"       [2025-11-12 Wed 20:50]
-#+BEGIN_QUOTE
-WARNING: Using incubator modules: jdk.incubator.vector
-Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
-Setting default log level to "WARN".
-To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
-25/11/05 07:58:15 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-#+END_QUOTE
-
 ** Archive                                                          :ARCHIVE:
 *** DONE Get the pyspark cmd to work - may need an installation of Spark
 :PROPERTIES:
@@ -307,6 +291,23 @@ SCHEDULED: <2025-11-04 Tue>
 :LOGBOOK:
 CLOCK: [2025-11-04 Tue 07:53]--[2025-11-04 Tue 08:33] =>  0:40
 :END:
+
+*** DONE Fix warning messages at Spark initialization (see below)
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:ARCHIVE_TIME: 2025-11-16 Sun 09:12
+:END:
+
+- State "DONE"       from "TODO"       [2025-11-12 Wed 20:50]
+#+BEGIN_QUOTE
+WARNING: Using incubator modules: jdk.incubator.vector
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/11/05 07:58:15 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+#+END_QUOTE
 
 * References
 

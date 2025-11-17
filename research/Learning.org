@@ -6,40 +6,67 @@
 
 * Software technologies to learn
 
-** TODO Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]
+** TODO [#E] Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]
+:PROPERTIES:
+:PRIORITY_NUM: 1
+:VALUE:    N/A
+:END:
 
-** TODO Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates  :Software:
+** TODO [#C] Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates :Software:
    :PROPERTIES:
    :EFFORT: 04:00
-   :BENEFIT: 500
+   :BENEFIT:  500
    :RATIO: 1.25
+   :PRIORITY_NUM: 3
+   :VALUE:    100.00
    :END:
 
-** TODO Read about Eclipse ThreadX                                 :Learning:
+** TODO [#E] Read about Eclipse ThreadX                            :Learning:
+:PROPERTIES:
+:PRIORITY_NUM: 1
+:VALUE:    N/A
+:END:
 
-** TODO Read about Rust programming                                :Learning:
+** TODO [#E] Read about Rust programming                           :Learning:
+:PROPERTIES:
+:PRIORITY_NUM: 1
+:VALUE:    N/A
+:END:
 
-** TODO Read about Docker containers
+** TODO [#E] Read about Docker containers
+:PROPERTIES:
+:PRIORITY_NUM: 1
+:VALUE:    N/A
+:END:
 
-** TODO Read about Kubernetes
+** TODO [#E] Read about Kubernetes
+:PROPERTIES:
+:PRIORITY_NUM: 1
+:VALUE:    N/A
+:END:
 
-** TODO Study Apache Superset as a visualization tool              :Learning:
+** TODO [#D] Study Apache Superset as a visualization tool         :Learning:
 :PROPERTIES:
 :EFFORT: 00:15
 :BENEFIT: 10
 :RATIO: 0.40
+:PRIORITY_NUM: 2
+:VALUE:    -15.00
 :END:
 
 * Periodic tasks                                                   :Periodic:
 
-** TODO Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
-   SCHEDULED: <2025-11-16 Sun 06:00 +7d>
+** TODO [#C] Complete [[elisp:(org-agenda t "lt")][weekend learning tasks]]
+   SCHEDULED: <2025-11-23 Sun 06:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-11-09 Sun 11:35]
+   :LAST_REPEAT: [2025-11-16 Sun 15:54]
+   :PRIORITY_NUM: 3
+   :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2025-11-16 Sun 15:54]
    - State "DONE"       from "TODO"       [2025-11-09 Sun 11:35]
    - State "DONE"       from "TODO"       [2025-11-02 Sun 16:11]
    - State "DONE"       from "TODO"       [2025-10-26 Sun 10:25]
@@ -75,13 +102,15 @@
    - State "DONE"       from "TODO"       [2025-05-04 Sun 15:59]
    - State "DONE"       from "TODO"       [2025-04-27 Sun 16:47]
 
-** TODO Review [[elisp:(org-agenda t "lb")][learning backlog]]
+** TODO [#C] Review [[elisp:(org-agenda t "lb")][learning backlog]]
    SCHEDULED: <2025-12-07 Sun 06:00 +28d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
    :LAST_REPEAT: [2025-11-09 Sun 11:35]
+   :PRIORITY_NUM: 3
+   :VALUE:    100.00
    :END:
 
 
@@ -133,21 +162,25 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
    :ARCHIVE_TIME: 2025-11-02 Sun 16:27
    :END:
 
-** TODO Check OpenAI Dev Day summary
+** TODO [#D] Check OpenAI Dev Day summary
    SCHEDULED: <2026-10-10 Sat>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
+   :PRIORITY_NUM: 2
+   :VALUE:    0.00
    :END:
 
-** TODO Copy over notes from [[https://www.evernote.com/client/web#/notebooks][Evernote notebooks]] to Org
+** TODO [#E] Copy over notes from [[https://www.evernote.com/client/web#/notebooks][Evernote notebooks]] to Org
 SCHEDULED: <2025-09-15 Mon +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2025-10-06 Mon 08:14]
    :Effort:   20:00
    :BENEFIT: 10
    :RATIO: 0.40
+   :PRIORITY_NUM: 1
+   :VALUE:    -1990.00
    :END:
    - State "DONE"       from "TODO"       [2025-10-06 Mon 08:14]
    :LOGBOOK:
@@ -161,135 +194,167 @@ SCHEDULED: <2025-09-15 Mon +1d>
    - State "DONE"       from "TODO"       [2025-07-29 Tue 11:25]
    - State "DONE"       from "TODO"       [2025-07-19 Sat 11:15]
 
-** TODO Review Amazon annual shareholder letter
+** TODO [#D] Review Amazon annual shareholder letter
    SCHEDULED: <2026-04-12 Sun +52w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
    :LAST_REPEAT: [2025-04-12 Sat 18:16]
+   :PRIORITY_NUM: 2
+   :VALUE:    -15.00
    :END:
 
 
    - State "DONE"       from "TODO"       [2025-04-12 Sat 18:16]
    - State "DONE"       from "TODO"       [2024-04-20 Sat 13:38]
 
-** TODO Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] and update [[id:1f2c0984-0b3d-49f9-804b-35d5df1e011f][EV market trends]]
+** TODO [#D] Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] and update [[id:1f2c0984-0b3d-49f9-804b-35d5df1e011f][EV market trends]]
 SCHEDULED: <2026-05-31 Sun +52w>
 :PROPERTIES:
 :EFFORT:  01:00
 :BENEFIT: 10
 :RATIO: 0.40
 :LAST_REPEAT: [2025-06-29 Sun 06:57]
+:PRIORITY_NUM: 2
+:VALUE:    -90.00
 :END:
 - State "DONE"       from "TODO"       [2025-06-29 Sun 06:57]
 :LOGBOOK:
 CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
 :END:
 
-** TODO Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
+** TODO [#D] Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
   :PROPERTIES:
   :EFFORT: 00:15
   :BENEFIT: 10
   :RATIO: 0.40
+  :PRIORITY_NUM: 2
+  :VALUE:    -15.00
   :END:
 
-** TODO Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]]
+** TODO [#D] Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
+   :PRIORITY_NUM: 2
+   :VALUE:    -15.00
    :END:
 
-** TODO Find a book on cleaning the house 5S, Marie Kondo, etc
+** TODO [#D] Find a book on cleaning the house 5S, Marie Kondo, etc
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
+   :PRIORITY_NUM: 2
+   :VALUE:    0.00
    :END:
 
-** TODO Read about process flow and flow chart drawing conventions
+** TODO [#D] Read about process flow and flow chart drawing conventions
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
+   :PRIORITY_NUM: 2
+   :VALUE:    0.00
    :END:
 
-** TODO Read [[https://drive.google.com/file/d/1ojOT-hP7nFUTNCUCGk_AKMN45E547Tvd/view?usp=drive_link][capitalism is better than donation for global poverty]]
+** TODO [#D] Read [[https://drive.google.com/file/d/1ojOT-hP7nFUTNCUCGk_AKMN45E547Tvd/view?usp=drive_link][capitalism is better than donation for global poverty]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
+   :PRIORITY_NUM: 2
+   :VALUE:    0.00
    :END:
 
-** TODO Read CMMI book
+** TODO [#D] Read CMMI book
   :PROPERTIES:
   :EFFORT: 06:00
   :BENEFIT: 600
   :RATIO: 1.00
+  :PRIORITY_NUM: 2
+  :VALUE:    0.00
   :END:
   :LOGBOOK:
   CLOCK: [2025-01-12 Sun 10:40]--[2025-01-12 Sun 11:40] =>  1:00
   :END:
 
-** TODO Save [[https://seths.blog/2005/03/dont_shave_that/][Don't shave that yak]] article
+** TODO [#D] Save [[https://seths.blog/2005/03/dont_shave_that/][Don't shave that yak]] article
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
+   :PRIORITY_NUM: 2
+   :VALUE:    0.00
    :END:
 
-** TODO Review [[https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/][good forecasting practices]]                          :Learning:
+** TODO [#D] Review [[https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/][good forecasting practices]] :Learning:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
+   :PRIORITY_NUM: 2
+   :VALUE:    -15.00
    :END:
 
-** TODO Take the Superforecasting [[https://good-judgment.thinkific.com/courses/Superforecasting-Fundamentals][Good Judgement training]]
+** TODO [#D] Take the Superforecasting [[https://good-judgment.thinkific.com/courses/Superforecasting-Fundamentals][Good Judgement training]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
+   :PRIORITY_NUM: 2
+   :VALUE:    0.00
    :END:
 
-** TODO Read about the [[https://c4model.com/][C4 architecture method]]
+** TODO [#D] Read about the [[https://c4model.com/][C4 architecture method]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
+   :PRIORITY_NUM: 2
+   :VALUE:    0.00
    :END:
 
-** TODO Read [[https://joincolossus.com/article/ai-will-not-make-you-rich/][who will benefit from AI]]
+** TODO [#D] Read [[https://joincolossus.com/article/ai-will-not-make-you-rich/][who will benefit from AI]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
+   :PRIORITY_NUM: 2
+   :VALUE:    0.00
    :END:
 
 
-** TODO Read [[https://www.wsj.com/economy/a-guaranteed-income-wont-stop-people-from-wanting-to-work-03c4ab31?st=yeDmB6][A guaranteed income won't stop people from wanting to work]] :Learning:
+** TODO [#D] Read [[https://www.wsj.com/economy/a-guaranteed-income-wont-stop-people-from-wanting-to-work-03c4ab31?st=yeDmB6][A guaranteed income won't stop people from wanting to work]] :Learning:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
+   :PRIORITY_NUM: 2
+   :VALUE:    -15.00
    :END:
 
-** TODO Review [[https://rodneybrooks.com/blog/][Rodney Brooks blog]]
+** TODO [#D] Review [[https://rodneybrooks.com/blog/][Rodney Brooks blog]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
+   :PRIORITY_NUM: 2
+   :VALUE:    0.00
    :END:
 
 
-** TODO Review Andrew Ng course on Agentic AI
+** TODO [#D] Review Andrew Ng course on Agentic AI
    SCHEDULED: <2025-11-07 Fri +2d>
    :PROPERTIES:
    :EFFORT: 10:00
    :BENEFIT: 1000
    :RATIO: 1.00
    :LAST_REPEAT: [2025-11-05 Wed 16:44]
+   :PRIORITY_NUM: 2
+   :VALUE:    0.00
    :END:
    - State "DONE"       from "TODO"       [2025-11-05 Wed 16:44]
    :LOGBOOK:
