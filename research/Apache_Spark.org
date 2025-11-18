@@ -1,4 +1,4 @@
-#+TITLE: Apache Spark and Pandas
+#+TITLE: Data Analytics using Apache Spark and Pandas
 #+FILETAGS: :Software:Data:Analytics:
 #+STARTUP: contents, hideallblocks
 
@@ -134,6 +134,11 @@ column names. This is the DataFrame equivalent of an SQL query.
   # This is equivalent to the following command in SQL
   # SELECT DEST_COUNTRY_NAME from df LIMIT 5
 
+  # You can also run direct SQL queries by converting df1_spark into
+  # a local SQL table using createOrReplaceTempView()
+  df1_spark.createOrReplaceTempView("df1_spark")
+  spark.sql("SELECT DEST_COUNTRY_NAME from df1_spark LIMIT 5").show()
+
   df1_pd.DEST_COUNTRY_NAME[0:4]
 #+END_SRC
 
@@ -181,13 +186,43 @@ the agg() method is a DataFrame.
 
 #+BEGIN_SRC python
   df2_group = df2_spark.groupBy("InvoiceNo")
-  df2_group.agg(sqlf.count("Quantity")).show()
+  df2_group.agg(sqlf.count("Quantity")).sort("InvoiceNo").show()
+
+  df2_pd.groupby("InvoiceNo").Quantity.count()
 #+END_SRC
 
 Spark also provides the ability to aggregate with a
 tolerance for error. This can be useful to speed up computations.
 
-* Comparisons with other data analytics packages
+* Joins
+
+Joins allow you to combine dataframes. Inner joins keep rows with keys
+that exist in both the left and right dataframes. Outer joins keep rows
+with keys that exist in either.
+
+#+BEGIN_SRC python
+  d1 = {"Person": ["John", "Myla", "Lewis"],
+        "Age": [24, 22, 21],
+        "Single": [False, True, True]}
+
+  d2 = {"Age": [21, 22, 24],
+        "Group": ["Z", "B", "C"]}
+
+  d1_pd = pd.DataFrame(d1)
+  d2_pd = pd.DataFrame(d2)
+
+  d1_spark = spark.createDataFrame(d1_pd)
+  d2_spark = spark.createDataFrame(d2_pd)
+
+  # Join the data frames in Pandas using Age
+  d1_pd.set_index('Age').\
+      join(d2_pd.set_index('Age'), how = "inner")
+
+  # Join the data frames in Spark using Age
+  d1_spark.join(d2_spark, d1_spark["Age"] == d2_spark["Age"], "inner").show()
+#+END_SRC
+
+* Comparison among data analytics packages
 
 ** Spark vs Pandas
 
@@ -215,16 +250,24 @@ the numeric data efficiently.
 
 Under the hood, Pandas uses NumPy arrays.
 
+* References
+
+- Bill Chambers and Matei Zaharia, Spark: The Definitive Guide
+- [[https://github.com/databricks/Spark-The-Definitive-Guide][GitHub code for the Spark book]]
+- [[https://spark.apache.org/docs/latest/api/python/user_guide/][PySpark User Guide]]
+- [[https://pandas.pydata.org/docs/reference/index.html][Pandas API reference]]
+
 * Tasks
 
-** TODO Read Apache Spark book (130/500) (~500 pages at 10 pages/hour) :Career:
-SCHEDULED: <2025-11-13 Thu +1d>
+** TODO Read Apache Spark book (152/500) (~500 pages at 10 pages/hour) :Career:
+SCHEDULED: <2025-11-18 Tue +1d>
 :PROPERTIES:
 :EFFORT:  50:00
 :BENEFIT: 2000
 :RATIO: 0.40
-:LAST_REPEAT: [2025-11-12 Wed 07:53]
+:LAST_REPEAT: [2025-11-17 Mon 08:23]
 :END:
+- State "DONE"       from "TODO"       [2025-11-17 Mon 08:23]
 - State "DONE"       from "TODO"       [2025-11-12 Wed 07:53]
 - State "DONE"       from "TODO"       [2025-11-11 Tue 07:59]
 - State "DONE"       from "TODO"       [2025-11-07 Fri 16:33]
@@ -238,6 +281,7 @@ SCHEDULED: <2025-11-13 Thu +1d>
 - State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
 - State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
 :LOGBOOK:
+CLOCK: [2025-11-17 Mon 06:33]--[2025-11-17 Mon 08:23] =>  1:50
 CLOCK: [2025-11-12 Wed 06:24]--[2025-11-12 Wed 07:48] =>  1:24
 CLOCK: [2025-11-11 Tue 06:29]--[2025-11-11 Tue 07:59] =>  1:30
 CLOCK: [2025-11-07 Fri 06:36]--[2025-11-07 Fri 09:01] =>  2:25
@@ -308,9 +352,3 @@ Setting default log level to "WARN".
 To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
 25/11/05 07:58:15 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
 #+END_QUOTE
-
-* References
-
-- Bill Chambers and Matei Zaharia, Spark: The Definitive Guide
-- [[https://github.com/databricks/Spark-The-Definitive-Guide][GitHub code for the book]]
-- [[https://spark.apache.org/docs/latest/api/python/user_guide/][PySpark User Guide]]
