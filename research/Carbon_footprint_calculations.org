@@ -109,9 +109,11 @@ appropriate metric to use.
 * Tasks
 
 
-** TODO Calculate the carbon and water footprint for my house      :Learning:
+** TODO [#E] Calculate the carbon and water footprint for my house :Learning:
 :PROPERTIES:
 :EFFORT:  01:00
 :BENEFIT: 40
 :RATIO: 0.40
+:VALUE:    -60.00
+:PRIORITY_NUM: 1
 :END:

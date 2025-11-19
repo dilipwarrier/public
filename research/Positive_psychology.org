@@ -120,6 +120,29 @@ long-term.
 | FERGAP           | CSLGEH              |
 |------------------+---------------------|
 
+Marcus Aurelius suggests in "Meditations" that strengthening the
+values on the right may be the true path to happiness. These values
+are entirely in our character and, hence, entirely within our
+control. Everything else - health, wealth, etc - are not
+within our control.
+
+*** Regret to Learning
+
+Annie Duke in "Thinking in Bets" reminds us that, just because the
+outcome of a decision turned out poorly, it does not follow that the
+decision choice was poor. In fact, it may have been your best choice a
+priori. Learn to make that distinction. True learning is when you
+learn how to make better decisions based on a priori knowledge. Regret
+is when you rue a decision based on an unfavorable outcome.
+
+*** Pride to Humility
+
+There are people in the world who are doing greater and better things
+than you are. So, you can strive to be humble about whatever you have
+accomplished. At the same time, if you do not commit unethical or
+illegal acts and if you have helped others, you can be justifiably
+proud of such actions.
+
 ** Life Satisfaction
 :PROPERTIES:
 :ID:       3884f562-7a2e-4e3a-893e-20e9791ca16f
@@ -148,7 +171,7 @@ goal has to be challenging but achievable and they should get regular
 feedback. This allows them to achieve a state of flow. However, even
 though they think there is pleasure to be gained on achieving a goal,
 they do not actually gain such pleasure. Eg. winning a lottery,
-getting your ideal job etc. This is analogous to the movie "Memento"
+getting your ideal job, etc. This is analogous to the movie "Memento"
 where the protagonist continually sets new goals to challenge himself.
 
 A third factor that influences the LS of most people is
@@ -177,6 +200,7 @@ making the outside world conform to your wishes. Modern positive
 psychology agrees.
 
 All of this is nicely captured in this cartoon.
+
 [[file:Screenshot 2025-10-16 205315.png]]
 
 * A Buddhist take on happiness                                       :Review:

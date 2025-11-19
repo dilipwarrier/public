@@ -167,17 +167,21 @@ that with average [[id:d51a7c0d-0649-40cf-b9fb-29e759f4ea6a][US household energy
 * Tasks
 
 
-** TODO Review [[https://drive.google.com/file/d/1ceLnnTtiKzzoe7lxHt6FAlPQeH7i0Y1i/view?usp=drive_link][IEA Energy and AI report]]                            :Learning:
+** TODO [#E] Review [[https://drive.google.com/file/d/1ceLnnTtiKzzoe7lxHt6FAlPQeH7i0Y1i/view?usp=drive_link][IEA Energy and AI report]] :Learning:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
+   :VALUE:    0.00
+   :PRIORITY_NUM: 1
    :END:
 
 
-** TODO Review [[https://www.datacenterknowledge.com/][Data Center Knowledge]] web site                      :Learning:
+** TODO [#E] Review [[https://www.datacenterknowledge.com/][Data Center Knowledge]] web site :Learning:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
    :RATIO: 1.00
+   :VALUE:    0.00
+   :PRIORITY_NUM: 1
    :END:

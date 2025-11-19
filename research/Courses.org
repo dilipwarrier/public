@@ -14,11 +14,13 @@
    :END:
 
 
-** TODO Complete Barbara Oakley learning to learn on Coursera and [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][update notes]]
+** TODO [#E] Complete Barbara Oakley learning to learn on Coursera and [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][update notes]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
+   :VALUE:    -15.00
+   :PRIORITY_NUM: 1
    :END:
 
 
