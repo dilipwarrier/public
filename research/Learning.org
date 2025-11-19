@@ -12,12 +12,12 @@
 :VALUE:    N/A
 :END:
 
-** TODO [#C] Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates :Software:
+** TODO [#A] Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates :Software:
    :PROPERTIES:
    :EFFORT: 04:00
    :BENEFIT:  500
    :RATIO: 1.25
-   :PRIORITY_NUM: 3
+   :PRIORITY_NUM: 5
    :VALUE:    100.00
    :END:
 
@@ -161,6 +161,13 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
    :RATIO: 1.00
    :ARCHIVE_TIME: 2025-11-02 Sun 16:27
    :END:
+
+** TODO Read [[https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/][Measuring developer productivity with DX Core 4]]       :Learning:
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
 
 ** TODO [#D] Check OpenAI Dev Day summary
    SCHEDULED: <2026-10-10 Sat>

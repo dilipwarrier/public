@@ -260,7 +260,7 @@ Under the hood, Pandas uses NumPy arrays.
 * Tasks
 
 ** TODO Read Apache Spark book (152/500) (~500 pages at 10 pages/hour) :Career:
-SCHEDULED: <2025-11-18 Tue +1d>
+SCHEDULED: <2025-11-19 Wed +1d>
 :PROPERTIES:
 :EFFORT:  50:00
 :BENEFIT: 2000
