@@ -52,14 +52,48 @@ Their product is the Integrity OS.
 
 Their flagship product is the Qt cross-platform UI framework.
 
-In Oct 2025, Qt announced the purchase of IAR compiler systems for
-cash.
+In Oct 2025, Qt acquired IAR compiler systems for cash.
 
 In Sep 2025, Qt signed a deal with Suzuki which would use the Qt
 framework on top of AGL to build the UI for its e-Vitara BEV.
 
 In May 2025, Qt announced an intention to become a tech-agnostic
-platform and move away from only supporting C/C++.
+platform and move away from only supporting C/C++. On the back-end,
+they will support Java, Kotlin, and Rust. Further, they will support a
+Figma to Qt plug-in to allow designers to convert design into code.
+
+In 2022, Qt acquired Axivion for static analysis and architecture
+analysis. Axivion was headquartered in Stuttgart with roughly 30
+employees.
+
+In 2021, Qt acquired Froglogic for test automation.
+
+Formerly, Trolltech, then Nokia, then Digia, then Qt group.
+
+*** My experience with Qt installation
+
+There were many steps involved to get to the download - harder than most OSS package
+installations. Download took about 2-3 minutes.
+
+*** Stock
+
+Stock: QTCOM listed in NASDAQ Finland.
+
+Stock is at 40 EUR in Oct 2025 down from 68 EUR at the beginning
+of 2025 and down from a 5-year high of 160 EUR in Sep 2021.
+
+Guidance is 30-40% EBITA in 2025.
+
+2024 net revenue was 210M EUR with an EBITA of 71M EUR (34%).
+
+*** People
+
+The CEO Juha Varelius has been with the companies leading up to Qt group
+for a long time.
+
+About 900 employees, up from 700 2 years ago.
+
+Daniel Kim from Bose Seoul works here now.
 
 ** Tasking
 

@@ -1,39 +1,39 @@
 #+Title: Meditation and its effects
-#+FILETAGS: :Meditation:Learning:
+#+FILETAGS: :Meditation:Brain:
 
 ** My meditation practices
 
-   I follow these themes largely derived from "Why Meditate?" by Matthieu Ricard.
+I follow these themes largely derived from "Why Meditate?" by Matthieu Ricard.
 
-   - Empathy with someone you hate :: Think about a person you have a
-     difference of opinion with or a strong dislike for. Think about
-     that person's spouse, parents, siblings, children and friends who
-     care about them. Imagine those people and feel
-     their love and kindness for that person.
-   - The grandness of the universe :: Think about the entire universe
-     as a system with stocks, flows, reinforcing and balancing loops
-     and delays. Think of each of us as participants in that system
-     along with our mental models, our ways of thinking as resulting
-     from interactions within that system.
-   - Tag a negative emotion :: When you feel a negative emotion, enter
-     a micro-meditation. Tag the negative emotion, dwell on
-     it. Consider it from all angles. Think about what would happen if
-     your negative emotion were to come to full fruition e.g. if you
-     got what you so ardently desired. Would you be genuinely happy or
-     would you just get used to it?
+- Empathy with someone you hate :: Think about a person you have a
+  difference of opinion with or a strong dislike for. Think about
+  that person's spouse, parents, siblings, children and friends who
+  care about them. Imagine those people and feel
+  their love and kindness for that person.
+
+- The grandness of the universe :: Think about the entire universe
+  as a system with stocks, flows, reinforcing and balancing loops
+  and delays. Think of each of us as participants in that system
+  along with our mental models, our ways of thinking as resulting
+  from interactions within that system.
+
+- Tag a negative emotion :: When you feel a negative emotion, enter
+  a micro-meditation. Tag the negative emotion, dwell on
+  it. Consider it from all angles. Think about what would happen if
+  your negative emotion were to come to full fruition e.g. if you
+  got what you so ardently desired. Would you be genuinely happy or
+  would you just get used to it?
 
 ** Scientific evidence
 
-   From [[https://en.wikipedia.org/wiki/Positive_psychology][Wikipedia]]:
+Josefsson, Larsman, Broberg, and Lundh found that individuals who
+mindfully meditate improve their subjective well-being. The
+researchers note that  being mindful in meditation includes
+awareness and observation of one's meditation practice, with
+non-reaction and non-judgmental sentiments during meditation.
 
-   In a Mindfulness article published in 2011 by Torbjörn Josefsson,
-   Pernilla Larsman, Anders G. Broberg, and Lars-Gunnar Lundh, it was
-   found that meditation improves subjective well-being for
-   individuals who mindfully meditate. The researchers note that
-   being mindful in meditation includes awareness and observation of
-   one's meditation practice, with non-reaction and non-judgmental
-   sentiments during meditation.
+Reference: [[https://en.wikipedia.org/wiki/Positive_psychology][Wikipedia]]
 
 ** Contrarian views
 
-   [[http://dx.doi.org/10.1371/journal.pone.0216643][This study]] found potential ill-effects from meditation.
+[[http://dx.doi.org/10.1371/journal.pone.0216643][This study]] found potential ill-effects from meditation.
