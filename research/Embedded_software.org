@@ -70,10 +70,12 @@ In 2021, Qt acquired Froglogic for test automation.
 
 Formerly, Trolltech, then Nokia, then Digia, then Qt group.
 
-*** My experience with Qt installation
+*** My experience with Qt development
 
 There were many steps involved to get to the download - harder than most OSS package
 installations. Download took about 2-3 minutes.
+
+[[https://academy.qt.io/enrollments/296716884/details][Qt training]]
 
 *** Stock
 
