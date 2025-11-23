@@ -1,21 +1,6 @@
-#+TITLE: Software company news and analysis
+#+TITLE: Software industry news and analysis
 #+FILETAGS: :SoftwareIndustry:
 #+STARTUP: overview, hideallblocks
-
-* Atlassian products                                                 :Review:
-:PROPERTIES:
-:CUSTOM_ID: Atlassian_products
-:END:
-
-** Jira Align
-
-From the [[https://www.atlassian.com/software/jira/align][Jira Align]] web site, it allows tracking OKRs across the
-company and is a great way of creating and monitoring org-wide goals
-and objectives. However, they suggest that Jira Align is a product for an
-org of 500+ people. They also suggest that [[https://www.atlassian.com/software/jira/pricing][Jira Premium]] can be used
-for smaller organizations.
-
-See also [[id:aa3bd004-c924-46e4-939b-6820d173cde7][Measuring developer productivity]].
 
 * 2023 layoffs in software companies                                 :Review:
 

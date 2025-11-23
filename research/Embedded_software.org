@@ -97,7 +97,242 @@ About 900 employees, up from 700 2 years ago.
 
 Daniel Kim from Bose Seoul works here now.
 
-** Tasking
+*** Business briefing
+
+This document is the complete 5-page strategic briefing for the CTO role at
+Qt Group. It reflects the outward-facing, visionary, ecosystem-oriented nature
+of the role and incorporates the 2025 press release describing Qt's shift from
+a C++-centric framework to a technology-agnostic, multi-language platform.
+
+The CTO role is not about execution management. It is about vision-setting,
+external influence, ecosystem leadership, and internal mentorship.
+
+**** Executive Summary
+
+Qt Group Plc is a global software platform company headquartered in Espoo,
+Finland. Qt provides the Qt Framework and related tools used to build
+cross-platform applications and embedded systems from a single codebase.
+
+Qt serves 1.5M+ developers in >70 industries, including automotive,
+medical devices, industrial automation, robotics, consumer electronics, and
+desktop productivity applications.
+
+Qt generated approx 209M EUR revenue in 2024 with strong EBIT margins
+(approx 30 percent). The company is currently undergoing a strategic shift
+toward cloud-enabled workflows, subscription revenue, AI-driven tooling,
+developer experience innovation, and expanded toolchain consolidation after
+acquiring IAR Systems.
+
+In May 2025, Qt publicly announced a move away from being "C++-centric" toward
+a "technology-agnostic Qt ecosystem" with support for Rust, Java, Kotlin,
+Swift, Python, .NET, and more. This represents a major expansion of Qt's
+addressable developer base and a significant strategic inflection point.
+
+The CTO role is outward-facing: representing Qt globally, analyzing trends,
+championing the platform vision, guiding long-term direction, and mentoring
+internal engineering leaders through influence.
+
+**** Company Overview
+
+Qt began as Trolltech (Norway, 1994), was acquired by Nokia, transitioned to
+Digia, and was spun out and listed as Qt Group Plc in 2016. This history has
+given Qt a rare combination of embedded-system maturity, UI excellence, and
+cross-platform engineering depth.
+
+Qt generates revenue from:
+- Commercial developer licenses
+- Embedded device distribution licenses
+- Long-term support (LTS) contracts
+- Consulting and support services
+- Quality assurance tooling from Axivion and Froglogic
+- Compiler and toolchain products from IAR Systems
+- Emerging SaaS and subscription cloud products
+
+Qt is transitioning toward recurring revenue and integrated cloud workflows.
+
+Qt supports:
+- Desktop (Windows, Linux, macOS)
+- Mobile (iOS, Android)
+- Embedded Linux (Yocto, Buildroot)
+- RTOS environments (QNX, VxWorks, FreeRTOS)
+- Automotive IVI and digital cockpit systems
+- Industrial HMIs and medtech UI systems
+- Simulation and digital twin tools
+
+Qt is one of few frameworks able to scale from MCU-level embedded devices to
+full desktop applications.
+
+**** Strategic Industry Trends Impacting Qt
+
+In May 2025, Qt announced a technology-agnostic strategy allowing developers
+to work in Rust, Kotlin, Java, Swift, Python, .NET, and more via bridging
+technology. This signals Qt’s evolution from a C++-centric library to a
+universal, multi-language UI and application engine.
+
+This change makes Qt relevant to:
+- Mobile-first developers (Kotlin/Java/Swift)
+- Systems programmers (Rust)
+- Scripting and automation developers (Python)
+- Enterprise and backend developers (.NET)
+
+This is one of the most significant expansions of Qt's addressable market.
+
+AI is reshaping development lifecycles:
+- AI code generation for C++ and embedded targets
+- AI-driven UI design
+- Automated test creation
+- AI-enhanced profiling and static analysis
+- Predictive debugging and defect classification
+
+Qt must articulate an AI strategy aligned with embedded constraints and cloud
+augmentation.
+
+Virtually every physical product now needs:
+- A display
+- Connectivity
+- OTA updates
+- Local compute
+- Strong security
+
+Qt’s depth in embedded and low-power environments positions it for expansion.
+
+Automotive OEMs are consolidating displays and IVI systems. Qt is used in many
+OEMs and suppliers. Automotive demands:
+- Deterministic rendering
+- Low-latency performance
+- Certification-ready code
+- Long-term support (10-15 years)
+
+Qt’s combination of GUI engine + QA tools + static analysis is valuable here.
+
+Qt is moving toward SaaS, cloud-based development workflows, telemetry, and
+subscription licensing. This requires:
+- Cloud-native services
+- Usage tracking
+- Developer portals
+- Security and multi-tenant design
+
+**** Strategic Drivers and Risks
+
+- Expansion into multi-language ecosystems (Rust, Kotlin, Java, Swift, Python)
+- Automotive digital cockpit growth
+- Industrial HMI modernization
+- Medtech device UI evolution
+- AI-assisted workflows
+- End-to-end toolchain consolidation with Axivion, Froglogic, IAR
+- Cloud-enabled collaboration and development
+
+- Competition from Flutter, React Native, and WASM environments
+- Fragmentation of the open-source landscape
+- Potential loss of relevance if the developer community shifts away from C++
+  and Qt fails to adopt multi-language support quickly
+- Hardware shifts such as RISC-V, custom SoCs
+- Increasing expectations for AI-native tooling
+
+**** Differentiation Through Acquisitions
+
+Qt’s acquisitions create an end-to-end embedded development platform.
+
+Axivion Suite provides:
+- Static code analysis for C, C++, C#, CUDA
+- MISRA, AUTOSAR, CERT, CWE checks
+- Architecture verification
+- Dead code and cycle detection
+- Technical debt management
+- CI/CD integration
+- Safety certifications (ISO 26262 ASIL D, IEC 61508 SIL 4, IEC 62304)
+
+This allows Qt to offer a safety-oriented pipeline unmatched by UI-only tools.
+
+Squish GUI Tester
+- Automated cross-platform GUI testing
+- Supports Qt, web, Java, .NET, mobile, embedded
+- Object-based recognition for stability
+- Python and JavaScript scripting
+- Deep Qt Creator integration
+
+Test Center
+- Aggregates results, coverage, requirements mapping
+- Central dashboard for QA analytics
+- Supports regulated industries
+
+Squish + Test Center let Qt own the GUI quality lifecycle.
+
+IAR provides:
+- High-performance compilers for 20+ MCU architectures
+- Debugger (C-SPY)
+- Static analysis (C-STAT)
+- Runtime checks (C-RUN)
+- Safety-certified toolchains
+
+Qt + Axivion + Froglogic + IAR is the only platform offering:
+
+Compiler -> Static Analysis -> Runtime Checks -> GUI Testing -> App Framework
+
+This is a major competitive moat for embedded industries.
+
+**** Competitive Landscape and Positioning
+
+vs Flutter and React Native
+Strengths of competitors:
+- Fast developer iteration
+- Large communities
+
+Qt Differentiation:
+- Embedded performance and determinism
+- Safety certifications
+- Multi-language bridges (Rust, Java, Kotlin, Python, Swift)
+- End-to-end QA and static analysis
+- Larger platform scope (beyond mobile apps)
+
+vs Altia and Crank Storyboard
+These tools excel at pure HMI workflows.
+
+Qt Differentiation:
+- Full application framework, not just HMI
+- Broader ecosystem
+- Integrated compiler, QA, testing, static analysis
+- Multi-domain use (industrial, medtech, robotics)
+
+vs Unity
+Unity excels at 3D and game workflows.
+
+Qt Differentiation:
+- Predictable performance
+- Embedded friendliness
+- Safety and certification workflows
+- Long-term lifecycle, low overhead
+
+**** Technology-Agnostic Future
+
+The 2025 press release marks a strategic turning point.
+
+Qt is now positioning itself as:
+- A universal UI and application engine
+- Language-independent
+- Able to integrate with Rust, Python, Java, Kotlin, Swift, .NET
+- A bridge between modern cloud/mobile languages and embedded devices
+- An ecosystem that spans hardware from MCUs to desktops
+
+This is a transformative narrative the CTO must communicate globally.
+
+**** Summary
+
+Qt is evolving from a C++ framework into a multi-language development
+ecosystem. With integrated toolchains (IAR), QA tools (Froglogic), and static
+analysis (Axivion), Qt now spans the complete embedded lifecycle.
+
+The CTO’s mission:
+- Interpret and communicate global tech trends
+- Represent Qt to the world
+- Guide long-term strategic direction
+- Mentor engineering leadership
+- Shape Qt’s public identity as a technology-agnostic, AI-enabled platform
+- Build trust with automotive, industrial, medtech, and embedded customers
+
+Qt needs a visionary leader who can champion this transformation.
+
+*** Tasking
 
 Lizz Germaine works here, as of 2025.
 

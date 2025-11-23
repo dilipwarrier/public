@@ -411,3 +411,10 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
    :LOGBOOK:
    CLOCK: [2025-11-05 Wed 16:03]--[2025-11-05 Wed 16:43] =>  0:40
    :END:
+
+** TODO Subscribe to eclipse threadx and freertos newsletters         :Learning:
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:

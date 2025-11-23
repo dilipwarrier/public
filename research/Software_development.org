@@ -8,29 +8,72 @@
 
 They govern Firefox and Thunderbird development.
 
-** Cloud-Native Computing Foundation
-
 ** Apache Foundation
 
-They govern Apache Spark and Apache Kafka, among other projects.
+They govern Apache Spark and Apache Kafka, among other projects. Their
+focus is usually on data processing and analytics.
 
 ** Eclipse Foundation
 :PROPERTIES:
 :ID:       30978d6c-a649-4c4e-a4c1-3a124ca965e0
 :END:
 
-They govern Ecllipse ThreadX, the RTOS, and the Eclipse IDE, among
+They govern Ecllipse ThreadX, the RTOS, and the [[id:c1eb170e-2302-42ee-81fb-dadecba14839][Eclipse IDE]], among
 other projects.
 
 See also [[id:59b8b305-3e77-403e-99d1-51d6eb2f4297][Eclipse ThreadX]].
+
+** Free Software Foundation
+
+GNU, Emacs, etc.
+
+** Cloud-Native Computing Foundation
 
 ** Linux Foundation
 
 ** Python Software Foundation
 
-** Free Software Foundation
+* IDEs
 
-GNU, Emacs, etc.
+** Eclipse Theia
+:PROPERTIES:
+:ID:       c1eb170e-2302-42ee-81fb-dadecba14839
+:END:
+
+Download Theia [[https://theia-ide.org/][here]]. Theia is meant to be a modern version of the
+Eclipse CDT that is Typescript-based. The Eclipse CDT-based IDE seems
+old due to its reliance on Java.
+
+Theia is compatible with OpenVS, the
+underlying open-source foundation for VS Code. So, extensions built
+for VS Code can be used in Theia also.
+
+The older Eclipse CDT is extensively used by chip providers like ADI, TI,
+etc. to integrate into their developer toolkits.
+
+** Qt Creator
+
+Qt Creator was originally meant to be an IDE specifically for C/C++ and QML. QML
+is a markup language for UI creation.
+
+Typically, such UIs are created for devices with more mature OSs like
+embedded Linux or QNX compared to Eclipse CDT which can be used with
+less featured OSs.
+
+* Atlassian                                                          :Review:
+:PROPERTIES:
+:CUSTOM_ID: Atlassian_products
+:END:
+
+** Jira Align
+
+From the [[https://www.atlassian.com/software/jira/align][Jira Align]] web site, it allows tracking OKRs across the
+company and is a great way of creating and monitoring org-wide goals
+and objectives. However, they suggest that Jira Align is a product for an
+org of 500+ people. They also suggest that [[https://www.atlassian.com/software/jira/pricing][Jira Premium]] can be used
+for smaller organizations.
+
+See also [[id:aa3bd004-c924-46e4-939b-6820d173cde7][Measuring developer productivity]].
 
 * Optimization
 
