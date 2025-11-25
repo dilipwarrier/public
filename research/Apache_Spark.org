@@ -259,14 +259,6 @@ Under the hood, Pandas uses NumPy arrays.
 
 * Tasks
 
-** TODO Remove C:/MSys2/tmp/Spark installation and delete [[id:8f83b767-d1ad-4494-a08c-262b2911b798][doc section]] if everything is working smoothly
-SCHEDULED: <2025-11-23 Sun>
-:PROPERTIES:
-:EFFORT:  00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:END:
-
 ** Archive                                                          :ARCHIVE:
 *** DONE Get the pyspark cmd to work - may need an installation of Spark
 :PROPERTIES:
@@ -318,3 +310,13 @@ Setting default log level to "WARN".
 To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
 25/11/05 07:58:15 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
 #+END_QUOTE
+*** DONE Remove C:/MSys2/tmp/Spark installation and delete [[id:8f83b767-d1ad-4494-a08c-262b2911b798][doc section]] if everything is working smoothly
+SCHEDULED: <2025-11-23 Sun>
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:ARCHIVE_TIME: 2025-11-24 Mon 13:56
+:END:
+
+- State "DONE"       from "TODO"       [2025-11-24 Mon 13:56]

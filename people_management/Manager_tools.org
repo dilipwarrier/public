@@ -101,99 +101,101 @@ with face-to-face Zoom calls as opposed to phone calls.
 
 *** Delegation
 
-     Assume a box with 20 gray balls.  It represents your ability to be
-     productive at work and is inflexible.  It represents 60 hours of
-     potential work a week.
+Assume a box with 20 gray balls.  It represents your ability to be
+productive at work and is inflexible.  It represents 60 hours of
+potential work a week.
 
-     There is white space in the box around the balls and this is
-     normal (time for lunch, breaks etc.)
+There is white space in the box around the balls and this is
+normal (time for lunch, breaks etc.)
 
-     5 of the balls are big and 15 are small. Assume here that the big
-     balls are the more important things (this is usually not true;
-     people do the things they like and not the things they should do).
+5 of the balls are big and 15 are small. Assume here that the big
+balls are the more important things (this is usually not true;
+people do the things they like and not the things they should do).
 
-     Small balls are not trivial (For example, submitting an expense
-     report is a trivial task).
+Small balls are not trivial (For example, submitting an expense
+report is a trivial task).
 
-     Assume that 5 small balls are equivalent to 1 big ball.
+Assume that 5 small balls are equivalent to 1 big ball.
 
-     Further, assume that each person in the management org has a box
-     and assume that each person has 5 direct reports.
+Further, assume that each person in the management org has a box
+and assume that each person has 5 direct reports.
 
-     Finally, assume that you are a Director with 5 direct reports,
-     each of whom have 5 direct reports. You report to a VP who has 5
-     directs including you.
+Finally, assume that you are a Director with 5 direct reports,
+each of whom have 5 direct reports. You report to a VP who has 5
+directs including you.
 
-     As time progresses, each ball shrinks because you get better at
-     each task.
+As time progresses, each ball shrinks because you get better at
+each task.
 
-     The CEO just got a new customer, which translates to a new big
-     orange ball, You get a corresponding new big ball due to this new
-     business.  However, your box is fixed and the ball won't fit.
+The CEO just got a new customer, which translates to a new big
+orange ball, You get a corresponding new big ball due to this new
+business.  However, your box is fixed and the ball won't fit.
 
-     3 possible solutions:
-       - Delegate the big orange ball
-       - Delegate a big gray ball
-       - Delegate 5 small gray balls
+3 possible solutions:
+  - Delegate the big orange ball
+  - Delegate a big gray ball
+  - Delegate 5 small gray balls
 
-     Option 1 is a bad idea because it's a new task; you need to learn
-     it i.e. turn it from orange to gray. Otherwise, you will have to
-     ask your delegate to talk to your manager about the task, which is
-     inefficient.
+Option 1 is a bad idea because it's a new task; you need to learn
+it i.e. turn it from orange to gray. Otherwise, you will have to
+ask your delegate to talk to your manager about the task, which is
+inefficient.
 
-     Balls increase in size as they move down the hierarchy. This is
-     because you have learnt how to do a task and, so, it is small to
-     you but it will be big for your report.
+Balls increase in size as they move down the hierarchy. This is
+because you have learnt how to do a task and, so, it is small to
+you but it will be big for your report.
 
-     So, option 2 is not good because it is big for you and bigger for
-     your direct, which will crush them.
+So, option 2 is not good because it is big for you and bigger for
+your direct, which will crush them.
 
-     Option 3 is best because a small gray ball for you will become a
-     big ball for your report but still manageable.
+Option 3 is best because a small gray ball for you will become a
+big ball for your report but still manageable.
 
-     Saying no is not an option.
+Saying no is not an option.
 
-     Getting rid of small or big balls is not good either.  If everyone
-     is busy, no organization can grow or change (without hiring).
-     Those balls are small for you but are huge lower down in the
-     organization. So, dropping them is not good for the org; instead,
-     you should delegate and ask your report to delegate until the
-     small balls at the level of the individual contributor are
-     dropped.
+Getting rid of small or big balls is not good either.  If everyone
+is busy, no organization can grow or change (without hiring).
+Those balls are small for you but are huge lower down in the
+organization. So, dropping them is not good for the org; instead,
+you should delegate and ask your report to delegate until the
+small balls at the level of the individual contributor are
+dropped.
 
-     Assigning work to someone that is a natural piece of work for them
-     is not delegation. In order to be considered delegation, it must
-     be work that you have to do that you assign to someone else.  For
-     this, you'll need commitment power, not compliance power. For
-     delegation, we must ask directs and, if they say no, we must walk
-     away.
+Assigning work to someone that is a natural piece of work for them
+is not delegation. In order to be considered delegation, it must
+be work that you have to do that you assign to someone else.  For
+this, you'll need commitment power, not compliance power. For
+delegation, we must ask directs and, if they say no, we must walk
+away.
 
-     The steps are as follows.
+The steps are as follows.
 
-     1. State your desire - "Mike, I'd like your help."
+1. State your desire - "Mike, I'd like your help."
 
-     2. Need/want/like - They need to develop something or want to
-        develop something or you'd like them to do something because
-        they're good at it - "Mike, you're my best writer."
+2. Need/want/like - They need to develop something or want to
+   develop something or you'd like them to do something because
+   they're good at it - "Mike, you're my best writer."
 
-     3. Ask for acceptance before giving all the details - "Would
-        you please take responsibility for our budget process?"
+3. Ask for acceptance before giving all the details - "Would
+   you please take responsibility for our budget process?"
 
-        If they say no, ask for the reasons for objection. - "If I
-        addressed your objections, would you be OK with it?"
+   If they say no, ask for the reasons for objection. - "If I
+   addressed your objections, would you be OK with it?"
 
-        At this point, they are going to start taking notes and listening
-        more carefully.
+   At this point, they are going to start taking notes and listening
+   more carefully.
 
-     4. Now, describe in detail - What's going to be involved?
-        What will the direct do? Here's how your objections can be
-        addressed.
+4. Now, describe in detail - What's going to be involved?
+   What will the direct do? Here's how your objections can be
+   addressed.
 
-     5. State the details of how you will govern the process:
-         - Deadlines
-         - Quality
-         - Reporting
-         - What do you need from me?
+5. State the details of how you will govern the process:
+    - Deadlines
+    - Quality
+    - Reporting
+    - What do you need from me?
+
+See also [[id:7d91bef7-86df-43c5-95f5-743441c8578a][See one, do one, teach one]].
 
 *** Coaching
 
@@ -260,7 +262,6 @@ Practice 1-1s for 6-8 weeks before you introduce the next aspects
 of the trinity (feedback, coaching etc.)
 
 ** Direct reports
-
 
 *** New hires
 
@@ -405,6 +406,24 @@ could be fired if their performance does not improve.
 
 Finally, even if you're ready for a promotion, it may not happen due
 to economic conditions, reorganizations, etc.
+
+*** See one, do one, teach one
+:PROPERTIES:
+:ID:       7d91bef7-86df-43c5-95f5-743441c8578a
+:END:
+
+Andragogy is adult learning as opposed to pedagogy or child
+learning. Children learn through structured classroom
+learning. However, adults learn by doing and need to understand how
+what they're learning applies to their daily life.
+
+This process does not require long training sessions or a lot of
+training material. Instead, you should just let your direct observe
+you doing the practice and, then, you should let them try it
+out. However, you have to have a tolerance for mistakes.
+
+In this way, you can accelerate learning in your organization and help
+develop your directs.
 
 ** Peers
 
@@ -662,21 +681,20 @@ retribution might be a factor.
 
 ** Decision making
 
-   Once you make a choice, the work is not done. Decisions comprise of
-   making a choice, communicating it and managing its implementation.
+Once you make a choice, the work is not done. Decisions comprise of
+making a choice, communicating it and managing its implementation.
 
-   Executives cannot make a choice and then walk away and let others take
-   care of the details. Ideas are important but they are not enough.
+Executives cannot make a choice and then walk away and let others take
+care of the details. Ideas are important but they are not enough.
 
-   For example, you can make a choice to invest more in Asia. However,
-   you have to then decide how to plan that work.
+For example, you can make a choice to invest more in Asia. However,
+you have to then decide how to plan that work.
 
-   Individuals complete tasks.
-   Managers assign tasks.
-   Executives assign people (see also [[#change_mgmt][Change management]]).
+Individuals complete tasks.
+Managers assign tasks.
+Executives assign people (see also [[#change_mgmt][Change management]]).
 
-   They decide "who will do what, by when".
-
+They decide "who will do what, by when".
 
 *** Peter Drucker: An executive has not completed a decision until they have assigned someone to take the next steps :quotes:
 
@@ -686,21 +704,19 @@ retribution might be a factor.
    :CUSTOM_ID: change_mgmt
    :END:
 
-   According to [[https://www.linkedin.com/pulse/big-change-always-takes-six-steps-brad-porter/][Brad Porter]], big changes take six steps.
-   - Problem identified
-   - Problem widely understood
-   - Owner identified
-   - Plan in place
-   - Execution
-   - Adoption of solution
+According to [[https://www.linkedin.com/pulse/big-change-always-takes-six-steps-brad-porter/][Brad Porter]], big changes take six steps.
+- Problem identified
+- Problem widely understood
+- Owner identified
+- Plan in place
+- Execution
+- Adoption of solution
 
-   You cannot skip any of these stpes nor can you prematurely end
-   it. If you do either of those, you risk backsliding to the first
-   stage.
-
+You cannot skip any of these steps nor can you prematurely end
+it. If you do either of those, you risk backsliding to the first
+stage.
 
 ** Projects
-
 
 *** Assigning tasks
 
