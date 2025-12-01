@@ -7,7 +7,7 @@
 :ID:       c63978d7-17dd-49e9-a52f-2fb47c7190c3
 :END:
 
-Apache Spark is a unified computing engine and set of libraries for
+Apache Spark is a unified computing engine and a set of libraries for
 parallel data processing on computing clusters.
 
 Spark is unified in the sense that it can handle a variety of
@@ -67,7 +67,6 @@ Then, start a local Spark session in Python using the following code.
 
   df2_pd = pd.read_csv(csv_file_name,\
                        header=0)
-
 #+END_SRC
 
 The default schema inference appears to be better for Spark compared
@@ -121,6 +120,8 @@ meaning of each record and associated data type.
 
 #+BEGIN_SRC python
   df1_spark.printSchema()
+
+  df1_pd.dtypes
 #+END_SRC
 
 ** Selecting and expressing
@@ -138,11 +139,27 @@ column names. This is the DataFrame equivalent of an SQL query.
   # a local SQL table using createOrReplaceTempView()
   df1_spark.createOrReplaceTempView("df1_spark")
   spark.sql("SELECT DEST_COUNTRY_NAME from df1_spark LIMIT 5").show()
-
-  df1_pd.DEST_COUNTRY_NAME[0:4]
 #+END_SRC
 
-An expression is a SQL-like query that takes as
+In Pandas, you can use the column name to select a column and use
+Python slices to get a selection of rows.
+
+#+BEGIN_SRC python
+  df1_pd.DEST_COUNTRY_NAME[0:4]
+
+  # Extract rows 0 through 4 for the named columns using loc
+  df1_pd.loc[0:5,["ORIGIN_COUNTRY_NAME", "count"]]
+
+  # Extract rows 0 through 4 for columns 1 through 2 using iloc
+  df1_pd.iloc[0:5,1:3]
+
+  # Get fast access to a scalar value
+  df1_pd.at[0,"ORIGIN_COUNTRY_NAME"]
+
+  df1_pd.iat[0, 0]
+#+END_SRC
+
+A Spark expression is an SQL-like query that takes as
 inputs column names and does transformations on them.
 
 #+BEGIN_SRC python
@@ -153,7 +170,7 @@ select(expr()) can be compressed to selectExpr().
 
 ** Filtering
 
-You can filter records using filter() or, equivalently, where().
+In Spark, you can filter records using filter() or, equivalently, where().
 
 #+BEGIN_SRC python
   df1_spark.filter(df1_spark.DEST_COUNTRY_NAME == "United States").show(2)
@@ -194,6 +211,9 @@ the agg() method is a DataFrame.
 Spark also provides the ability to aggregate with a
 tolerance for error. This can be useful to speed up computations.
 
+In Pandas, agg() and transform() can be used with Python lambda
+functions.
+
 * Joins
 
 Joins allow you to combine dataframes. Inner joins keep rows with keys
@@ -216,11 +236,19 @@ with keys that exist in either.
 
   # Join the data frames in Pandas using Age
   d1_pd.set_index('Age').\
-      join(d2_pd.set_index('Age'), how = "inner")
+      join(d2_pd.set_index('Age'), how = "inner").show()
 
   # Join the data frames in Spark using Age
   d1_spark.join(d2_spark, d1_spark["Age"] == d2_spark["Age"], "inner").show()
 #+END_SRC
+
+* File reading and writing
+
+Spark uses the Parquet file format by default. This is an open-source
+colum-oriented file format that provides several optimizations
+especially for analytics workloads.
+
+Parquet files store the schema for the data along with the data.
 
 * Comparison among data analytics packages
 

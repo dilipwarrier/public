@@ -427,6 +427,19 @@ not even aware that they exist. Further, that base is growing faster
 in time than either of the two sections above because the two sections
 above only grow at the rate that you can learn.
 
+* Consciousness
+:PROPERTIES:
+:ID:       1c737d8a-18df-4b71-849d-dacfbcc1c37d
+:END:
+
+A baby typically does not show signs of consciousness until well into
+the third trimester. They may show reflexive reactions to stimuli but
+those are not conscious reactions.
+
+** References
+
+- Christoph Koch, "Then I am myself the world"
+
 * Poetic naturalism                                                  :Review:
 :PROPERTIES:
 :ID:       16405c0a-2d59-421b-acf4-8f06b9a59a62

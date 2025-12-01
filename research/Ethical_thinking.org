@@ -42,9 +42,11 @@ injection, so also, if a baby suffers an incurable disease that is
 guaranteed to cause lifelong suffering, it should be ethical to kill the
 baby.
 
-The one case in which this would be unethical is if the person had
-expressed a desire to continue to live. In that case, that person's
-preferences take precedence.
+However, this is unethical if the person expressed a desire to
+continue to live. In that case, that person's preferences take
+precedence. It may also be unethical to kill [[id:1c737d8a-18df-4b71-849d-dacfbcc1c37d][a baby]] who is not
+conscious yet but possesses the ability to become conscious and
+express a desire to live.
 
 Contrary to popular opinion, a human life may not always be worth
 living.
