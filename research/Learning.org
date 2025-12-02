@@ -389,6 +389,7 @@ SCHEDULED: <2025-12-02 Tue +1d>
 - State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
 - State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
 :LOGBOOK:
+CLOCK: [2025-12-02 Tue 07:02]
 CLOCK: [2025-12-01 Mon 06:27]--[2025-12-01 Mon 08:27] =>  2:00
 CLOCK: [2025-11-17 Mon 06:33]--[2025-11-17 Mon 08:23] =>  1:50
 CLOCK: [2025-11-12 Wed 06:24]--[2025-11-12 Wed 07:48] =>  1:24
@@ -422,3 +423,8 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
 :BENEFIT: 10
 :RATIO: 0.40
 :END:
+** TODO Read [[https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07?st=3Sx9NK][Europe green energy issues]]
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :END:

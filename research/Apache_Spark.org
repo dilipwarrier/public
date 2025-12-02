@@ -2,7 +2,7 @@
 #+FILETAGS: :Software:Data:Analytics:
 #+STARTUP: contents, hideallblocks
 
-* Introduction
+* What is Apache Spark?
 :PROPERTIES:
 :ID:       c63978d7-17dd-49e9-a52f-2fb47c7190c3
 :END:
