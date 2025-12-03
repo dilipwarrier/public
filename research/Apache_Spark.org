@@ -69,17 +69,6 @@ Then, start a local Spark session in Python using the following code.
                        header=0)
 #+END_SRC
 
-The default schema inference appears to be better for Spark compared
-to Pandas. See the results below.
-
-#+BEGIN_SRC python
-  df2_spark.schema
-  df2_pd.dtypes
-
-  # Columns like InvoiceNo are set to StringType in Spark but as generic
-  # objects in Pandas
-#+END_SRC
-
 * Transformations and actions
 
 Spark allows the user to specify a sequence of transformations to
@@ -208,11 +197,17 @@ the agg() method is a DataFrame.
   df2_pd.groupby("InvoiceNo").Quantity.count()
 #+END_SRC
 
-Spark also provides the ability to aggregate with a
-tolerance for error. This can be useful to speed up computations.
-
 In Pandas, agg() and transform() can be used with Python lambda
 functions.
+
+The following expression calculates the per-invoice sums and counts of
+quantities sold.
+
+#+BEGIN_SRC python
+  # Calculate the sum of quantities in each invoice
+  df2_pd_gp = df2_pd.loc[:, ["InvoiceNo", "Quantity"]].groupby("InvoiceNo")
+  df2_pd_gp.agg(["count", "sum"])
+#+END_SRC
 
 * Joins
 

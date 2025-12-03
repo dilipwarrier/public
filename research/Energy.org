@@ -75,12 +75,8 @@ chain with its own set of winners and losers.
 :ID:       c9493bda-aa50-4371-9eed-5e56699d58ba
 :END:
 
-In 2024, [[https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-AEO2025&region=0-0&cases=ref2025&start=2023&end=2035&f=A&linechart=~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ref2025-d032025a.3-1-AEO2025~ref2025-d032025a.4-1-AEO2025~ref2025-d032025a.5-1-AEO2025~ref2025-d032025a.6-1-AEO2025~ref2025-d032025a.7-1-AEO2025~ref2025-d032025a.8-1-AEO2025~ref2025-d032025a.9-1-AEO2025~ref2025-d032025a.10-1-AEO2025~ref2025-d032025a.11-1-AEO2025~ref2025-d032025a.12-1-AEO2025&ctype=linechart&chartindexed=0&sourcekey=0][US energy (production plus imports minus exports)]] will be at
-about 38 PetaWatt-hours (PWh). US energy consumption will be at about
-28 PWh. This is the reference case that considers nominal growth
-rates.
-
-Out of that total, the US consumed 4 PWh of electrical energy
+In 2024, the US consumed about 28 PetaWatt-hours (PWh) of total
+energy. Out of that total, the US consumed about 4 PWh in electrical energy
 in 2022. That total was split as follows.
 
 |-------------+---------------+---------|
@@ -93,13 +89,11 @@ in 2022. That total was split as follows.
 | Total       |           3.9 |     99% |
 |-------------+---------------+---------|
 
-[[id:6af95639-5f7a-4eb2-b2b1-fa3b05f5cc75][Total data center consumption]] of 220 TWh in 2024 is about 6% of total
+[[id:6af95639-5f7a-4eb2-b2b1-fa3b05f5cc75][Total data center consumption]] of 0.22 PWh in 2024 is about 6% of total
 US electrical energy consumption in 2024.
 
 [[id:cb7304cc-fee3-4d94-b021-7c56b6620c34][Solar power generation]] at 250 GWh is a small fraction of total US
 energy production in 2024.
-
-The US is adding about 65 GW of electrical grid power in 2025.
 
 ** Consumption by state
 
@@ -114,12 +108,18 @@ See [[https://drive.google.com/file/d/1mgCN8V5FYhhD-obrXtLrbDzbbZWOd58R/view?usp
 :ID:       d51a7c0d-0649-40cf-b9fb-29e759f4ea6a
 :END:
 
-An average US home consumes about 1 kW of power. Since a year has
-about 9000 hours, that translates to 9 MWh/year of consumption.
+An average US home consumes about 1.2 kW of electrical power. Since a
+year has about 9000 hours, that translates to about 11 MWh/year of
+consumption.
+
+The US has about 140M households. So, the product of the two yields
+about 1.5 PWh/year of residential electrical energy consumption. This
+tallies with the number for [[id:c9493bda-aa50-4371-9eed-5e56699d58ba][US energy consumption]].
 
 ** References
 
 - EIA, [[https://www.eia.gov/energyexplained/electricity/use-of-electricity.php][Use of electricity]]
+- EIA, [[https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-AEO2025&region=0-0&cases=ref2025&start=2023&end=2035&f=A&linechart=~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ref2025-d032025a.3-1-AEO2025~ref2025-d032025a.4-1-AEO2025~ref2025-d032025a.5-1-AEO2025~ref2025-d032025a.6-1-AEO2025~ref2025-d032025a.7-1-AEO2025~ref2025-d032025a.8-1-AEO2025~ref2025-d032025a.9-1-AEO2025~ref2025-d032025a.10-1-AEO2025~ref2025-d032025a.11-1-AEO2025~ref2025-d032025a.12-1-AEO2025&ctype=linechart&chartindexed=0&sourcekey=0][Electrical energy consumption]]
 
 * Solar power generation
 
@@ -153,8 +153,7 @@ These numbers are a combination of residential and commercial energy
 generation.
 
 On average, a US home can generate 6 MWh/year of solar energy. Compare
-that with average [[id:d51a7c0d-0649-40cf-b9fb-29e759f4ea6a][US household energy consumption]] of 9 MWh/year.
-
+that with average [[id:d51a7c0d-0649-40cf-b9fb-29e759f4ea6a][US household energy consumption]] of 11 MWh/year.
 
 ** References
 
