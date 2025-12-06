@@ -332,7 +332,7 @@ The CTO’s mission:
 
 Qt needs a visionary leader who can champion this transformation.
 
-*** Tasking
+** Tasking
 
 Lizz Germaine works here, as of 2025.
 
