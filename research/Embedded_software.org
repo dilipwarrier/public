@@ -203,7 +203,7 @@ OEMs and suppliers. Automotive demands:
 - Certification-ready code
 - Long-term support (10-15 years)
 
-Qt’s combination of GUI engine + QA tools + static analysis is valuable here.
+Qt's combination of GUI engine + QA tools + static analysis is valuable here.
 
 Qt is moving toward SaaS, cloud-based development workflows, telemetry, and
 subscription licensing. This requires:
@@ -231,7 +231,7 @@ subscription licensing. This requires:
 
 **** Differentiation Through Acquisitions
 
-Qt’s acquisitions create an end-to-end embedded development platform.
+Qt's acquisitions create an end-to-end embedded development platform.
 
 Axivion Suite provides:
 - Static code analysis for C, C++, C#, CUDA
@@ -322,12 +322,12 @@ Qt is evolving from a C++ framework into a multi-language development
 ecosystem. With integrated toolchains (IAR), QA tools (Froglogic), and static
 analysis (Axivion), Qt now spans the complete embedded lifecycle.
 
-The CTO’s mission:
+The CTO's mission:
 - Interpret and communicate global tech trends
 - Represent Qt to the world
 - Guide long-term strategic direction
 - Mentor engineering leadership
-- Shape Qt’s public identity as a technology-agnostic, AI-enabled platform
+- Shape Qt's public identity as a technology-agnostic, AI-enabled platform
 - Build trust with automotive, industrial, medtech, and embedded customers
 
 Qt needs a visionary leader who can champion this transformation.
