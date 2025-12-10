@@ -22,15 +22,15 @@ like the Milky Way.
 
 Quantum field theory shows that any forces that we have not found so
 far are either very short-range or very weak. For instance, any new
-force that we discover in the future would have to be much weaker than
-gravity.
+long distance force that we discover in the future would have to be
+much weaker than gravity.
 
 * Multiverse theory                                                  :Review:
 
 The Multiverse principle means that there may be other areas in
 the universe that have a different set of physical constants of
-nature. If this principle is proven, it would explain why we exist only here in this
-part of space. We exist because the physical constants in this corner
+nature. If this principle is proven, it would explain why we exist
+only here in this part of space. We exist because the physical constants in this corner
 of space are such that life can be generated from them.
 
 The Multiverse principle comes about as a result of string theory and
@@ -40,7 +40,7 @@ observe. These remaining dimensions get compacted into a very small
 space in a very specific way. The way in which they get compacted
 determines the physical constants in that area of space.
 
-Further,inflation says that parts of the universe can expand starting from the
+Further, inflation says that parts of the universe can expand starting from the
 Big Bang but the expansion can stop. From inflation and string theory,
 we can thus determine that there may be different areas in space that
 exhibit different physical laws. These different areas in space may be

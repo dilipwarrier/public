@@ -27,10 +27,11 @@ Expert.
 However, just spending time in a phase doing the same activities over
 and over is not enough to advance to the next phase. The person must
 reflect upon the progress and adjust their approach. This provides a
-feedback loop that is critical to success. A good example is doing
-your tax returns. Each year, you follow a fixed process to do your
-taxes. However, most people stay at the Novice phase in tax return
-filing.
+feedback loop that is critical to success.
+
+A good example is doing your tax returns. Each year, you follow a
+fixed process to do your taxes. However, most people stay at the
+Novice phase in the process of filing tax returns.
 
 In the Novice phase, you need context-free recipes and rules to do the
 work. Unfortunately, such context-free rules are tedious to
@@ -44,7 +45,7 @@ in the Novice phase. The process of skimming the rules builds up the
 relevant focus on the context i.e. you start to pick out the items
 from the context that matter most to the work at hand.
 
-From the Proficient phase, you start to use reflection and
+From the Proficient phase onwards, you start to use reflection and
 self-adjustment based on your intuition and understanding of the
 overall process. This can be thought of as a feedback mechanism. In
 the Agile mindset, this can be the retrospective and the improvements
@@ -66,14 +67,12 @@ In order to improve the level of proficiency, the nursing industry
 went through significant changes. Their lessons can be summarized as
 follows.
 - Individuals must accept the responsibility for continuous improvement.
-- Individuals must be able to practise as an individual contributor
-  throughout their career.
-- Management must set up compensation and recognition such that
-  individuals can keep practising their expertise rather than turning
-  into managers.
-- All must beware of the tools trap i.e. assuming that tools alone can
-  bring about process excellence.
-
+- Individuals must be able to practise as individual contributors
+  throughout their career. Managers must set up compensation and
+  recognition such that individuals can keep practising their
+  expertise.
+- All must be aware of the tools trap. They must not assume that tools
+  alone can bring about process excellence.
 
 ** Andy Hunt: Software isn't designed in a tool, it is created in our heads. :quotes:
 
@@ -82,7 +81,6 @@ follows.
 
 - Andy Hunt, Pragmatic Thinking and Learning
 - Dreyfus brothers, [[https://drive.google.com/file/d/0B5vaNNyT6fShdHVDM2I1cDhmSHc/view?usp=drive_link&resourcekey=0-4LNorgv2lUJo_5BfAC5YBg][Acquiring New Skills]]
-
 
 * Principles of effective teaching                                   :Review:
 
@@ -96,7 +94,7 @@ follows.
    Remember: Even smart people are, at first, terrible at almost
    everything.
 
-3. Don't expects students to "figure things out for themselves."
+3. Don't expect students to "figure things out for themselves."
    Start with model problems, then work through them at a snail's
    pace.
 
@@ -113,53 +111,51 @@ follows.
 
 7. If your students do 95%+ of their problems correctly, they are
    ready to advance.  Even then, remember that they are likely to
-   forget unless you periodically give them refresher work (except for
-   highly sequential subjects).
+   forget unless you periodically give them refresher work.
 
 8. Never confuse logic with psycho-logic – and remember that
    psycho-logic is much more important for pedagogy.  What does that
    mean?  Don’t expect students to grasp that A–>B simply because
    A–>B.  Your job is to make truisms seem obvious to ignorant minds.
-   Vary your examples.  Mix it up.  Switch around.  Use repetition.
-   Use repetition.  Use repetition.
+   Vary your examples. Mix it up. Switch around. Use repetition.
+   Use repetition. Use repetition.
 
-9. Look at your students' faces.  If they are bored, be more fun.
-   Tell jokes.  Mock yourself.  Clown around.  Playfully exaggerate
-   all emotions.  Throw your pride aside; a teacher is an entertainer
+9. Look at your students' faces. If they are bored, be more fun.
+   Tell jokes. Mock yourself. Clown around. Playfully exaggerate
+   all emotions. Throw your pride aside; a teacher is an entertainer
    or he is a failure.
 
-10. Look at your students' faces.  If they are frustrated, be more
-    patient.  Never add negative emotion on top of negative emotion.
+10. Look at your students' faces. If they are frustrated, be more
+    patient. Never add negative emotion on top of negative emotion.
     If a student is upset, be a model of mild-mannered stoicism.
-    Without fail.  Without fail.  Without fail.
 
-11. Look at your students' faces.  If they feel like their efforts are
-    pointless, sell them your subject.  Tell them what learning your
+11. Look at your students' faces. If they feel like their efforts are
+    pointless, sell them your subject. Tell them what learning your
     subject will do for them, even if the only honest answer is, "You
     need this for graduation."
 
-12. Look at your students’ faces.  If they don’t trust you, earn their
-    trust.  Don’t merely avoid deception; be frank.  Don’t sugarcoat
-    the world, even for little kids.  Unless the ugly truth will give
+12. Look at your students' faces. If they don't trust you, earn their
+    trust. Don't merely avoid deception; be frank. Don't sugarcoat
+    the world, even for little kids. Unless the ugly truth will give
     them nightmares or get you fired, share it with equanimity.
 
-13. Look at your students’ faces.  If you can’t read their emotions,
-    ask them questions.  Press them.  Find out what they already know.
-    Find out what confuses them.  Find out whether they are happy or
-    sad or think you’re crazy.  Accept their answers beatifically and
+13. Look at your students' faces. If you can't read their emotions,
+    ask them questions. Press them. Find out what they already know.
+    Find out what confuses them. Find out whether they are happy or
+    sad or think you're crazy. Accept their answers beatifically and
     adjust your pedagogy to fit the students you actually have.
 
-14. Maintain discipline.  If you have a schedule, stick to it.  If you
-    announce a punishment, stick to it.  If you promise a break, stick
-    to it.  Education is for the students, but it is not a democracy.
+14. Maintain discipline. If you have a schedule, stick to it. If you
+    announce a punishment, stick to it. If you promise a break, stick
+    to it. Education is for the students, but it is not a democracy.
     Listen carefully to what your students say, but only reform from a
-    position of strength.  Don’t be generous; be magnanimous!  If you
-    think this contradicts Principle #9, know that you are wrong.  Act
+    position of strength. Don't be generous; be magnanimous!  If you
+    think this contradicts Principle #9, know that you are wrong. Act
     like a jester – but rule like a king.
 
-15. All of these principles are optimized for one-on-one teaching.  If
-    you’re teaching more students, you have to strike a balance.  You
-    will always shortchange someone.  Sorry, that’s a classroom –
+15. All of these principles are optimized for one-on-one teaching. If
+    you're teaching more students, you have to strike a balance. You
+    will always shortchange someone. Sorry, that's a classroom –
     another point in favor of homeschooling.
 
 ** Morpheus: Neo, there’s a difference between knowing the path and walking the path. :quotes:
@@ -290,7 +286,7 @@ as cure-alls. They are usually not.
 :END:
 
 When we see a first conclusion that matches our inherent biases,
-our mind shuts down to other possible explanations.  As Charlie
+our mind shuts down to other possible explanations. As Charlie
 Munger famously pointed out, the mind works a bit like a sperm and
 egg: the first idea gets in and then the mind shuts.
 
@@ -367,6 +363,97 @@ This is also called Fundamental Attribution Error.
    succeed. This has been highlighted in the business world by Phil
    Rosenzweig.
 
+* System 1 and System 2 thinking
+:PROPERTIES:
+:ID:       eb1e2a5f-ba0d-4533-bfd5-ff8489a8cca8
+:END:
+
+The human brain has two modes of thinking, Type 1 and
+Type 2 processing. Type 1 operates automatically and quickly, with no effort
+and no sense of control. Type 2 is effortful and algorithmic. It
+involves subjective experiences of agency, choice, and
+concentration. It is required to exercise self-control.
+
+Daniel Kahneman refers to these as System 1 and System 2 thinking but
+the original authors, Evans and Stanovich, prefer to call them Type 1
+and Type 2 processing in their Dual-Process Theory. This nomenclature
+avoids the trap of thinking of these as separate systems.
+
+When we think of ourselves, we think of Type 2 processing. However,
+Type 1 is the unsung hero. Type 1 processing continuously generates
+impressions and intuitions based on the outside world. It feeds those
+suggestions to Type 2 processing. Type 2 usually adopts them as is.
+Type 2 processing only kicks in when Type 1 can not form an
+explanation for a phenomenon in the real world.
+
+Type 1 can detect simple relations e.g. the son is much taller than
+the father. However, it cannot deal with multiple criteria and it
+cannot use purely statistical or logical information.
+
+Consider the following problem:
+#+begin_example
+If a bat and a ball together cost $1.10 and the bat costs $1
+more than the ball, how much does the ball cost?
+#+end_example
+
+Your Type 1 processing will immediately respond that the ball costs 10
+cents. If you engaged Type 2 and did the math, you'd realize that
+the correct answer is 5 cents. Further, you'll realize that Type 1
+ignored the part of the question that said "more than the ball",
+leading to the error.
+
+Another example is the Muller-Lyer visual illusion, shown below.
+
+[[file:Screenshot 2025-12-10 074744.png]]
+
+Our Type 1 automatically perceives the first line to be
+longer. In fact, the two lines are of equal length. We can not
+turn off this automatic perception by our Type 1 even if we are
+aware of the error.
+
+Type 1 is generally quite accurate in its predictions of familiar
+situations. However, it has biases and makes systematic errors in
+specific circumstances like the ones above.
+
+It is not possible to constantly question Type 1 thinking. Instead,
+we must be aware of the limitations of Type 1 thinking when both the
+chances and the costs of making mistakes are high. In those cases, we
+must learn to slow down and employ Type 2 thinking.
+
+Type 2 processing require attention and the brain has a limited
+attention budget. As a result, it is impossible to multi-task Type 2
+activities e.g. doing a complex multiplication problem while turning
+left in a car.
+
+If people first do an effortful task like eating a vegetable while resisting
+a cookie and are then asked to do a difficult cognitive task, they
+will give up on the cognitive task earlier. The first task causes a
+temporary depletion of effort that affects our performance on the second one.
+Physiologically, The nervous system uses a lot of glucose, especially for effortful
+activities. Replenishing glucose in between such effortful tasks can
+improve performance on later tasks.
+
+** Type 3 processing
+:PROPERTIES:
+:ID:       cd736465-93cd-47e1-b7ca-41c2a8a38ca7
+:END:
+
+Keith Stanovich theorizes that the thinking mind consists of three parts:
+- Type 1 processing or the autonomous mind
+- Type 2 processing or the algorithmic mind
+- The reflective or rational mind, which decides when the judgments of the
+  autonomous mind will suffice versus when to employ the algorithmic
+  mind.
+
+He further suggested that the reflective mind determines how rational
+a person is and has low correlation with the algorithmic mind.
+
+** References
+
+- Daniel Kahneman, "Thinking fast and slow"
+- Jonathan Evans and Keith Stanovich, "Dual-Process Theories of Higher
+  Cognition", https://doi.org/10.1177/1745691612460685
+
 * Moral reasoning                                                    :Review:
 
 The principles of moral psychology are:
@@ -390,7 +477,7 @@ higher purpose.
 
 Homecoming football games can be understood as opportunities for
 people to become part of one large group with a common purpose. If you
-look only at the cost (injury to players, alcoholism etc), you're
+look only at the cost (injury to players, alcoholism, etc), you're
 missing the full picture.
 
 People have hypersensitive agency detectors: they see an agent behind
@@ -407,6 +494,8 @@ if the secular ones demanded sacrifices. Investing the needs of
 sacrifice in a higher being may make them more likely to be
 followed and may contribute to the integrity of the organization.
 
+See also [[id:eb1e2a5f-ba0d-4533-bfd5-ff8489a8cca8][System 1 and System 2 thinking]].
+
 ** References
 
 - The righteous mind, Jonathan Haidt
@@ -416,10 +505,10 @@ followed and may contribute to the integrity of the organization.
 Think of all knowlege as a pyramid. At the top of the pyramid is the
 small set of things you know.
 
-Below that is a broader section of the
-things you know you don't know. You are aware that these things exist
-but you haven't delved into them in detail. Perhaps you have a Novice
-level knowledge of them or you just have awareness that they exist.
+Below that is a broader section of the things you know you don't
+know. You are aware that these things exist but you haven't delved
+into them in detail. Perhaps you have a novice level knowledge of them
+or you just have awareness that they exist.
 
 Finally, at the base of the pyramid are the much larger set of things
 that you don't know you don't know. They exist out there but you are
@@ -453,7 +542,7 @@ related to [[id:1a57ed2c-9a0e-479e-a5fe-377219d090ea][Humanism]].
 Poetic implies that there are many ways of describing this natural
 world. All the good ways of talking about the world must be consistent
 with each other and with the observed reality of the world. The best
-way of describing the world depends upon what you want to achieve.
+way of describing the world depends upon the goal of the description.
 
 One way might be derived from another. For instance, fluid dynamics
 can be a macro-level view of a fluid derived from the quantum-level
@@ -492,11 +581,10 @@ hold:
 1. A community is represented by Xs and Os,
 2. Each of them is unhappy if they are surrounded by 70% or more of
    the other, and
-3. When they are unhappy, they're able to move to a random open slot
+3. When they are unhappy, they are able to move to a random open slot
 then you reach an equilibrium where the Xs and Os are largely
-segregated.
-
-This could be interpreted as membranes around the Xs and Os.
+segregated. This could be interpreted as membranes around the Xs and
+Os.
 
 In biology, lipids are commonly used for membranes. They have
 hydrophilic heads and hydrophobic tails which have the capacity to be

@@ -9,11 +9,11 @@ enough to be profitably served), differentiable (one segment is
 different enough from another) and actionable (segment can be
 effectively attracted and served).
 
-In 2000, the following picture held.  If the world were a village of
+In 2000, the following picture held. If the world were a village of
 1000 people, it would consist of 520 women and 480 men. 330 children
 and people over age 65. 10 college graduates and 335 illiterate
 adults. 52 North Americans, 95 Europeans and 584 Asians. 165 people
-would speak Mandarin, 86 English and 83 Hindi.  There would be 329
+would speak Mandarin, 86 English and 83 Hindi. There would be 329
 Christians, 178 Muslims, and 132 Hindus.
 
 Successful companies recognize and respond profitably to unmet needs
@@ -23,7 +23,7 @@ consistent with other significant indicators emerging at the same
 time.
 
 The available market for the product is the set of consumers who have
-interest, income and access to that product.
+interest, income, and access to that product.
 
 Marketing information systems are required so that companies can make
 more data-based decisions with more reliable information. For
@@ -41,8 +41,9 @@ weaknesses and those of the other departments with which it interacts.
 Winning companies have achieved superior in-company capabilities, not
 just core competencies. Core competencies may exist within departments
 e.g. Bose engineering, but we must develop competitive capabilities in
-specific processes e.g. New product development.  (see similar note by
-Michael Porter on strategy)
+specific processes e.g. New product development.
+
+See similar note by Michael Porter on strategy.
 
 A core competency has three characteristics:
   - It is a source of competitive advantage in that it makes a
@@ -81,12 +82,14 @@ For products sold to businesses, the orientation of the purchasing
 departments of those businesses need to be considered. Their
 orientation may be:
 1. Tactical when the focus is commodification and multi sourcing.
-2. Procurement orientation when the focus is joint quality improvement and cost reduction.
-3. Supply chain management orientation when the focus of purchasing is to be a strategic value addition operation.
+2. Procurement orientation when the focus is joint quality improvement
+   and cost reduction.
+3. Supply chain management orientation when the focus of purchasing is
+   to be a strategic value addition operation.
 
 The orientation may depend on the type of product being acquired. The
-product has two dimensions: amount of value or cost to the supplier
-and amount of risk of supply.
+product has two dimensions: the amount of value or cost to the supplier
+and the amount of risk of supply.
 
 Today's economy has a lot of surplus as opposed to deficit (eg a
 toothpaste from just one company in 10 flavors). This implies hyper
@@ -108,11 +111,11 @@ leadership, operational excellence and customer intimacy. A firm
 should become the best in one of these value disciplines and achieve
 adequate performance in the other two.
 
-Generally, market experts recommend positioning one to two benefits and
-maybe even one benefit if the market is new. However, in a mature
-market like automotive, Volvo might position itself as both safer and more durable. Positioning
-more benefits is harder, though, because it is hard to accomplish, the customer may not believe you, and
-you can end up losing clear positioning on all those fronts.
-
+Generally, market experts recommend positioning one to two benefits
+and maybe even one benefit if the market is new. However, in a mature
+market like automotive, Volvo might position itself as both safer and
+more durable. Positioning more benefits is harder, though, because it
+is hard to accomplish, the customer may not believe you, and you can
+end up losing clear positioning on all those fronts.
 
 ** Scott Galloway: You are not as smart as you thought; they are not as dumb as you imagined. :quotes:

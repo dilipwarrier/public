@@ -344,5 +344,19 @@ lend to a group of people. The group ensures through social pressure
 that everyone in the group makes payments on time. Due to these strict
 rules, it's harder for example to borrow for health related
 emergencies where people may not be able to pay back
-immediately. Moneylenders continue to operate and charge much higher
+immediately. Money lenders continue to operate and charge much higher
 interests even in areas where such institutions are active.
+
+You can think of investments and returns as the X and Y
+axes of a graph with an S curve. Poor people exist at the bottom of
+the S curve. Each investment results in a return that is less than the
+investment and, hence, a poor person ends up poorer. Rich people may
+be on the steep part of the S curve where each investment results in a
+return that is significantly higher. This has also been popularized as
+the Matthew effect.
+
+** References
+
+- Esther Duflo and Abhijit Banerjee, "Poor economics"
+
+** Matthew 13:11-12: For to him who has will more be given, and he will have abundance; but from him who has not, even what he has will be taken away. :quotes:

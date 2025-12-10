@@ -45,7 +45,7 @@ though. Maybe you need an entity that has infinite memory or
 afterlives where we will continue to play the same games we are
 playing in this life to justify moralistic Nash equilibrium
 behavior. However, those are also unrealistic assumptions, so this
-doesn't justify religion or spirituality either.
+doesn't justify religion or spirituality.
 
 Countries across the world are progressively becoming less religious
 over time. The United States is more religious than any other
@@ -54,6 +54,10 @@ religious participation is declining over time.
 
 This has primarily been due to the Enlightenment that turned away from
 religion and towards humanism, reasoning, and problem-solving.
+
+The scientific method alone is not a replacement for religion since it
+does not address human needs. Human needs arise from evolution - the
+need for kinship, impact, leisure, health, wealth, etc.
 
 * Humanism                                                           :Review:
 :PROPERTIES:
@@ -78,20 +82,18 @@ See also [[id:16405c0a-2d59-421b-acf4-8f06b9a59a62][Poetic naturalism]].
 
 * The scientific method                                              :Review:
 
-The scientific method alone is not a replacement for religion since it
-does not address human needs. Human needs arise from evolution - the
-need for kinship, impact, leisure, health, wealth, etc.
-
 Remember your math: An anecdote is not a trend.
 
-Remember your history: Just because something is bad today doesn't
-mean it was better yesterday. Just because something is good today
-doesn't mean it was that good yesterday.
+Remember your history: Just because something is bad for human beings today doesn't
+mean it was better in the past. Just because something is good today
+doesn't mean it was that good in the past.
 
 Remember your philosophy: One cannot reason that there is no such
 thing as reason.
 
 Keep some perspective: Not every problem is a crisis.
+
+See also [[id:cd736465-93cd-47e1-b7ca-41c2a8a38ca7][Type 3 processing]].
 
 * References
 
