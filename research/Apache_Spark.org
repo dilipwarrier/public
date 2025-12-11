@@ -245,9 +245,7 @@ especially for analytics workloads.
 
 Parquet files store the schema for the data along with the data.
 
-* Comparison among data analytics packages
-
-** Spark vs Pandas
+* Spark vs Pandas
 
 Both Spark and Pandas can be used for data analysis and
 processing. Typically, Pandas operates in the MB-GB range of data sizes
@@ -260,7 +258,7 @@ data set but then use Pandas to sample a small fraction of it for
 exploration. Since both use data frames as their base types, it is
 easy to convert between the two.
 
-** NumPy vs Pandas
+* NumPy vs Pandas
 
 NumPy allows you to do fast mathematical operations on numeric
 multi-dimensional arrays e.g. FFTs, linear algebra, etc. Pandas, on
@@ -283,6 +281,7 @@ Under the hood, Pandas uses NumPy arrays.
 * Tasks
 
 ** Archive                                                          :ARCHIVE:
+
 *** DONE Get the pyspark cmd to work - may need an installation of Spark
 :PROPERTIES:
 :ARCHIVE_TIME: 2025-10-29 Wed 08:26
@@ -333,6 +332,7 @@ Setting default log level to "WARN".
 To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
 25/11/05 07:58:15 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
 #+END_QUOTE
+
 *** DONE Remove C:/MSys2/tmp/Spark installation and delete [[id:8f83b767-d1ad-4494-a08c-262b2911b798][doc section]] if everything is working smoothly
 SCHEDULED: <2025-11-23 Sun>
 :PROPERTIES:

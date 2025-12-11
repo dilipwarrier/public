@@ -2,37 +2,6 @@
 #+FILETAGS: :Software:
 #+STARTUP: overview, hideallblocks
 
-* Open source software foundations
-
-** Mozilla Foundation
-
-They govern Firefox and Thunderbird development.
-
-** Apache Foundation
-
-They govern Apache Spark and Apache Kafka, among other projects. Their
-focus is usually on data processing and analytics.
-
-** Eclipse Foundation
-:PROPERTIES:
-:ID:       30978d6c-a649-4c4e-a4c1-3a124ca965e0
-:END:
-
-They govern Ecllipse ThreadX, the RTOS, and the [[id:c1eb170e-2302-42ee-81fb-dadecba14839][Eclipse IDE]], among
-other projects.
-
-See also [[id:59b8b305-3e77-403e-99d1-51d6eb2f4297][Eclipse ThreadX]].
-
-** Free Software Foundation
-
-GNU, Emacs, etc.
-
-** Cloud-Native Computing Foundation
-
-** Linux Foundation
-
-** Python Software Foundation
-
 * IDEs
 
 ** Eclipse Theia

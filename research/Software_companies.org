@@ -2,6 +2,41 @@
 #+FILETAGS: :SoftwareIndustry:
 #+STARTUP: overview, hideallblocks
 
+* Open source software foundations
+
+** Mozilla Foundation
+
+They govern Firefox and Thunderbird development.
+
+** Apache Foundation
+
+They govern Apache Spark and Apache Kafka, among other projects. Their
+focus is usually on data processing and analytics.
+
+See [[id:be4c0342-3c8d-49ac-8046-f36b65361d72][Apache projects]].
+
+** Eclipse Foundation
+:PROPERTIES:
+:ID:       30978d6c-a649-4c4e-a4c1-3a124ca965e0
+:END:
+
+They govern the RTOS Eclipse ThreadX and the [[id:c1eb170e-2302-42ee-81fb-dadecba14839][Eclipse IDE]], among
+other projects.
+
+See also [[id:59b8b305-3e77-403e-99d1-51d6eb2f4297][Eclipse ThreadX]].
+
+** Free Software Foundation
+
+GNU, Emacs, etc.
+
+** Cloud-Native Computing Foundation
+
+See [[id:c9c9b3aa-bd10-46eb-9c7c-f804bbefc94a][Apache and CNCF]].
+
+** Linux Foundation
+
+** Python Software Foundation
+
 * 2023 layoffs in software companies                                 :Review:
 
 As [[file:Screenshot 2023-03-04 173353.png][this infographic]] from [[https://www.instagram.com/p/CoYihx7Li0z/][Scott Galloway]] shows, although there have

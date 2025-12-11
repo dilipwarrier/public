@@ -4,13 +4,13 @@
 
 * RTOS vendors by industry
 
-|------+-----------------------+-----------------------+------------------------------+--------------------------------|
-| Rank | Industrial Automation | Automotive            | Healthcare (Medical Devices) | Home appliances / Consumer IoT |
-|------+-----------------------+-----------------------+------------------------------+--------------------------------|
-|    1 | FreeRTOS              | QNX                   | QNX                          | FreeRTOS                       |
-|    2 | VxWorks               | Green Hills INTEGRITY | INTEGRITY                    | Eclipse ThreadX                |
-|    3 | Zephyr                | VxWorks               | VxWorks                      | Zephyr                         |
-|------+-----------------------+-----------------------+------------------------------+--------------------------------|
+|------+-----------------------+-----------------------+------------+-----------------|
+| Rank | Industrial Automation | Automotive            | Healthcare | Consumer IoT    |
+|------+-----------------------+-----------------------+------------+-----------------|
+|    1 | FreeRTOS              | QNX                   | QNX        | FreeRTOS        |
+|    2 | VxWorks               | Green Hills INTEGRITY | INTEGRITY  | Eclipse ThreadX |
+|    3 | Zephyr                | VxWorks               | VxWorks    | Zephyr          |
+|------+-----------------------+-----------------------+------------+-----------------|
 
 ** Zephyr
 

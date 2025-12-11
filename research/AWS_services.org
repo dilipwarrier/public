@@ -1,13 +1,15 @@
-#+TITLE: Cloud fundamentals
-#+FILETAGS: :Software:
+#+TITLE: AWS fundamentals
+#+FILETAGS: :Cloud:Software:
 #+STARTUP: hideallblocks, content
+
+See also [[id:be4c0342-3c8d-49ac-8046-f36b65361d72][Apache projects]].
 
 * AWS cloud services                                                 :Review:
 :PROPERTIES:
 :ID:       01fd57e7-4ac5-420b-8384-062995f1ee51
 :END:
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-11-07 Fri 09:15]
+#+CAPTION: Clock summary at [2025-12-11 Thu 06:54]
 | Headline           | Time   |      |
 |--------------------+--------+------|
 | *Total time*       | *7:29* |      |
@@ -418,6 +420,24 @@ Thus, you can use multiple AWS architectures for your applications.
    - Security
 
 
+* Learning project for AWS
+:PROPERTIES:
+:ID:       0ed956b1-7a46-41f8-9823-03db651ce312
+:END:
+
+Setup an AWS EC2 Linux instance or an AWS Lambda so that I can do the
+following regularly.
+
+- Startup the instance
+- Git checkout my repositories
+- Run Emacs
+- Update Org files
+- Run copy_Google_tasks.py
+- Git commit the results
+- Teardown the instance
+
+Pricing:  [[https://aws.amazon.com/ec2/pricing/on-demand/]]
+
 * Comparison of Azure and AWS services                               :Review:
 :PROPERTIES:
 :ID:       4864503f-e8d4-446c-9f46-5025058732d9
@@ -460,58 +480,16 @@ Thus, you can use multiple AWS architectures for your applications.
 |            | Manage application secrets securely.                 | Secrets Manager                      | Azure Key Vault / Managed Identity        |
 |------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
 
-* Comparison of data and AI/ML services
+** Comparison of data and AI/ML services
 
-|------------------------------+-------------------------------------+--------------------------------------|
-| *Capability*                 | *AWS Service*                       | *Azure Service*                      |
-|------------------------------+-------------------------------------+--------------------------------------|
-| Data Lake                    | Amazon S3 + AWS Lake Formation      | Azure Data Lake Storage (ADLS)       |
-| Data Catalog / ETL           | AWS Glue                            | Azure Data Factory + Data Catalog    |
-| Data Warehouse               | Amazon Redshift                     | Azure Synapse Analytics              |
-| Machine Learning Platform    | Amazon SageMaker                    | Azure Machine Learning (Azure ML)    |
-|------------------------------+-------------------------------------+--------------------------------------|
-
-* Comparison of Apache and CNCF projects
-
-CNCF addresses runtime infrastructure. It answers the question: How
-do we run and observe cloud applications safely, reliably, and portably?
-
-Apache addresses data and compute frameworks. It answers the question:
-How do we move, transform, and analyze data efficiently and scalably?
-
-You can think of CNCF tools as horizontal enablers, and Apache tools
-as vertical data capabilities. In cloud-native data platforms, you
-often run Apache tools on CNCF infrastructure.
-
-|---------------------------+------------------------------------------+----------------------------------+---------------------|
-| Layer                     | Representative Technologies / Tools      | Notes / Ecosystem                | Open-source project |
-|---------------------------+------------------------------------------+----------------------------------+---------------------|
-| Business intelligence     | Superset, Metabase, Grafana, Redash      | Visualization and BI dashboards  | Apache              |
-| Query / analytics         | Druid, Hive, Trino                       | OLAP engines and query layers    | Apache              |
-| Data processing           | Spark, Flink, Beam, Airflow              | ETL and stream/batch computation | Apache              |
-| Data ingestion            | Kafka, NiFi, Pulsar, Debezium            | Data capture and event streams   | Apache              |
-| Data storage              | Hudi, Iceberg, Parquet, HDFS             | Data lakes and table formats     | Apache              |
-| Infrastructure            | Kubernetes, Helm, Argo, Prometheus, etc. | Ecosystem for orchestration      | CNCF                |
-| Cloud provider / hardware | AWS, GCP, Azure, Bare Metal              | Underlying compute and storage   |                     |
-|---------------------------+------------------------------------------+----------------------------------+---------------------|
-
-* Learning project for AWS
-:PROPERTIES:
-:ID:       0ed956b1-7a46-41f8-9823-03db651ce312
-:END:
-
-Setup an AWS EC2 Linux instance or an AWS Lambda so that I can do the
-following regularly.
-
-- Startup the instance
-- Git checkout my repositories
-- Run Emacs
-- Update Org files
-- Run copy_Google_tasks.py
-- Git commit the results
-- Teardown the instance
-
-Pricing:  [[https://aws.amazon.com/ec2/pricing/on-demand/]]
+|---------------------------+--------------------------------+-----------------------------------|
+| *Capability*              | *AWS Service*                  | *Azure Service*                   |
+|---------------------------+--------------------------------+-----------------------------------|
+| Data Lake                 | Amazon S3 + AWS Lake Formation | Azure Data Lake Storage (ADLS)    |
+| Data Catalog / ETL        | AWS Glue                       | Azure Data Factory + Data Catalog |
+| Data Warehouse            | Amazon Redshift                | Azure Synapse Analytics           |
+| Machine Learning Platform | Amazon SageMaker               | Azure Machine Learning (Azure ML) |
+|---------------------------+--------------------------------+-----------------------------------|
 
 * Links and other logistics
 

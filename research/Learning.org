@@ -57,15 +57,16 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO [#C] Complete [[elisp:(org-agenda t "lt")][learning task]]
-   SCHEDULED: <2025-12-10 Wed 06:00 +1d>
+   SCHEDULED: <2025-12-11 Thu 06:00 +1d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-12-09 Tue 14:51]
+   :LAST_REPEAT: [2025-12-10 Wed 09:42]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2025-12-10 Wed 09:42]
    - State "DONE"       from "TODO"       [2025-12-09 Tue 14:51]
    - State "DONE"       from "TODO"       [2025-12-08 Mon 08:36]
    - State "DONE"       from "TODO"       [2025-12-07 Sun 09:32]
@@ -399,6 +400,7 @@ SCHEDULED: <2025-12-06 Sat +1d>
 - State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
 - State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
 :LOGBOOK:
+CLOCK: [2025-12-11 Thu 06:33]--[2025-12-11 Thu 08:09] =>  1:36
 CLOCK: [2025-12-04 Thu 11:11]--[2025-12-04 Thu 12:31] =>  1:20
 CLOCK: [2025-12-03 Wed 07:06]--[2025-12-03 Wed 09:36] =>  2:30
 CLOCK: [2025-12-02 Tue 07:02]--[2025-12-02 Tue 08:01] =>  0:59
@@ -439,4 +441,14 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
+   :END:
+** DONE Take notes on Thinking fast and slow
+   SCHEDULED: <2025-12-10 Wed>
+   :PROPERTIES:
+   :EFFORT: 02:00
+   :BENEFIT: 250
+   :END:
+   - State "DONE"       from "TODO"       [2025-12-10 Wed 09:42]
+   :LOGBOOK:
+   CLOCK: [2025-12-10 Wed 06:01]--[2025-12-10 Wed 08:31] =>  2:30
    :END:
