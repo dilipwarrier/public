@@ -57,15 +57,16 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO [#C] Complete [[elisp:(org-agenda t "lt")][learning task]]
-   SCHEDULED: <2025-12-14 Sun 06:00 +1d>
+   SCHEDULED: <2025-12-15 Mon 06:00 +1d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-12-13 Sat 21:36]
+   :LAST_REPEAT: [2025-12-14 Sun 14:55]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2025-12-14 Sun 14:55]
    - State "DONE"       from "TODO"       [2025-12-13 Sat 21:36]
    - State "DONE"       from "TODO"       [2025-12-12 Fri 10:32]
    - State "DONE"       from "TODO"       [2025-12-10 Wed 09:42]
@@ -175,6 +176,17 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
    :ARCHIVE_TIME: 2025-11-02 Sun 16:27
    :END:
 
+*** DONE Take notes on Thinking fast and slow
+   SCHEDULED: <2025-12-10 Wed>
+   :PROPERTIES:
+   :EFFORT: 02:00
+   :BENEFIT: 250
+   :ARCHIVE_TIME: 2025-12-14 Sun 10:49
+   :END:
+   - State "DONE"       from "TODO"       [2025-12-10 Wed 09:42]
+   :LOGBOOK:
+   CLOCK: [2025-12-10 Wed 06:01]--[2025-12-10 Wed 08:31] =>  2:30
+   :END:
 ** TODO [#E] Read [[https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/][Measuring developer productivity with DX Core 4]]
 :PROPERTIES:
 :EFFORT:  00:15
@@ -377,7 +389,7 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
 
 
 ** TODO Read Apache Spark book with Pandas (248/500) (~500 pages at 10 pages/hour)
-SCHEDULED: <2025-12-13 Sat +1d>
+SCHEDULED: <2025-12-15 Mon +1d>
 :PROPERTIES:
 :EFFORT:  50:00
 :BENEFIT: 2000
@@ -445,14 +457,4 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
-   :END:
-** DONE Take notes on Thinking fast and slow
-   SCHEDULED: <2025-12-10 Wed>
-   :PROPERTIES:
-   :EFFORT: 02:00
-   :BENEFIT: 250
-   :END:
-   - State "DONE"       from "TODO"       [2025-12-10 Wed 09:42]
-   :LOGBOOK:
-   CLOCK: [2025-12-10 Wed 06:01]--[2025-12-10 Wed 08:31] =>  2:30
    :END:
