@@ -7,10 +7,9 @@
 :ID:       20490abc-0f84-4536-aeb1-e9a37bea6812
 :END:
 
-In the field of positive psychology, a concept related to Happiness is
-Subjective Well-Being (SWB), pioneered by Ed Diener. Diener suggests
-that SWB consists of two components, Affective Balance and Life
-Satisfaction. The SWB score is the sum of the two scores.
+Ed Diener pioneered the concept of Subjective Well-Being (SWB). He
+suggests that SWB consists of two components, Affective Balance and
+Life Satisfaction. The SWB score is the sum of the two scores.
 
 #+BEGIN_SRC python :results file graphics :exports results :file autogen_SWB.png :eval yes
   import matplotlib.pyplot as plt
@@ -120,8 +119,13 @@ long-term.
 | FERGAP           | CSLGEH              |
 |------------------+---------------------|
 
+*** The source of true happiness
+:PROPERTIES:
+:ID:       f3c5151b-e88c-42f8-837b-a7794d2ba35b
+:END:
+
 Marcus Aurelius suggests in "Meditations" that strengthening the
-values on the right may be the true path to happiness. These values
+values on the right is the true path to happiness. These values
 are entirely in our character and, hence, entirely within our
 control. Everything else - health, wealth, etc - are not
 within our control.
@@ -139,9 +143,11 @@ is when you rue a decision based on an unfavorable outcome.
 
 There are people in the world who are doing greater and better things
 than you are. So, you can strive to be humble about whatever you have
-accomplished. At the same time, if you do not commit unethical or
-illegal acts and if you have helped others, you can be justifiably
-proud of such actions.
+accomplished.
+
+At the same time, if you do not commit unethical or
+illegal acts and if you have helped others, you have done more than
+many people. So, you can be justifiably proud of such actions.
 
 ** Life Satisfaction
 :PROPERTIES:
@@ -151,7 +157,7 @@ proud of such actions.
 Life Satisfaction (LS) is the satisfaction with important life
 domains - society, work, and self. This is a cognitive measure
 i.e. it is how you would evaluate life if you stepped back to reflect
-on it. Life Satisfaction is more long-term while Affective Balance can
+on it. LS is more long-term while Affective Balance can
 show short-term fluctuations.
 
 One of the most important influences on LS is social
@@ -223,15 +229,7 @@ mind, until it becomes second nature.
 Boredom is the fate of those who rely entirely on distraction, for
 whom life is one big entertainment.
 
-** Quotes
-
-*** Matthieu Ricard: What do you need to accomplish or what do you need to discard in order to achieve well-being and live a meaningful life? :quotes:
-
-*** Matthieu Ricard: Why don't we devote even the briefest of moments once a day to introspection? :quotes:
-
-** References
-
-- Matthieu Ricard, "Happiness"
+See also [[id:f3c5151b-e88c-42f8-837b-a7794d2ba35b][The source of true happiness]].
 
 * Measurements of quality of life                                    :Review:
 
@@ -258,8 +256,13 @@ UK.
 
 ** King Crimson: I'm happy with what I have to be happy with         :quotes:
 
+** Matthieu Ricard: What do you need to accomplish or what do you need to discard in order to achieve well-being and live a meaningful life? :quotes:
+
+** Matthieu Ricard: Why don't we devote even the briefest of moments once a day to introspection? :quotes:
+
 * References
 
 - Jonathan Haidt, The Happiness Hypothesis
 - Edward Diener and Robert Biswas-Diener, Happiness
 - Sonja Lyubomirsky, The How of Happiness
+- Matthieu Ricard, "Happiness"
