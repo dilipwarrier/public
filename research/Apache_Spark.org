@@ -230,8 +230,7 @@ with keys that exist in either.
   d2_spark = spark.createDataFrame(d2_pd)
 
   # Join the data frames in Pandas using Age
-  d1_pd.set_index('Age').\
-      join(d2_pd.set_index('Age'), how = "inner").show()
+  d1_pd.set_index('Age').join(d2_pd.set_index('Age'), how = "inner")
 
   # Join the data frames in Spark using Age
   d1_spark.join(d2_spark, d1_spark["Age"] == d2_spark["Age"], "inner").show()
