@@ -57,15 +57,16 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO [#C] Complete [[elisp:(org-agenda t "lt")][learning task]]
-   SCHEDULED: <2025-12-24 Wed 06:00 +1d>
+   SCHEDULED: <2025-12-25 Thu 06:00 +1d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2025-12-23 Tue 16:17]
+   :LAST_REPEAT: [2025-12-24 Wed 08:43]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2025-12-24 Wed 08:43]
    - State "DONE"       from "TODO"       [2025-12-23 Tue 16:17]
    - State "DONE"       from "TODO"       [2025-12-22 Mon 15:05]
    - State "DONE"       from "TODO"       [2025-12-21 Sun 20:49]
@@ -398,7 +399,7 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
 
 
 ** TODO [#B] Read Apache Spark book with Pandas (248/500) (~500 pages at 10 pages/hour)
-SCHEDULED: <2025-12-22 Mon +1d>
+SCHEDULED: <2026-01-02 Fri +1d>
 :PROPERTIES:
 :EFFORT:  50:00
 :BENEFIT: 2000
