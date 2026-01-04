@@ -12,12 +12,12 @@
 :VALUE:    N/A
 :END:
 
-** TODO [#A] Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates :Cloud:
+** TODO [#E] Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates :Cloud:
    :PROPERTIES:
    :EFFORT: 04:00
    :BENEFIT:  500
    :RATIO: 1.25
-   :PRIORITY_NUM: 5
+   :PRIORITY_NUM: 1
    :VALUE:    100.00
    :END:
 
@@ -57,15 +57,16 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO [#C] Complete [[elisp:(org-agenda t "lt")][learning task]]
-   SCHEDULED: <2026-01-03 Sat 06:00 +1d>
+   SCHEDULED: <2026-01-04 Sun 06:00 +1d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-01-03 Sat 08:58]
+   :LAST_REPEAT: [2026-01-03 Sat 11:26]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2026-01-03 Sat 11:26]
    - State "DONE"       from "TODO"       [2026-01-03 Sat 08:58]
    - State "DONE"       from "TODO"       [2026-01-01 Thu 10:21]
    - State "DONE"       from "TODO"       [2025-12-24 Wed 08:43]
@@ -199,6 +200,68 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
    :LOGBOOK:
    CLOCK: [2025-12-10 Wed 06:01]--[2025-12-10 Wed 08:31] =>  2:30
    :END:
+
+** TODO [#A] Complete Coursera specialization on [[https://www.coursera.org/specializations/build-genai-applications-and-agents][Building GenAI applications and agents]]
+SCHEDULED: <2026-01-03 Sat +1d>
+:PROPERTIES:
+:EFFORT:  10:00
+:BENEFIT: 5000
+:COST: 200
+:VALUE:    3800.00
+:PRIORITY_NUM: 5
+:END:
+:LOGBOOK:
+CLOCK: [2026-01-03 Sat 21:19]--[2026-01-03 Sat 22:19] =>  1:00
+CLOCK: [2026-01-02 Fri 07:35]--[2026-01-02 Fri 09:35] =>  2:00
+:END:
+
+
+** TODO [#E] Read Apache Spark book with Pandas (248/500) (~500 pages at 10 pages/hour)
+:PROPERTIES:
+:EFFORT:  50:00
+:BENEFIT: 2000
+:RATIO: 0.40
+:LAST_REPEAT: [2025-12-12 Fri 10:32]
+:VALUE:    -3000.00
+:PRIORITY_NUM: 1
+:END:
+- State "DONE"       from "TODO"       [2025-12-12 Fri 10:32]
+- State "DONE"       from "TODO"       [2025-12-04 Thu 12:31]
+- State "DONE"       from "TODO"       [2025-12-03 Wed 09:37]
+- State "DONE"       from "TODO"       [2025-12-02 Tue 08:01]
+- State "DONE"       from "TODO"       [2025-12-01 Mon 08:27]
+- State "DONE"       from "TODO"       [2025-11-17 Mon 08:23]
+- State "DONE"       from "TODO"       [2025-11-12 Wed 07:53]
+- State "DONE"       from "TODO"       [2025-11-11 Tue 07:59]
+- State "DONE"       from "TODO"       [2025-11-07 Fri 16:33]
+- State "DONE"       from "TODO"       [2025-11-07 Fri 16:33]
+- State "DONE"       from "TODO"       [2025-11-07 Fri 16:32]
+- State "DONE"       from "TODO"       [2025-11-07 Fri 09:01]
+- State "DONE"       from "TODO"       [2025-11-06 Thu 08:26]
+- State "DONE"       from "TODO"       [2025-11-06 Thu 08:26]
+- State "DONE"       from "TODO"       [2025-11-05 Wed 08:01]
+- State "DONE"       from "TODO"       [2025-11-03 Mon 08:26]
+- State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
+- State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
+:LOGBOOK:
+CLOCK: [2025-12-12 Fri 06:21]--[2025-12-12 Fri 10:21] =>  4:00
+CLOCK: [2025-12-11 Thu 06:33]--[2025-12-11 Thu 08:09] =>  1:36
+CLOCK: [2025-12-04 Thu 11:11]--[2025-12-04 Thu 12:31] =>  1:20
+CLOCK: [2025-12-03 Wed 07:06]--[2025-12-03 Wed 09:36] =>  2:30
+CLOCK: [2025-12-02 Tue 07:02]--[2025-12-02 Tue 08:01] =>  0:59
+CLOCK: [2025-12-01 Mon 06:27]--[2025-12-01 Mon 08:27] =>  2:00
+CLOCK: [2025-11-17 Mon 06:33]--[2025-11-17 Mon 08:23] =>  1:50
+CLOCK: [2025-11-12 Wed 06:24]--[2025-11-12 Wed 07:48] =>  1:24
+CLOCK: [2025-11-11 Tue 06:29]--[2025-11-11 Tue 07:59] =>  1:30
+CLOCK: [2025-11-07 Fri 06:36]--[2025-11-07 Fri 09:01] =>  2:25
+CLOCK: [2025-11-06 Thu 06:35]--[2025-11-06 Thu 08:25] =>  1:50
+CLOCK: [2025-11-05 Wed 06:54]--[2025-11-05 Wed 07:49] =>  0:55
+CLOCK: [2025-11-03 Mon 07:55]--[2025-11-03 Mon 08:24] =>  0:29
+CLOCK: [2025-10-29 Wed 07:26]--[2025-10-29 Wed 08:26] =>  1:00
+CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
+:END:
+
+
 ** TODO [#E] Read [[https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/][Measuring developer productivity with DX Core 4]]
 :PROPERTIES:
 :EFFORT:  00:15
@@ -278,7 +341,7 @@ SCHEDULED: <2026-05-31 Sun +52w>
 CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
 :END:
 
-** TODO [#E] Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
+** DONE [#E] Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
   :PROPERTIES:
   :EFFORT: 00:15
   :BENEFIT: 10
@@ -286,6 +349,8 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
   :PRIORITY_NUM: 1
   :VALUE:    -15.00
   :END:
+
+  - State "DONE"       from "TODO"       [2026-01-03 Sat 09:50]
 
 ** TODO [#E] Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]]
    :PROPERTIES:
@@ -400,73 +465,19 @@ CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
    :END:
 
 
-** TODO [#B] Read Apache Spark book with Pandas (248/500) (~500 pages at 10 pages/hour)
-SCHEDULED: <2026-01-02 Fri +1d>
-:PROPERTIES:
-:EFFORT:  50:00
-:BENEFIT: 2000
-:RATIO: 0.40
-:LAST_REPEAT: [2025-12-12 Fri 10:32]
-:END:
-- State "DONE"       from "TODO"       [2025-12-12 Fri 10:32]
-- State "DONE"       from "TODO"       [2025-12-04 Thu 12:31]
-- State "DONE"       from "TODO"       [2025-12-03 Wed 09:37]
-- State "DONE"       from "TODO"       [2025-12-02 Tue 08:01]
-- State "DONE"       from "TODO"       [2025-12-01 Mon 08:27]
-- State "DONE"       from "TODO"       [2025-11-17 Mon 08:23]
-- State "DONE"       from "TODO"       [2025-11-12 Wed 07:53]
-- State "DONE"       from "TODO"       [2025-11-11 Tue 07:59]
-- State "DONE"       from "TODO"       [2025-11-07 Fri 16:33]
-- State "DONE"       from "TODO"       [2025-11-07 Fri 16:33]
-- State "DONE"       from "TODO"       [2025-11-07 Fri 16:32]
-- State "DONE"       from "TODO"       [2025-11-07 Fri 09:01]
-- State "DONE"       from "TODO"       [2025-11-06 Thu 08:26]
-- State "DONE"       from "TODO"       [2025-11-06 Thu 08:26]
-- State "DONE"       from "TODO"       [2025-11-05 Wed 08:01]
-- State "DONE"       from "TODO"       [2025-11-03 Mon 08:26]
-- State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
-- State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
-:LOGBOOK:
-CLOCK: [2025-12-12 Fri 06:21]--[2025-12-12 Fri 10:21] =>  4:00
-CLOCK: [2025-12-11 Thu 06:33]--[2025-12-11 Thu 08:09] =>  1:36
-CLOCK: [2025-12-04 Thu 11:11]--[2025-12-04 Thu 12:31] =>  1:20
-CLOCK: [2025-12-03 Wed 07:06]--[2025-12-03 Wed 09:36] =>  2:30
-CLOCK: [2025-12-02 Tue 07:02]--[2025-12-02 Tue 08:01] =>  0:59
-CLOCK: [2025-12-01 Mon 06:27]--[2025-12-01 Mon 08:27] =>  2:00
-CLOCK: [2025-11-17 Mon 06:33]--[2025-11-17 Mon 08:23] =>  1:50
-CLOCK: [2025-11-12 Wed 06:24]--[2025-11-12 Wed 07:48] =>  1:24
-CLOCK: [2025-11-11 Tue 06:29]--[2025-11-11 Tue 07:59] =>  1:30
-CLOCK: [2025-11-07 Fri 06:36]--[2025-11-07 Fri 09:01] =>  2:25
-CLOCK: [2025-11-06 Thu 06:35]--[2025-11-06 Thu 08:25] =>  1:50
-CLOCK: [2025-11-05 Wed 06:54]--[2025-11-05 Wed 07:49] =>  0:55
-CLOCK: [2025-11-03 Mon 07:55]--[2025-11-03 Mon 08:24] =>  0:29
-CLOCK: [2025-10-29 Wed 07:26]--[2025-10-29 Wed 08:26] =>  1:00
-CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
-:END:
-
-
-** TODO [#E] Review Andrew Ng course on Agentic AI
-   :PROPERTIES:
-   :EFFORT: 10:00
-   :BENEFIT: 1000
-   :RATIO: 1.00
-   :LAST_REPEAT: [2025-11-05 Wed 16:44]
-   :PRIORITY_NUM: 1
-   :VALUE:    0.00
-   :END:
-   - State "DONE"       from "TODO"       [2025-11-05 Wed 16:44]
-   :LOGBOOK:
-   CLOCK: [2025-11-05 Wed 16:03]--[2025-11-05 Wed 16:43] =>  0:40
-   :END:
-
-** TODO Subscribe to eclipse threadx and freertos newsletters         :Learning:
+** TODO [#E] Subscribe to eclipse threadx and freertos newsletters :Learning:
 :PROPERTIES:
 :EFFORT: 00:15
 :BENEFIT: 10
 :RATIO: 0.40
+:VALUE:    -15.00
+:PRIORITY_NUM: 1
 :END:
-** TODO Read [[https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07?st=3Sx9NK][Europe green energy issues]]
+
+** TODO [#E] Read [[https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07?st=3Sx9NK][Europe green energy issues]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
+   :VALUE:    0.00
+   :PRIORITY_NUM: 1
    :END:
