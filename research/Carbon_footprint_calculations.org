@@ -33,7 +33,6 @@ print("1 year of battery only in the RAV4 Prime causes %.2f tons of CO2" % (f3*f
 : 1 year in the RAV4 hybrid causes 2.23 tons of CO2
 : 1 year of battery only in the RAV4 Prime causes 1.71 tons of CO2
 
-
 * CO2 emissions from flights                                         :Review:
 
 From [[https://ourworldindata.org/travel-carbon-footprint][Our World in data]],
@@ -77,37 +76,34 @@ appropriate metric to use.
 
 * Plant-based diets                                                  :Review:
 
-   From [[https://ourworldindata.org/carbon-opportunity-costs-food][Our World in Data]], plant-based diets have the best properties
-   of opportunity cost (saved agricultural land can be converted into
-   forests to act as carbon sinks) and GHG reductions. However,
-   removing meat and milk from the diet (keeping eggs and fish) gets
-   you most of the improvements.
+From [[https://ourworldindata.org/carbon-opportunity-costs-food][Our World in Data]], plant-based diets have the best properties
+of opportunity cost (saved agricultural land can be converted into
+forests to act as carbon sinks) and GHG reductions. However,
+removing meat and milk from the diet (keeping eggs and fish) gets
+you most of the improvements.
 
-   [[./Screenshot 2021-08-01 121119.png]]
+[[./Screenshot 2021-08-01 121119.png]]
 
-   Plant-based diets are better than meat-based diets even when you
-   [[https://ourworldindata.org/less-meat-or-sustainable-meat?country=][normalize for protein production]].
-
+Plant-based diets are better than meat-based diets even when you
+[[https://ourworldindata.org/less-meat-or-sustainable-meat?country=][normalize for protein production]].
 
 * Contribution of various stages of food production                  :Review:
 
-  Food production accounts for 25% of GHG emissions (CO2, CH4 and
-  N2O). Within food production, land use change (converting grasslands
-  to agricultural land) and farm-stage processes (fertilizer
-  application and methane generated in the bellies of cows) account
-  for a majority of GHG emission. All stages after the farm account
-  for 10% or less (see [[./Screenshot Environmental impact.png][this picture]]). So, "eating local" doesn't help
-  with GHGs. Removing meat and milk-based products as seen in
-  [[Plant-based diets]] does help.
+Food production accounts for 25% of GHG emissions (CO2, CH4 and
+N2O). Within food production, land use change (converting grasslands
+to agricultural land) and farm-stage processes (fertilizer
+application and methane generated in the bellies of cows) account
+for a majority of GHG emission. All stages after the farm account
+for 10% or less (see [[./Screenshot Environmental impact.png][this picture]]). So, "eating local" doesn't help
+with GHGs. Removing meat and milk-based products as seen in
+[[Plant-based diets]] does help.
 
-  The only exception is that you shouldn't eat
-  air-freighted foods: those tend to be foods that need to stay fresh
-  and come from a far distance. However, it is hard to know which ones
-  those are and they tend to be rare.
-
+The only exception is that you shouldn't eat
+air-freighted foods: those tend to be foods that need to stay fresh
+and come from a far distance. However, it is hard to know which ones
+those are and they tend to be rare.
 
 * Tasks
-
 
 ** TODO [#E] Calculate the carbon and water footprint for my house :Learning:
 :PROPERTIES:

@@ -26,8 +26,6 @@ and PHEVs.
 
 Source: [[https://www.iea.org/data-and-statistics/charts/electric-car-registrations-and-sales-share-in-china-united-states-and-europe-2018-2023][IEA outlook]]
 
-
-
 ** US BEV sales
 
 |----------------+---------------------+------------------------|
@@ -52,7 +50,6 @@ Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGP
 In 2024, S&P Mobility predicted that US BEV sales will only be at 5M
 units in 2030, down from a previous projection of 6.5M. This means
 that BEVs will account for 30% of a total US auto sales of about 16M.
-
 
 ** EV Volumes 2023
 :PROPERTIES:
@@ -86,7 +83,6 @@ Source: EV Volumes forecast in 2023
 The total car sales (BEV, PHEV, ICE, etc.) in the US in CY23 is
 estimated to be at about 15M. This is down from a high in CY19
 (pre-pandemic) of about 17M.
-
 
 * Picture of automotive engine                                       :Review:
 
@@ -265,7 +261,6 @@ estimated to be at about 15M. This is down from a high in CY19
   The article cautions, though, that newer Tesla models have heating
   pumps and advanced thermal management that may reduce this
   variation.
-
 
 * EV fires                                                           :Review:
 
