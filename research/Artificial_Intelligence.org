@@ -1,4 +1,4 @@
-#+TITLE: Interesting facts/news in neural networks/AI
+#+TITLE: Interesting facts/news in AI
 #+FILETAGS: :AI:
 
 * My learnings with AI agents
@@ -17,6 +17,7 @@ SCHEDULED: <2026-01-05 Mon +1d>
 :PRIORITY_NUM: 5
 :END:
 :LOGBOOK:
+CLOCK: [2026-01-06 Tue 06:27]
 CLOCK: [2026-01-05 Mon 06:34]--[2026-01-05 Mon 08:34] =>  2:00
 CLOCK: [2026-01-03 Sat 21:19]--[2026-01-03 Sat 22:19] =>  1:00
 CLOCK: [2026-01-02 Fri 07:35]--[2026-01-02 Fri 09:35] =>  2:00
@@ -75,7 +76,8 @@ to outcomes. They choose actions that maximize expected utility, not
 just goal achievement. This allows trade-offs between competing
 objectives.
 
-Example: A self-driving car balancing speed, safety, and passenger comfort.
+Example: A self-driving car balancing speed, safety, and passenger
+comfort.
 
 ** Learning agents
 
@@ -84,7 +86,8 @@ experience. They adapt by updating their knowledge, rules, or
 models. This allows them to operate effectively in changing or unknown
 environments.
 
-Example: A recommendation system that improves suggestions based on user feedback.
+Example: A recommendation system that improves suggestions based on
+user feedback.
 
 ** Planning agents
 
@@ -101,6 +104,42 @@ total travel time.
 - [[https://aima.cs.berkeley.edu][Artificial Intelligence: A Modern Approach (Russell & Norvig) – foundational text on AI agents]]
 - [[https://www.ibm.com/topics/artificial-intelligence][IBM overview of artificial intelligence concepts and agent types]]
 - [[https://www.geeksforgeeks.org/intelligent-agents-in-artificial-intelligence/][GeeksforGeeks article on intelligent agents with examples]]
+
+* Characteristics of AI agent design
+
+To design a good AI agent, one should consider the following
+properties.
+
+** Role focus
+
+It is usually best to focus the role of an AI agent e.g. a role could
+be a "board-certified endocrinologist with decades of clinical and
+surgical experience" when you are searching for medical advice related
+to diabetes.
+
+** Tools
+
+An agent should only have access to tools that it needs to complete the
+job. This makes the design of the agent efficient.
+
+** Co-operation
+
+Multiple discrete agents collaborating with each other can work more
+efficiently than one large agent with multiple tools. A design may
+consist of one agent planning the work to complete a task and then
+distributing that work to other agents.
+
+** Guardrails
+
+An agent can get stuck in a loop trying a tool multiple
+times. Guardrails ensure that the agent gets out of such endless
+loops.
+
+** Memory
+
+In addition to task-specific memory, agents can also maintain
+long-term memory. This ensures that the quality of the agent's work
+improves over time.
 
 * Generative AI                                                      :Review:
 
