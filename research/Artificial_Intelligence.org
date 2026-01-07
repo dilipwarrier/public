@@ -5,19 +5,21 @@
 
 Coursera specialization: [[https://www.coursera.org/specializations/build-genai-applications-and-agents][Building GenAI applications and agents]]
 
-Reached [[https://www.coursera.org/learn/building-ai-agents-automation-and-nlp-foundations/lecture/FHIMV/what-are-the-key-elements-of-ai-agents][here]]
+Reached [[https://www.coursera.org/learn/implementation-of-genai-agents/lecture/p1JZF/structuring-your-agents-knowledge-base][here]].
 
 ** TODO [#A] Work on Coursera specialization on [[https://www.coursera.org/specializations/build-genai-applications-and-agents][Building GenAI applications and agents]] :Learning:
-SCHEDULED: <2026-01-05 Mon +1d>
+SCHEDULED: <2026-01-06 Tue +1d>
 :PROPERTIES:
 :EFFORT:  10:00
 :BENEFIT: 5000
 :COST: 200
 :VALUE:    3800.00
 :PRIORITY_NUM: 5
+:LAST_REPEAT: [2026-01-06 Tue 09:33]
 :END:
+- State "DONE"       from "TODO"       [2026-01-06 Tue 09:33]
 :LOGBOOK:
-CLOCK: [2026-01-06 Tue 06:27]
+CLOCK: [2026-01-06 Tue 06:27]--[2026-01-06 Tue 09:33] =>  3:06
 CLOCK: [2026-01-05 Mon 06:34]--[2026-01-05 Mon 08:34] =>  2:00
 CLOCK: [2026-01-03 Sat 21:19]--[2026-01-03 Sat 22:19] =>  1:00
 CLOCK: [2026-01-02 Fri 07:35]--[2026-01-02 Fri 09:35] =>  2:00
@@ -40,6 +42,23 @@ site. That worked.
 
 Created an OpenAI API call. Saved the resulting simple script in
 [[id:5e560df9-79b2-4600-95ee-f238c4bcae7d][OpenAI API key]].
+
+* OpenAI API
+
+** Installation
+
+See [[id:5e560df9-79b2-4600-95ee-f238c4bcae7d][OpenAI installation]]
+
+** Controlling randomness
+
+The input parameter temperature controls how adventurous the model is when selecting tokens:
+lower values (around 0–0.3) make output more deterministic and consistent,
+while higher values (around 0.7–1.3) increase creativity and variability.
+
+The parameter top_p, or nucleus sampling, limits choices to the smallest set of likely
+tokens whose cumulative probability is less than or equal to p. In practice,
+adjust only one parameter at a time: use temperature for simpler control,
+and top_p when you want probability-based filtering of token choices.
 
 * Types of AI agents                                                 :Review:
 
@@ -105,7 +124,7 @@ total travel time.
 - [[https://www.ibm.com/topics/artificial-intelligence][IBM overview of artificial intelligence concepts and agent types]]
 - [[https://www.geeksforgeeks.org/intelligent-agents-in-artificial-intelligence/][GeeksforGeeks article on intelligent agents with examples]]
 
-* Characteristics of AI agent design
+* Characteristics of AI agent design                                 :Review:
 
 To design a good AI agent, one should consider the following
 properties.
