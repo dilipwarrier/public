@@ -60,6 +60,19 @@ stations in thousands in the US.
 
 Source: [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][DoE site]]
 
+*** TODO Update [[id:9f94c234-8138-48c1-9e67-7a97a066d91c][table]] with latest information on charging sites in the US :Browser:Home:
+SCHEDULED: <2026-04-05 Sun +12w>
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:LAST_REPEAT: [2026-01-11 Sun 10:47]
+:END:
+
+
+- State "DONE"       from "TODO"       [2026-01-11 Sun 10:47]
+- State "DONE"       from "TODO"       [2025-10-29 Wed 16:35]
+
 ** Growth trend for ports
 :PROPERTIES:
 :ID:       155a9380-eb88-4b00-9365-15511ce0c60f
@@ -198,18 +211,6 @@ Power rates are derived from [[id:5986ae17-caca-4f0e-b292-a053653165be][Electric
 [[https://www.embedded.com/the-impact-of-ocpp-in-the-ev-industry-and-evolution-from-ocpp1-6-to-ocpp2-1][Introduction article]] on OCPP
 
 * Tasks
-
-** TODO Update [[id:9f94c234-8138-48c1-9e67-7a97a066d91c][table]] with latest information on charging sites in the US :Browser:Home:
-SCHEDULED: <2026-01-11 Sun +12w>
-:PROPERTIES:
-:EFFORT:  00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:LAST_REPEAT: [2025-10-29 Wed 16:35]
-:END:
-
-
-- State "DONE"       from "TODO"       [2025-10-29 Wed 16:35]
 
 ** TODO Update [[id:e188834e-94ce-44a8-9ff2-3a99c8096ffe][Chargepoint]] and [[id:326fe6de-1cb4-476a-bee0-0583f2c203f9][EVGo]] earnings for the quarter :Browser:Home:
 SCHEDULED: <2026-03-24 Tue +12w>

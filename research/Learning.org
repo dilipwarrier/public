@@ -57,15 +57,17 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO [#C] Complete [[elisp:(org-agenda t "lt")][learning task]]
-   SCHEDULED: <2026-01-10 Sat 06:00 +1d>
+   SCHEDULED: <2026-01-12 Mon 06:00 +1d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-01-09 Fri 10:21]
+   :LAST_REPEAT: [2026-01-11 Sun 10:44]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2026-01-11 Sun 10:44]
+   - State "DONE"       from "TODO"       [2026-01-11 Sun 10:35]
    - State "DONE"       from "TODO"       [2026-01-09 Fri 10:21]
    - State "DONE"       from "TODO"       [2026-01-08 Thu 19:39]
    - State "DONE"       from "TODO"       [2026-01-08 Thu 17:02]
@@ -209,6 +211,18 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
    :END:
 
 
+*** DONE [#E] Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
+  :PROPERTIES:
+  :EFFORT: 00:15
+  :BENEFIT: 10
+  :RATIO: 0.40
+  :PRIORITY_NUM: 1
+  :VALUE:    -15.00
+  :ARCHIVE_TIME: 2026-01-11 Sun 10:46
+  :END:
+
+  - State "DONE"       from "TODO"       [2026-01-03 Sat 09:50]
+
 ** TODO [#E] Read Apache Spark book with Pandas (248/500) (~500 pages at 10 pages/hour)
 :PROPERTIES:
 :EFFORT:  50:00
@@ -333,17 +347,6 @@ SCHEDULED: <2026-05-31 Sun +52w>
 :LOGBOOK:
 CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
 :END:
-
-** DONE [#E] Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
-  :PROPERTIES:
-  :EFFORT: 00:15
-  :BENEFIT: 10
-  :RATIO: 0.40
-  :PRIORITY_NUM: 1
-  :VALUE:    -15.00
-  :END:
-
-  - State "DONE"       from "TODO"       [2026-01-03 Sat 09:50]
 
 ** TODO [#E] Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]]
    :PROPERTIES:
