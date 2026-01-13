@@ -61,7 +61,7 @@ Time travel
 
 Versioning
 
-Queryed via engines like Spark, Trino, Flink, Dremio, Snowflake (Iceberg tables)
+Queried via engines like Spark, Trino, Flink, Dremio, Snowflake (Iceberg tables)
 
 Used when you need large-scale analytics on massive datasets.
 
@@ -84,6 +84,10 @@ and monitoring batch-oriented workflows. It generates a Directed Acyclic
 Graph (DAG) to specify a workflow. It is written in pure Python.
 
 Kubernetes takes care of executing each of the tasks specified by Airflow.
+
+** References
+
+- [[https://airflow.apache.org/docs/apache-airflow/stable/index.html][Airflow documentation site]]
 
 * Apache and CNCF
 :PROPERTIES:
@@ -111,7 +115,3 @@ often run Apache tools on CNCF infrastructure.
 | Infrastructure            | Kubernetes, Helm, Argo, Prometheus, etc. | Ecosystem for orchestration      | CNCF                |
 | Cloud provider / hardware | AWS, GCP, Azure, Bare Metal              | Underlying compute and storage   |                     |
 |---------------------------+------------------------------------------+----------------------------------+---------------------|
-
-* References
-
-- [[https://airflow.apache.org/docs/apache-airflow/stable/index.html][Airflow documentation site]]

@@ -21,10 +21,10 @@
 | Total         | 10.5 | 13.8 | 17.0 |
 |---------------+------+------+------|
 
+Source: [[https://www.iea.org/data-and-statistics/charts/electric-car-registrations-and-sales-share-in-china-united-states-and-europe-2018-2023][IEA outlook]]
+
 Note that the numbers above are for EVs. That category includes BEVs
 and PHEVs.
-
-Source: [[https://www.iea.org/data-and-statistics/charts/electric-car-registrations-and-sales-share-in-china-united-states-and-europe-2018-2023][IEA outlook]]
 
 ** US BEV sales
 
@@ -77,6 +77,21 @@ Source: EV Volumes forecast in 2023
    Roughly 10M EVs were sold in 2022. So, this is a CAGR of 12% up
    to 2030. The CAGR for the hyper-adoption case is 21%.
 
+
+** TODO [#D] Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] and update [[id:1f2c0984-0b3d-49f9-804b-35d5df1e011f][EV market trends]]
+SCHEDULED: <2026-05-31 Sun +52w>
+:PROPERTIES:
+:EFFORT:  01:00
+:BENEFIT: 10
+:RATIO: 0.40
+:LAST_REPEAT: [2025-06-29 Sun 06:57]
+:PRIORITY_NUM: 2
+:VALUE:    -90.00
+:END:
+- State "DONE"       from "TODO"       [2025-06-29 Sun 06:57]
+:LOGBOOK:
+CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
+:END:
 
 * Total car sales in the US
 

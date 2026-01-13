@@ -67,7 +67,7 @@ In practice, you would adjust only one parameter at a time: use
 temperature for simpler control, and top_p when you want
 probability-based filtering of token choices.
 
-* Types of AI agents                                                 :Review:
+* Types of agents                                                 :Review:
 
 ** Simple reflex agents
 
@@ -76,7 +76,7 @@ condition–action rules. They do not maintain internal state or memory
 of past events. These agents work well only in fully observable,
 simple environments.
 
-Example: A thermostat that turns the heater on when temperature drops
+Example: A thermostat that turns the heater on when the temperature drops
 below a threshold.
 
 ** Model-based agents

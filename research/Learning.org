@@ -57,15 +57,16 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO [#C] Complete [[elisp:(org-agenda t "lt")][learning task]]
-   SCHEDULED: <2026-01-12 Mon 06:00 +1d>
+   SCHEDULED: <2026-01-13 Tue 06:00 +1d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-01-11 Sun 10:44]
+   :LAST_REPEAT: [2026-01-12 Mon 08:20]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2026-01-12 Mon 08:20]
    - State "DONE"       from "TODO"       [2026-01-11 Sun 10:44]
    - State "DONE"       from "TODO"       [2026-01-11 Sun 10:35]
    - State "DONE"       from "TODO"       [2026-01-09 Fri 10:21]
@@ -223,6 +224,18 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
 
   - State "DONE"       from "TODO"       [2026-01-03 Sat 09:50]
 
+** TODO [#D] Write doc on [[https://docs.google.com/document/d/1tN8tc0oYsAO_9QKacvlsWBKoIld-1UzQvW3cyf5VvaI/edit?usp=sharing][AI agent load management]]              :Learning:
+   SCHEDULED: <2026-01-15 Thu>
+   :PROPERTIES:
+   :EFFORT: 05:00
+   :BENEFIT: 2000
+   :VALUE:    1500.00
+   :PRIORITY_NUM: 2
+   :END:
+   :LOGBOOK:
+   CLOCK: [2026-01-12 Mon 06:21]--[2026-01-12 Mon 07:29] =>  1:08
+   :END:
+
 ** TODO [#E] Read Apache Spark book with Pandas (248/500) (~500 pages at 10 pages/hour)
 :PROPERTIES:
 :EFFORT:  50:00
@@ -332,21 +345,6 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
 
    - State "DONE"       from "TODO"       [2025-04-12 Sat 18:16]
    - State "DONE"       from "TODO"       [2024-04-20 Sat 13:38]
-
-** TODO [#D] Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] and update [[id:1f2c0984-0b3d-49f9-804b-35d5df1e011f][EV market trends]]
-SCHEDULED: <2026-05-31 Sun +52w>
-:PROPERTIES:
-:EFFORT:  01:00
-:BENEFIT: 10
-:RATIO: 0.40
-:LAST_REPEAT: [2025-06-29 Sun 06:57]
-:PRIORITY_NUM: 2
-:VALUE:    -90.00
-:END:
-- State "DONE"       from "TODO"       [2025-06-29 Sun 06:57]
-:LOGBOOK:
-CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
-:END:
 
 ** TODO [#E] Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]]
    :PROPERTIES:

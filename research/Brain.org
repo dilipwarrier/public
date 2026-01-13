@@ -51,27 +51,26 @@ overall process. This can be thought of as a feedback mechanism. In
 the Agile mindset, this can be the retrospective and the improvements
 from the retrospective.
 
-From the Proficient through the Expert phases, there is a phase
-transition in efficiency and intuition. The practitioner realizes that
-they are part of a system and yet they are not bogged down by the
-complexity of the overall system. They are able to identify the key
-elements of the system that provide leverage for the activity at hand.
+From the Proficient through the Expert phases, he practitioner
+realizes that they are part of a system and yet they are not bogged
+down by the complexity of the overall system. They are able to
+identify the key elements of the system that provide leverage for the
+activity at hand.
 
 An expert need not be a good teacher. Often, an expert does not have
 the patience to explain why they understand something
 intuitively. However, what they do appears effortless to the
-Beginner. Further, they are able to adapt their processes in the
-context of the larger system.
+beginner.
 
 In order to improve the level of proficiency, the nursing industry
 went through significant changes. Their lessons can be summarized as
 follows.
 - Individuals must accept the responsibility for continuous improvement.
-- Individuals must be able to practise as individual contributors
+- Individuals must be able to practise as individual practitioners
   throughout their career. Managers must set up compensation and
   recognition such that individuals can keep practising their
   expertise.
-- All must be aware of the tools trap. They must not assume that tools
+- Practitioners must be aware of the tools trap. They must not assume that tools
   alone can bring about process excellence.
 
 ** Andy Hunt: Software isn't designed in a tool, it is created in our heads. :quotes:
@@ -158,7 +157,7 @@ follows.
     will always shortchange someone. Sorry, that's a classroom –
     another point in favor of homeschooling.
 
-** Morpheus: Neo, there’s a difference between knowing the path and walking the path. :quotes:
+** Morpheus: Neo, there's a difference between knowing the path and walking the path. :quotes:
 
 ** References
 
@@ -171,14 +170,14 @@ follows.
 
 The brain can typically work in a Focused mode or a Diffuse mode.
 
-The Focused mode, or L-mode, is most useful when you are executing on
+The Focused mode is most useful when you are executing on
 a task. The Diffuse mode is when the mind is free and wanders. Western
 cultures especially emphasize spending time in Focused mode. However,
 to get creative ideas, you need to spend time in Diffuse mode. These
 modes are often called the L-mode (L for linear) and R-mode
 respectively.
 
-The Diffuse mode, or R-mode, allows the brain to work on the tough
+The Diffuse mode allows the brain to work on the tough
 problems and discover connections that you cannot find in Focused
 mode. The brain does Diffuse mode thinking when you go on a run or a walk
 without any other stimuli.
@@ -199,9 +198,7 @@ thinking, etc.
 - "Pragmatic Thinking and Learning" by Andy Hunt
 - [[https://www.coursera.org/learn/learning-how-to-learn/][Learning to learn]] Coursera course
 
-
 * Models of the brain                                                :Review:
-
 
 ** Making and maintaining memories
 
@@ -257,14 +254,14 @@ bias]].
 Our reasoning has not evolved to help us find truth. It has evolved to
 help us argue, persuade, and potentially manipulate other people.
 
-Reasoning can take us to almost any conclusion we want to reach,
-because we ask “Can I believe it?” when we want to believe something,
-but “Must I believe it?” when we don’t want to believe. The answer is
+Reasoning can take us to almost any conclusion we want to reach. We
+ask "Can I believe it?" when we want to believe something, but we ask
+"Must I believe it?" when we don't want to believe. The answer is
 almost always yes to the first question and no to the second.
 
 Understanding the argument from the other side is hard because our
-confirmation bias is a built-in feature (of an argumentative mind),
-and not a bug that can be removed (from a platonic mind).
+confirmation bias is a built-in feature and not a bug that can be
+removed.
 
 The key biases can be remembered by the acronym FFRACASS.
 
@@ -272,10 +269,10 @@ The key biases can be remembered by the acronym FFRACASS.
 
 Nothing In life is as important or as useful as you think it is.
 
-For instance, there is not a lot of correlation between wealth and
-happiness. Paraplegics are not as unhappy as non-paraplegics think
-they are. Living in California won't make you as happy as you think
-it will.
+For instance, there is very little correlation between wealth and
+happiness beyond a certain point. Paraplegics are not as unhappy as
+non-paraplegics think they are. Living in California won't make you as
+happy as you think it will.
 
 Similarly, people tend to look at new initiatives or new processes
 as cure-alls. They are usually not.
@@ -288,28 +285,28 @@ as cure-alls. They are usually not.
 When we see a first conclusion that matches our inherent biases,
 our mind shuts down to other possible explanations. As Charlie
 Munger famously pointed out, the mind works a bit like a sperm and
-egg: the first idea gets in and then the mind shuts.
+egg: the first idea gets in and then the mind shuts down.
 
 ** Representativeness bias
 
-   We do not consider base rates in our forecasting.
+We do not consider base rates in our forecasting.
 
-   For example, when determining the success of a new project, we
-   discount the failure rate of previous similar projects.
+For example, when determining the success of a new project, we
+ignore the failure rate of previous similar projects.
 
-   Another example: when asked "Donald Jones is of a retiring
-   nature. Is it more likely that he is a salesman or a
-   librarian?", most people guess that he is a
-   librarian. However, by Bayes' theorem:
+Another example: when asked "Donald Jones is of a retiring
+nature. Is it more likely that he is a salesman or a
+librarian?", most people guess that he is a
+librarian. However, by Bayes' theorem:
 
-   P[librarian/retiring] > P[salesman/retiring] <=>
-   P[retiring/librarian] / P[retiring/salesman] > P[salesman] /
-   P[librarian]
+P[librarian/retiring] > P[salesman/retiring] <=>
+P[retiring/librarian] / P[retiring/salesman] > P[salesman] /
+P[librarian]
 
-   In the base population of all men, salesmen are much more
-   likely than librarians. The probability of a male librarian
-   being retiring would have to be significantly higher than that
-   of a male salesman being retiring to overcome that.
+In the base population of all men, salesmen are much more
+likely than librarians. The probability of a male librarian
+being retiring would have to be significantly higher than that
+of a male salesman being retiring to overcome that.
 
 ** Availability bias
 :PROPERTIES:
@@ -322,7 +319,7 @@ crash or a terror attack.
 
 For some problems, we may also substitute an easier known problem and
 solution for the harder unknown problem. For instance, after 9/11,
-Americans may have assumed that the problem of securing planes is
+we assumed that the problem of securing planes is
 solved by having elaborate security check-in processes at airports.
 
 ** Confirmation bias
@@ -347,23 +344,23 @@ This is also called Fundamental Attribution Error.
 :ID:       076b2ef7-74a7-4f20-b507-937c0f1829a7
 :END:
 
-   We tend to seek safety in numbers and will look for social guidance
-   of our behavior.
+We tend to seek safety in numbers and will look for social guidance
+of our behavior.
 
-   This instinct creates a cohesive sense of cooperation and culture
-   which would not otherwise be possible but also leads us to do
-   foolish things if our group is doing them as well.
+This instinct creates a cohesive sense of cooperation and culture
+which would not otherwise be possible but also leads us to do
+foolish things if our group is doing them as well.
 
 ** Survivorship bias
 
-   We over-attribute success to things done by a successful agent
-   rather than to randomness or luck. Also, we often learn false
-   lessons by exclusively studying victors without seeing all the
-   accompanying losers who acted in the same way but did not
-   succeed. This has been highlighted in the business world by Phil
-   Rosenzweig.
+We over-attribute success to things done by a successful agent
+rather than to randomness or luck. Also, we often learn false
+lessons by exclusively studying victors without seeing all the
+accompanying losers who acted in the same way but did not
+succeed. This has been highlighted in the business world by Phil
+Rosenzweig.
 
-* System 1 and System 2 thinking
+* Type 1 and Type 2 processing
 :PROPERTIES:
 :ID:       eb1e2a5f-ba0d-4533-bfd5-ff8489a8cca8
 :END:
@@ -406,7 +403,7 @@ Another example is the Muller-Lyer visual illusion, shown below.
 
 [[file:Screenshot 2025-12-10 074744.png]]
 
-Our Type 1 automatically perceives the first line to be
+Type 1 processing automatically perceives the first line to be
 longer. In fact, the two lines are of equal length. We can not
 turn off this automatic perception by our Type 1 even if we are
 aware of the error.
@@ -425,13 +422,15 @@ attention budget. As a result, it is impossible to multi-task Type 2
 activities e.g. doing a complex multiplication problem while turning
 left in a car.
 
-If people first do an effortful task like eating a vegetable while resisting
-a cookie and are then asked to do a difficult cognitive task, they
-will give up on the cognitive task earlier. The first task causes a
-temporary depletion of effort that affects our performance on the second one.
-Physiologically, The nervous system uses a lot of glucose, especially for effortful
-activities. Replenishing glucose in between such effortful tasks can
-improve performance on later tasks.
+If people first do an effortful task like eating a vegetable while
+resisting a cookie and are then asked to do a difficult cognitive
+task, they will give up on the cognitive task earlier. The first task
+causes a temporary depletion of effort that affects our performance on
+the second one.
+
+Physiologically, the nervous system uses a lot of glucose, especially
+for effortful activities. Replenishing glucose in between such tasks
+can improve performance on later tasks.
 
 ** Type 3 processing
 :PROPERTIES:
@@ -439,14 +438,14 @@ improve performance on later tasks.
 :END:
 
 Keith Stanovich theorizes that the thinking mind consists of three parts:
-- Type 1 processing or the autonomous mind
-- Type 2 processing or the algorithmic mind
-- The reflective or rational mind, which decides when the judgments of the
-  autonomous mind will suffice versus when to employ the algorithmic
-  mind.
+Type 1 - Autonomous mind
+Type 2 - Algorithmic mind
+Type 3 - Reflective mind
 
-He further suggested that the reflective mind determines how rational
-a person is and has low correlation with the algorithmic mind.
+The reflective mind decides when the judgments of the autonomous mind
+will suffice versus when to employ the algorithmic mind. He further
+suggested that the reflective mind has low correlation with the
+algorithmic mind.
 
 ** References
 
@@ -457,7 +456,7 @@ a person is and has low correlation with the algorithmic mind.
 * Moral reasoning                                                    :Review:
 
 The principles of moral psychology are:
-1. Intuitions come first, strategic reasoning second.
+1. Intuitions come first, reasoning comes second.
 2. There's more to morality than harm and fairness (WEIRD morality).
 3. Morality binds and blinds.
 
@@ -465,7 +464,7 @@ The moral domain is unusually narrow in WEIRD (Western, educated,
 industrialized, rich, democratic) cultures, where it is largely
 limited to the ethic of autonomy (i.e., moral concerns about
 individuals harming, oppressing, or cheating other individuals). It is
-broader—including the ethics of community and divinity—in most other
+broader and includes the ethics of community and divinity in most other
 societies, and within religious and conservative moralities.
 
 Ethics of community: It would be nice if human beings could love all
@@ -480,7 +479,7 @@ people to become part of one large group with a common purpose. If you
 look only at the cost (injury to players, alcoholism, etc), you're
 missing the full picture.
 
-People have hypersensitive agency detectors: they see an agent behind
+People have hyper-sensitive agency detectors: they see an agent behind
 an action even when there isn't one. Evolution programmed us to have a
 high number of false positives in this aspect. This was the first step
 in developing religion. The second step was probably the cultural
