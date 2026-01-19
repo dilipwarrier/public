@@ -2,16 +2,16 @@
 #+FILETAGS: :Ethics:
 #+STARTUP: overview
 
-* Practical Ethics by Peter Singer                                   :Review:
+* Practical ethics by Peter Singer                                   :Review:
 
 Preference utilitarianism says that, if a person has a preference,
 then that preference should not be tampered with, all other things
 being equal. All people have a preference to stay alive, desires that
-they want to fulfill etc. So, killing them is not acceptable.
+they want to fulfill, etc. So, killing them is not acceptable.
 
 We can assume such preferences exist for beings that are aware of
 themselves and have an image of themselves in the past, present and
-future. Note that, for instance, a fish doesn't necessarily have this
+future. Note that, for instance, a fish does not necessarily have this
 self-image. However, it may still struggle when it's about to
 die. That is self-preservation which is separate from having a
 self-image in the future.
@@ -88,7 +88,7 @@ except us. So we have to do it. If we don’t, it will never stop.
 
 - Michael Huemer, "Dialogues on Ethical Vegetarianism"
 
-* The Life you can save by Peter Singer                              :Review:
+* The life you can save by Peter Singer                              :Review:
 
 10% of the world's population lives in extreme poverty (< $2/day) as
 of 2015. 85% lives on $30 or less per day.
@@ -194,10 +194,12 @@ being. Thus, an investment of $5000 today generates a lifetime
 revenue of $100,000. Let us assume that the investment is made in a
 newborn baby. Let us assume that this person generates no income for
 20 years and then generates $2.5k/year for 40 years. By this scheme,
-the NPV to that person is about $16k at a market rate of 5%.
+the NPV to that person is about $27k at a discount rate of 3.5%.
 
-Thus, for my donations, I can assume 16k/5k or a multiplier of 3
-for value. This assumes no employer matching.
+An alternate model is that a human life is worth roughly $1M over a
+lifetime or, say, $15k/year for 70 years. By spending $5k now, this is
+the utility that is realized. This provides an NPV of
+$390k at a discount rate of 3.5%.
 
 * Effective Altruism                                                 :Review:
 
@@ -241,7 +243,7 @@ reaching the age of 5 in 2023. These numbers were 17 million and 13.7%
 respectively 50 years ago. Thus, the numbers have gone down
 significantly both in absolute and fractional terms. However, 5
 million children dying every year is still a profound tragedy that
-deserves attention..
+deserves attention.
 
 * Political authority                                                :Review:
 

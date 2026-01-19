@@ -78,7 +78,7 @@ Source: EV Volumes forecast in 2023
    to 2030. The CAGR for the hyper-adoption case is 21%.
 
 
-** TODO [#D] Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] and update [[id:1f2c0984-0b3d-49f9-804b-35d5df1e011f][EV market trends]]
+** TODO [#D] Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] and update [[id:1f2c0984-0b3d-49f9-804b-35d5df1e011f][EV market trends]] :Learning:
 SCHEDULED: <2026-05-31 Sun +52w>
 :PROPERTIES:
 :EFFORT:  01:00
