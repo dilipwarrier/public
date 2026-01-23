@@ -57,15 +57,16 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO [#C] Complete [[elisp:(org-agenda t "lt")][learning task]]
-   SCHEDULED: <2026-01-22 Thu 06:00 +1d>
+   SCHEDULED: <2026-01-23 Fri 06:00 +1d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-01-20 Tue 10:34]
+   :LAST_REPEAT: [2026-01-22 Thu 21:14]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2026-01-22 Thu 21:14]
    - State "DONE"       from "TODO"       [2026-01-20 Tue 10:34]
    - State "DONE"       from "TODO"       [2026-01-18 Sun 11:12]
    - State "DONE"       from "TODO"       [2026-01-16 Fri 20:50]
