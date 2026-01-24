@@ -177,6 +177,27 @@ In addition to task-specific memory, agents can also maintain
 long-term memory. This ensures that the quality of the agent's work
 improves over time.
 
+* Running open-source LLM models
+
+Install [[https://ollama.com/download][Ollama]] on your PC.
+
+Run the following.
+
+#+begin_src shell
+  # Note that this is the 8B model (5 GB file size)
+  ollama pull llama3
+
+  # Run a quick test to ensure it's working
+  ollama run llama3 "Confirming system check: What is your model name?"
+#+end_src
+
+** DONE Research and install Ollama                                :Learning:
+SCHEDULED: <2026-01-23 Fri>
+- State "DONE"       from "TODO"       [2026-01-23 Fri 08:59]
+:LOGBOOK:
+CLOCK: [2026-01-23 Fri 08:09]--[2026-01-23 Fri 08:59] =>  0:50
+:END:
+
 * Generative AI                                                      :Review:
 
 GPT = Generative Pretrained Transformer
