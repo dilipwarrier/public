@@ -191,8 +191,12 @@ Run the following.
   ollama run llama3 "Confirming system check: What is your model name?"
 #+end_src
 
-** DONE Research and install Ollama                                :Learning:
+** Archive                                                          :ARCHIVE:
+*** DONE Research and install Ollama                               :Learning:
 SCHEDULED: <2026-01-23 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-01-25 Sun 20:20
+:END:
 - State "DONE"       from "TODO"       [2026-01-23 Fri 08:59]
 :LOGBOOK:
 CLOCK: [2026-01-23 Fri 08:09]--[2026-01-23 Fri 08:59] =>  0:50
