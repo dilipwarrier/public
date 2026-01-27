@@ -30,3 +30,106 @@ distribution.
 A normal distribution has a kurtosis of 3, so other
 distributions are characterized by a value of excessive
 kurtosis. Excessive kurtosis is defined as kurtosis minus 3.
+
+* Ordinary Least Squares
+
+An Ordinary Least Squares (OLS) model is a linear model of the
+relationship of an endogeneous/dependent variable ($y$) on a set of
+exogeneous/independent variables ($X$). The relationship is written as
+follows.
+
+\begin{equation*}
+y = X \beta + \epsilon
+\end{equation}
+
+where:
+- $y$ is a vector of observations of the dependent variable of
+  size $n \times 1$,
+- $X$ is the matrix of observations of the independent
+  variables of size $n \times (p + 1)$,
+- $\beta$ is a vector of unknown parameters of size $(p + 1) \times
+  1$, and
+- $\epsilon$ is a vector of errors of size $n \times 1$.
+
+The first column of the matrix $X$ is a column of ones to represent
+the bias term in the observations. The corresponding parameter is
+$\beta[0]$.
+
+The OLS estimate is obtained by minimizing the L2 norm of the
+error. It evaluates to:
+\begin{equation*}
+\hat{\beta} = (X^{T} X)^{-1} X^{T} y
+\end{equation}
+
+This is optimal only if the errors are i.i.d.
+
+** Projection and annihilation matrices
+
+The errors and goodness-of-fit of this model are best understood from
+the projection matrix $P$ and the annihilation matrix $M$.
+
+\begin{equation*}
+P = X (X^{T} X)^{-1} X^{T}
+\end{equation}
+
+$P \times y$ is the projection of $y$ onto the vector space spanned by
+the columns of $X$.
+
+$M$ is given by:
+\begin{equation*}
+M = I_{n} - P
+\end{equation}
+
+** Variance and goodness of fit
+
+The variance of the OLS estimate is given by:
+\begin{equation*}
+s^{2} = \frac{y^{T} M y}{n - p - 1}
+\end{equation}
+
+The coefficient of determination $R^2$ measures the
+goodness-of-fit. It is the ratio of the "explained" variance to the
+"total" variance and is given by:
+\begin{equation*}
+R^{2} = 1 - \frac{y^{T} M y}{y^{T} L y}
+\end{equation}
+where $L = I_n - \frac{1}{n}J_n$ and $J_n$ is an $n \times n$ matrix
+of ones.
+
+Values of $R^2$ close to 1 indicate a good fit.
+
+** References
+
+[[https://en.wikipedia.org/wiki/Ordinary_least_squares][Wikipedia article]]
+
+* Linear mixed-effect models
+
+Linear mixed effect (LME) or multi-level models are useful when
+individuals belong to groups and the groups can have their own
+properties. For instance, a model of student performance may have
+individual measures but may also have measures for the classroom
+group that they belong to (e.g. experience of the classroom teacher)
+and for the school that the classroom is a part of (e.g. experience of
+the school principal).
+
+At the base level (level 1), the regression equation for group j is given by:
+\begin{equation*}
+y_j = X \beta_j + \epsilon_j
+\end{equation}
+
+$y_j$ is of size $n \times 1$. $X$ is of size $n \times (p + 1)$ and the
+first column is all ones. $\beta_j$ is of size $(p + 1) \times 1$ and
+$\beta_j[0]$ is the intercept.
+
+$\epsilon_j$ are assumed to be i.i.d. errors.
+
+At level 2, the intercepts and slopes can themselves be modeled as
+dependent upon group parameters.
+
+\begin{equation*}
+\beta_j = W_j \gamma + u_j
+\end{equation}
+
+** References
+
+[[https://en.wikipedia.org/wiki/Multilevel_model][Wikipedia article]]
