@@ -61,7 +61,7 @@ error. It evaluates to:
 \hat{\beta} = (X^{T} X)^{-1} X^{T} y
 \end{equation}
 
-This is optimal only if the errors are i.i.d.
+This is optimal only if the errors are Gaussian i.i.d.
 
 ** Projection and annihilation matrices
 
@@ -112,23 +112,25 @@ group that they belong to (e.g. experience of the classroom teacher)
 and for the school that the classroom is a part of (e.g. experience of
 the school principal).
 
-At the base level (level 1), the regression equation for group j is given by:
+At the base level (level 1), the regression equation is given by:
 \begin{equation*}
-y_j = X \beta_j + \epsilon_j
+y = X \beta + \epsilon
 \end{equation}
 
-$y_j$ is of size $n \times 1$. $X$ is of size $n \times (p + 1)$ and the
-first column is all ones. $\beta_j$ is of size $(p + 1) \times 1$ and
-$\beta_j[0]$ is the intercept.
+$y$ is of size $n \times 1$. $X$ is of size $n \times (p + 1)$ and the
+first column is all ones. $\beta$ is of size $(p + 1) \times 1$ and
+$\beta[0]$ is the intercept.
 
-$\epsilon_j$ are assumed to be i.i.d. errors.
+$\epsilon$ are assumed to be Gaussian i.i.d. errors.
 
 At level 2, the intercepts and slopes can themselves be modeled as
 dependent upon group parameters.
 
 \begin{equation*}
-\beta_j = W_j \gamma + u_j
+\beta = W_j \gamma + u_j
 \end{equation}
+
+where the $u_j$ are assumed to be Gaussian i.i.d.
 
 ** References
 
