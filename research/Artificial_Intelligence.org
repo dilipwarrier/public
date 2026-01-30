@@ -177,6 +177,24 @@ In addition to task-specific memory, agents can also maintain
 long-term memory. This ensures that the quality of the agent's work
 improves over time.
 
+* Llama
+
+What are the set of arithmetic operations that an LLM uses to convert
+a string of input text into output?
+
+For the open-source model Llama3, the answer lies in the files
+[[https://github.com/meta-llama/llama-models/blob/main/models/llama3/model.py][model.py]] and [[https://github.com/meta-llama/llama-models/blob/main/models/llama3/generation.py][generation.py]].
+
+model.py describes the model including the Attention, FeedForward, and
+TransformerBlock classes.
+
+How do Prefill and Decode map to these?
+
+generation.py describes the generate(), chat_complete(),
+etc. methods. Those use the methods and classes described in model.py.
+
+[[https://github.com/meta-llama/llama-models/blob/main/models/llama3/scripts/chat_completion.py][chat_completion.py]] and [[https://github.com/meta-llama/llama-models/blob/main/models/llama3/scripts/completion.py][completion.py]] have example usage.
+
 * Running open-source LLM models
 
 Install [[https://ollama.com/download][Ollama]] on your PC.

@@ -39,7 +39,7 @@ exogeneous/independent variables ($X$). The relationship is written as
 follows.
 
 \begin{equation*}
-y = X \beta + \epsilon
+y = X b + e
 \end{equation}
 
 where:
@@ -47,18 +47,18 @@ where:
   size $n \times 1$,
 - $X$ is the matrix of observations of the independent
   variables of size $n \times (p + 1)$,
-- $\beta$ is a vector of unknown parameters of size $(p + 1) \times
+- $b$ is a vector of unknown parameters of size $(p + 1) \times
   1$, and
-- $\epsilon$ is a vector of errors of size $n \times 1$.
+- $e$ is a vector of errors of size $n \times 1$.
 
 The first column of the matrix $X$ is a column of ones to represent
 the bias term in the observations. The corresponding parameter is
-$\beta[0]$.
+$b[0]$.
 
 The OLS estimate is obtained by minimizing the L2 norm of the
 error. It evaluates to:
 \begin{equation*}
-\hat{\beta} = (X^{T} X)^{-1} X^{T} y
+\hat{b} = (X^{T} X)^{-1} X^{T} y
 \end{equation}
 
 This is optimal only if the errors are Gaussian i.i.d.
@@ -109,29 +109,30 @@ individuals belong to groups and the groups can have their own
 properties. For instance, a model of student performance may have
 individual measures but may also have measures for the classroom
 group that they belong to (e.g. experience of the classroom teacher)
-and for the school that the classroom is a part of (e.g. experience of
-the school principal).
+and for the school that the classroom is a part of (e.g. average
+income of the school district).
 
 At the base level (level 1), the regression equation is given by:
 \begin{equation*}
-y = X \beta + \epsilon
+y = X b_j + e
 \end{equation}
 
 $y$ is of size $n \times 1$. $X$ is of size $n \times (p + 1)$ and the
-first column is all ones. $\beta$ is of size $(p + 1) \times 1$ and
-$\beta[0]$ is the intercept.
+first column is all ones. $b_j$ is of size $(p + 1) \times 1$ and
+$b_j[0]$ is the intercept.
 
-$\epsilon$ are assumed to be Gaussian i.i.d. errors.
+$e$ are assumed to be Gaussian i.i.d. errors.
 
-At level 2, the intercepts and slopes can themselves be modeled as
-dependent upon group parameters.
+For a simple multi-level model, we may assume that just the intercept
+is affected by level 2 factors. Thus,
 
 \begin{equation*}
-\beta = W_j \gamma + u_j
+b_j[0] = W g_j + u_j
 \end{equation}
 
-where the $u_j$ are assumed to be Gaussian i.i.d.
+where $W$ is fo size $1 \times (q_j + 1)$.
 
 ** References
 
-[[https://en.wikipedia.org/wiki/Multilevel_model][Wikipedia article]]
+- [[https://en.wikipedia.org/wiki/Multilevel_model][Wikipedia article]]
+- Discovering statistics using R, Andy Field et al, 1st edition, p. 857
