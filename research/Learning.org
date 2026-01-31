@@ -57,7 +57,7 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO [#C] Complete [[elisp:(org-agenda t "lt")][learning task]]
-   SCHEDULED: <2026-01-30 Fri 06:00 +1d>
+   SCHEDULED: <2026-01-31 Sat 06:00 +1w>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
