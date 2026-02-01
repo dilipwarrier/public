@@ -57,7 +57,7 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO [#C] Complete [[elisp:(org-agenda t "lt")][learning task]]
-   SCHEDULED: <2026-01-31 Sat 06:00 +1w>
+   SCHEDULED: <2026-02-07 Sat 06:00 +1w>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
@@ -148,18 +148,19 @@
    - State "DONE"       from "TODO"       [2025-04-27 Sun 16:47]
 
 ** TODO [#C] Review [[elisp:(org-agenda t "lb")][learning backlog]]
-   SCHEDULED: <2026-02-01 Sun 06:00 +28d>
+   SCHEDULED: <2026-03-01 Sun 06:00 +28d>
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-01-04 Sun 11:10]
+   :LAST_REPEAT: [2026-02-01 Sun 10:09]
    :PRIORITY_NUM: 3
    :VALUE:    100.00
    :END:
 
 
 
+   - State "DONE"       from "TODO"       [2026-02-01 Sun 10:09]
    - State "DONE"       from "TODO"       [2026-01-04 Sun 11:10]
    - State "DONE"       from "TODO"       [2025-12-07 Sun 21:22]
    - State "DONE"       from "TODO"       [2025-11-09 Sun 11:35]
