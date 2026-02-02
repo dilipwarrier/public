@@ -230,20 +230,24 @@ CLOCK: [2026-01-23 Fri 08:09]--[2026-01-23 Fri 08:59] =>  0:50
 
 Code is in the [[https://github.com/dilipwarrier/eval_ai][eval_ai GitHub]] repository.
 
-** DONE Download tool for AI evaluation                            :Learning:
-SCHEDULED: <2026-01-26 Mon>
-- State "DONE"       from "TODO"       [2026-01-26 Mon 08:42]
-:LOGBOOK:
-CLOCK: [2026-01-26 Mon 09:14]--[2026-01-26 Mon 10:34] =>  1:20
-CLOCK: [2026-01-26 Mon 07:02]--[2026-01-26 Mon 08:42] =>  1:40
-:END:
-
 ** DeepEval
 
 [[https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation][LLM and AI agent evaluation]]
 
 I failed with DeepEval because it requires a company email address to
 access the API. That discourages individual software engineers.
+
+** Archive                                                          :ARCHIVE:
+*** DONE Download tool for AI evaluation                           :Learning:
+SCHEDULED: <2026-01-26 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-02-01 Sun 21:01
+:END:
+- State "DONE"       from "TODO"       [2026-01-26 Mon 08:42]
+:LOGBOOK:
+CLOCK: [2026-01-26 Mon 09:14]--[2026-01-26 Mon 10:34] =>  1:20
+CLOCK: [2026-01-26 Mon 07:02]--[2026-01-26 Mon 08:42] =>  1:40
+:END:
 
 * Generative AI                                                      :Review:
 
