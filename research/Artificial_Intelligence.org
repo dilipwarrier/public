@@ -209,6 +209,29 @@ Run the following.
   ollama run llama3 "Confirming system check: What is your model name?"
 #+end_src
 
+** Comparison of vLLM vs Ollama
+
+|--------------+--------------------------------+----------------------------------|
+| Feature      | Ollama                         | vLLM                             |
+|--------------+--------------------------------+----------------------------------|
+| Core Tech    | GGUF / llama.cpp               | PagedAttention / PyTorch         |
+| Primary Goal | Ease of use & Local Desktop    | High Throughput & Serving        |
+| Optimization | CPU (AVX2/512) & Apple Silicon | NVIDIA/AMD GPU (VRAM management) |
+| Memory Mgmt  | Static KV Cache                | Dynamic Virtual Paging           |
+| Best For     | Single-user, Private Chat      | Multi-user, API Scaling          |
+|--------------+--------------------------------+----------------------------------|
+
+Ollama allocates memory for context in large contiguous
+blocks. This can lead to internal memory fragmentation. vLLM uses
+virtual memory paging for the KV Cache. Blocks are mapped as needed,
+allowing for near 100% VRAM utilization and massive batching.
+
+For local prototyping, we recommend Ollama. It is lightweight and
+handles the GGUF format which runs efficiently on standard
+workstation RAM. For production, we recommend vLLM. It is the
+industry standard for high-concurrency environments where
+tokens-per-second-per-dollar must be minimized.
+
 ** Archive                                                          :ARCHIVE:
 *** DONE Research and install Ollama                               :Learning:
 SCHEDULED: <2026-01-23 Fri>
@@ -224,11 +247,7 @@ CLOCK: [2026-01-23 Fri 08:09]--[2026-01-23 Fri 08:59] =>  0:50
 
 [[https://www.dennis-whalen.com/post/ai/promptfoo/promptfoo-1-testing-custom-llm-prompts/][Testing LLMs with promptfoo]]
 
-#+begin_src
-  npm install -g promptfoo
-#+end_src
-
-Code is in the [[https://github.com/dilipwarrier/eval_ai][eval_ai GitHub]] repository.
+Code and installation instructions are in the [[https://github.com/dilipwarrier/eval_ai][eval_ai GitHub]] repository.
 
 ** DeepEval
 
