@@ -268,7 +268,56 @@ CLOCK: [2026-01-26 Mon 09:14]--[2026-01-26 Mon 10:34] =>  1:20
 CLOCK: [2026-01-26 Mon 07:02]--[2026-01-26 Mon 08:42] =>  1:40
 :END:
 
-* Generative AI                                                      :Review:
+* AI as an architect
+
+This note summarizes the debate regarding the shift from task-specific neural networks to
+Large Language Model (LLM) centric architectures. The core of the discussion explores
+whether LLMs, with increasing context windows and reasoning capabilities, have rendered
+the "pre-LLM" method of training small, task-specific models obsolete.
+
+The following table summarizes the three major eras of AI model development:
+
+|----------------+-----------------------+-----------------------------+---------------------------------|
+| Feature        | Pre-LLM (The Scalpel) | Post-LLM (Swiss Army Knife) | Agentic/Architect (The Foreman) |
+|----------------+-----------------------+-----------------------------+---------------------------------|
+| Primary Effort | Feature Engineering   | Prompt Engineering          | System Design & Verification    |
+| Logic Storage  | Fixed Model Weights   | In-Context Memory           | Dynamic Programmatic Logic      |
+| Execution      | Numerical Tensors     | Probabilistic Prediction    | Deterministic Computing         |
+| Precision      | Very High             | Variable (Probabilistic)    | Very High                       |
+| Flexibility    | Task-Specific         | General Purpose             | Adaptive & Self-Correcting      |
+|----------------+-----------------------+-----------------------------+---------------------------------|
+
+** The Case for "One Model to Rule Them All"
+
+In the post-LLM world, developers can use "In-Context Learning" (ICL) to solve problems
+that previously required bespoke models. By feeding training data directly into the
+prompt, the model's attention mechanism performs a real-time synthesis of the task,
+removing the need for separate training cycles.
+
+** The Context Window Constraint
+
+A major historical barrier to the LLM-only approach was the context window limit.
+However, technology is rapidly expanding these windows (e.g., 128k to 1M+ tokens).
+Combined with semantic compression of data records, it is increasingly feasible to
+perform "training" purely within the inference prompt.
+
+** The "Architect" Paradigm (The Foreman)
+
+The most robust modern approach is using the LLM as an orchestrator rather than a
+calculator. In this "Agentic" model:
+- The LLM analyzes the data.
+- It determines the best deterministic tool (e.g., a specific regression algorithm).
+- It generates and executes the code to build that tool.
+- This maintains mathematical precision while retaining LLM flexibility.
+
+** Conclusions
+
+While the "Scalpel" (bespoke models) still offers the lowest latency and highest
+efficiency for fixed tasks, the "Foreman" approach is becoming the standard for
+complex, evolving software engineering tasks where the human effort of manual
+model-building is the primary bottleneck.
+
+* Generative AI
 
 GPT = Generative Pretrained Transformer
 
