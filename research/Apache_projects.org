@@ -113,5 +113,5 @@ often run Apache tools on CNCF infrastructure.
 | Data ingestion            | Kafka, NiFi, Pulsar, Debezium            | Data capture and event streams   | Apache              |
 | Data storage              | Hudi, Iceberg, Parquet, HDFS             | Data lakes and table formats     | Apache              |
 | Infrastructure            | Kubernetes, Helm, Argo, Prometheus, etc. | Ecosystem for orchestration      | CNCF                |
-| Cloud provider / hardware | AWS, GCP, Azure, Bare Metal              | Underlying compute and storage   |                     |
+| Cloud provider / hardware | AWS, GCP, Azure, Bare-metal              | Underlying compute and storage   |                     |
 |---------------------------+------------------------------------------+----------------------------------+---------------------|
