@@ -2,14 +2,15 @@
 #+FILETAGS: :Cloud:Software:
 #+STARTUP: hideallblocks, content
 
-See also [[id:be4c0342-3c8d-49ac-8046-f36b65361d72][Apache projects]].
+See also [[id:c9c9b3aa-bd10-46eb-9c7c-f804bbefc94a][Apache and CNCF]] for the open-source alternatives to these
+services.
 
 * AWS cloud services                                                 :Review:
 :PROPERTIES:
 :ID:       01fd57e7-4ac5-420b-8384-062995f1ee51
 :END:
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-12-11 Thu 06:54]
+#+CAPTION: Clock summary at [2026-02-09 Mon 07:05]
 | Headline           | Time   |      |
 |--------------------+--------+------|
 | *Total time*       | *7:29* |      |
@@ -234,6 +235,11 @@ uses Kubernetes.
 See [[id:ba0757bb-3fc9-462e-af71-336b3e3c1ad3][What are containers?]] for an introduction.
 
 ** AWS Serverless
+:PROPERTIES:
+:ID:       5fd00c79-ed84-43d5-a0c2-3b7a3b25c0ef
+:END:
+
+See also [[id:102ddbb5-4948-47e6-9526-8c364ada9fdb][CNCF Knative]].
 
 *** AWS Lambda
 
@@ -291,7 +297,7 @@ storage, it is considered atomic.
 
 If you have a photograph, you'll probably work on it as an object
 and not update pieces of it. So, object storage might make more
-sense. For a large text file, the reverse may hold.
+sense. However, for a large text file, block storage is appropriate.
 
 *** AWS block storage
 
@@ -299,7 +305,7 @@ For an EC2 instance, there can be 2 types of block storage: EC2
 instance store and AWS Elastic Block Storage (EBS) volumes. The EC2
 instance store is attached to the EC2 compute instance and hence is
 fast access. However, its lifecycle is attached to the EC2 instance
-and hence the data is lost when the EC2 instance is lost.
+and the data is lost when the EC2 instance is lost.
 
 In contrast, an EBS volume can be attached to an EC2 instance just
 like an external memory drive can be attached to a laptop. EBS
@@ -353,39 +359,40 @@ following is a list of Amazon database choices.
    CLOCK: [2022-08-14 Sun 08:03]--[2022-08-14 Sun 09:40] =>  1:37
    :END:
 
-   Instead of waiting for users to report app issues, you want to be
-   notified automatically through monitoring. There are other benefits
-   to monitoring such as the following.
+Instead of waiting for users to report app issues, you want to be
+notified automatically through monitoring. There are other benefits
+to monitoring such as the following.
 
-   - Improve performance, reliability and costs of your resources ::
+- Improve performance, reliability and costs of your resources ::
 
-   - Recognize security threats and events ::
+- Recognize security threats and events ::
 
-   - Make data-driven decisions for your business :: For instance, you
-     can collect data on how many users are using the new application
-     you created.
+- Make data-driven decisions for your business :: For instance, you
+  can collect data on how many users are using the new application
+  you created.
 
-   AWS CloudWatch allows you to collect all your monitoring data in
-   one place (EC2, RDS etc.). Many AWS services provide a free level
-   of data monitoring to CloudWatch consisting of 1 data point per
-   metric per 5-min interval. This may often be enough for basic
-   monitoring. Additional monitoring has an added fee.
+AWS CloudWatch allows you to collect all your monitoring data in
+one place (EC2, RDS etc.). Many AWS services provide a free level
+of data monitoring to CloudWatch consisting of 1 data point per
+metric per 5-min interval. This may often be enough for basic
+monitoring. Additional monitoring has an added fee.
 
-   Multiple EC2 instances can be added for high availability. This can
-   be done automatically through auto-scaling in CloudWatch.
+Multiple EC2 instances can be added for high availability. This can
+be done automatically through auto-scaling in CloudWatch.
 
-   The Amazon Elastic Load Balancer (ELB) is a high-availability
-   region-based service. It can be used to route traffic to the
-   multiple instances. It works seamlessly with auto-scaling to
-   provide high-availability for your application.
+The Amazon Elastic Load Balancer (ELB) is a high-availability
+region-based service. It can be used to route traffic to the
+multiple instances. It works seamlessly with auto-scaling to
+provide high-availability for your application.
 
-   ELB can be either an Application Load Balancer (Layer 7) or a Network Load
-   Balancer (Layer 4). It has 3 components - Listener, Target Groups and
-   Rules. Each target in a target group should have an associated
-   health check defined so that the load balancer can check the health
-   of the target group before sending traffic to it. Since ALB is OSI
-   layer 7, it can have rules based on application traffic content.
+ELB can be either an Application Load Balancer (Layer 7) or a Network Load
+Balancer (Layer 4). It has 3 components - Listener, Target Groups and
+Rules. Each target in a target group should have an associated
+health check defined so that the load balancer can check the health
+of the target group before sending traffic to it.
 
+Since ALB is OSI layer 7, it can have rules based on application
+traffic content.
 
 ** AWS architectural options
 
@@ -419,24 +426,6 @@ Thus, you can use multiple AWS architectures for your applications.
    - Performance
    - Security
 
-
-* Learning project for AWS
-:PROPERTIES:
-:ID:       0ed956b1-7a46-41f8-9823-03db651ce312
-:END:
-
-Setup an AWS EC2 Linux instance or an AWS Lambda so that I can do the
-following regularly.
-
-- Startup the instance
-- Git checkout my repositories
-- Run Emacs
-- Update Org files
-- Run copy_Google_tasks.py
-- Git commit the results
-- Teardown the instance
-
-Pricing:  [[https://aws.amazon.com/ec2/pricing/on-demand/]]
 
 * Comparison of Azure and AWS services                               :Review:
 :PROPERTIES:
@@ -490,6 +479,24 @@ Pricing:  [[https://aws.amazon.com/ec2/pricing/on-demand/]]
 | Data Warehouse            | Amazon Redshift                | Azure Synapse Analytics           |
 | Machine Learning Platform | Amazon SageMaker               | Azure Machine Learning (Azure ML) |
 |---------------------------+--------------------------------+-----------------------------------|
+
+* Learning project for AWS
+:PROPERTIES:
+:ID:       0ed956b1-7a46-41f8-9823-03db651ce312
+:END:
+
+Setup an AWS EC2 Linux instance or an AWS Lambda so that I can do the
+following regularly.
+
+- Startup the instance
+- Git checkout my repositories
+- Run Emacs
+- Update Org files
+- Run copy_Google_tasks.py
+- Git commit the results
+- Teardown the instance
+
+Pricing:  [[https://aws.amazon.com/ec2/pricing/on-demand/]]
 
 * Links and other logistics
 

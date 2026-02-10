@@ -44,8 +44,9 @@ For instance, Kubernetes orchestrates the following.
 Modern orchestrators are declarative, not imperative. For instance,
 programmers do not state "Start a container" in Kubernetes. Instead,
 they state that "There should be 3 replicas of service X." The
-orchestrator runs control loops that continuously compare the desired
-state versus the actual and reconcile them.
+orchestrator runs control loops. The control loops continuously
+compare the desired state with the actual state and reconcile any
+differences.
 
 * Services
 
