@@ -8,7 +8,6 @@ Coursera specialization: [[https://www.coursera.org/specializations/build-genai-
 Reached [[https://www.coursera.org/learn/implementation-of-genai-agents/supplement/2RDEr/hands-on-learning-hol-implementing-core-ai-agent-functionalities][here]].
 
 ** TODO [#A] Work on Coursera specialization on [[https://www.coursera.org/specializations/build-genai-applications-and-agents][Building GenAI applications and agents]] :Learning:
-SCHEDULED: <2026-01-21 Wed +1d>
 :PROPERTIES:
 :EFFORT:  10:00
 :BENEFIT: 5000
@@ -74,8 +73,6 @@ probability-based filtering of token choices.
 
 All my langchain agent projects are stored in GitHub.
 
-** TODO Create new GitHub repository for langchain-agents          :Learning:
-SCHEDULED: <2026-01-21 Wed>
 
 * Types of agents                                                 :Review:
 
