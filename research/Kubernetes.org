@@ -1,0 +1,89 @@
+#+Title: Kubernetes
+#+FILETAGS: :Cloud:Software:
+#+STARTUP: overview
+
+See also [[id:ba0757bb-3fc9-462e-af71-336b3e3c1ad3][Containers]].
+
+* Introduction
+:PROPERTIES:
+:ID:       d0283e19-ef8f-471e-ad80-69b0d770a598
+:END:
+
+This document provides details of Kubernetes as an orchestration tool.
+
+Orchestration tools allow you to start, stop, terminate, and monitor
+container services.
+
+For instance, Kubernetes orchestrates the following.
+
+- Container placement :: Deciding which node runs which container
+
+- Scaling :: Automatically adding or removing container replicas
+
+- Load balancing :: Routing traffic to the right containers
+
+- Self-healing :: Restarting failed containers
+
+- Rolling updates :: Updating deployments with zero downtime
+
+- Service discovery :: Giving containers stable network identities
+
+- Configuration and secrets management ::
+
+- Storage provisioning ::
+
+Modern orchestrators are declarative, not imperative. For instance,
+programmers do not state "Start a container" in Kubernetes. Instead,
+they state that "There should be 3 replicas of service X." The
+orchestrator then runs control loops that continuously
+compare the desired state with the actual state and reconcile any
+differences.
+
+* Components
+
+In Kubernetes, nodes and pods are the fundamental building blocks. A
+node is the server (the hardware) while a pod is the application (the
+software).
+
+A node is a worker machine in Kubernetes. It can be a physical or a
+virtual machine.
+
+Each node contains the necessary services to run pods.
+- Kubelet :: The agent that communicates with the Kubernetes control
+  plane to ensure containers are running.
+- Container Runtime :: The engine (like Docker or containerd) that
+  actually runs the containers.
+- Kube-proxy :: Manages network rules so your services can
+  communicate.
+
+A pod is the smallest deployable unit in Kubernetes. It usually holds
+one container. If a node fails or a pod crashes, Kubernetes doesn't
+try to repair it; it kills it and starts a brand new one.
+
+Kubernetes looks at the requirements of a pod and finds a node with
+available resources to place that pod on.
+
+** kubectl
+
+This is the primary command-line tool to control Kubernetes clusters.
+
+** Helm
+
+Helm is a package manager for Kubernetes similar to apt for Ubuntu or
+pip for Python. It uses a packaging format called "Helm chart".
+
+A Helm chart is a collection of files that describe the Kubernetes
+cluster completely. It consists of the following.
+- Chart.yaml :: Defines metadata for the application.
+- values.yaml :: Sets values that can be used for variable substitution.
+- templates/ :: The templates that can be combined with values.yaml to
+  create manifests.
+- charts/ :: Dependencies defined in chart.yaml.
+
+See [[https://www.redhat.com/en/topics/devops/what-is-helm][this article]] for more details.
+
+** minikube
+
+minikube is a tool that allows you to run a single-node Kubernetes
+cluster locally on your own machine. It serves as a development
+environment for your Kubernetes code.
