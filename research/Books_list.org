@@ -22,16 +22,16 @@
 :results:
 List of recommended books:
 
-The Makioka Sisters                               : Junichiro Tanizaki   (4.0, japanese-fiction)
 Storytelling with data                            : Cole Nussbaumer...   (4.3, design,textbook)
 Tasting freedom: Octavius Catto                   : Daniel Biddle,...    (4.2, black-biography)
-Say Nothing                                       : Patrick Keefe        (4.4, western-history)
 Oryx and Crake                                    : Margaret Atwood      (4.0, science-fiction)
+Say Nothing                                       : Patrick Keefe        (4.4, western-history)
 A different drummer                               : William Melvin...    (4.2, fiction)
 Anatomy of a Miracle: The End of Apartheid        : Patti Waldmeir       (4.1, eastern-history)
 This Is Marketing: You Can't Be Seen Until You... : Seth Godin           (4.1, marketing,management)
 Ivan's War: Life and Death in the Red...          : Catherine Merridale  (4.0, eastern-history)
 Thus Bad Begins                                   : Javier Marias        (4.0, thriller)
+The life you can save                             : Peter Singer         (4.5, philosophy,books-to-read-again)
 :end:
 
 ** Next textbook to read
@@ -44,9 +44,10 @@ Thus Bad Begins                                   : Javier Marias        (4.0, t
 :results:
 List of recommended books:
 
+Storytelling with data                            : Cole Nussbaumer...   (4.3, design,textbook)
 Artificial intelligence: A modern approach        : Stuart Russell,...   (4.2, science,textbook)
-Designing data-intensive applications             : Martin Kleppmann     (4.5, software,engineering,textbook,books-to-read-again)
 Strategic Management                              : Charles Hill,...     (4.5, strategy,management,textbook,books-to-read-again)
+Designing data-intensive applications             : Martin Kleppmann     (4.5, software,engineering,textbook,books-to-read-again)
 Automotive technology: a systems approach         : Jack Erjavec         (4.0, engineering,textbook)
 Knowledge,reality and value                       : Michael Huemer       (4.1, philosophy,textbook,books-to-read-again)
 Game theory: an introduction                      : Steve Tadelis        (4.0, maths,textbook,books-to-read-again)
@@ -86,6 +87,9 @@ Free to Choose: A Personal Statement              : Milton Friedman      (4.2, e
 :results:
 List of read books:
 
+Fundamentals of software architecture             : Mark Richards,...    (25-Feb-26, 5.0)
+Mountains Beyond Mountains: The Quest of Dr....   : Tracy Kidder         (30-Jan-26, 3.0)
+How do we know ourselves?                         : David Myers          (15-Jan-26, 5.0)
 An officer and a spy                              : Robert Harris        (31-Dec-25, 5.0)
 The Intel trinity                                 : Michael S. Malone    (25-Dec-25, 5.0)
 Thinking in bets                                  : Annie Duke           (09-Nov-25, 3.0)
@@ -133,9 +137,6 @@ A failed empire                                   : Vladislav Zubok      (15-Feb
 Lenin the dictator                                : Victor Sebestyen     (25-Nov-22, 5.0)
 Nuclear Folly                                     : Serhii Plokhy        (04-Oct-22, 5.0)
 Who gets what and why                             : Alvin Roth           (15-Sep-22, 3.0)
-These women                                       : Ivy Pochoda          (25-Jul-22, 5.0)
-The Elephant in the Brain                         : Kevin Simler         (18-Jul-22, 5.0)
-The Best Place to Work: The Art and Science of... : Ron Friedman         (07-Jul-22, 5.0)
 :end:
 
 

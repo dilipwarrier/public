@@ -1,4 +1,5 @@
 Title,Author,My Rating,Average Rating,Date Read,Date Added,Genre,Status
+The laws of thought,Tom Griffiths,,4.0,,03/08/2026,brain,to-read
 1491,Charles Mann,,4.0,,01/22/2026,eastern-history,to-read
 "The Boy, the Mole, the Fox and the Horse",Charlie Mackesy,,4.0,,01/22/2026,philosophy,to-read
 The DevOps Handbook,"Gene Kim, et al",,4.0,,10/10/2025,engineering,to-read
@@ -45,11 +46,11 @@ Fatherland,Robert Harris,,4.0,,1/13/2018,fiction,to-read
 "Ivan's War: Life and Death in the Red Army,1939-1945",Catherine Merridale,,4.0,,4/1/2017,eastern-history,to-read
 Thus Bad Begins,Javier Marias,,4.0,,11/6/2016,thriller,to-read
 The rise and reign of the mammals,Steve Brusatte,,4.0,,07/25/2022,"biology,science",to-read
-The Makioka Sisters,Junichiro Tanizaki,,4.0,,5/13/2017,japanese-fiction,to-read
 Structures or why things don't fall down,J. E. Gordon,,4.0,,6/21/2025,engineering,to-read
 Building secure and reliable systems,Heather Adkins,,4.0,,4/13/2025,"software,engineering",reading
-Mountains Beyond Mountains: The Quest of Dr. Paul Farmer,Tracy Kidder,,4.2,,01/30/2026,"western-biography",reading
-Fundamentals of software architecture,"Mark Richards,Neal Ford",,4.3,,01/29/2022,"software,engineering,textbook",reading
+The Makioka Sisters,Junichiro Tanizaki,,4.0,,5/13/2017,japanese-fiction,reading
+Mountains Beyond Mountains: The Quest of Dr. Paul Farmer,Tracy Kidder,3.0,4.2,01/30/2026,01/30/2026,"western-biography",read
+Fundamentals of software architecture,"Mark Richards,Neal Ford",5.0,4.3,02/25/2026,01/29/2022,"software,engineering,textbook",read
 How do we know ourselves?,David Myers,5,4.0,01/15/2026,12/24/2022,brain,read
 An officer and a spy,Robert Harris,5,4.0,12/31/2025,12/20/2025,"fiction,thriller,western-history",read
 The Intel trinity,Michael S. Malone,5,4.0,12/25/2025,12/11/2025,business,read
