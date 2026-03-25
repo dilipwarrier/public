@@ -2,42 +2,6 @@
 #+FILETAGS: :Charging:Review:
 #+STARTUP: content
 
-* Charging companies
-
-
-
-** Chargepoint
-:PROPERTIES:
-:ID:       e188834e-94ce-44a8-9ff2-3a99c8096ffe
-:END:
-
-Q3 revenue: $106M with GAAP net loss of $53M.
-
-Q2 revenue was $99M with GAAP net loss of $66M.
-
-In [[https://investors.chargepoint.com/news/news-details/2025/ChargePoint-Reports-First-Quarter-Fiscal-Year-2026-Financial-Results/default.aspx][Q1 FY26]] (ending April 30th 2025), total revenue was $98M down 9%
-y-o-y. GAAP net loss was $57M down 20% y-o-y.
-
-Chargepoint made revenue of $361M in [[https://investors.chargepoint.com/news/news-details/2024/ChargePoint-Reports-Fourth-Quarter-and-Full-Fiscal-Year-2024-Financial-Results/default.aspx][FY 2024]] with a net loss of $458M.
-
-** EVGo
-:PROPERTIES:
-:ID:       326fe6de-1cb4-476a-bee0-0583f2c203f9
-:END:
-
-Q3 revenue was $92M with GAAP net loss of $12M.
-
-Q2 revenue was $98M with GAAP net loss of $13M.
-
-In [[https://investors.evgo.com/news/news-details/2025/EVgo-Inc--Reports-Record-First-Quarter-2025-Results/default.aspx][Q1 FY25]], revenue was $75M with GAAP net loss of $11M.
-
-As of Apr-2025, EVGo has 1100 DCFCs in the US (roughly 11% of the US
-market).
-
-EVGo made revenue of $256M in [[https://investors.evgo.com/news/news-details/2025/EVgo-Inc.-Reports-Record-Fourth-Quarter-2024-Results/default.aspx][FY 2024]] with a net loss of $127M or 50%.
-
-AutoCharge+ accounted for 25% of charging sessions in Q4 2024.
-
 * EV charging stations in the US
 :PROPERTIES:
 :ID:       9f94c234-8138-48c1-9e67-7a97a066d91c
@@ -72,70 +36,6 @@ SCHEDULED: <2026-04-05 Sun +12w>
 
 - State "DONE"       from "TODO"       [2026-01-11 Sun 10:47]
 - State "DONE"       from "TODO"       [2025-10-29 Wed 16:35]
-
-** Growth trend for ports
-:PROPERTIES:
-:ID:       155a9380-eb88-4b00-9365-15511ce0c60f
-:END:
-
-The following data is for L2 and DCFC ports.
-
-|------+-----------------+---------------+--------------------+------------|
-| Year | L2 Ports (est.) | DC Fast Ports | Total Public Ports | YoY Growth |
-|------+-----------------+---------------+--------------------+------------|
-| 2025 | 145,000         | 49,916        | 195,874            |      10.5% |
-| 2024 | 164000          | 50000         | 177,250            |            |
-| 2023 | 154000          | 39000         |                    |            |
-| 2021 | 91,000          | 21,700        | 112,700            |            |
-| 2020 |                 |               | 96,536             |            |
-| 2016 | 30,000          |               | 30,000             |            |
-|------+-----------------+---------------+--------------------+------------|
-
-At the end of Sep 2025, there were about 63k DCFC and 185k L2 ports
-combined, resp.
-
-At the end of June 2025, there were about 60k
-DCFC ports and 180k L2 ports. These are a combination of public and
-private (although the private count excludes single-home chargers).
-
-The total is about 240k out of which about 72k are at public locations
-and 3.6k at private locations. So, we can assume that 3.6/(72+3.6) or about 5% of
-all ports are private. Multiplying the numbers above by 95%, we get
-the estimated number of DCFC ports to be about 60k*0.95 = 57k and the
-estimated number of L2 ports to be about 180k*0.95 = 171k.
-
-At the end of 2024, the numbers were 52539*(69616/(69616+3546)) = 50k DCFC
-ports and 172220*(69616/(69616+3546)) = 164k L2 ports.
-
-At the end of 2023, the numbers were 40695*(63069/(63069+3106)) = 39k DCFC
-ports and 161534*(63069/(63069+3106)) = 154k L2 ports.
-
-This gives a growth of (50-39)/39 = 28% in DCFC ports and
-(164-154)/154 = 6.5% in L2 ports in 2024. The total port growth was
-(214-193)/193 = 11% in 2024.
-
-That gives a growth of (57-50)/50 = 14% in DCFC ports and
-(171-164)/164 = 4% in L2 ports in the first half of 2025. The total
-port growth was (228 - 214)/214 = 6.5% in the first half of 2025.
-
-*** References
-- [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]]
-- [[https://www.rabobank.com/knowledge/d011438559-the-rise-of-electric-vehicles-in-the-us-building-a-robust-charging-network?utm_source=chatgpt.com][Rabobank research]]
-- [[https://www.eia.gov/totalenergy/data/monthly/pdf/mer_F_FULL.pdf][AFDC-based data from EIA]]
-
-
-*** TODO Look at [[https://www.eia.gov/totalenergy/data/monthly/pdf/mer_F_FULL.pdf?utm_source=chatgpt.com][AFDC-based data]] and update this table :Browser:Home:
-SCHEDULED: <2026-03-22 Sun +12w>
-:PROPERTIES:
-:EFFORT:  00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:LAST_REPEAT: [2026-01-04 Sun 20:21]
-:END:
-
-
-- State "DONE"       from "TODO"       [2026-01-04 Sun 20:21]
-- State "DONE"       from "TODO"       [2025-10-29 Wed 16:34]
 
 ** Composition by CPO
 
@@ -209,17 +109,3 @@ Power rates are derived from [[id:5986ae17-caca-4f0e-b292-a053653165be][Electric
 * OCPP
 
 [[https://www.embedded.com/the-impact-of-ocpp-in-the-ev-industry-and-evolution-from-ocpp1-6-to-ocpp2-1][Introduction article]] on OCPP
-
-* Tasks
-
-** TODO Update [[id:e188834e-94ce-44a8-9ff2-3a99c8096ffe][Chargepoint]] and [[id:326fe6de-1cb4-476a-bee0-0583f2c203f9][EVGo]] earnings for the quarter :Browser:Home:
-SCHEDULED: <2026-03-24 Tue +12w>
-:PROPERTIES:
-:EFFORT:  00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:LAST_REPEAT: [2026-01-04 Sun 20:29]
-:END:
-- State "DONE"       from "TODO"       [2026-01-04 Sun 20:29]
-- State "DONE"       from "TODO"       [2025-10-29 Wed 20:01]
-- State "DONE"       from "TODO"       [2025-07-16 Wed 12:30]
