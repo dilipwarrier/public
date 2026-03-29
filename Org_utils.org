@@ -19,31 +19,120 @@
 * Add all Org files into the agenda file list
 
 #+NAME: add_files_to_agenda
-#+BEGIN_SRC python :results output silent :var home_files=1 :var work_files=0
-  # Find all the Org files and copy them into the autogen file list
-  import os
-
-  with open('autogen_Org_agenda_files.txt', 'w') as f:
-
-      if home_files == 1:
-          private_dir = os.path.join(os.getenv("HOME"), "..","private")
-          for root, dirs, files in os.walk(private_dir):
-              for name in files:
-                  if name.endswith(".org") and not name.startswith(".#"):
-                      f.write(os.path.join(root, name) + "\n")
-
-          public_dir = os.path.join(os.getenv("HOME"), "..","public")
-          for root, dirs, files in os.walk(public_dir):
-              for name in files:
-                  if name.endswith(".org") and not name.startswith(".#"):
-                      f.write(os.path.join(root, name) + "\n")
-
-      if work_files == 1:
-          work_dir = os.path.join(os.getenv("HOME"), "..","..", "Electra_Bitbucket")
-          for root, dirs, files in os.walk(work_dir):
-              for name in files:
-                  if name.endswith(".org") and not name.startswith(".#"):
-                      f.write(os.path.join(root, name) + "\n")
-
-
+#+BEGIN_SRC shell :results output
+  find ~/projects/public ~/projects/private -type f -name "*.org" -exec realpath {} \;
 #+END_SRC
+
+#+RESULTS: add_files_to_agenda
+#+begin_example
+/home/dilip/projects/public/people_management/Culture_statement_sample.org
+/home/dilip/projects/public/people_management/Performance_reviews.org
+/home/dilip/projects/public/people_management/Organization_structure.org
+/home/dilip/projects/public/people_management/Team_communication.org
+/home/dilip/projects/public/people_management/Manager_tools.org
+/home/dilip/projects/public/people_management/Standard_work.org
+/home/dilip/projects/public/people_management/Vacation_policy_sample.org
+/home/dilip/projects/public/people_management/Introduction.org
+/home/dilip/projects/public/people_management/OKRs.org
+/home/dilip/projects/public/research/Carbon_footprint_calculations.org
+/home/dilip/projects/public/research/Automotive.org
+/home/dilip/projects/public/research/Persistence.org
+/home/dilip/projects/public/research/The_universe.org
+/home/dilip/projects/public/research/EV_charging_stations.org
+/home/dilip/projects/public/research/Spotify_agile_scaling.org
+/home/dilip/projects/public/research/Apache_CNCF_projects.org
+/home/dilip/projects/public/research/Sleep_science.org
+/home/dilip/projects/public/research/Algorithms.org
+/home/dilip/projects/public/research/Donations.org
+/home/dilip/projects/public/research/Courses.org
+/home/dilip/projects/public/research/Books_list.org
+/home/dilip/projects/public/research/AWS_services.org
+/home/dilip/projects/public/research/Game_theory.org
+/home/dilip/projects/public/research/Market_analysis.org
+/home/dilip/projects/public/research/Energy.org
+/home/dilip/projects/public/research/Embedded_software.org
+/home/dilip/projects/public/research/Early_automotive_industry.org
+/home/dilip/projects/public/research/Apache_Spark.org
+/home/dilip/projects/public/research/Software_companies.org
+/home/dilip/projects/public/research/Business_strategy.org
+/home/dilip/projects/public/research/COVID.org
+/home/dilip/projects/public/research/PANAS_test.org
+/home/dilip/projects/public/research/Stock_markets.org
+/home/dilip/projects/public/research/Ethical_thinking.org
+/home/dilip/projects/public/research/Best_places_to_work.org
+/home/dilip/projects/public/research/Learning.org
+/home/dilip/projects/public/research/Communicating.org
+/home/dilip/projects/public/research/Data_intensive_applications.org
+/home/dilip/projects/public/research/Human_progress.org
+/home/dilip/projects/public/research/Culture_map.org
+/home/dilip/projects/public/research/Amazon.org
+/home/dilip/projects/public/research/Research_sites.org
+/home/dilip/projects/public/research/Marketing.org
+/home/dilip/projects/public/research/European_history.org
+/home/dilip/projects/public/research/Software_development.org
+/home/dilip/projects/public/research/Containers.org
+/home/dilip/projects/public/research/Security_Identity_Privacy.org
+/home/dilip/projects/public/research/Tasks.org
+/home/dilip/projects/public/research/Product_development.org
+/home/dilip/projects/public/research/Artificial_Intelligence.org
+/home/dilip/projects/public/research/Positive_psychology.org
+/home/dilip/projects/public/research/Chip_industry.org
+/home/dilip/projects/public/research/Statistics.org
+/home/dilip/projects/public/research/Business_model_generation.org
+/home/dilip/projects/public/research/Brain.org
+/home/dilip/projects/public/research/Software_architecture.org
+/home/dilip/projects/public/research/US_Civil_rights.org
+/home/dilip/projects/public/research/Kubernetes.org
+/home/dilip/projects/public/research/Crime.org
+/home/dilip/projects/public/research/Meditation.org
+/home/dilip/projects/public/README.org
+/home/dilip/projects/public/Org_utils.org
+/home/dilip/projects/public/sitemap.org
+/home/dilip/projects/private/tools_setup_and_help/Latex_notes.org
+/home/dilip/projects/private/tools_setup_and_help/sample_dot_file_usage.org
+/home/dilip/projects/private/tools_setup_and_help/Bash_notes.org
+/home/dilip/projects/private/tools_setup_and_help/default_notes.org
+/home/dilip/projects/private/tools_setup_and_help/Org_mode_notes.org
+/home/dilip/projects/private/tools_setup_and_help/Git_SSH_setup.org
+/home/dilip/projects/private/tools_setup_and_help/tests/data/input1.org
+/home/dilip/projects/private/tools_setup_and_help/tests/data/input5.org
+/home/dilip/projects/private/tools_setup_and_help/tests/data/input4.org
+/home/dilip/projects/private/tools_setup_and_help/tests/data/input3.org
+/home/dilip/projects/private/tools_setup_and_help/tests/data/input2.org
+/home/dilip/projects/private/tools_setup_and_help/Python_notes.org
+/home/dilip/projects/private/tools_setup_and_help/Emacs_notes.org
+/home/dilip/projects/private/tools_setup_and_help/PC_and_software_setup.org
+/home/dilip/projects/private/Car_search/Car_search.org
+/home/dilip/projects/private/Career/Professional_connections.org
+/home/dilip/projects/private/Career/Lyptus_notes.org
+/home/dilip/projects/private/Career/CES_notes.org
+/home/dilip/projects/private/Career/Work_notes.org
+/home/dilip/projects/private/Career/Elmot_notes.org
+/home/dilip/projects/private/Career/Ozlo_notes.org
+/home/dilip/projects/private/Career/Career_growth.org
+/home/dilip/projects/private/Career/Data_pipeline_Raghu_work.org
+/home/dilip/projects/private/research/delta_file.org
+/home/dilip/projects/private/research/Embedded_hardware_farm.org
+/home/dilip/projects/private/research/Ideas.org
+/home/dilip/projects/private/research/Investor_due_diligence.org
+/home/dilip/projects/private/research/Energy_and_water_consumption.org
+/home/dilip/projects/private/research/Battery_Management_Systems_course_notes.org
+/home/dilip/projects/private/research/Sample_business_plan.org
+/home/dilip/projects/private/research/Bets.org
+/home/dilip/projects/private/machine_learning/Edge_ML_course/Edge_ML_course_notes.org
+/home/dilip/projects/private/machine_learning/Coursera_deep_learning/Course5_sequence_models/Sequence_models_notes.org
+/home/dilip/projects/private/README.org
+/home/dilip/projects/private/Home_and_family/Compensation_comparison.org
+/home/dilip/projects/private/Home_and_family/Dad_topics.org
+/home/dilip/projects/private/Home_and_family/Personal_health.org
+/home/dilip/projects/private/Home_and_family/Gratitude_journal.org
+/home/dilip/projects/private/Home_and_family/Movies.org
+/home/dilip/projects/private/Home_and_family/Home_and_family.org
+/home/dilip/projects/private/Home_and_family/Personal_call_list.org
+/home/dilip/projects/private/Home_and_family/Investment_analysis.org
+/home/dilip/projects/private/Home_and_family/Finances.org
+/home/dilip/projects/private/Home_and_family/Vacations.org
+/home/dilip/projects/private/sitemap.org
+/home/dilip/projects/private/MIT_systems_dynamics_course_notes/Followup_notes_on_systems_dynamics.org
+/home/dilip/projects/private/MIT_systems_dynamics_course_notes/Systems_dynamics_course_notes.org
+#+end_example
