@@ -23,7 +23,7 @@ efficient. See the example in the figure below.
 
 [[file:Screenshot 2021-12-12 144728.jpg]]
 
-Three concerns for such software systems are as follows.
+The concerns for such software systems are as follows.
 - Reliability :: The system must perform correctly even if some
   sub-parts work incorrectly (software or hardware faults or user
   errors).
@@ -54,7 +54,9 @@ related to one user is
 stored in one JSON file as nodes. This leads to localization of
 information, which can be an advantage. The disadvantage is that
 many-to-one relationships are hard to represent e.g. all users who
-work at the same company. MongoDB is an example of a document database.
+work at the same company.
+
+MongoDB Atlas is the most popular document database.
 
 Graph models can be thought of as another method of representing
 data. For instance, you may have graphs with vertices representing
@@ -113,29 +115,29 @@ See also [[id:c63978d7-17dd-49e9-a52f-2fb47c7190c3][Apache Spark]].
 
 * Under the hood of databases                                        :Review:
 
-  A log file in which new (key, value) pairs are appended could
-  act as a simple database. To get a value, you just search in the
-  file till you find the value corresponding to the key. The set()
-  function is quite efficient since it just involves writing something
-  at the end of a file. The get() however is inefficient since it
-  takes O(n) operations where n is the number of log entries.
+A log file in which new (key, value) pairs are appended could
+act as a simple database. To get a value, you just search in the
+file till you find the value corresponding to the key. The set()
+function is quite efficient since it just involves writing something
+at the end of a file. The get() however is inefficient since it
+takes O(n) operations where n is the number of log entries.
 
-  An enhancement is to create a hash table in memory that
-  maintains a byte offset for each key. When a read request comes in,
-  you look up the byte offset for the key in the hash table and go to
-  that file offset and read the data. Also, the data in the disk
-  should be stored in binary format for storage optimization and not
-  text format.
+An enhancement is to create a hash table in memory that
+maintains a byte offset for each key. When a read request comes in,
+you look up the byte offset for the key in the hash table and go to
+that file offset and read the data. Also, the data in the disk
+should be stored in binary format for storage optimization and not
+text format.
 
-  The log file is only appended-to and no updates are
-  done in-place. This avoids random access writes which can be
-  costly. Appending is done through a single writer thread to avoid
-  concurrency issues.
+The log file is only appended-to and no updates are
+done in-place. This avoids random access writes which can be
+costly. Appending is done through a single writer thread to avoid
+concurrency issues.
 
-  An enhancement from a simple hash table is to use a sorted segment
-  table (SST). In this system, the keys are all sorted. The hash table
-  now does not need to contain the byte offsets for all keys but only
-  for a sparse subset of the keys.
+An enhancement from a simple hash table is to use a sorted segment
+table (SST). In this system, the keys are all sorted. The hash table
+now does not need to contain the byte offsets for all keys but only
+for a sparse subset of the keys.
 
 * Online Analytics Processing (OLAP)                                 :Review:
 
@@ -178,6 +180,8 @@ encoding can be used to improve performance. In bit-map encoding, if
 entries in a column can take on a small subset of values, then a bit
 map is created for each of the values that can be taken on. The ith
 bit map value indicates whether row i contains that value or not.
+
+[[https://parquet.apache.org/][Parquet]] file formats are optimized for columnar access.
 
 * Links
 
