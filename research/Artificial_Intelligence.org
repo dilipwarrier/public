@@ -8,6 +8,7 @@ Coursera specialization: [[https://www.coursera.org/specializations/build-genai-
 Reached [[https://www.coursera.org/learn/implementation-of-genai-agents/supplement/2RDEr/hands-on-learning-hol-implementing-core-ai-agent-functionalities][here]].
 
 ** TODO [#A] Work on Coursera specialization on [[https://www.coursera.org/specializations/build-genai-applications-and-agents][Building GenAI applications and agents]] :Learning:
+SCHEDULED: <2026-04-09 Thu>
 :PROPERTIES:
 :EFFORT:  10:00
 :BENEFIT: 5000

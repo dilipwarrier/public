@@ -56,7 +56,8 @@
 
 * Periodic tasks                                                   :Periodic:
 
-** TODO [#C] Complete [[elisp:(org-agenda t "lt")][learning task]]
+** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
+SCHEDULED: <2026-04-09 Thu 20:00 +1d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
