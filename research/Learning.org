@@ -57,15 +57,16 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
-SCHEDULED: <2026-04-09 Thu 20:00 +1d>
+SCHEDULED: <2026-04-10 Fri 20:00 +1d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-02-20 Fri 07:07]
+   :LAST_REPEAT: [2026-04-10 Fri 05:49]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2026-04-10 Fri 05:49]
    - State "DONE"       from "TODO"       [2026-02-20 Fri 07:07]
    - State "DONE"       from "TODO"       [2026-02-07 Sat 15:43]
    - State "DONE"       from "TODO"       [2026-01-29 Thu 20:50]
@@ -281,6 +282,12 @@ CLOCK: [2025-11-05 Wed 06:54]--[2025-11-05 Wed 07:49] =>  0:55
 CLOCK: [2025-11-03 Mon 07:55]--[2025-11-03 Mon 08:24] =>  0:29
 CLOCK: [2025-10-29 Wed 07:26]--[2025-10-29 Wed 08:26] =>  1:00
 CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
+:END:
+
+
+** TODO Read PagedAttention and DistServe papers from ArXiv
+:LOGBOOK:
+CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
 :END:
 
 
