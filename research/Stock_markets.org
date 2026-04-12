@@ -1,4 +1,4 @@
-#+TITLE: Financial markets
+#+TITLE: Financial markets and investing
 #+FILETAGS: :Finances:
 #+STARTUP: overview, hideallblocks
 
@@ -14,3 +14,95 @@ Youngsters investing after 2021 should not expect the returns of the past
 ** References
 
 - Economist, [[https://www.economist.com/finance-and-economics/2023/11/16/how-the-young-should-invest][How the young should invest]], Nov 2023.
+
+* The Sharpe ratio
+
+Consider \(n\) risky assets with random return vector \(R \in \mathbb{R}^n\).
+
+Let
+\[
+\mu := \mathbb{E}[R] \in \mathbb{R}^n,
+\qquad
+\Sigma := \mathrm{Cov}(R) \in \mathbb{R}^{n \times n}.
+\]
+
+Assume a risk-free asset exists with a return \(r_f\).
+Let \(\mathbf{1}\) denote the all-ones vector.
+
+A portfolio of risky assets is represented by a weight vector \(w\).
+If the investor allocates only among risky assets, a common constraint is
+\[
+\mathbf{1}^\top w = 1.
+\]
+
+Portfolio mean and variance:
+\[
+\mu_p(w) = w^\top \mu,
+\qquad
+\sigma_p^2(w) = w^\top \Sigma w,
+\qquad
+\sigma_p(w) = \sqrt{w^\top \Sigma w}.
+\]
+
+Define the excess-return (risk premium) vector:
+\[
+z := \mu - r_f \mathbf{1}.
+\]
+
+Then the portfolio excess mean is
+\[
+\mu_p(w) - r_f = w^\top z.
+\]
+
+The Sharpe ratio of the portfolio \(w\) is
+\[
+S(w) := \frac{\mu_p(w)-r_f}{\sigma_p(w)}
+= \frac{w^\top z}{\sqrt{w^\top \Sigma w}},
+\]
+defined for \(w\) such that \(w^\top \Sigma w > 0\).
+
+Because of scale invariance, one standard approach is:
+\[
+\max_{w \neq 0} \frac{(w^\top z)^2}{w^\top \Sigma w}
+\quad \Longleftrightarrow \quad
+\max_{w} (w^\top z) \ \text{s.t.}\ w^\top \Sigma w = 1.
+\]
+
+Hence the optimal direction is
+\[
+\boxed{
+w^\star = \frac{\Sigma^{-1} z}{\mathbf{1}^\top \Sigma^{-1} z}
+}
+\qquad \text{provided } \mathbf{1}^\top \Sigma^{-1} z \neq 0.
+\]
+
+This is the closed-form Sharpe-maximizing risky portfolio under the budget constraint.
+
+With \(w^\star\) as above:
+\[
+\boxed{
+\mu^\star = (w^\star)^\top \mu
+= \frac{\mu^\top \Sigma^{-1} z}{\mathbf{1}^\top \Sigma^{-1} z}
+}
+\]
+
+and
+\[
+\boxed{
+(\sigma^\star)^2 = (w^\star)^\top \Sigma w^\star
+= \frac{z^\top \Sigma^{-1} z}{(\mathbf{1}^\top \Sigma^{-1} z)^2}
+}
+\]
+
+Let \(y\) be the fraction of wealth invested in the risky portfolio \(w^\star\)
+and \(1-y\) invested in the risk-free asset. The total portfolio return is
+\[
+R_{\text{total}} = (1-y)r_f + y (w^\star)^\top R.
+\]
+
+Thus,
+\[
+\mathbb{E}[R_{\text{total}}] = r_f + y(\mu^\star - r_f),
+\qquad
+\mathrm{Var}(R_{\text{total}}) = y^2 (\sigma^\star)^2.
+\]
