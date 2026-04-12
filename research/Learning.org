@@ -4,56 +4,6 @@
 
 * Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
 
-* Software technologies to learn
-
-** TODO [#E] Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]
-:PROPERTIES:
-:PRIORITY_NUM: 1
-:VALUE:    N/A
-:END:
-
-** TODO [#E] Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates :Cloud:
-   :PROPERTIES:
-   :EFFORT: 04:00
-   :BENEFIT:  500
-   :RATIO: 1.25
-   :PRIORITY_NUM: 1
-   :VALUE:    100.00
-   :END:
-
-** TODO [#E] Read about Eclipse ThreadX                            :Learning:
-:PROPERTIES:
-:PRIORITY_NUM: 1
-:VALUE:    N/A
-:END:
-
-** TODO [#E] Read about Rust programming                           :Learning:
-:PROPERTIES:
-:PRIORITY_NUM: 1
-:VALUE:    N/A
-:END:
-
-** TODO [#E] Read about Docker containers
-:PROPERTIES:
-:PRIORITY_NUM: 1
-:VALUE:    N/A
-:END:
-
-** TODO [#E] Read about Kubernetes
-:PROPERTIES:
-:PRIORITY_NUM: 1
-:VALUE:    N/A
-:END:
-
-** TODO [#E] Study Apache Superset as a visualization tool         :Learning:
-:PROPERTIES:
-:EFFORT: 00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:PRIORITY_NUM: 1
-:VALUE:    -15.00
-:END:
-
 * Periodic tasks                                                   :Periodic:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
@@ -286,6 +236,56 @@ CLOCK: [2025-10-29 Wed 07:26]--[2025-10-29 Wed 08:26] =>  1:00
 CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
 :END:
 
+
+** TODO Read [[id:102ddbb5-4948-47e6-9526-8c364ada9fdb][serverless whitepaper]]
+
+** TODO [#E] Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]
+:PROPERTIES:
+:PRIORITY_NUM: 1
+:VALUE:    N/A
+:END:
+
+** TODO [#E] Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates :Cloud:
+   :PROPERTIES:
+   :EFFORT: 04:00
+   :BENEFIT:  500
+   :RATIO: 1.25
+   :PRIORITY_NUM: 1
+   :VALUE:    100.00
+   :END:
+
+** TODO [#E] Read about Eclipse ThreadX                            :Learning:
+:PROPERTIES:
+:PRIORITY_NUM: 1
+:VALUE:    N/A
+:END:
+
+** TODO [#E] Read about Rust programming                           :Learning:
+:PROPERTIES:
+:PRIORITY_NUM: 1
+:VALUE:    N/A
+:END:
+
+** TODO [#E] Read about Docker containers
+:PROPERTIES:
+:PRIORITY_NUM: 1
+:VALUE:    N/A
+:END:
+
+** TODO [#E] Read about Kubernetes
+:PROPERTIES:
+:PRIORITY_NUM: 1
+:VALUE:    N/A
+:END:
+
+** TODO [#E] Study Apache Superset as a visualization tool         :Learning:
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:PRIORITY_NUM: 1
+:VALUE:    -15.00
+:END:
 
 ** TODO Read PagedAttention and DistServe papers from ArXiv
 :LOGBOOK:

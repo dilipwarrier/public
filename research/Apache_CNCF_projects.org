@@ -132,8 +132,6 @@ There are two primary components to Knative.
 
 This [[https://github.com/cncf/wg-serverless/blob/master/whitepapers/serverless-overview/cncf_serverless_whitepaper_v1.0.pdf][whitepaper on Serverless]] explains this in detail.
 
-** TODO Read serverless whitepaper (link above)                    :Learning:
-
 ** WASM
 :PROPERTIES:
 :ID:       7a937d3e-57f4-43d1-9b9d-c2c584bc2be0
