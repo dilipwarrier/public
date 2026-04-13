@@ -56,17 +56,7 @@ Queryed via CQL (Cassandra Query Language)
 
 Used when you need fast, operational data access.
 
-Examples:
-
-IoT event ingestion
-
-Time-series dashboards
-
-User profile storage
-
-Sensor data
-
-Fraud scoring systems
+Examples: IoT event ingestion, time-series dashboards, user profile storage
 
 * Apache Iceberg
 
@@ -92,17 +82,7 @@ Queried via engines like Spark, Trino, Flink, Dremio, Snowflake (Iceberg tables)
 
 Used when you need large-scale analytics on massive datasets.
 
-Examples:
-
-ML feature stores
-
-Batch analytics
-
-ETL pipelines
-
-BI dashboards
-
-Data warehouses built on S3 ("lakehouses")
+Examples: ML feature stores, batch analytics, ETL pipelines
 
 * Apache Airflow
 

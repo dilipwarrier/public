@@ -7,15 +7,16 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
-SCHEDULED: <2026-04-12 Sun 20:00 +1d>
+SCHEDULED: <2026-04-20 Mon 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-04-11 Sat 20:23]
+   :LAST_REPEAT: [2026-04-12 Sun 20:47]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2026-04-12 Sun 20:47]
    - State "DONE"       from "TODO"       [2026-04-11 Sat 20:23]
    - State "DONE"       from "TODO"       [2026-04-11 Sat 09:32]
    - State "DONE"       from "TODO"       [2026-04-10 Fri 05:49]
@@ -101,6 +102,50 @@ SCHEDULED: <2026-04-12 Sun 20:00 +1d>
    - State "DONE"       from "TODO"       [2025-05-11 Sun 14:23]
    - State "DONE"       from "TODO"       [2025-05-04 Sun 15:59]
    - State "DONE"       from "TODO"       [2025-04-27 Sun 16:47]
+
+** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
+SCHEDULED: <2026-04-14 Tue 20:00 +7d>
+   :PROPERTIES:
+   :EFFORT: 01:30
+   :BENEFIT: 200
+   :RATIO: 2.00
+   :LAST_REPEAT: [2026-04-11 Sat 20:23]
+   :PRIORITY_NUM: 3
+   :VALUE:    50.00
+   :END:
+
+** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
+SCHEDULED: <2026-04-15 Wed 20:00 +7d>
+   :PROPERTIES:
+   :EFFORT: 01:30
+   :BENEFIT: 200
+   :RATIO: 2.00
+   :LAST_REPEAT: [2026-04-11 Sat 20:23]
+   :PRIORITY_NUM: 3
+   :VALUE:    50.00
+   :END:
+
+** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
+SCHEDULED: <2026-04-16 Thu 20:00 +7d>
+   :PROPERTIES:
+   :EFFORT: 01:30
+   :BENEFIT: 200
+   :RATIO: 2.00
+   :LAST_REPEAT: [2026-04-11 Sat 20:23]
+   :PRIORITY_NUM: 3
+   :VALUE:    50.00
+   :END:
+
+** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
+SCHEDULED: <2026-04-17 Fri 20:00 +7d>
+   :PROPERTIES:
+   :EFFORT: 01:30
+   :BENEFIT: 200
+   :RATIO: 2.00
+   :LAST_REPEAT: [2026-04-11 Sat 20:23]
+   :PRIORITY_NUM: 3
+   :VALUE:    50.00
+   :END:
 
 ** TODO [#C] Review [[elisp:(org-agenda t "lb")][learning backlog]]
    :PROPERTIES:
