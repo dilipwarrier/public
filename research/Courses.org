@@ -4,17 +4,7 @@
 
 * Useful Coursera courses                                          :Projects:
 
-
-** TODO Complete Coursera course [[https://www.coursera.org/learn/cyber-security-fundamentals][Cyber security fundamentals]]
-
-   :PROPERTIES:
-   :EFFORT:   04:00
-   :BENEFIT:  1000
-   :RATIO:    2.50
-   :END:
-
-
-** TODO [#E] Complete Barbara Oakley learning to learn on Coursera and [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][update notes]]
+** TODO Complete Barbara Oakley learning to learn on Coursera and [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][update notes]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10

@@ -4,7 +4,6 @@
 
 * Power consumption for AI data centers                              :Review:
 
-
 ** Consumption trend
 :PROPERTIES:
 :ID:       6af95639-5f7a-4eb2-b2b1-fa3b05f5cc75

@@ -282,8 +282,9 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
 :END:
 
 
-** TODO Read [[id:102ddbb5-4948-47e6-9526-8c364ada9fdb][serverless whitepaper]]
+** DONE Read [[id:102ddbb5-4948-47e6-9526-8c364ada9fdb][serverless whitepaper]]
 
+- State "DONE"       from "TODO"       [2026-04-13 Mon 20:50]
 ** TODO [#E] Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]
 :PROPERTIES:
 :PRIORITY_NUM: 1
@@ -338,13 +339,14 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
 :END:
 
 
-** TODO [#D] Write doc on [[https://docs.google.com/document/d/1tN8tc0oYsAO_9QKacvlsWBKoIld-1UzQvW3cyf5VvaI/edit?usp=sharing][AI agent load management]]              :Learning:
+** DONE [#D] Write doc on [[https://docs.google.com/document/d/1tN8tc0oYsAO_9QKacvlsWBKoIld-1UzQvW3cyf5VvaI/edit?usp=sharing][AI agent load management]] :Learning:
    :PROPERTIES:
    :EFFORT: 05:00
    :BENEFIT: 2000
    :VALUE:    1500.00
    :PRIORITY_NUM: 2
    :END:
+   - State "DONE"       from "TODO"       [2026-04-13 Mon 20:50]
    :LOGBOOK:
    CLOCK: [2026-01-12 Mon 06:21]--[2026-01-12 Mon 07:29] =>  1:08
    :END:
@@ -399,17 +401,18 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    - State "DONE"       from "TODO"       [2025-07-19 Sat 11:15]
 
 ** TODO [#D] Review Amazon annual shareholder letter
-   SCHEDULED: <2026-04-12 Sun +52w>
+   SCHEDULED: <2027-04-11 Sun +52w>
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
    :RATIO: 0.40
-   :LAST_REPEAT: [2025-04-12 Sat 18:16]
+   :LAST_REPEAT: [2026-04-13 Mon 20:22]
    :PRIORITY_NUM: 2
    :VALUE:    -15.00
    :END:
 
 
+   - State "DONE"       from "TODO"       [2026-04-13 Mon 20:22]
    - State "DONE"       from "TODO"       [2025-04-12 Sat 18:16]
    - State "DONE"       from "TODO"       [2024-04-20 Sat 13:38]
 
@@ -461,7 +464,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
   CLOCK: [2025-01-12 Sun 10:40]--[2025-01-12 Sun 11:40] =>  1:00
   :END:
 
-** TODO [#E] Save [[https://seths.blog/2005/03/dont_shave_that/][Don't shave that yak]] article
+** DONE [#E] Save [[https://seths.blog/2005/03/dont_shave_that/][Don't shave that yak]] article
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -470,6 +473,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
+   - State "DONE"       from "TODO"       [2026-04-13 Mon 20:33]
 ** TODO [#E] Review [[https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/][good forecasting practices]]                     :Learning:
    :PROPERTIES:
    :EFFORT: 00:15
