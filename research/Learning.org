@@ -115,6 +115,7 @@ SCHEDULED: <2026-04-21 Tue 20:00 +7d>
    :END:
 
    - State "DONE"       from "TODO"       [2026-04-14 Tue 20:57]
+
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
 SCHEDULED: <2026-04-15 Wed 20:00 +7d>
    :PROPERTIES:
@@ -148,7 +149,7 @@ SCHEDULED: <2026-04-17 Fri 20:00 +7d>
    :VALUE:    50.00
    :END:
 
-** TODO [#C] Review [[elisp:(org-agenda t "lb")][learning backlog]]
+** TODO Review [[elisp:(org-agenda t "lb")][learning backlog]]
    :PROPERTIES:
    :EFFORT: 01:00
    :BENEFIT: 200
@@ -223,7 +224,7 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
    :END:
 
 
-*** DONE [#E] Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
+*** DONE Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
   :PROPERTIES:
   :EFFORT: 00:15
   :BENEFIT: 10
@@ -235,7 +236,7 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
 
   - State "DONE"       from "TODO"       [2026-01-03 Sat 09:50]
 
-*** DONE [#E] Read Apache Spark book with Pandas (248/500) (~500 pages at 10 pages/hour)
+*** DONE Read Apache Spark book with Pandas (248/500) (~500 pages at 10 pages/hour)
 :PROPERTIES:
 :EFFORT:  50:00
 :BENEFIT: 2000
@@ -286,13 +287,13 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
 ** DONE Read [[id:102ddbb5-4948-47e6-9526-8c364ada9fdb][serverless whitepaper]]
 
 - State "DONE"       from "TODO"       [2026-04-13 Mon 20:50]
-** TODO [#E] Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]
+** TODO Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]
 :PROPERTIES:
 :PRIORITY_NUM: 1
 :VALUE:    N/A
 :END:
 
-** TODO [#E] Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates :Cloud:
+** TODO Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates :Cloud:
    :PROPERTIES:
    :EFFORT: 04:00
    :BENEFIT:  500
@@ -301,31 +302,31 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
    :VALUE:    100.00
    :END:
 
-** TODO [#E] Read about Eclipse ThreadX                            :Learning:
+** TODO Read about Eclipse ThreadX                            :Learning:
 :PROPERTIES:
 :PRIORITY_NUM: 1
 :VALUE:    N/A
 :END:
 
-** TODO [#E] Read about Rust programming                           :Learning:
+** TODO Read about Rust programming                           :Learning:
 :PROPERTIES:
 :PRIORITY_NUM: 1
 :VALUE:    N/A
 :END:
 
-** TODO [#E] Read about Docker containers
+** TODO Read about Docker containers
 :PROPERTIES:
 :PRIORITY_NUM: 1
 :VALUE:    N/A
 :END:
 
-** TODO [#E] Read about Kubernetes
+** TODO Read about Kubernetes
 :PROPERTIES:
 :PRIORITY_NUM: 1
 :VALUE:    N/A
 :END:
 
-** TODO [#E] Study Apache Superset as a visualization tool         :Learning:
+** TODO Study Apache Superset as a visualization tool         :Learning:
 :PROPERTIES:
 :EFFORT: 00:15
 :BENEFIT: 10
@@ -340,7 +341,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
 :END:
 
 
-** DONE [#D] Write doc on [[https://docs.google.com/document/d/1tN8tc0oYsAO_9QKacvlsWBKoIld-1UzQvW3cyf5VvaI/edit?usp=sharing][AI agent load management]] :Learning:
+** DONE Write doc on [[https://docs.google.com/document/d/1tN8tc0oYsAO_9QKacvlsWBKoIld-1UzQvW3cyf5VvaI/edit?usp=sharing][AI agent load management]] :Learning:
    :PROPERTIES:
    :EFFORT: 05:00
    :BENEFIT: 2000
@@ -352,7 +353,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    CLOCK: [2026-01-12 Mon 06:21]--[2026-01-12 Mon 07:29] =>  1:08
    :END:
 
-** TODO [#E] Read [[https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/][Measuring developer productivity with DX Core 4]]
+** TODO Read [[https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/][Measuring developer productivity with DX Core 4]]
 :PROPERTIES:
 :EFFORT:  00:15
 :BENEFIT: 10
@@ -361,7 +362,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
 :PRIORITY_NUM: 1
 :END:
 
-** TODO [#E] Reformat all learning quotes to be sections
+** TODO Reformat all learning quotes to be sections
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -370,7 +371,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO [#D] Check OpenAI Dev Day summary
+** TODO Check OpenAI Dev Day summary
    SCHEDULED: <2026-10-10 Sat>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -380,7 +381,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO [#E] Copy over notes from [[https://www.evernote.com/client/web#/notebooks][Evernote notebooks]] to Org
+** TODO Copy over notes from [[https://www.evernote.com/client/web#/notebooks][Evernote notebooks]] to Org
    :PROPERTIES:
    :LAST_REPEAT: [2025-10-06 Mon 08:14]
    :Effort:   20:00
@@ -401,7 +402,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    - State "DONE"       from "TODO"       [2025-07-29 Tue 11:25]
    - State "DONE"       from "TODO"       [2025-07-19 Sat 11:15]
 
-** TODO [#D] Review Amazon annual shareholder letter
+** TODO Review Amazon annual shareholder letter
    SCHEDULED: <2027-04-11 Sun +52w>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -417,7 +418,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    - State "DONE"       from "TODO"       [2025-04-12 Sat 18:16]
    - State "DONE"       from "TODO"       [2024-04-20 Sat 13:38]
 
-** TODO [#E] Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]]
+** TODO Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -426,7 +427,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    -15.00
    :END:
 
-** TODO [#E] Find a book on cleaning the house 5S, Marie Kondo, etc
+** TODO Find a book on cleaning the house 5S, Marie Kondo, etc
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -435,7 +436,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO [#E] Read about process flow and flow chart drawing conventions
+** TODO Read about process flow and flow chart drawing conventions
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -444,7 +445,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO [#E] Read [[https://drive.google.com/file/d/1ojOT-hP7nFUTNCUCGk_AKMN45E547Tvd/view?usp=drive_link][capitalism is better than donation for global poverty]]
+** TODO Read [[https://drive.google.com/file/d/1ojOT-hP7nFUTNCUCGk_AKMN45E547Tvd/view?usp=drive_link][capitalism is better than donation for global poverty]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -453,7 +454,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO [#E] Read CMMI book
+** TODO Read CMMI book
   :PROPERTIES:
   :EFFORT: 06:00
   :BENEFIT: 600
@@ -465,7 +466,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
   CLOCK: [2025-01-12 Sun 10:40]--[2025-01-12 Sun 11:40] =>  1:00
   :END:
 
-** DONE [#E] Save [[https://seths.blog/2005/03/dont_shave_that/][Don't shave that yak]] article
+** DONE Save [[https://seths.blog/2005/03/dont_shave_that/][Don't shave that yak]] article
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -475,7 +476,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :END:
 
    - State "DONE"       from "TODO"       [2026-04-13 Mon 20:33]
-** TODO [#E] Review [[https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/][good forecasting practices]]                     :Learning:
+** TODO Review [[https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/][good forecasting practices]]                     :Learning:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -484,7 +485,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    -15.00
    :END:
 
-** TODO [#E] Take the Superforecasting [[https://good-judgment.thinkific.com/courses/Superforecasting-Fundamentals][Good Judgement training]]
+** TODO Take the Superforecasting [[https://good-judgment.thinkific.com/courses/Superforecasting-Fundamentals][Good Judgement training]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -493,7 +494,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO [#E] Read about the [[https://c4model.com/][C4 architecture method]]
+** TODO Read about the [[https://c4model.com/][C4 architecture method]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -502,7 +503,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO [#E] Read [[https://joincolossus.com/article/ai-will-not-make-you-rich/][who will benefit from AI]]
+** TODO Read [[https://joincolossus.com/article/ai-will-not-make-you-rich/][who will benefit from AI]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -512,7 +513,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :END:
 
 
-** TODO [#E] Read [[https://www.wsj.com/economy/a-guaranteed-income-wont-stop-people-from-wanting-to-work-03c4ab31?st=yeDmB6][A guaranteed income won't stop people from wanting to work]] :Learning:
+** TODO Read [[https://www.wsj.com/economy/a-guaranteed-income-wont-stop-people-from-wanting-to-work-03c4ab31?st=yeDmB6][A guaranteed income won't stop people from wanting to work]] :Learning:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -521,7 +522,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    -15.00
    :END:
 
-** TODO [#E] Review [[https://rodneybrooks.com/blog/][Rodney Brooks blog]]
+** TODO Review [[https://rodneybrooks.com/blog/][Rodney Brooks blog]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -531,7 +532,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :END:
 
 
-** TODO [#E] Subscribe to eclipse threadx and freertos newsletters :Learning:
+** TODO Subscribe to eclipse threadx and freertos newsletters :Learning:
 :PROPERTIES:
 :EFFORT: 00:15
 :BENEFIT: 10
@@ -540,7 +541,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
 :PRIORITY_NUM: 1
 :END:
 
-** TODO [#E] Read [[https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07?st=3Sx9NK][Europe green energy issues]]
+** TODO Read [[https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07?st=3Sx9NK][Europe green energy issues]]
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
