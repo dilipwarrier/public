@@ -6,7 +6,7 @@
 
 * Periodic tasks                                                   :Periodic:
 
-** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
+** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
 SCHEDULED: <2026-04-20 Mon 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
@@ -103,7 +103,7 @@ SCHEDULED: <2026-04-20 Mon 20:00 +7d>
    - State "DONE"       from "TODO"       [2025-05-04 Sun 15:59]
    - State "DONE"       from "TODO"       [2025-04-27 Sun 16:47]
 
-** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
+** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
 SCHEDULED: <2026-04-21 Tue 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
@@ -116,29 +116,31 @@ SCHEDULED: <2026-04-21 Tue 20:00 +7d>
 
    - State "DONE"       from "TODO"       [2026-04-14 Tue 20:57]
 
-** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
-SCHEDULED: <2026-04-15 Wed 20:00 +7d>
+** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
+SCHEDULED: <2026-04-22 Wed 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-04-11 Sat 20:23]
+   :LAST_REPEAT: [2026-04-16 Thu 14:20]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
 
-** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
-SCHEDULED: <2026-04-16 Thu 20:00 +7d>
+   - State "DONE"       from "TODO"       [2026-04-16 Thu 14:20]
+** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
+SCHEDULED: <2026-04-23 Thu 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-04-11 Sat 20:23]
+   :LAST_REPEAT: [2026-04-16 Thu 20:31]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
 
-** TODO Complete [[elisp:(org-agenda t "lt")][learning task]]
+   - State "DONE"       from "TODO"       [2026-04-16 Thu 20:31]
+** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
 SCHEDULED: <2026-04-17 Fri 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
@@ -381,7 +383,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO Copy over notes from [[https://www.evernote.com/client/web#/notebooks][Evernote notebooks]] to Org
+** TODO [#A] Copy over notes from [[https://www.evernote.com/client/web#/notebooks][Evernote notebooks]] to Org
    :PROPERTIES:
    :LAST_REPEAT: [2025-10-06 Mon 08:14]
    :Effort:   20:00
