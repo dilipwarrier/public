@@ -141,16 +141,17 @@ SCHEDULED: <2026-04-23 Thu 20:00 +7d>
 
    - State "DONE"       from "TODO"       [2026-04-16 Thu 20:31]
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
-SCHEDULED: <2026-04-17 Fri 20:00 +7d>
+SCHEDULED: <2026-04-24 Fri 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-04-11 Sat 20:23]
+   :LAST_REPEAT: [2026-04-18 Sat 10:23]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
 
+   - State "DONE"       from "TODO"       [2026-04-18 Sat 10:23]
 ** TODO Review [[elisp:(org-agenda t "lb")][learning backlog]]
    :PROPERTIES:
    :EFFORT: 01:00
