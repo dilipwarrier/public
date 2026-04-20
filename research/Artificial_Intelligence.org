@@ -7,31 +7,6 @@ Coursera specialization: [[https://www.coursera.org/specializations/build-genai-
 
 Reached [[https://www.coursera.org/learn/implementation-of-genai-agents/supplement/2RDEr/hands-on-learning-hol-implementing-core-ai-agent-functionalities][here]] but gave up. The material is very bad.
 
-** DONE [#A] Work on Coursera specialization on [[https://www.coursera.org/specializations/build-genai-applications-and-agents][Building GenAI applications and agents]] :Learning:
-SCHEDULED: <2026-04-09 Thu>
-:PROPERTIES:
-:EFFORT:  10:00
-:BENEFIT: 5000
-:COST: 200
-:VALUE:    3800.00
-:PRIORITY_NUM: 5
-:LAST_REPEAT: [2026-01-20 Tue 10:34]
-:END:
-- State "DONE"       from "TODO"       [2026-04-13 Mon 20:31]
-- State "DONE"       from "TODO"       [2026-01-20 Tue 10:34]
-- State "DONE"       from "TODO"       [2026-01-09 Fri 10:13]
-- State "DONE"       from "TODO"       [2026-01-06 Tue 09:33]
-:LOGBOOK:
-CLOCK: [2026-01-20 Tue 09:01]--[2026-01-20 Tue 10:33] =>  1:32
-CLOCK: [2026-01-20 Tue 06:31]--[2026-01-20 Tue 08:01] =>  1:30
-CLOCK: [2026-01-09 Fri 07:58]--[2026-01-09 Fri 09:53] =>  1:55
-CLOCK: [2026-01-09 Fri 06:29]--[2026-01-09 Fri 07:02] =>  0:33
-CLOCK: [2026-01-06 Tue 06:27]--[2026-01-06 Tue 09:33] =>  3:06
-CLOCK: [2026-01-05 Mon 06:34]--[2026-01-05 Mon 08:34] =>  2:00
-CLOCK: [2026-01-03 Sat 21:19]--[2026-01-03 Sat 22:19] =>  1:00
-CLOCK: [2026-01-02 Fri 07:35]--[2026-01-02 Fri 09:35] =>  2:00
-:END:
-
 ** Mon 01/05
 
 I started experimenting with AI agents and crewAI.
@@ -49,6 +24,33 @@ site. That worked.
 
 Created an OpenAI API call. Saved the resulting simple script in
 [[id:5e560df9-79b2-4600-95ee-f238c4bcae7d][OpenAI API key]].
+
+** Archive                                                          :ARCHIVE:
+*** DONE [#A] Work on Coursera specialization on [[https://www.coursera.org/specializations/build-genai-applications-and-agents][Building GenAI applications and agents]] :Learning:
+SCHEDULED: <2026-04-09 Thu>
+:PROPERTIES:
+:EFFORT:  10:00
+:BENEFIT: 5000
+:COST: 200
+:VALUE:    3800.00
+:PRIORITY_NUM: 5
+:LAST_REPEAT: [2026-01-20 Tue 10:34]
+:ARCHIVE_TIME: 2026-04-19 Sun 20:46
+:END:
+- State "DONE"       from "TODO"       [2026-04-13 Mon 20:31]
+- State "DONE"       from "TODO"       [2026-01-20 Tue 10:34]
+- State "DONE"       from "TODO"       [2026-01-09 Fri 10:13]
+- State "DONE"       from "TODO"       [2026-01-06 Tue 09:33]
+:LOGBOOK:
+CLOCK: [2026-01-20 Tue 09:01]--[2026-01-20 Tue 10:33] =>  1:32
+CLOCK: [2026-01-20 Tue 06:31]--[2026-01-20 Tue 08:01] =>  1:30
+CLOCK: [2026-01-09 Fri 07:58]--[2026-01-09 Fri 09:53] =>  1:55
+CLOCK: [2026-01-09 Fri 06:29]--[2026-01-09 Fri 07:02] =>  0:33
+CLOCK: [2026-01-06 Tue 06:27]--[2026-01-06 Tue 09:33] =>  3:06
+CLOCK: [2026-01-05 Mon 06:34]--[2026-01-05 Mon 08:34] =>  2:00
+CLOCK: [2026-01-03 Sat 21:19]--[2026-01-03 Sat 22:19] =>  1:00
+CLOCK: [2026-01-02 Fri 07:35]--[2026-01-02 Fri 09:35] =>  2:00
+:END:
 
 * OpenAI API
 
