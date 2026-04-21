@@ -5,6 +5,7 @@ Parse a list of items (e.g. movies, books, wine etc.) and support queries and a
 recommendation engine.
 """
 
+import os
 import re
 import sys
 import csv
@@ -25,6 +26,20 @@ def xl_date_to_str(xl_date):
     return datetime.date.strftime(actual_date, "%m/%d/%Y")
 
 
+def file_type_from_path(items_file):
+    """Infer file type from the file extension in a robust way."""
+
+    _, extension = os.path.splitext(items_file)
+    extension = extension.lower()
+
+    if extension == ".csv":
+        return "csv"
+    if extension in [".xls", ".xlsx"]:
+        return "excel"
+
+    raise ValueError("Unknown file type for file: %s" % items_file)
+
+
 class items_list:
     """A item library with author, title, rating etc. derived from a items CSV/Excel file object."""
 
@@ -34,7 +49,7 @@ class items_list:
                  genre_field_names,
                  read_date_field_name,
                  added_date_field_name="",
-                 file_type="csv"):
+                 file_type=None):
         """Initialize the items list based on a CSV file object or an Excel file name.
 
         The file must contain the following field names:
@@ -57,6 +72,9 @@ class items_list:
         * The date the item was added represented by added_date_field_name
           If this field is present, it is taken into account in the recommended books.
         """
+
+        if file_type is None:
+            file_type = file_type_from_path(items_file)
 
         if file_type == "csv":
             with open(items_file, newline='') as f:

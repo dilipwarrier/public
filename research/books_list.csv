@@ -1,4 +1,6 @@
 Title,Author,My Rating,Average Rating,Date Read,Date Added,Genre,Status
+"Everything is predictable: How Bayesian statistics explain our world",Tom Chivers,,4.0,,04/21/2026,maths,to-read
+"Apple in China: The Capture of the World's Greatest Company",Patrick McGee,,4.5,,04/21/2026,business,to-read
 "Continuous Integration: Improving Software Quality and Reducing Risk","Paul Duvall, Steve Matyas, Andrew Glover",,3.8,,04/20/2026,software,to-read
 "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation","Jez Humble, David Farley",,4.2,,04/20/2026,software,to-read
 "The Missing Readme: A Guide for the New Software Engineer","Chris Riccomini, Dmitriy Ryaboy",,4.4,,04/20/2026,software,to-read
@@ -98,7 +100,7 @@ The missing billionaires,Victor Haghani,4,4.0,6/20/2024,05/01/2024,"maths,financ
 Trillion dollar coach,"Eric Schmidt,Jonathan Rosenberg",4,4.0,06/05/2024,06/05/2024,management,read
 High output management,Andrew Grove,5,4.0,05/30/2024,05/30/2024,management,read
 Measure what matters,John Doerr,4,4.0,04/10/2024,7/8/2023,management,read
-Bubble or revolution?,Neel Mehta,5,4.0,03/30/2024,03/30/2024,"finance,maths,books-to-read-again",read
+Bubble or revolution?,Neel Mehta,5,4.0,03/30/2024,03/30/2024,"finance,business,books-to-read-again",read
 Business model generation,Alex Osterwalder,5,4.2,01/01/2024,02/27/2022,"management,books-to-read-again",read
 The silk roads,Peter Frankopan,2,4.0,06/12/2024,08/11/2023,eastern-history,read
 How the world really works,Vaclav Smil,5,4.0,01/01/2024,7/8/2023,science,read

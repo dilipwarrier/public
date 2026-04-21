@@ -50,9 +50,6 @@ parser.add_argument(dest = 'books_file', type = str)
 args = parser.parse_args()
 
 books_file = args.books_file
-if ("." in books_file) and ((books_file.split("."))[1] != "csv"):
-    raise ValueError("Books file must be in csv format")
-
 blist = parse_items.items_list(books_file,
                                creator_field_name="Author",
                                genre_field_names=["Genre"],
