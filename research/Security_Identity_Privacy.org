@@ -7,21 +7,20 @@
 A digital signature is a cryptographic mechanism used to verify the
 authenticity, integrity, and non-repudiation of digital data.
 
-It uses asymmetric cryptography with two keys:
-- Private key: known only to the signer
-- Public key: shared with everyone
+It uses asymmetric cryptography with two keys - a private key that is
+known only to the signer and a public key that the signer shares with
+everyone. The private key is used to create the signature while the
+public key is used to verify it.
 
-The private key creates the signature; the public key verifies it.
-  1. Hashing the message:
-     The message is run through a cryptographic hash function such as
-     SHA-256, producing a fixed-length digest.
-  2. Creating the signature:
-     The signer’s private key encrypts the hash to produce the
-     signature.
-  3. Verification:
-     The verifier decrypts the signature with the public key and
-     compares the result to a freshly computed hash. If they match,
-     the message is verified for integrity and authenticity.
+The process consists of the following steps.
+
+- Hashing the message :: The message is run through a cryptographic
+  hash function such as SHA-256, producing a fixed-length digest.
+- Creating the signature :: The signer’s private key encrypts the hash
+  to produce the signature.
+- Verification :: The verifier decrypts the signature with the public key and
+  compares the result to a freshly computed hash from the message. If they match,
+  the message is verified for integrity and authenticity.
 
 For example, when Alice wants to send a certified email to Bob:
 1. She hashes the email.
@@ -62,40 +61,11 @@ used to maintain confidentiality or secrecy.
   2. The symmetric key is encrypted using the recipient’s public key.
   This provides both speed and security.
 
-- Goals of encryption:
-  - Confidentiality: Only authorized parties can read the data.
-  - Integrity: The data cannot be modified undetected.
-  - Authentication: Confirms who the data came from when combined with signatures.
+Authentication and integrity are provided by digital
+signatures. Confidentiality is provided by encryption.
 
-** Combining Encryption and Signatures
-- Authentication and integrity are provided by digital signatures.
-- Confidentiality is provided by encryption.
+** Encryption in Motion
 
-Two main orders are used:
-
-*** a. Sign–then–Encrypt
-1. The message is signed using the sender’s private key.
-2. The signed message is encrypted using the recipient’s public key.
-3. The recipient decrypts it with their private key and verifies the signature.
-
-Advantages:
-- Signature is hidden from outsiders.
-- Ensures both secrecy and authenticity.
-
-Used in S/MIME, PGP, and secure document exchange.
-
-*** b. Encrypt–then–Sign
-1. The message is encrypted using the recipient’s public key.
-2. The ciphertext is signed with the sender’s private key.
-3. The recipient verifies the signature and then decrypts.
-
-Advantages:
-- Signature covers the ciphertext itself.
-- Useful for systems where intermediate parties handle encrypted data.
-
----
-
-** Encryption in Motion (Encryption in Transit)
 - Definition:
   Protects data while it is transmitted between systems, such as between a client and a server.
 
@@ -110,15 +80,16 @@ Advantages:
     - VPNs for full network encryption
 
 - Example:
-  When logging into a bank website, HTTPS (TLS) encrypts your credentials so attackers cannot read them in transit.
+  When logging into a bank website, HTTPS (TLS) encrypts your
+  credentials so attackers cannot read them in transit.
 
 - Analogy:
-  Like sending a sealed envelope through the mail; no one can read it while it is being delivered.
-
----
+  Like sending a sealed envelope through the mail; no one can read it
+  while it is being delivered.
 
 ** Encryption at Rest
-It protects data while it is stored on a disk, database, or cloud storage.
+
+This protects data while it is stored on a disk, database, or cloud storage.
 
 - Goal:
   Prevent unauthorized access if physical storage is stolen or compromised.
