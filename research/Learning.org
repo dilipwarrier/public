@@ -105,29 +105,31 @@ SCHEDULED: <2026-04-27 Mon 20:00 +7d>
    - State "DONE"       from "TODO"       [2025-04-27 Sun 16:47]
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
-SCHEDULED: <2026-04-21 Tue 20:00 +7d>
+SCHEDULED: <2026-04-28 Tue 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-04-14 Tue 20:57]
+   :LAST_REPEAT: [2026-04-22 Wed 08:57]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
 
+   - State "DONE"       from "TODO"       [2026-04-22 Wed 08:57]
    - State "DONE"       from "TODO"       [2026-04-14 Tue 20:57]
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
-SCHEDULED: <2026-04-22 Wed 20:00 +7d>
+SCHEDULED: <2026-04-29 Wed 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-04-16 Thu 14:20]
+   :LAST_REPEAT: [2026-04-22 Wed 21:29]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
 
+   - State "DONE"       from "TODO"       [2026-04-22 Wed 21:29]
    - State "DONE"       from "TODO"       [2026-04-16 Thu 14:20]
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
 SCHEDULED: <2026-04-23 Thu 20:00 +7d>
