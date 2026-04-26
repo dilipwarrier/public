@@ -561,3 +561,10 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :PRIORITY_NUM: 1
    :END:
+
+** TODO Look up MIT document on the semester you missed in CS - teaches version control, networking, security etc :Learning:
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
