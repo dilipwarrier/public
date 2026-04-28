@@ -7,15 +7,16 @@
 * Periodic tasks                                                   :Periodic:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
-SCHEDULED: <2026-04-27 Mon 20:00 +7d>
+SCHEDULED: <2026-05-04 Mon 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-04-21 Tue 05:42]
+   :LAST_REPEAT: [2026-04-27 Mon 20:35]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2026-04-27 Mon 20:35]
    - State "DONE"       from "TODO"       [2026-04-21 Tue 05:42]
    - State "DONE"       from "TODO"       [2026-04-12 Sun 20:47]
    - State "DONE"       from "TODO"       [2026-04-11 Sat 20:23]
@@ -563,6 +564,13 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :END:
 
 ** TODO Look up MIT document on the semester you missed in CS - teaches version control, networking, security etc :Learning:
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:END:
+
+** TODO Save react Ai paper
 :PROPERTIES:
 :EFFORT: 00:15
 :BENEFIT: 10
