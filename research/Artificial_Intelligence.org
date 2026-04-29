@@ -1,5 +1,5 @@
 #+TITLE: Interesting thoughts/results in AI
-#+FILETAGS: :AI:
+#+FILETAGS: :AI:Technology:
 
 * My learnings with AI agents
 

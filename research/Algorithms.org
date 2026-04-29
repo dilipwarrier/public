@@ -1,6 +1,6 @@
 #+TITLE: Algorithms
 #+AUTHOR: Brian Christian, Tom Griffiths
-#+FilETAGS: :ComputerScience:Algorithms:
+#+FilETAGS: :ComputerScience:Algorithms:Maths:
 
 * Optimal stopping                                                   :Review:
 

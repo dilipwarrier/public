@@ -1,5 +1,5 @@
 #+TITLE: Concepts in statistics
-#+FILETAGS: :Math:
+#+FILETAGS: :Maths:
 #+LATEX_HEADER: \usepackage{amsmath}
 
 * Statistical quantities                                             :Review:
@@ -101,38 +101,3 @@ Values of $R^2$ close to 1 indicate a good fit.
 ** References
 
 [[https://en.wikipedia.org/wiki/Ordinary_least_squares][Wikipedia article]]
-
-* Linear mixed-effect models
-
-Linear mixed effect (LME) or multi-level models are useful when
-individuals belong to groups and the groups can have their own
-properties. For instance, a model of student performance may have
-individual measures but may also have measures for the classroom
-group that they belong to (e.g. experience of the classroom teacher)
-and for the school that the classroom is a part of (e.g. average
-income of the school district).
-
-At the base level (level 1), the regression equation is given by:
-\begin{equation*}
-y = X b_j + e
-\end{equation}
-
-$y$ is of size $n \times 1$. $X$ is of size $n \times (p + 1)$ and the
-first column is all ones. $b_j$ is of size $(p + 1) \times 1$ and
-$b_j[0]$ is the intercept.
-
-$e$ are assumed to be Gaussian i.i.d. errors.
-
-For a simple multi-level model, we may assume that just the intercept
-is affected by level 2 factors. Thus,
-
-\begin{equation*}
-b_j[0] = W g_j + u_j
-\end{equation}
-
-where $W$ is fo size $1 \times (q_j + 1)$.
-
-** References
-
-- [[https://en.wikipedia.org/wiki/Multilevel_model][Wikipedia article]]
-- Discovering statistics using R, Andy Field et al, 1st edition, p. 857

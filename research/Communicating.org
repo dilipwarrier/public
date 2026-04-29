@@ -1,5 +1,5 @@
 #+TITLE: Communicating and listening
-#+FILETAGS: :Communication:
+#+FILETAGS: :Communication:Management:
 #+STARTUP: overview, hideallblocks
 
 * Reacting emotionally to situations                                 :Review:

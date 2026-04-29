@@ -1,5 +1,5 @@
 #+title: Team and inter-personal communication
-#+FILETAGS: :Manager:
+#+FILETAGS: :Management:
 #+STARTUP: content
 
 * Introduction

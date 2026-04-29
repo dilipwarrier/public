@@ -1,5 +1,5 @@
 #+NAME: Business strategy
-#+FILETAGS: :Strategy:
+#+FILETAGS: :Strategy:Management:
 #+STARTUP: content, inlineimages
 
 * Purpose, vision, mission, and strategy                             :Review:

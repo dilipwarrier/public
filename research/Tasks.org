@@ -1,5 +1,5 @@
 #+FILE: The principles and practice of task management
-#+FILETAGS: :Work:Tasks:
+#+FILETAGS: :Management:
 #+STARTUP: overview, hideallblocks
 
 * Generation of a set of tasks with an offset from a deadline
@@ -215,7 +215,7 @@ By using remaining costs, you avoid the sunk cost fallacy.
 If you have many projects to choose from, you should rank them by
 value and work on the highest value project first.
 
-* Task management for teams                               :Review:Management:
+* Task management for teams                                          :Review:
 
 Software development teams typically use Jira or a similar database
 for logging software tasks or defects. We recommend that you use

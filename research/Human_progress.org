@@ -1,5 +1,5 @@
 #+TITLE: Human progress
-#+FILETAGS: :Society:
+#+FILETAGS: :Society:Philosophy:
 #+STARTUP: overview, hideallblocks
 
 * Human progress                                                     :Review:

@@ -1,5 +1,5 @@
 #+TITLE: Articles and notes on crime
-#+FILETAGS: :Crime:
+#+FILETAGS: :Crime:History:
 #+STARTUP: overview, hideallblocks
 
 * US violent crime and proven deterrence techniques                  :Review:

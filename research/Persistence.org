@@ -1,5 +1,5 @@
 #+TITLE: Optimism and persistence
-#+FILETAGS: :Psychology:Brain:
+#+FILETAGS: :Philosophy:
 #+STARTUP: overview, hideallblocks
 
 * Inspiring people                                                   :Review:

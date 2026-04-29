@@ -1,5 +1,5 @@
 #+Title: Market analysis
-#+Filetags: :Marketing:
+#+Filetags: :Business:
 
 * Market analysis                                                    :Review:
 

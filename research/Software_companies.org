@@ -1,5 +1,5 @@
 #+TITLE: Software industry news and analysis
-#+FILETAGS: :SoftwareIndustry:
+#+FILETAGS: :Software:
 #+STARTUP: overview, hideallblocks
 
 * Open source software foundations

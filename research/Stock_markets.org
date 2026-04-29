@@ -1,5 +1,5 @@
 #+TITLE: Financial markets and investing
-#+FILETAGS: :Finances:
+#+FILETAGS: :Finance:
 #+STARTUP: overview, hideallblocks
 
 * Stock market performance                                           :Review:

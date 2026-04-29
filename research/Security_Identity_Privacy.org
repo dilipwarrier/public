@@ -1,5 +1,5 @@
 #+Title: Privacy, security, and identity
-#+FILETAGS: :Technology:
+#+FILETAGS: :Software:
 #+STARTUP: overview, hideallblocks
 
 * Digital signatures                                                 :Review:

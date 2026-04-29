@@ -1,5 +1,5 @@
 #+TITLE: Game theory
-#+FILETAGS: :economics:mathematics:
+#+FILETAGS: :economics:Maths:
 #+STARTUP: content
 
 * Three factors to making a decision                                 :Review:
