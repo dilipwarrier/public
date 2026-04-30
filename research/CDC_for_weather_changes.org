@@ -1,0 +1,67 @@
+#+TITLE: Improving responses to weather changes using CDC
+#+AUTHOR: Dilip Warrier
+
+* Introduction
+
+Change Data Capture (CDC) is a mechanism for detecting and using changes in
+the external environment to make swift operational decisions. In this paper,
+we apply the CDC idea to the use case of an enterprise that must update its
+supply chain to respond to changing weather conditions.
+
+* Use Case: Supply Chain Response
+
+Let us assume that this enterprise is responsible for stocking shelves in
+its various stores around the country with sandbags in advance of a storm.
+It has an existing algorithm to determine which stores should get how many
+sandbags based on some input parameters, as shown below.
+
+#+BEGIN_SRC mermaid :file stocking_algorithm.png
+graph TD
+    A[Supplier lead times] --> B((Stocking algorithm))
+    C[Sales forecasting data] --> B
+    D[Store Inventory Levels] --> B
+    B --> E[Reordering of sand bags by store]
+#+END_SRC
+
+Such a stocking algorithm is usually implemented in an Online Transaction
+Processing (OLTP) database such as Postgres. We can conceptually depict this
+system in the enterprise management system as follows.
+
+* The Status Quo: Manual Weather Integration
+
+In the current enterprise architecture, data flows are bifurcated between
+operational execution and strategic analysis. While transactions are
+processed automatically, environmental adaptations—such as storm
+preparation—rely on a high-latency manual loop.
+
+** Operational Flow (OLTP)
+Customer orders at local stores are entered into the primary Online
+Transaction Processing (OLTP) database. This triggers automated restocking
+orders from regional warehouses based on standard inventory thresholds.
+
+** Analytical Flow (OLAP)
+In parallel, external weather data is ingested into an Online Analytical
+Processing (OLAP) warehouse. The analytics team reviews this data to identify
+upcoming weather changes that may impact demand.
+
+** The Human-in-the-loop Bottleneck
+Currently, the "bridge" between weather insight and supply chain action is a
+manual step. Analysts must identify a weather threat in the OLAP system and
+manually trigger updates or overrides to the restocking orders in the OLTP
+system. This dependency on human review makes the enterprise's response time
+significantly slower than the rate of weather change.
+
+#+BEGIN_SRC mermaid :file status_quo_architecture.png
+graph LR
+    subgraph Operational_Environment [OLTP - Execution]
+    A[Customer Orders] --> B[(Postgres OLTP)]
+    B --> C[Restocking Orders]
+    end
+
+    subgraph Analytical_Environment [OLAP - Analysis]
+    D[Weather Data Feeds] --> E[(Snowflake/BigQuery OLAP)]
+    E --> F{Manual Review}
+    end
+
+    F -- "Manual Update (Slow)" --> B
+#+END_SRC
