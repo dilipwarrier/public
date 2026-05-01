@@ -176,7 +176,6 @@ SCHEDULED: <2025-10-26 Sun>
 CLOCK: [2025-10-26 Sun 07:46]--[2025-10-26 Sun 09:46] =>  2:00
 :END:
 
-- State "DONE"       from "TODO"       [2025-10-26 Sun 09:46]
 
 * References
 

@@ -1,0 +1,32 @@
+#+TITLE: Installing ob-mermaid for Emacs
+
+* Install from MELPA
+
+Run the following in Emacs:
+
+#+BEGIN_SRC emacs-lisp
+(require 'package)
+(add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
+(package-refresh-contents)
+(package-install 'ob-mermaid)
+#+END_SRC
+
+* Load it in your Emacs config
+
+Add this to your Emacs init file:
+
+#+BEGIN_SRC emacs-lisp
+(require 'ob-mermaid)
+(org-babel-do-load-languages
+ 'org-babel-load-languages
+ '((mermaid . t)))
+#+END_SRC
+
+* Verify installation
+
+Evaluate this in Emacs:
+
+#+BEGIN_SRC emacs-lisp
+(require 'ob-mermaid)
+(featurep 'ob-mermaid)
+#+END_SRC

@@ -36,8 +36,6 @@ SCHEDULED: <2026-06-28 Sun +12w>
 
 
 - State "DONE"       from "TODO"       [2026-04-06 Mon 20:10]
-- State "DONE"       from "TODO"       [2026-01-11 Sun 10:47]
-- State "DONE"       from "TODO"       [2025-10-29 Wed 16:35]
 
 ** Composition by CPO
 

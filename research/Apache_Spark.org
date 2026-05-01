@@ -310,7 +310,6 @@ SCHEDULED: <2025-11-04 Tue>
 :RATIO: 0.40
 :ARCHIVE_TIME: 2025-11-09 Sun 09:48
 :END:
-- State "DONE"       from "TODO"       [2025-11-04 Tue 08:33]
 :LOGBOOK:
 CLOCK: [2025-11-04 Tue 07:53]--[2025-11-04 Tue 08:33] =>  0:40
 :END:
@@ -323,7 +322,6 @@ CLOCK: [2025-11-04 Tue 07:53]--[2025-11-04 Tue 08:33] =>  0:40
 :ARCHIVE_TIME: 2025-11-16 Sun 09:12
 :END:
 
-- State "DONE"       from "TODO"       [2025-11-12 Wed 20:50]
 #+BEGIN_QUOTE
 WARNING: Using incubator modules: jdk.incubator.vector
 Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
@@ -341,4 +339,3 @@ SCHEDULED: <2025-11-23 Sun>
 :ARCHIVE_TIME: 2025-11-24 Mon 13:56
 :END:
 
-- State "DONE"       from "TODO"       [2025-11-24 Mon 13:56]

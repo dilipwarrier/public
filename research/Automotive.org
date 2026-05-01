@@ -88,7 +88,6 @@ SCHEDULED: <2026-05-31 Sun +52w>
 :PRIORITY_NUM: 2
 :VALUE:    -90.00
 :END:
-- State "DONE"       from "TODO"       [2025-06-29 Sun 06:57]
 :LOGBOOK:
 CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
 :END:

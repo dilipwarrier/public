@@ -24,86 +24,10 @@ SCHEDULED: <2026-05-04 Mon 20:00 +7d>
    - State "DONE"       from "TODO"       [2026-04-10 Fri 05:49]
    - State "DONE"       from "TODO"       [2026-02-20 Fri 07:07]
    - State "DONE"       from "TODO"       [2026-02-07 Sat 15:43]
-   - State "DONE"       from "TODO"       [2026-01-29 Thu 20:50]
-   - State "DONE"       from "TODO"       [2026-01-28 Wed 11:25]
-   - State "DONE"       from "TODO"       [2026-01-27 Tue 12:36]
-   - State "DONE"       from "TODO"       [2026-01-26 Mon 10:34]
-   - State "DONE"       from "TODO"       [2026-01-25 Sun 20:18]
-   - State "DONE"       from "TODO"       [2026-01-24 Sat 20:56]
-   - State "DONE"       from "TODO"       [2026-01-23 Fri 20:31]
-   - State "DONE"       from "TODO"       [2026-01-22 Thu 21:14]
-   - State "DONE"       from "TODO"       [2026-01-20 Tue 10:34]
-   - State "DONE"       from "TODO"       [2026-01-18 Sun 11:12]
-   - State "DONE"       from "TODO"       [2026-01-16 Fri 20:50]
-   - State "DONE"       from "TODO"       [2026-01-16 Fri 05:54]
-   - State "DONE"       from "TODO"       [2026-01-11 Sun 10:35]
-   - State "DONE"       from "TODO"       [2026-01-09 Fri 10:21]
-   - State "DONE"       from "TODO"       [2026-01-08 Thu 19:39]
-   - State "DONE"       from "TODO"       [2026-01-08 Thu 17:02]
-   - State "DONE"       from "TODO"       [2026-01-06 Tue 09:33]
-   - State "DONE"       from "TODO"       [2026-01-05 Mon 09:35]
-   - State "DONE"       from "TODO"       [2026-01-04 Sun 20:51]
-   - State "DONE"       from "TODO"       [2026-01-03 Sat 11:26]
-   - State "DONE"       from "TODO"       [2026-01-03 Sat 08:58]
-   - State "DONE"       from "TODO"       [2026-01-01 Thu 10:21]
-   - State "DONE"       from "TODO"       [2025-12-24 Wed 08:43]
-   - State "DONE"       from "TODO"       [2025-12-23 Tue 16:17]
-   - State "DONE"       from "TODO"       [2025-12-22 Mon 15:05]
-   - State "DONE"       from "TODO"       [2025-12-21 Sun 20:49]
-   - State "DONE"       from "TODO"       [2025-12-20 Sat 17:01]
-   - State "DONE"       from "TODO"       [2025-12-19 Fri 09:41]
-   - State "DONE"       from "TODO"       [2025-12-18 Thu 15:24]
-   - State "DONE"       from "TODO"       [2025-12-17 Wed 10:02]
-   - State "DONE"       from "TODO"       [2025-12-16 Tue 10:28]
-   - State "DONE"       from "TODO"       [2025-12-15 Mon 19:39]
-   - State "DONE"       from "TODO"       [2025-12-14 Sun 14:55]
-   - State "DONE"       from "TODO"       [2025-12-13 Sat 21:36]
-   - State "DONE"       from "TODO"       [2025-12-12 Fri 10:32]
-   - State "DONE"       from "TODO"       [2025-12-10 Wed 09:42]
-   - State "DONE"       from "TODO"       [2025-12-09 Tue 14:51]
-   - State "DONE"       from "TODO"       [2025-12-08 Mon 08:36]
-   - State "DONE"       from "TODO"       [2025-12-07 Sun 09:32]
-   - State "DONE"       from "TODO"       [2025-12-04 Thu 12:32]
-   - State "DONE"       from "TODO"       [2025-12-03 Wed 09:37]
-   - State "DONE"       from "TODO"       [2025-12-02 Tue 08:01]
-   - State "DONE"       from "TODO"       [2025-12-01 Mon 08:29]
-   - State "DONE"       from "TODO"       [2025-11-30 Sun 17:33]
-   - State "DONE"       from "TODO"       [2025-11-23 Sun 17:45]
-   - State "DONE"       from "TODO"       [2025-11-16 Sun 15:54]
-   - State "DONE"       from "TODO"       [2025-11-09 Sun 11:35]
-   - State "DONE"       from "TODO"       [2025-11-02 Sun 16:11]
-   - State "DONE"       from "TODO"       [2025-10-26 Sun 10:25]
-   - State "DONE"       from "TODO"       [2025-10-19 Sun 17:03]
-   - State "DONE"       from "TODO"       [2025-10-13 Mon 06:35]
-   - State "DONE"       from "TODO"       [2025-10-06 Mon 08:15]
-   - State "DONE"       from "TODO"       [2025-09-29 Mon 06:33]
-   - State "DONE"       from "TODO"       [2025-09-22 Mon 05:45]
-   - State "DONE"       from "TODO"       [2025-09-21 Sun 07:28]
-   - State "DONE"       from "TODO"       [2025-09-14 Sun 09:46]
    :LOGBOOK:
    CLOCK: [2025-09-14 Sun 07:28]--[2025-09-14 Sun 08:45] =>  1:17
    CLOCK: [2025-09-14 Sun 07:27]--[2025-09-14 Sun 07:28] =>  0:01
    :END:
-   - State "DONE"       from "TODO"       [2025-09-07 Sun 10:52]
-   - State "DONE"       from "TODO"       [2025-09-01 Mon 20:57]
-   - State "DONE"       from "TODO"       [2025-08-24 Sun 15:03]
-   - State "DONE"       from "TODO"       [2025-08-17 Sun 07:32]
-   - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
-   - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
-   - State "DONE"       from "TODO"       [2025-08-10 Sun 18:16]
-   - State "DONE"       from "TODO"       [2025-08-04 Mon 12:10]
-   - State "DONE"       from "TODO"       [2025-07-14 Mon 10:50]
-   - State "DONE"       from "TODO"       [2025-07-06 Sun 20:44]
-   - State "DONE"       from "TODO"       [2025-06-29 Sun 20:31]
-   - State "DONE"       from "TODO"       [2025-06-23 Mon 06:56]
-   - State "DONE"       from "TODO"       [2025-06-14 Sat 21:01]
-   - State "DONE"       from "TODO"       [2025-06-08 Sun 14:58]
-   - State "DONE"       from "TODO"       [2025-06-01 Sun 15:57]
-   - State "DONE"       from "TODO"       [2025-05-26 Mon 16:31]
-   - State "DONE"       from "TODO"       [2025-05-18 Sun 17:01]
-   - State "DONE"       from "TODO"       [2025-05-11 Sun 14:23]
-   - State "DONE"       from "TODO"       [2025-05-04 Sun 15:59]
-   - State "DONE"       from "TODO"       [2025-04-27 Sun 16:47]
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
 SCHEDULED: <2026-05-05 Tue 20:00 +7d>
@@ -173,15 +97,6 @@ SCHEDULED: <2026-05-01 Fri 20:00 +7d>
 
 
    - State "DONE"       from "TODO"       [2026-02-01 Sun 10:09]
-   - State "DONE"       from "TODO"       [2026-01-04 Sun 11:10]
-   - State "DONE"       from "TODO"       [2025-12-07 Sun 21:22]
-   - State "DONE"       from "TODO"       [2025-11-09 Sun 11:35]
-   - State "DONE"       from "TODO"       [2025-10-13 Mon 06:35]
-   - State "DONE"       from "TODO"       [2025-09-14 Sun 11:49]
-   - State "DONE"       from "TODO"       [2025-08-17 Sun 07:32]
-   - State "DONE"       from "TODO"       [2025-07-14 Mon 10:50]
-   - State "DONE"       from "TODO"       [2025-06-15 Sun 07:12]
-   - State "DONE"       from "TODO"       [2025-05-18 Sun 17:01]
 
 * Tasks
 
@@ -209,7 +124,6 @@ CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
 :RATIO: 0.40
 :ARCHIVE_TIME: 2025-10-26 Sun 21:36
 :END:
-- State "DONE"       from "TODO"       [2025-10-26 Sun 10:44]
 :LOGBOOK:
 CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
 :END:
@@ -229,7 +143,6 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
    :BENEFIT: 250
    :ARCHIVE_TIME: 2025-12-14 Sun 10:49
    :END:
-   - State "DONE"       from "TODO"       [2025-12-10 Wed 09:42]
    :LOGBOOK:
    CLOCK: [2025-12-10 Wed 06:01]--[2025-12-10 Wed 08:31] =>  2:30
    :END:
@@ -245,7 +158,6 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
   :ARCHIVE_TIME: 2026-01-11 Sun 10:46
   :END:
 
-  - State "DONE"       from "TODO"       [2026-01-03 Sat 09:50]
 
 *** DONE Read Apache Spark book with Pandas (248/500) (~500 pages at 10 pages/hour)
 :PROPERTIES:
@@ -258,24 +170,6 @@ CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
 :ARCHIVE_TIME: 2026-03-23 Mon 20:50
 :END:
 - State "DONE"       from "TODO"       [2026-03-19 Thu 05:48]
-- State "DONE"       from "TODO"       [2025-12-12 Fri 10:32]
-- State "DONE"       from "TODO"       [2025-12-04 Thu 12:31]
-- State "DONE"       from "TODO"       [2025-12-03 Wed 09:37]
-- State "DONE"       from "TODO"       [2025-12-02 Tue 08:01]
-- State "DONE"       from "TODO"       [2025-12-01 Mon 08:27]
-- State "DONE"       from "TODO"       [2025-11-17 Mon 08:23]
-- State "DONE"       from "TODO"       [2025-11-12 Wed 07:53]
-- State "DONE"       from "TODO"       [2025-11-11 Tue 07:59]
-- State "DONE"       from "TODO"       [2025-11-07 Fri 16:33]
-- State "DONE"       from "TODO"       [2025-11-07 Fri 16:33]
-- State "DONE"       from "TODO"       [2025-11-07 Fri 16:32]
-- State "DONE"       from "TODO"       [2025-11-07 Fri 09:01]
-- State "DONE"       from "TODO"       [2025-11-06 Thu 08:26]
-- State "DONE"       from "TODO"       [2025-11-06 Thu 08:26]
-- State "DONE"       from "TODO"       [2025-11-05 Wed 08:01]
-- State "DONE"       from "TODO"       [2025-11-03 Mon 08:26]
-- State "DONE"       from "TODO"       [2025-10-29 Wed 09:02]
-- State "DONE"       from "TODO"       [2025-10-28 Tue 08:19]
 :LOGBOOK:
 CLOCK: [2025-12-12 Fri 06:21]--[2025-12-12 Fri 10:21] =>  4:00
 CLOCK: [2025-12-11 Thu 06:33]--[2025-12-11 Thu 08:09] =>  1:36
@@ -418,7 +312,6 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :PRIORITY_NUM: 1
    :VALUE:    -1990.00
    :END:
-   - State "DONE"       from "TODO"       [2025-10-06 Mon 08:14]
    :LOGBOOK:
    CLOCK: [2025-10-13 Mon 06:58]--[2025-10-13 Mon 08:10] =>  1:12
    CLOCK: [2025-10-07 Tue 06:21]--[2025-10-07 Tue 07:38] =>  1:17
@@ -426,9 +319,6 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :END:
 
 
-   - State "DONE"       from "TODO"       [2025-08-10 Sun 15:19]
-   - State "DONE"       from "TODO"       [2025-07-29 Tue 11:25]
-   - State "DONE"       from "TODO"       [2025-07-19 Sat 11:15]
 
 ** TODO Review Amazon annual shareholder letter
    SCHEDULED: <2027-04-11 Sun +52w>
@@ -443,8 +333,6 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
 
 
    - State "DONE"       from "TODO"       [2026-04-13 Mon 20:22]
-   - State "DONE"       from "TODO"       [2025-04-12 Sat 18:16]
-   - State "DONE"       from "TODO"       [2024-04-20 Sat 13:38]
 
 ** TODO Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]] :Philosophy:
    :PROPERTIES:
