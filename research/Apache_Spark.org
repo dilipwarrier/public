@@ -1,6 +1,6 @@
 #+TITLE: Data Analytics using Apache Spark and Pandas
 #+FILETAGS: :Software:Data:Analytics:
-#+STARTUP: contents, hideallblocks
+#+STARTUP: overview hideallblocks
 
 * What is Apache Spark?
 :PROPERTIES:
@@ -248,9 +248,9 @@ Parquet files store the schema for the data along with the data.
 
 Both Spark and Pandas can be used for data analysis and
 processing. Typically, Pandas operates in the MB-GB range of data sizes
-while Spark operates in the TB-EB range. Further, Pandas runs locally
-on your PC while Spark is optimized to run in a distributed fashion on
-computing clusters.
+while Spark operates in the TB-EB range. Further, Pandas typically
+runs locally on your PC while Spark is optimized to run in a
+distributed fashion on computing clusters.
 
 A typical workflow might be to use Spark to process and clean a large
 data set but then use Pandas to sample a small fraction of it for
@@ -338,4 +338,3 @@ SCHEDULED: <2025-11-23 Sun>
 :RATIO: 0.40
 :ARCHIVE_TIME: 2025-11-24 Mon 13:56
 :END:
-
