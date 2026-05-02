@@ -1,6 +1,6 @@
 #+Title: Organizations to make donations to
 #+FILETAGS: :Society:
-#+STARTUP: content
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * A list of organizations
 

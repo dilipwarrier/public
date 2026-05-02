@@ -1,6 +1,6 @@
 #+TITLE: Jeff Bezos and Amazon
 #+FILETAGS: :Business:
-#+STARTUP: overview
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Amazon leadership principles
 

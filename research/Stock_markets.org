@@ -1,6 +1,6 @@
 #+TITLE: Financial markets and investing
 #+FILETAGS: :Finance:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Stock market performance                                           :Review:
 

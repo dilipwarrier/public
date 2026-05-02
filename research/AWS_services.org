@@ -1,6 +1,6 @@
 #+TITLE: AWS fundamentals
 #+FILETAGS: :Cloud:Software:
-#+STARTUP: hideallblocks, content
+#+STARTUP: show2levels inlineimages hideallblocks
 
 See also [[id:c9c9b3aa-bd10-46eb-9c7c-f804bbefc94a][Apache and CNCF]] for the open-source alternatives to these
 services.

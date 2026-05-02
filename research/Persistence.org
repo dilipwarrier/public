@@ -1,6 +1,6 @@
 #+TITLE: Optimism and persistence
 #+FILETAGS: :Philosophy:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Inspiring people                                                   :Review:
 

@@ -1,6 +1,6 @@
 #+TITLE: Books and research on the brain
 #+FILETAGS: :Brain:Science:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * The Dreyfus model of skill acquisition                             :Review:
 :PROPERTIES:

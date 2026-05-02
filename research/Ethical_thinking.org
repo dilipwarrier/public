@@ -1,6 +1,6 @@
 #+TITLE: Books and notes on ethical thinking
 #+FILETAGS: :Philosophy:
-#+STARTUP: overview
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Practical ethics by Peter Singer                                   :Review:
 

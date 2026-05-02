@@ -1,6 +1,6 @@
 #+FILE: The principles and practice of task management
 #+FILETAGS: :Management:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Generation of a set of tasks with an offset from a deadline
 

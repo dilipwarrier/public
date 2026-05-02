@@ -1,6 +1,6 @@
 #+TITLE: List of learning activities
 #+FILETAGS: :Learning:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
 

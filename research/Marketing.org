@@ -1,6 +1,6 @@
 #+TITLE: Notes on marketing
 #+FILETAGS: :Business:
-#+STARTUP: overview
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Marketing management by Philip Kotler                              :Review:
 

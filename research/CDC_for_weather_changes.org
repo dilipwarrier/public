@@ -1,6 +1,6 @@
 #+TITLE: Improving responses to weather changes using CDC
 #+OPTIONS: toc:nil num:nil author:nil date:nil
-#+STARTUP: overview inlineimages
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Introduction
 

@@ -1,6 +1,6 @@
 #+TITLE: The physics of the Universe and the Big Bang
 #+FILETAGS: :Physics:Science:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Causality and the arrow of time                                    :Review:
 

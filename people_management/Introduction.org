@@ -1,6 +1,6 @@
 #+Title: What to expect from me as a manager
 #+FILETAGS: :Manager:
-#+STARTUP: content
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Introduction
 

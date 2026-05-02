@@ -1,6 +1,6 @@
 #+TITLE: Articles on EV charging stations and market trends
 #+FILETAGS: :Technology:Review:
-#+STARTUP: content
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * EV charging stations in the US
 :PROPERTIES:

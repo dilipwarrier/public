@@ -1,6 +1,6 @@
 #+TITLE: Embedded software
 #+FILETAGS: :Software:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * RTOS vendors by industry
 

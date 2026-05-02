@@ -1,6 +1,6 @@
 #+TITLE: Apache and CNCF projects
 #+FILETAGS: :Software:Data:
-#+STARTUP: contents, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Apache and CNCF
 :PROPERTIES:

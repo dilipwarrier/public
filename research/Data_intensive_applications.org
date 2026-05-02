@@ -1,6 +1,6 @@
 #+TITLE: Data-intensive applications
 #+FILETAGS: :Software:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Introduction                                                       :Review:
 

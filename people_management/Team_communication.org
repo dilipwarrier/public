@@ -1,6 +1,6 @@
 #+title: Team and inter-personal communication
 #+FILETAGS: :Management:
-#+STARTUP: content
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Introduction
 

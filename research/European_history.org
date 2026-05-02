@@ -1,6 +1,6 @@
 #+TITLE: Books on European history
 #+FILETAGS: :Europe:History:
-#+STARTUP: overview
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * The War That Ended Peace by Margaret McMillan                      :Review:
 

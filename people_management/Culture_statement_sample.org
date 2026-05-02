@@ -1,6 +1,6 @@
 #+TITLE: A sample document describing an organizational culture
 #+FILETAGS: :management:
-#+STARTUP: content
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Introduction
 

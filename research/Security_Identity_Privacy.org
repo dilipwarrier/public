@@ -1,6 +1,6 @@
 #+Title: Privacy, security, and identity
 #+FILETAGS: :Software:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Digital signatures                                                 :Review:
 

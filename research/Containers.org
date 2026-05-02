@@ -1,6 +1,6 @@
 #+TITLE: Containers
 #+FILETAGS: :Software:
-#+STARTUP: content, inlineimages
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Containers                                                         :Review:
 :PROPERTIES:

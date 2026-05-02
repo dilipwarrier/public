@@ -1,6 +1,6 @@
 #+Title: Organization structures and budgets
 #+FILETAGS: :Management:
-#+STARTUP: overview
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Ideal org structures                                               :Review:
 

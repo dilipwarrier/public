@@ -1,6 +1,6 @@
 #+TITLE: Human progress
 #+FILETAGS: :Society:Philosophy:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Human progress                                                     :Review:
 

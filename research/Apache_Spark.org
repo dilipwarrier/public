@@ -1,6 +1,6 @@
 #+TITLE: Data Analytics using Apache Spark and Pandas
 #+FILETAGS: :Software:Data:Analytics:
-#+STARTUP: overview hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * What is Apache Spark?
 :PROPERTIES:

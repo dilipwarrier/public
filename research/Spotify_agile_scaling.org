@@ -1,6 +1,6 @@
 #+Title: Scaling Agile at Spotify
 #+FILETAGS: :Agile:Management:
-#+STARTUP: overview
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Organization at Spotify                                            :Review:
 

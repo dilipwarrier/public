@@ -1,6 +1,6 @@
 #+NAME: Business strategy
 #+FILETAGS: :Strategy:Management:
-#+STARTUP: content, inlineimages
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Purpose, vision, mission, and strategy                             :Review:
 

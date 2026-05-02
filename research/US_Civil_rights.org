@@ -1,6 +1,6 @@
 #+TITLE: Books on US Civil Rights
 #+FILETAGS: :History:
-#+STARTUP: overview
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * King by Jonathan Eig                                               :Review:
 :PROPERTIES:

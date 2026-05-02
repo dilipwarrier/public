@@ -1,6 +1,6 @@
 #+TITLE: Chip industry
 #+FILETAGS: :Technology:Semiconductors:
-#+STARTUP: overview
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * PC chip industry                                                   :Review:
 

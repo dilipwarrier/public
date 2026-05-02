@@ -1,6 +1,6 @@
 #+Title: Kubernetes
 #+FILETAGS: :Cloud:Software:
-#+STARTUP: overview
+#+STARTUP: show2levels inlineimages hideallblocks
 
 See also [[id:ba0757bb-3fc9-462e-af71-336b3e3c1ad3][Containers]].
 

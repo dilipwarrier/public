@@ -1,6 +1,6 @@
 #+Title: List of books to read
 #+FILETAGS: :Books:
-#+STARTUP: content
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Books analysis
 

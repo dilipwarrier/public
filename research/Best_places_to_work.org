@@ -1,6 +1,6 @@
 #+TITLE: Work engagement
 #+FILETAGS: :Management:
-#+STARTUP: overview, hideallblocks
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * How to handle employee disengagement
 

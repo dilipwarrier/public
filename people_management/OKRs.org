@@ -1,6 +1,6 @@
 #+TITLE: Objectives and Key Results (OKRs)
 #+FILETAGS: :Management:
-#+STARTUP: overview
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * What are OKRs?                                                     :Review:
 

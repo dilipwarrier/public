@@ -1,6 +1,6 @@
 #+Title: Lists of possible courses
 #+FILETAGS: :Learning:
-#+STARTUP: content
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Useful Coursera courses                                          :Projects:
 

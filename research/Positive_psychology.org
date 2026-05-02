@@ -1,6 +1,6 @@
 #+TITLE: The science of happiness and well-being
 #+FILETAGS: :Science:Philosophy:
-#+STARTUP: overview, hideallblocks, inlineimages
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Subjective Well-Being or Happiness                                 :Review:
 :PROPERTIES:

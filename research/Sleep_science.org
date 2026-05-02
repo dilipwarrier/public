@@ -1,6 +1,6 @@
 #+Title: The science of sleep
 #+FILETAGS: :Science:
-#+STARTUP: overview
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Steps for better sleep                                             :Review:
 
