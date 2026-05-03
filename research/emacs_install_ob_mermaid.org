@@ -1,4 +1,5 @@
 #+TITLE: Installing ob-mermaid for Emacs
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Install from MELPA
 

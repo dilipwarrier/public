@@ -1,4 +1,5 @@
 #+TITLE: Concepts in statistics
+#+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :Maths:
 #+LATEX_HEADER: \usepackage{amsmath}
 

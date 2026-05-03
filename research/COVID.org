@@ -1,4 +1,5 @@
 #+Title: Articles related to COVID-19
+#+STARTUP: show2levels inlineimages hideallblocks
 #+Filetags: :Health:Science:
 
 * Efficacy of booster shots                                          :Review:

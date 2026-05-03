@@ -1,4 +1,5 @@
 #+TITLE: The culture map by Erin Meyer
+#+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :Culture:Management:
 
 * Introduction

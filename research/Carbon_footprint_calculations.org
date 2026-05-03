@@ -1,4 +1,5 @@
 #+title: Calculation of carbon footprints
+#+STARTUP: show2levels inlineimages hideallblocks
 #+author: Dilip Warrier
 #+FILETAGS: :Technology:
 

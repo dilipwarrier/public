@@ -1,4 +1,5 @@
 #+TITLE: A list of standard work tasks for a manager
+#+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :Work:Manager:
 #+STARTIP: overview, hideallblocks
 

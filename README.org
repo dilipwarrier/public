@@ -1,4 +1,5 @@
 #+title: What you can expect in this repository
+#+STARTUP: show2levels inlineimages hideallblocks
 #+author: Dilip Warrier
 
 This repository contains documents and code that I'd like to share

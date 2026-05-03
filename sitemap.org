@@ -1,4 +1,5 @@
 #+TITLE: Sitemap for project Public org
+#+STARTUP: show2levels inlineimages hideallblocks
 
 - [[file:CES_notes.org][Notes on CES logistics]]
 - [[file:Org_utils.org][Utility scripts for all Org files]]

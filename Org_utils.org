@@ -1,4 +1,5 @@
 #+Title: Utility scripts for all Org files
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Convert Org table to csv file for analysis
 

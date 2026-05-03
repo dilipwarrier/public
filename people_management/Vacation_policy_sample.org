@@ -1,4 +1,5 @@
 #+TITLE: Vacation policy sample
+#+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :management:
 
 * Tools

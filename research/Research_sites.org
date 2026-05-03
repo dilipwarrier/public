@@ -1,4 +1,5 @@
 #+Title: Sites to use for research
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * List of sites
 

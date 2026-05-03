@@ -1,4 +1,5 @@
 #+TITLE: Algorithms
+#+STARTUP: show2levels inlineimages hideallblocks
 #+AUTHOR: Brian Christian, Tom Griffiths
 #+FilETAGS: :ComputerScience:Algorithms:Maths:
 

@@ -1,4 +1,5 @@
 #+Title: Meditation and its effects
+#+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :Meditation:Brain:
 
 ** My meditation practices

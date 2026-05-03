@@ -1,4 +1,5 @@
 #+TITLE: The practice of software architecture
+#+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :software:
 #+startup: overview
 
