@@ -58,6 +58,7 @@ SCHEDULED: <2026-05-06 Wed 20:00 +7d>
    - State "DONE"       from "TODO"       [2026-04-29 Wed 20:16]
    - State "DONE"       from "TODO"       [2026-04-22 Wed 21:29]
    - State "DONE"       from "TODO"       [2026-04-16 Thu 14:20]
+
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
 SCHEDULED: <2026-05-07 Thu 20:00 +7d>
    :PROPERTIES:
@@ -72,6 +73,7 @@ SCHEDULED: <2026-05-07 Thu 20:00 +7d>
    - State "DONE"       from "TODO"       [2026-05-01 Fri 07:18]
    - State "DONE"       from "TODO"       [2026-04-24 Fri 06:40]
    - State "DONE"       from "TODO"       [2026-04-16 Thu 20:31]
+
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
 SCHEDULED: <2026-05-08 Fri 20:00 +7d>
    :PROPERTIES:
@@ -86,6 +88,7 @@ SCHEDULED: <2026-05-08 Fri 20:00 +7d>
    - State "DONE"       from "TODO"       [2026-05-01 Fri 20:13]
    - State "DONE"       from "TODO"       [2026-04-24 Fri 21:01]
    - State "DONE"       from "TODO"       [2026-04-18 Sat 10:23]
+
 ** TODO Review [[elisp:(org-agenda t "lb")][learning backlog]]
    :PROPERTIES:
    :EFFORT: 01:00
@@ -304,23 +307,6 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :PRIORITY_NUM: 2
    :VALUE:    0.00
    :END:
-
-** TODO [#A] Copy over notes from Evernote notebooks to Org using yarle-evernote-to-md
-   :PROPERTIES:
-   :Effort:   20:00
-   :BENEFIT: 1000
-   :RATIO: 0.40
-   :PRIORITY_NUM: 1
-   :VALUE:    -1990.00
-   :END:
-   :LOGBOOK:
-   CLOCK: [2026-05-01 Fri 07:25]--[2026-05-01 Fri 09:45] =>  2:20
-   CLOCK: [2025-10-13 Mon 06:58]--[2025-10-13 Mon 08:10] =>  1:12
-   CLOCK: [2025-10-07 Tue 06:21]--[2025-10-07 Tue 07:38] =>  1:17
-   CLOCK: [2025-10-06 Mon 06:08]--[2025-10-06 Mon 08:14] =>  2:06
-   :END:
-
-
 
 ** TODO Review Amazon annual shareholder letter
    SCHEDULED: <2027-04-11 Sun +52w>
