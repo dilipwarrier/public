@@ -1,11 +1,13 @@
 Title,Author,My Rating,Average Rating,Date Read,Date Added,Genre,Status
+Count Down: Six Kids Vie for Glory at the World's Toughest Math Competition,Steve Olson,,3.8,,05/04/2026,maths,to-read
+Guide to the Good Life: The Ancient Art of Stoic Joy,William B. Irvine,,4.2,,05/04/2026,philosophy,to-read
 Progressive myths,Michael Huemer,,4.0,,04/21/2026,philosophy,to-read
 "Everything is predictable: How Bayesian statistics explain our world",Tom Chivers,,4.0,,04/21/2026,maths,to-read
-"Apple in China: The Capture of the World's Greatest Company",Patrick McGee,,4.5,,04/21/2026,business,to-read
+"Apple in China: The Capture of the World's Greatest Company",Patrick McGee,,4.5,,04/21/2026,"business,eastern-history",to-read
 "Continuous Integration: Improving Software Quality and Reducing Risk","Paul Duvall, Steve Matyas, Andrew Glover",,3.8,,04/20/2026,software,to-read
 "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation","Jez Humble, David Farley",,4.2,,04/20/2026,software,to-read
 "The Missing Readme: A Guide for the New Software Engineer","Chris Riccomini, Dmitriy Ryaboy",,4.4,,04/20/2026,software,to-read
-Breakneck: China's quest to engineer the future,Dan Wang,,4.0,,04/13/2026,eastern-history,to-read
+Breakneck: China's quest to engineer the future,Dan Wang,,4.0,,04/13/2026,"engineering,eastern-history",to-read
 The laws of thought,Tom Griffiths,,4.0,,03/08/2026,brain,to-read
 1491,Charles Mann,,4.0,,01/22/2026,eastern-history,to-read
 "The Boy, the Mole, the Fox and the Horse",Charlie Mackesy,,4.0,,01/22/2026,philosophy,to-read
@@ -14,7 +16,7 @@ A woman of no importance,Sonia Purnell,,4.0,,9/8/2024,"western-biography, thrill
 The idea of the brain,Matthew Cobb,,4.0,,9/8/2024,brain,to-read
 Other minds: the octopus and the evolution of intelligent life,Peter Godfrey-Smith,,4.0,,9/8/2024,"science,brain",to-read
 Automotive technology: a systems approach,Jack Erjavec,,4.0,,9/8/2024,"engineering,textbook",to-read
-Self-help is like a vaccine,Bryan Caplan,,4.0,,9/8/2024,society,to-read
+Self-help is like a vaccine,Bryan Caplan,,4.0,,9/8/2024,philosophy,to-read
 Northern Spy,Flynn Berry,,4.0,,8/2/2024,thriller,to-read
 Investment under uncertainty,"Avinash Dixit,Robert Pindyck",,4.0,,06/12/2024,maths,to-read
 The garden of tales,Vijaydan Detha,,4.0,,09/10/2023,indian-fiction,to-read
@@ -23,7 +25,7 @@ Deep work,Cal Newport,,4.0,,09/10/2023,brain,to-read
 Say Nothing,Patrick Keefe,,4.4,,7/8/2023,western-history,to-read
 The Lion House,Christopher de Bellaigue,,4.0,,12/11/2022,eastern-history,to-read
 Hell of a book,Jason Mott,,4.1,,12/04/2022,fiction,to-read
-Apocalypse Factory,Steve Olson,,4.0,,10/04/2022,western-history,to-read
+Apocalypse Factory: Plutonium and the Making of the Atomic Age    ,Steve Olson,,4.0,,10/04/2022,western-history,to-read
 What we owe the future,William MacAskill,,4.1,,08/16/2022,philosophy,to-read
 Over the edge of the world,Laurence Bergreen,,4.1,,08/15/2022,eastern-history,to-read
 Build: An unorthodox guide to making things,Tony Fadell,,4.0,,06/25/2022,"management,product",to-read
