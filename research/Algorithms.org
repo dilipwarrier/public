@@ -66,7 +66,7 @@ Gittins index is expected to be a good heuristic for that
 problem.
 
 The [[http://www.anthonybonifonte.com/wp-content/uploads/2014/08/RMAB-Report-Final-AB-QC.pdf][Whittle index]] is supposed to be an optimal solution
-but is hard to compute. In general, the state space explodes pretty
+but is hard to compute. In general, the state space grows
 quickly for such problems.
 
 This problem has an interesting business application: how do you
@@ -87,6 +87,7 @@ measure success in exploratory R&D work.
 
   According to [[http://www.ece.mcgill.ca/~amahaj1/projects/bandits/book/2013-bandit-computations.pdf][Mahajan et al]], the following is an upper bound on the
   Gittins index.
+
   $\mu + \sigma \sqrt\frac{\beta}{1 - \beta}$
 
   where:
