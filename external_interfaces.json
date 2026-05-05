@@ -1,5 +1,11 @@
 {
   "org_files": {
     "learning": "research/Learning.org"
+  },
+  "movie_files": {
+    "movie_log": "research/movies_list.csv"
+  },
+  "book_files": {
+    "book_log": "research/books_list.csv"
   }
 }
