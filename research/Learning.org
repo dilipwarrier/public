@@ -31,16 +31,17 @@ SCHEDULED: <2026-05-11 Mon 20:00 +7d>
    :END:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
-SCHEDULED: <2026-05-05 Tue 20:00 +7d>
+SCHEDULED: <2026-05-12 Tue 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-04-28 Tue 20:24]
+   :LAST_REPEAT: [2026-05-06 Wed 05:35]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
 
+   - State "DONE"       from "TODO"       [2026-05-06 Wed 05:35]
    - State "DONE"       from "TODO"       [2026-04-28 Tue 20:24]
    - State "DONE"       from "TODO"       [2026-04-22 Wed 08:57]
    - State "DONE"       from "TODO"       [2026-04-14 Tue 20:57]
