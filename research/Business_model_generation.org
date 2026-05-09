@@ -1,6 +1,6 @@
-#+Title: Business model generation by Alex Osterwalder et al
-#+Filetags: :BookNotes:Business:
-#+startup: overview
+#+TITLE: Business model generation by Alex Osterwalder et al
+#+FILETAGS: :BookNotes:Business:
+#+STARTUP: overview
 
 * Business model canvas                                              :Review:
 

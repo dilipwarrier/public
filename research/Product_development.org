@@ -1,6 +1,6 @@
-#+Title: Notes on the discipline of product development/planning/management
-#+Filetags: :Management:
-#+startup: overview, inlineimages
+#+TITLE: Notes on the discipline of product development/planning/management
+#+FILETAGS: :Business:
+#+STARTUP: overview, inlineimages
 
 * Scaled Agile Framework                                             :Review:
 

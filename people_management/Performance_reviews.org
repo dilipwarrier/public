@@ -1,6 +1,6 @@
 #+Title: Automatic setup of performance review steps
 #+STARTUP: show2levels inlineimages hideallblocks
-#+FILETAGS: :Manager:Work:
+#+FILETAGS: :Management:Work:
 
 * Performance reviews
 

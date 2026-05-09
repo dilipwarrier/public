@@ -1,5 +1,5 @@
 #+TITLE: Articles on automotive technology and market trends
-#+FILETAGS: :Automotive:Technology:
+#+FILETAGS: :Automotive:Engineering:
 #+STARTUP: show2levels inlineimages hideallblocks
 
 * EV market trends                                                   :Review:

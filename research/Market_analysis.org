@@ -1,6 +1,6 @@
-#+Title: Market analysis
+#+TITLE: Market analysis
 #+STARTUP: show2levels inlineimages hideallblocks
-#+Filetags: :Business:
+#+FILETAGS: :Business:
 
 * Market analysis                                                    :Review:
 

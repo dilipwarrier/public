@@ -2,6 +2,43 @@
 #+FILETAGS: :Learning:
 #+STARTUP: show2levels inlineimages hideallblocks
 
+* Learning categories
+
+I structure all my reading and learning according to the categories
+listed here.
+
+** Software
+
+** Engineering
+
+All topics in Engineering that are not software focused. AI is
+included in this category.
+
+** Management
+
+Topics related to people management.
+
+** Business
+
+Topics related to business that are not focused on people management
+or engineering.
+
+** Economics
+
+Topics related to finance and investments also go here.
+
+** Maths
+
+** Science
+
+Biology, physics, psychology, medicine, etc.
+
+** Philosophy
+
+** History
+
+** Fiction
+
 * Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
 
 * Periodic tasks                                                   :Periodic:

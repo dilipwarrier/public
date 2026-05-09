@@ -1,5 +1,5 @@
 #+Title: Energy consumption for homes and business
-#+FILETAGS: :Technology:
+#+FILETAGS: :Engineering:
 #+STARTUP: show2levels inlineimages hideallblocks
 
 * Power consumption for AI data centers                              :Review:

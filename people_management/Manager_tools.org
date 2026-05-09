@@ -1,6 +1,6 @@
-#+Title: Notes on management, job searches, and your career
-#+Filetags: :Management:
-#+startup: overview
+#+TITLE: Notes on management, job searches, and your career
+#+FILETAGS: :Management:
+#+STARTUP: overview
 
 * Manager
 

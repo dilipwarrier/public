@@ -24,7 +24,7 @@ The Lion House,Christopher de Bellaigue,,4.0,,12/11/2022,eastern-history,to-read
 Hell of a book,Jason Mott,,4.1,,12/04/2022,western-fiction,to-read
 Apocalypse Factory: Plutonium and the Making of the Atomic Age,Steve Olson,,4.0,,10/04/2022,western-history,to-read
 What we owe the future,William MacAskill,,4.1,,08/16/2022,philosophy,to-read
-Over the edge of the world,Laurence Bergreen,,4.1,,08/15/2022,eastern-history,to-read
+Over the edge of the world: Magellan's Terrifying Circumnavigation of the Globe,Laurence Bergreen,,4.1,,08/15/2022,eastern-history,to-read
 Build: An unorthodox guide to making things,Tony Fadell,,4.0,,06/25/2022,"management,product",to-read
 The overstory,Richard Powers,,4.1,,01/01/2022,western-fiction,to-read
 Moral tribes,Joshua Greene,,4.0,,12/10/2021,philosophy,to-read
@@ -221,7 +221,7 @@ The Great Game: The struggle for empire in Central Asia,Peter Hopkirk,4,4.3,6/7/
 The Quantum Spy,David Ignatius,5,3.7,5/22/2019,11/11/2017,"thriller,western-fiction",read
 "The Fifth Season (The Broken Earth,#1)",N. K. Jemisin,5,4.3,3/17/2019,11/5/2017,science-fiction,read
 Ambiguity Machines and Other Stories,Vandana Singh,2,4.0,2/17/2019,12/30/2018,science-fiction,read
-The Tsar of Love and Techno,Anthony Marra,5,4.3,2/1/2019,3/17/2018,fiction,read
+The Tsar of Love and Techno,Anthony Marra,5,4.3,2/1/2019,3/17/2018,eastern-fiction,read
 What Is the Name of This Book?,Raymond M. Smullyan,4,4.3,10/1/2018,7/3/2013,"brain,science",read
 Empire: How Britain Made the Modern World,Niall Ferguson,4,3.9,9/18/2018,1/13/2018,"western-history,books-to-read-again",read
 The Product Manager's Desk Reference,Steven Haines,5,3.8,8/28/2018,7/24/2018,product,read
@@ -490,8 +490,8 @@ The Principles of Product Development Flow: Second Generation Lean Product Devel
 "Jack of Spies (Jack McColl,#1)",David Downing,4,3.5,11/4/2011,5/24/2014,"thriller,western-fiction",read
 Clouds of Glory: The Life and Legend of Robert E. Lee,Michael Korda,4,4.2,11/4/2011,5/18/2014,western-history,read
 The Snow Queen,Michael Cunningham,4,3.1,11/4/2011,5/11/2014,western-fiction,read
-The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer,Jeffrey K. Liker,4,4.0,11/4/2011,4/13/2014,management,read
-"Creativity,Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration",Ed Catmull,5,4.2,11/4/2011,4/12/2014,management,read
+The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer,Jeffrey K. Liker,4,4.0,11/4/2011,4/13/2014,business,read
+"Creativity,Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration",Ed Catmull,5,4.2,11/4/2011,4/12/2014,business,read
 "Spies of the Balkans (Night Soldiers,#11)",Alan Furst,2,3.9,11/4/2011,4/9/2014,"thriller,western-fiction",read
 The Practice of Management,Peter F. Drucker,4,4.2,11/4/2011,3/18/2014,management,read
 Software Estimation: Demystifying the Black Art,Steve McConnell,3,4.0,10/29/2011,3/15/2014,software,read
@@ -519,7 +519,7 @@ Microinteractions: Designing with Details,Dan Saffer,5,4.0,10/29/2011,6/4/2013,d
 The Shanghai Factor,Charles McCarry,4,3.6,10/29/2011,5/25/2013,"thriller,western-fiction",read
 Toyota Production System: Beyond large-scale production,Taiichi Ohno,2,4.0,10/29/2011,5/21/2013,management,read
 Men of Mathematics,Eric Temple Bell,5,4.1,10/29/2011,5/19/2013,maths,read
-American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer,Kai Bird,3,4.2,10/29/2011,5/18/2013,western-history,read
+American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer,Kai Bird,3,4.2,10/29/2011,5/18/2013,"science,western-history",read
 "Rumsfeld's Rules: Leadership Lessons in Business,Politics,War,and Life",Donald Rumsfeld,3,3.9,10/29/2011,5/12/2013,management,read
 A Constellation of Vital Phenomena,Anthony Marra,5,4.1,10/29/2011,5/4/2013,western-fiction,read
 The Anatomy of Violence: The Biological Roots of Crime,Adrian Raine,4,4.0,10/29/2011,5/4/2013,science,read

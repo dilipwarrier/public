@@ -1,6 +1,6 @@
 #+TITLE: A list of standard work tasks for a manager
 #+STARTUP: show2levels inlineimages hideallblocks
-#+FILETAGS: :Work:Manager:
+#+FILETAGS: :Work:Management:
 #+STARTIP: overview, hideallblocks
 
 * Questions for performance improvement

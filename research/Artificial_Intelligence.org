@@ -1,6 +1,6 @@
 #+TITLE: Interesting thoughts/results in AI
 #+STARTUP: show2levels inlineimages hideallblocks
-#+FILETAGS: :AI:Technology:
+#+FILETAGS: :AI:Engineering:
 
 * My learnings with AI agents
 

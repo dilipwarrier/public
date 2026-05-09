@@ -1,7 +1,7 @@
 #+TITLE: Algorithms
 #+STARTUP: show2levels inlineimages hideallblocks
+#+FILETAGS: :ComputerScience:Algorithms:Maths:
 #+AUTHOR: Brian Christian, Tom Griffiths
-#+FilETAGS: :ComputerScience:Algorithms:Maths:
 
 * Optimal stopping                                                   :Review:
 
