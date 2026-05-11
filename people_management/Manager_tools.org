@@ -1007,41 +1007,40 @@ and email the link to me by 2 pm tomorrow."
     :CUSTOM_ID: Boss_initial
     :END:
 
-    1. Peers
+1. Peers
 
-       Learn all your boss' peers' names. Look at the org chart. Work
-       with the admin.
+   Learn all your boss' peers' names. Look at the org chart. Work
+   with the admin.
 
-    2. Preferences
+2. Preferences
 
-       - Is your boss generally a reader or a listener?
+   - Is your boss generally a reader or a listener?
 
-       - Early morning meetings or late stayer?
+   - Early morning meetings or late stayer?
 
-       - Well-thought out plan or fly by the seat of the pants?
+   - Well-thought out plan or fly by the seat of the pants?
 
-       - Want you to make decisions or want to be aware of decisions?
+   - Wants you to make decisions or wants to be aware of decisions?
 
-       Make notes from joint meetings on insight on these preferences.
+   Make notes from joint meetings on insight on these preferences.
 
-    3. Strengths and weaknesses
+3. Strengths and weaknesses
 
-       - If the boss is abrasive, smooth things out afterwards.
+   - If the boss is abrasive, smooth things out afterwards.
 
-       - Become a safety net for him/her, so that you smooth over his/her
-         vulnerabilities.
+   - Become a safety net for her so that you smooth over her
+     vulnerabilities.
 
-       It's not good to make your boss look bad. It's good to bail your
-       boss out when it is needed. You are tainted by any inadequacies
-       of your boss.
+   It's not good to make your boss look bad. It's good to bail your
+   boss out when it is needed. You are tainted by any inadequacies
+   of your boss.
 
-       Make notes from joint meetings on insight on these strengths and
-       weaknesses.
+   Make notes from joint meetings on insight on these strengths and
+   weaknesses.
 
-    4. [Bonus] DISC profile
+4. [Bonus] DISC profile
 
-       Do a DISC profile of your boss, using their communications.
-
+   Do a DISC profile of your boss, using their communications.
 
 *** Relationship building
 :PROPERTIES:
@@ -1086,7 +1085,7 @@ Later in your life, you may want a personal board of directors.
 - Decide how long the relation will last. It shouldn't last any more
   than 3 years. It shouldn't be for a short period of the order of
   weeks. It shouldn't be for specific challenges you face right now,
-  such as getting a promotion etc.
+  such as getting a promotion, etc.
 
 - Make a specific ask to someone to be your mentor. Specify the time
   commitment. Nominally, this may be quarterly in-person meetings
@@ -1103,7 +1102,7 @@ Later in your life, you may want a personal board of directors.
   key projects etc. Set an agenda. Mix professional and personal
   e.g. a one hour meeting in the office on the professional topics
   followed by a lunch outside to get to know each other personally:
-  family, life goals etc.
+  family, life goals, etc.
 
 - Don't try to educate your mentor on the feedback model etc., just
   take feedback as they give it to you. Listen to the feedback, take
@@ -1119,7 +1118,6 @@ Later in your life, you may want a personal board of directors.
 ** References
 
 [[https://www.manager-tools.com/2006/06/basics-mentoring-part-1-2][Podcast link]]
-
 
 * Communication
 
