@@ -44,15 +44,17 @@ Biology, physics, psychology, medicine, etc.
 * Periodic tasks                                                   :Periodic:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
-SCHEDULED: <2026-05-11 Mon 20:00 +7d>
+SCHEDULED: <2026-05-25 Mon 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-05-04 Mon 20:22]
+   :LAST_REPEAT: [2026-05-16 Sat 08:46]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
+   - State "DONE"       from "TODO"       [2026-05-16 Sat 08:46]
+   - State "DONE"       from "TODO"       [2026-05-16 Sat 08:46]
    - State "DONE"       from "TODO"       [2026-05-04 Mon 20:22]
    - State "DONE"       from "TODO"       [2026-04-27 Mon 20:35]
    - State "DONE"       from "TODO"       [2026-04-21 Tue 05:42]
@@ -68,62 +70,70 @@ SCHEDULED: <2026-05-11 Mon 20:00 +7d>
    :END:
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
-SCHEDULED: <2026-05-12 Tue 20:00 +7d>
+SCHEDULED: <2026-05-26 Tue 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-05-06 Wed 05:35]
+   :LAST_REPEAT: [2026-05-16 Sat 08:46]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
 
+   - State "DONE"       from "TODO"       [2026-05-16 Sat 08:46]
+   - State "DONE"       from "TODO"       [2026-05-16 Sat 08:46]
    - State "DONE"       from "TODO"       [2026-05-06 Wed 05:35]
    - State "DONE"       from "TODO"       [2026-04-28 Tue 20:24]
    - State "DONE"       from "TODO"       [2026-04-22 Wed 08:57]
    - State "DONE"       from "TODO"       [2026-04-14 Tue 20:57]
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
-SCHEDULED: <2026-05-06 Wed 20:00 +7d>
+SCHEDULED: <2026-05-20 Wed 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-04-29 Wed 20:16]
+   :LAST_REPEAT: [2026-05-16 Sat 08:46]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
 
+   - State "DONE"       from "TODO"       [2026-05-16 Sat 08:46]
+   - State "DONE"       from "TODO"       [2026-05-16 Sat 08:46]
    - State "DONE"       from "TODO"       [2026-04-29 Wed 20:16]
    - State "DONE"       from "TODO"       [2026-04-22 Wed 21:29]
    - State "DONE"       from "TODO"       [2026-04-16 Thu 14:20]
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
-SCHEDULED: <2026-05-07 Thu 20:00 +7d>
+SCHEDULED: <2026-05-21 Thu 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-05-01 Fri 07:18]
+   :LAST_REPEAT: [2026-05-16 Sat 08:46]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
 
+   - State "DONE"       from "TODO"       [2026-05-16 Sat 08:46]
+   - State "DONE"       from "TODO"       [2026-05-16 Sat 08:46]
    - State "DONE"       from "TODO"       [2026-05-01 Fri 07:18]
    - State "DONE"       from "TODO"       [2026-04-24 Fri 06:40]
    - State "DONE"       from "TODO"       [2026-04-16 Thu 20:31]
 
 ** TODO Complete [[elisp:(org-agenda t "lt")][learning tasks]]
-SCHEDULED: <2026-05-08 Fri 20:00 +7d>
+SCHEDULED: <2026-05-22 Fri 20:00 +7d>
    :PROPERTIES:
    :EFFORT: 01:30
    :BENEFIT: 200
    :RATIO: 2.00
-   :LAST_REPEAT: [2026-05-01 Fri 20:13]
+   :LAST_REPEAT: [2026-05-16 Sat 08:46]
    :PRIORITY_NUM: 3
    :VALUE:    50.00
    :END:
 
+   - State "DONE"       from "TODO"       [2026-05-16 Sat 08:46]
+   - State "DONE"       from "TODO"       [2026-05-16 Sat 08:46]
    - State "DONE"       from "TODO"       [2026-05-01 Fri 20:13]
    - State "DONE"       from "TODO"       [2026-04-24 Fri 21:01]
    - State "DONE"       from "TODO"       [2026-04-18 Sat 10:23]
