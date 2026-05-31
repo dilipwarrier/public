@@ -1,0 +1,238 @@
+#+TITLE: Onboarding list
+#+FILETAGS: :Work:
+#+STARTUP: show2levels inlineimages hideallblocks
+
+* Introduction
+
+This onboarding document maps the software ecosystem by tracing
+the development lifecycle through the V-model. The goal is to identify
+friction points, toolchain gaps, and areas where modern engineering
+practices can accelerate delivery.
+
+* Phase 1: The Left Side (Decomposition & Definition)
+
+Your goal here is to understand how product intent becomes software
+architecture.
+
+** Requirements Analysis
+- How are system requirements formally managed and communicated?
+- Do we require strict traceability between a product requirement and a
+  specific line of code?
+- How do we resolve conflicting requirements between the hardware and
+  software teams?
+- What tools are we using in this phase to manage requirements and
+  traceability?
+
+** System & Architecture Design
+- What is our overarching hardware-software partitioning strategy?
+- How is the operating system layer defined across our product lines?
+- How are hardware interfaces documented and handed off from electrical
+  engineering to software?
+- What tools are we using in this phase for system modeling and
+  architecture documentation?
+
+** Module Design
+- Are we leveraging model-based systems engineering or code generation
+  for complex logic?
+- How do we allocate and track memory and timing budgets for individual
+  software modules?
+- What tools are we using in this phase for module design and resource
+  tracking?
+
+* Phase 2: The Point of the V (Implementation & Build)
+
+Your goal is to understand the daily friction of the developer experience.
+
+** Toolchain & Environment
+- How difficult is it for a new developer to set up a local build
+  environment?
+- What specific cross-compiler toolchains are required for our targets?
+- How long does a clean build take, and what is the primary build system?
+- What tools are we using in this phase to manage dependencies and
+  execute builds?
+
+** Developer Workflow & AI
+- What does the standard local development environment look like for our
+  engineers?
+- What version control and branching strategy governs our daily commits?
+- How are developers currently utilizing AI assistants, and what are our
+  corporate IP boundaries?
+- What tools are we using in this phase for code authoring, version
+  control, and AI assistance?
+
+* Phase 3: The Verification Layer (Inspection & Review)
+
+Your goal is to understand how the team ensures code quality and
+conformance before a single test is dynamically executed.
+
+** Code Review Culture & Mechanics
+- What is the mechanical process for initiating and conducting a code
+  review?
+- Do we have established norms for the size and turnaround time of a
+  pull request?
+- Are our reviews purely manual, or do we leverage automated checkers
+  prior to human inspection?
+- How do we handle debates over architectural decisions within the
+  review process?
+- What tools are we using in this phase to facilitate and document
+  code reviews?
+
+** Static Analysis & Compliance
+- How do we automate static analysis within our development pipeline?
+- Do we require strict adherence to embedded safety standards, and how
+  is that compliance enforced?
+- What is our team's stance on compiler warnings and acceptable
+  technical debt?
+- What tools are we using in this phase for static analysis and
+  standards compliance?
+
+** Design Inspection
+- Do we require a formal design review process before implementation
+  begins?
+- How do we verify that the hardware-software interface documents
+  match the actual code?
+- What tools are we using in this phase to inspect and verify
+  upfront design?
+
+* Phase 4: The Right Side (Integration & Validation)
+
+Your goal is to understand how the team proves the software actually works
+when it meets physical reality.
+
+** Unit Testing (Validates Module Design)
+
+- How do we isolate and test individual components of our logic?
+- Can developers easily execute the entire unit test suite locally?
+- What is our strategy for mocking hardware interactions during unit
+  tests?
+- Do we run tests on the host architecture or strictly on the target
+  hardware?
+- What tools are we using in this phase to author and execute unit tests?
+
+** Integration Testing (Validates Architecture)
+
+- How do we validate the boundary between our software and the physical
+  electrical hardware?
+- Have we invested in an automated Hardware-in-the-Loop setup?
+- Do developers have sufficient access to prototype hardware, or is
+  contention a bottleneck?
+- What tools are we using in this phase for integration and HITL testing?
+
+** System Testing & Release (Validates Requirements)
+
+- Are validation tests automatically triggered as gating checks in our
+  CI/CD pipeline?
+- How do we securely package and cryptographically sign the final
+  firmware payload?
+- What is our primary deployment mechanism for reaching devices in the
+  field?
+- If an update fails, what is the automated rollback mechanism to
+  prevent bricking the device?
+- What tools are we using in this phase for continuous integration,
+  release management, and deployment?
+
+* Phase 5: The Delivery Engine (Agile & Team Operations)
+
+Your goal here is to understand how the engineering organization structures
+its humans and time to execute the technical V-model.
+
+** Team Topology & Sizing
+
+- Are we organized as cross-functional feature teams or specialized
+  component teams (e.g., drivers vs. application logic)?
+- What is the average size of a pod or scrum team, and what is the
+  ratio of developers to QA/test engineers?
+- How do we handle dependencies between embedded software teams and
+  the electrical/hardware engineering teams?
+
+** Agile Rhythms & Hardware Reality
+
+- What is the duration of our standard sprint, and how strictly is
+  that timebox enforced?
+- How do our agile software sprints synchronize with the inflexible
+  realities of hardware revision cycles (board spins)?
+- Do we run formal planning, grooming, and retrospective ceremonies,
+  or do we operate on a more continuous Kanban flow?
+- How do we handle interrupt-driven work (e.g., manufacturing line
+  stoppages or critical field bugs) during a sprint?
+
+** The Tooling Question
+
+- What tools are we using in this phase to manage backlogs, track
+  sprint velocity, and document team decisions?
+
+* Phase 6: The Human Element (People & Performance)
+
+Your goal here is to understand how the organization evaluates, rewards,
+and communicates with its engineers.
+
+** Performance & Growth
+
+- How are performance reviews formally conducted, and what is the
+  evaluation cadence?
+- Do we have a codified engineering leveling guide or career ladder
+  for individual contributors?
+- How are performance goals established, and how do they tie into
+  company-wide objectives?
+- What tools are we using in this phase for performance management
+  and goal tracking?
+
+** Communication & Cadence
+
+- What is the cadence, structure, and expectation for department
+  all-hands and team staff meetings?
+- How is critical top-down business information routinely disseminated
+  to the engineering floor?
+- What tools are we using in this phase to facilitate asynchronous
+  team communication and announcements?
+
+** Organization & Compensation
+
+- What is the current distribution of titles (e.g., Junior, Senior,
+  Staff, Principal) across the engineering team?
+- How is compensation structured and reviewed (e.g., annual merit
+  cycles, equity grants, bonus targets)?
+- Who are the key individuals holding critical domain knowledge or
+  acting as single points of failure?
+- What HRIS or management tools are we using in this phase to track
+  organizational charts and compensation bands?
+
+* Tasks
+
+** Archive                                                          :ARCHIVE:
+*** DONE Start on-boarding document
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-05-03 Sun 16:09
+:END:
+:LOGBOOK:
+CLOCK: [2026-05-01 Fri 15:55]--[2026-05-01 Fri 16:55] =>  1:00
+:END:
+*** DONE Check in with Ricardo
+SCHEDULED: <2026-05-07 Thu>
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:ARCHIVE_TIME: 2026-05-07 Thu 11:51
+:END:
+
+*** DONE [#A] Update introductory presentation for Teradyne
+SCHEDULED: <2026-05-04 Mon>
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:ARCHIVE_TIME: 2026-05-17 Sun 21:37
+:END:
+
+*** DONE Setup Ansible so that Teradyne laptop can have a minimal Windows/WSL setup
+:PROPERTIES:
+:EFFORT:  02:00
+:BENEFIT: 500
+:ARCHIVE_TIME: 2026-05-17 Sun 21:37
+:END:
+:LOGBOOK:
+CLOCK: [2026-05-07 Thu 09:01]--[2026-05-07 Thu 11:51] =>  2:50
+CLOCK: [2026-05-07 Thu 07:30]--[2026-05-07 Thu 08:00] =>  0:30
+CLOCK: [2026-05-07 Thu 06:18]--[2026-05-07 Thu 06:51] =>  0:33
+:END:
