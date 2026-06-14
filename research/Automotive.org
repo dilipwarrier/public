@@ -10,42 +10,22 @@
 
 ** Global EV sales
 
-|---------------+------+------+------|
-| Market/year   | 2022 | 2023 | 2024 |
-|---------------+------+------+------|
-| China         |      |  8.1 | 11.0 |
-| Europe        |      |  3.3 |  3.1 |
-| USA           |  1.0 |  1.4 |  1.6 |
-| Rest of world |      |  1.0 |  1.3 |
-|---------------+------+------+------|
-| Total         | 10.5 | 13.8 | 17.0 |
-|---------------+------+------+------|
+All numbers are in millions of units.
+
+|-------------+-------+--------+-----+-----+-------+-----+----------|
+| Market/year | China | Europe | USA | RoW | Total | AGR | AGR (US) |
+|-------------+-------+--------+-----+-----+-------+-----+----------|
+|        2025 |  13.0 |    4.2 | 1.5 | 2.0 |  20.7 | 22% |      -6% |
+|        2024 |  11.0 |    3.1 | 1.6 | 1.3 |  17.0 | 23% |      14% |
+|        2023 |   8.1 |    3.3 | 1.4 | 1.0 |  13.8 | 31% |      40% |
+|        2022 |       |        | 1.0 |     |  10.5 |     |          |
+|-------------+-------+--------+-----+-----+-------+-----+----------|
+#+TBLFM: @2$7..@4$7=100*($6-@+1$6)/@+1$6;%.0f%%::@2$8..@4$8=100*($4-@+1$4)/@+1$4;%.0f%%
 
 Source: [[https://www.iea.org/data-and-statistics/charts/electric-car-registrations-and-sales-share-in-china-united-states-and-europe-2018-2023][IEA outlook]]
 
 Note that the numbers above are for EVs. That category includes BEVs
 and PHEVs.
-
-** US BEV sales
-
-|----------------+---------------------+------------------------|
-|           Year | BEV Sales (M units) | Annual Growth Rate (%) |
-|----------------+---------------------+------------------------|
-|           2014 |               0.071 |                        |
-|           2015 |               0.162 |                 126.8% |
-|           2016 |               0.340 |                 110.4% |
-|           2017 |               0.524 |                  54.2% |
-|           2018 |               0.834 |                  58.9% |
-|           2019 |               0.662 |                 -20.5% |
-|           2020 |               1.064 |                  60.6% |
-|           2021 |               1.112 |                   4.5% |
-|           2022 |               0.811 |                 -27.0% |
-|           2023 |               1.205 |                  48.5% |
-|           2024 |               1.330 |                  10.3% |
-| 2025(forecast) |               1.425 |                   7.2% |
-|----------------+---------------------+------------------------|
-
-Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]]
 
 In 2024, S&P Mobility predicted that US BEV sales will only be at 5M
 units in 2030, down from a previous projection of 6.5M. This means
@@ -65,29 +45,28 @@ Source: EV Volumes forecast in 2023
 
 ** Goldman Sachs report June 2024
 
-   [[file:Screenshot 2024-06-01 122638.png]]
+[[file:Screenshot 2024-06-01 122638.png]]
 
-   This [[https://www.goldmansachs.com/intelligence/pages/why-are-ev-sales-slowing.html][report]] argues that the bear case for EVs is more likely. The
-   bear case is that BEVs will account for 25M (25% of world-wide
-   market) in 2030. The hyper-adoption case was that EVs would
-   account for 45M (45% of world-wide market) in 2030. The
-   hyper-adoption case in the GS article is the same as the numbers in
-   the EV Volumes case below.
+This [[https://www.goldmansachs.com/intelligence/pages/why-are-ev-sales-slowing.html][report]] argues that the bear case for EVs is more likely. The bear
+case is that BEVs will account for 25M (25% of world-wide market)
+in 2030. The hyper-adoption case was that EVs would account for 45M
+(45% of world-wide market) in 2030. The hyper-adoption case in the
+GS article is the same as the numbers in the EV Volumes case below.
 
-   Roughly 10M EVs were sold in 2022. So, this is a CAGR of 12% up
-   to 2030. The CAGR for the hyper-adoption case is 21%.
-
+Roughly 10M EVs were sold in 2022. So, this is a CAGR of 12% up
+to 2030. The CAGR for the hyper-adoption case is 21%.
 
 ** TODO [#D] Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] and update [[id:1f2c0984-0b3d-49f9-804b-35d5df1e011f][EV market trends]] :Learning:
-SCHEDULED: <2026-05-31 Sun +52w>
+SCHEDULED: <2027-05-30 Sun +52w>
 :PROPERTIES:
 :EFFORT:  01:00
 :BENEFIT: 10
 :RATIO: 0.40
-:LAST_REPEAT: [2025-06-29 Sun 06:57]
+:LAST_REPEAT: [2026-06-13 Sat 08:21]
 :PRIORITY_NUM: 2
 :VALUE:    -90.00
 :END:
+- State "DONE"       from "TODO"       [2026-06-13 Sat 08:21]
 :LOGBOOK:
 CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
 :END:
