@@ -176,6 +176,14 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
 :ARCHIVE_TIME: 2026-04-28 Tue 20:56
 :END:
 
+*** DONE Look up MIT document on the semester you missed in CS - teaches version control, networking, security etc :Software:
+:PROPERTIES:
+:EFFORT: 00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:ARCHIVE_TIME: 2026-06-14 Sun 15:48
+:END:
+
 ** TODO Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]] :Software:
 :PROPERTIES:
 :PRIORITY_NUM: 1
@@ -380,13 +388,6 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :PRIORITY_NUM: 1
    :END:
-
-** DONE Look up MIT document on the semester you missed in CS - teaches version control, networking, security etc :Software:
-:PROPERTIES:
-:EFFORT: 00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:END:
 
 ** TODO Save react Ai paper                                      :Technology:
 :PROPERTIES:
