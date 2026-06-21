@@ -2,6 +2,8 @@
 #+FILETAGS: :Learning:
 #+STARTUP: show2levels inlineimages hideallblocks
 
+* Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
+
 * Learning categories
 
 I structure all my reading and learning according to the categories
@@ -20,12 +22,11 @@ Topics related to people management.
 
 ** Business
 
-Topics related to business that are not focused on people management
-or engineering.
+Topics related to business excluding people management and engineering.
 
 ** Economics
 
-Topics related to finance and investments also go here.
+Topics related to finance and investments are also included here.
 
 ** Maths
 
@@ -38,8 +39,6 @@ Biology, physics, psychology, medicine, etc.
 ** History
 
 ** Fiction
-
-* Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
 
 * Tasks
 
@@ -184,7 +183,17 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
 :ARCHIVE_TIME: 2026-06-14 Sun 15:48
 :END:
 
-** TODO Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]] :Software:
+*** DONE Read [[https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/][Measuring developer productivity with DX Core 4]]      :Software:
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:VALUE:    -15.00
+:PRIORITY_NUM: 1
+:ARCHIVE_TIME: 2026-06-20 Sat 07:27
+:END:
+
+** TODO Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]                      :Software:
 :PROPERTIES:
 :PRIORITY_NUM: 1
 :VALUE:    N/A
@@ -220,20 +229,11 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
 :VALUE:    -15.00
 :END:
 
-** TODO Read PagedAttention and DistServe papers from ArXiv      :Technology:
+** TODO Read PagedAttention and DistServe papers from ArXiv     :Engineering:
 :LOGBOOK:
 CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
 :END:
 
-
-** TODO Read [[https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/][Measuring developer productivity with DX Core 4]] :Software:
-:PROPERTIES:
-:EFFORT:  00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:VALUE:    -15.00
-:PRIORITY_NUM: 1
-:END:
 
 ** TODO Reformat all learning quotes to be sections
    :PROPERTIES:
@@ -244,7 +244,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO Check OpenAI Dev Day summary
+** TODO Check OpenAI Dev Day summary                            :Engineering:
    SCHEDULED: <2026-10-10 Sat>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -254,7 +254,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO Review Amazon annual shareholder letter
+** TODO Review Amazon annual shareholder letter                    :Business:
    SCHEDULED: <2027-04-11 Sun +52w>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -268,7 +268,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
 
    - State "DONE"       from "TODO"       [2026-04-13 Mon 20:22]
 
-** TODO Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]] :Philosophy:
+** TODO Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]]                             :Philosophy:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -286,7 +286,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO Read about process flow and flow chart drawing conventions
+** TODO Read about process flow and flow chart drawing conventions :Engineering:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -295,7 +295,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO Read [[https://drive.google.com/file/d/1ojOT-hP7nFUTNCUCGk_AKMN45E547Tvd/view?usp=drive_link][capitalism is better than donation for global poverty]]
+** TODO Read [[https://drive.google.com/file/d/1ojOT-hP7nFUTNCUCGk_AKMN45E547Tvd/view?usp=drive_link][capitalism is better than donation for global poverty]] :Economics:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -304,7 +304,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO Read CMMI book                                             :Software:
+** TODO Read CMMI book                                          :Engineering:
   :PROPERTIES:
   :EFFORT: 06:00
   :BENEFIT: 600
@@ -316,7 +316,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
   CLOCK: [2025-01-12 Sun 10:40]--[2025-01-12 Sun 11:40] =>  1:00
   :END:
 
-** TODO Review [[https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/][good forecasting practices]] :Science:
+** TODO Review [[https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/][good forecasting practices]]                           :Science:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -325,7 +325,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    -15.00
    :END:
 
-** TODO Take the Superforecasting [[https://good-judgment.thinkific.com/courses/Superforecasting-Fundamentals][Good Judgement training]] :Science:
+** TODO Take the Superforecasting [[https://good-judgment.thinkific.com/courses/Superforecasting-Fundamentals][Good Judgement training]]           :Science:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -334,7 +334,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO Read about the [[https://c4model.com/][C4 architecture method]] :Software:
+** TODO Read about the [[https://c4model.com/][C4 architecture method]]                      :Software:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -343,7 +343,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    0.00
    :END:
 
-** TODO Read [[https://joincolossus.com/article/ai-will-not-make-you-rich/][who will benefit from AI]] :Technology:
+** TODO Read [[https://joincolossus.com/article/ai-will-not-make-you-rich/][who will benefit from AI]]                           :Engineering:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -353,7 +353,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :END:
 
 
-** TODO Read [[https://www.wsj.com/economy/a-guaranteed-income-wont-stop-people-from-wanting-to-work-03c4ab31?st=yeDmB6][A guaranteed income won't stop people from wanting to work]] :Finance:
+** TODO Read [[https://www.wsj.com/economy/a-guaranteed-income-wont-stop-people-from-wanting-to-work-03c4ab31?st=yeDmB6][A guaranteed income won't stop people from wanting to work]] :Economics:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 10
@@ -362,7 +362,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :VALUE:    -15.00
    :END:
 
-** TODO Review [[https://rodneybrooks.com/blog/][Rodney Brooks blog]] :Technology:
+** TODO Review [[https://rodneybrooks.com/blog/][Rodney Brooks blog]]                               :Engineering:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -381,7 +381,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
 :PRIORITY_NUM: 1
 :END:
 
-** TODO Read [[https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07?st=3Sx9NK][Europe green energy issues]] :Technology:
+** TODO Read [[https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07?st=3Sx9NK][Europe green energy issues]]                         :Engineering:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -389,7 +389,7 @@ CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
    :PRIORITY_NUM: 1
    :END:
 
-** TODO Save react Ai paper                                      :Technology:
+** TODO Save react Ai paper                                     :Engineering:
 :PROPERTIES:
 :EFFORT: 00:15
 :BENEFIT: 10
