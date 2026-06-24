@@ -4,7 +4,6 @@
 
 * Books analysis
 
-
 ** Books to read by genre
 
 #+begin_src shell :results drawer :exports both
