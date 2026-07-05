@@ -1,4 +1,5 @@
 Title,Author,My Rating,Average Rating,Date Read,Date Added,Genre,Status
+The Last Days of Night,Graham Moore,,4.2,,07/04/2026,"science,western-fiction",to-read
 Guide to the Good Life: The Ancient Art of Stoic Joy,William B. Irvine,,4.2,,05/04/2026,philosophy,to-read
 Progressive myths,Michael Huemer,,4.0,,04/21/2026,philosophy,to-read
 "Everything is predictable: How Bayesian statistics explain our world",Tom Chivers,,4.0,,04/21/2026,maths,to-read
@@ -31,7 +32,7 @@ Blueprint: How DNA makes us who we are,Robert Plomin,,4.0,,11/13/2021,science,to
 Winter Tide,Ruthanna Emrys,,3.8,,11/07/2021,science-fiction,to-read
 Games of life,Karl Sigmund,,4.0,,10/31/2021,maths,to-read
 Artificial intelligence: A modern approach,"Stuart Russell,Peter Norvig",,4.2,,10/10/2021,"engineering,textbook",to-read
-Forgotten armies: The fall of British Asia,"C. A. Bayly, Tim Harper",,3.9,,5/15/2021,eastern-history,to-read
+Forgotten armies: The fall of British Asia,"C. A. Bayly,Tim Harper",,3.9,,5/15/2021,eastern-history,to-read
 Tasting freedom: Octavius Catto,"Daniel Biddle,Murray Dubin",,4.2,,5/9/2021,western-history,to-read
 "The Balkans: Nationalism, War and the Great Powers",Misha Glenny,,4.1,,4/24/2021,eastern-history,to-read
 Quicksand: America's pursuit of power in the Middle East,Geoffrey Wawro,,4.1,,4/8/2021,western-history,to-read
@@ -52,10 +53,10 @@ Thus Bad Begins,Javier Marias,,4.0,,11/6/2016,"thriller,western-fiction",to-read
 The rise and reign of the mammals,Steve Brusatte,,4.0,,07/25/2022,"science,science",to-read
 Structures or why things don't fall down,J. E. Gordon,,4.0,,6/21/2025,engineering,to-read
 Building secure and reliable systems,Heather Adkins,,4.0,,4/13/2025,"software",to-read
-Crime and Punishment,Fyodor Dostoevsky,3.0,5.0,6/1/2026,5/4/2026,"eastern-fiction",read
-The Story of Russia,Orlando Figes,,4.2,,5/20/2026,"eastern-history",reading
 Catherine the Great,James Massie,,3.9,,5/20/2026,"eastern-history",reading
-War and Peace,Leo Tolstoy,2.0,5.0,5/4/2026,3/18/2026,"eastern-fiction",read
+Crime and Punishment,Fyodor Dostoevsky,3,5.0,6/1/2026,5/4/2026,"eastern-fiction",read
+The Story of Russia,Orlando Figes,5,4.2,6/30/2026,5/20/2026,"eastern-history",read
+War and Peace,Leo Tolstoy,2,5.0,5/4/2026,3/18/2026,"eastern-fiction",read
 The Makioka Sisters,Junichiro Tanizaki,5.0,4.0,3/10/2026,5/13/2017,eastern-fiction,read
 Mountains Beyond Mountains: The Quest of Dr. Paul Farmer,Tracy Kidder,3.0,4.2,01/30/2026,01/30/2026,"western-history",read
 Fundamentals of software architecture,"Mark Richards,Neal Ford",5.0,4.3,02/25/2026,01/29/2022,"software,textbook",read
