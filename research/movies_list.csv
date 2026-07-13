@@ -1,4 +1,4 @@
-Title,Director,Type,My Rating,Average Rating,Date Watched,Date Added,Language,Genre,Status,URL
+Title,Director/Writer,Type,My Rating,Average Rating,Date Watched,Date Added,Language,Genre,Status,URL
 Caro Diario,Nanni Moretti,Movie,,3.6,,7/8/2023,Italian,Drama,To-watch,
 Minari,Lee Isaac Chung,Movie,,3.8,,4/26/2021,English,Drama,To-watch,
 Nomadland,Chloe Zhao,Movie,,3.8,,4/26/2021,English,Drama,To-watch,
@@ -88,6 +88,8 @@ A Single Man,Tom Ford,Movie,,3.8,,11/11/2012,English,Romance,To-watch,
 Leila,Dariush Mehrjui,Movie,,3.9,,4/22/2012,Persian,Drama,To-watch,
 One Day in September,Kevin Macdonald,Movie,,4.0,,4/20/2012,English,"Documentary, Sport",To-watch,
 Still Walking,Hirokazu Koreeda,Movie,,3.9,,4/8/2012,Japanese,Drama,To-watch,
+She Said,"Maria Schrader,Rebecca Lenkiewicz",Movie,5,3.7,07/11/2026,07/11/2026,"English","Drama",Watched,"https://www.imdb.com/title/tt11198810/"
+Legends,Neil Forsyth,Series,4,3.0,7/1/2026,7/10/2026,English,"Thriller",Watched,
 Night Always Comes,Benjamin Caron,Series,5,,07/04/2026,07/04/2026,English,"Drama",Watched,
 The Abandons - Season 1,,Series,3,,07/04/2026,07/04/2026,English,"Thriller",Watched,
 The Outfit,Graham Moore,Movie,5,,06/28/2026,06/28/2026,English,"Drama",Watched,
