@@ -1,4 +1,5 @@
 Title,Author,My Rating,Average Rating,Date Read,Date Added,Genre,Status
+Mercury Pictures Presents,Anthony Marra,,3.7,,09/06/2026,western-fiction,to-read
 A Philosophy of Software Design,John Ousterhout,,4.2,,07/19/2026,software,to-read
 A Gentleman in Moscow,Amor Towles,,4.3,,07/12/2026,eastern-fiction,to-read
 The Last Days of Night,Graham Moore,,4.2,,07/04/2026,"science,western-fiction",to-read
@@ -19,7 +20,6 @@ The idea of the brain,Matthew Cobb,,4.0,,9/8/2024,"brain,science",to-read
 Other minds: the octopus and the evolution of intelligent life,Peter Godfrey-Smith,,4.0,,9/8/2024,"science,brain",to-read
 Automotive technology: a systems approach,Jack Erjavec,,4.0,,9/8/2024,"engineering,textbook",to-read
 Northern Spy,Flynn Berry,,4.0,,8/2/2024,"thriller,western-fiction",to-read
-The garden of tales,Vijaydan Detha,,4.0,,09/10/2023,indian-fiction,to-read
 Deep work,Cal Newport,,4.0,,09/10/2023,"brain,science",to-read
 Say Nothing,Patrick Keefe,,4.4,,7/8/2023,western-history,to-read
 The Lion House: The coming of a king,Christopher de Bellaigue,,3.6,,12/11/2022,eastern-history,to-read
@@ -55,9 +55,9 @@ Thus Bad Begins,Javier Marias,,4.0,,11/6/2016,"thriller,western-fiction",to-read
 The rise and reign of the mammals,Steve Brusatte,,4.0,,07/25/2022,"science,science",to-read
 Structures or why things don't fall down,J. E. Gordon,,4.0,,6/21/2025,engineering,to-read
 Building secure and reliable systems,Heather Adkins,,4.0,,4/13/2025,"software",to-read
-Black River, Nilanjana Roy,,3.9,,08/15/2026,indian-fiction,reading
-Jasmine Days, Benyamin,4,3.9,07/04/2026,06/14/2026,"indian-fiction",read
-Catherine the Great,James Massie,,3.9,,5/20/2026,"eastern-history",reading
+Black River, Nilanjana Roy,4,3.9,9/6/2026,08/15/2026,indian-fiction,read
+Jasmine Days, Benyamin,4,3.9,07/04/2026,06/14/2026,indian-fiction,read
+Catherine the Great,James Massie,5,3.9,9/3/2026,5/20/2026,"eastern-history",read
 Crime and Punishment,Fyodor Dostoevsky,3,5.0,6/1/2026,5/4/2026,"eastern-fiction",read
 The Story of Russia,Orlando Figes,5,4.2,6/30/2026,5/20/2026,"eastern-history",read
 War and Peace,Leo Tolstoy,2,5.0,5/4/2026,3/18/2026,"eastern-fiction",read
