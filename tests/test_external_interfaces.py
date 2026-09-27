@@ -43,6 +43,7 @@ def _validate_route(
     if route_type == "jira":
         required_fields = (
             "command",
+            "read_command",
             "title_argument",
             "due_date_argument",
             "project",
