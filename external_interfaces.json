@@ -1,4 +1,10 @@
 {
+  "google_tasks": {
+    "Learning": {
+      "type": "org",
+      "contract_key": "org_files.learning"
+    }
+  },
   "org_files": {
     "learning": "research/Learning.org"
   },
