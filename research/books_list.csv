@@ -1,9 +1,9 @@
 Title,Author,My Rating,Average Rating,Date Read,Date Added,Genre,Status
+How to be a (happy) skeptic,Massimo Pigliucci,,4.0,,10/03/2026,philosophy,to-read
 Mercury Pictures Presents,Anthony Marra,,3.7,,09/06/2026,western-fiction,to-read
 A Philosophy of Software Design,John Ousterhout,,4.2,,07/19/2026,software,to-read
 A Gentleman in Moscow,Amor Towles,,4.3,,07/12/2026,eastern-fiction,to-read
 The Last Days of Night,Graham Moore,,4.2,,07/04/2026,"science,western-fiction",to-read
-Guide to the Good Life: The Ancient Art of Stoic Joy,William B. Irvine,,4.2,,05/04/2026,philosophy,to-read
 Progressive myths,Michael Huemer,,4.0,,04/21/2026,philosophy,to-read
 "Everything is predictable: How Bayesian statistics explain our world",Tom Chivers,,4.0,,04/21/2026,maths,to-read
 "Apple in China: The Capture of the World's Greatest Company",Patrick McGee,,4.5,,04/21/2026,"business,eastern-history",to-read
@@ -55,6 +55,7 @@ Thus Bad Begins,Javier Marias,,4.0,,11/6/2016,"thriller,western-fiction",to-read
 The rise and reign of the mammals,Steve Brusatte,,4.0,,07/25/2022,"science,science",to-read
 Structures or why things don't fall down,J. E. Gordon,,4.0,,6/21/2025,engineering,to-read
 Building secure and reliable systems,Heather Adkins,,4.0,,4/13/2025,"software",to-read
+Guide to the Good Life: The Ancient Art of Stoic Joy,William B. Irvine,,4.2,,05/04/2026,philosophy,reading
 Black River, Nilanjana Roy,4,3.9,9/6/2026,08/15/2026,indian-fiction,read
 Jasmine Days, Benyamin,4,3.9,07/04/2026,06/14/2026,indian-fiction,read
 Catherine the Great,James Massie,5,3.9,9/3/2026,5/20/2026,"eastern-history",read
