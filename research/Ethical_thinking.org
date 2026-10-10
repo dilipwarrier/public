@@ -68,6 +68,9 @@ sense suffering, then also it is equivalent to killing 740M humans a
 year. All this suffering is in aid of a discretionary interest that we
 can do without, ie. eating animal flesh.
 
+There are several reasons why we don't naturally feel bad about eating
+meat. Here are a few.
+
 If you hear about a disaster that killed five people, you feel sorry
 about that. If you hear about one that killed five thousand people,
 you don’t feel a thousand times as sorry. Our feelings follow an
@@ -75,13 +78,15 @@ S-curve in that respect.
 
 Stealing is disapproved of in our society, and we have internalized
 that. Meat-eating is aproved of, and almost everyone around us is doing
-it. That’s why we keep eating meat, no matter how wrong it
+it. So, we keep eating meat, no matter how wrong it
 is. However, we won’t steal, no matter how much it would benefit us.
 
 For most of the wrongs of the past – slavery, colonialism, the
 oppression of women – the victims could and did speak up. In the case
 of eating meat, the victims will never be able to act or speak for
-themselves. There is no one to speak against what we humans are doing,
+themselves.
+
+There is no one to speak against what we humans are doing,
 except us. So we have to do it. If we don’t, it will never stop.
 
 ** References
@@ -224,14 +229,14 @@ You can [[https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/hk9Xh6xK5j3S
   - Helping the same number of people to a greater extent, or
   - Doing something which has benefits that last for a longer time.
 
-* The world is much better and can be much better
+* The world is much better and can be much better                    :Review:
 
 All three of the following are true.
-  - The world is much better than before
-  - The world is awful
-  - The world can be much better than it is right now
+  - The world is much better than before for many people
+  - The world is awful for many people
+  - The world can be much better than it is right now for many people
 
-However, according to the [[http://www.fao.org/3/ca9692en/online/ca9692en.html#][State of Food Security report]] in 2020,
+According to the [[http://www.fao.org/3/ca9692en/online/ca9692en.html#][State of Food Security report]] in 2020,
 the number of undernourished has been going up since 2014. In 2020,
 nearly 700 million people or about 9% of the world population
 were hungry. This number has been increasing since 2014 and COVID
@@ -312,7 +317,7 @@ years. Recidivism rates are very high.
 
 - Michael Huemer, The Problem of Political Authority
 
-* Poor Economics by Abhijit Banerjee and Esther Duflo                :Review:
+* Poor Economics by Abhijit Banerjee and Esther Duflo      :Economics:Review:
 
 Poor people don't generally want more food. In many cases, giving them
 grain etc is not helpful. Instead, providing more micronutrients,

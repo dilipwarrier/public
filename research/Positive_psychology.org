@@ -1,5 +1,5 @@
 #+TITLE: The science of happiness and well-being
-#+FILETAGS: :Science:Philosophy:
+#+FILETAGS: :Philosophy:
 #+STARTUP: show2levels inlineimages hideallblocks
 
 * Subjective Well-Being or Happiness                                 :Review:
@@ -119,34 +119,6 @@ long-term.
 | FERGAP           | CSLGEH              |
 |------------------+---------------------|
 
-*** The source of true happiness and the Stoic philosophy
-:PROPERTIES:
-:ID:       f3c5151b-e88c-42f8-837b-a7794d2ba35b
-:END:
-
-Marcus Aurelius suggests in "Meditations" that strengthening the
-values on the right is the true path to happiness. These values
-are entirely in our character and, hence, entirely within our
-control. Everything else - health, wealth, etc - are not
-within our control.
-
-When you're addicted to the validation of strangers, or checking your
-bank account as if your soul's value fluctuates with the numbers, or
-find yourself preening under the light of flattery, or giving in to an
-easier task than a harder one, you're merely a passive entity being
-pushed about like a puppet. Reality requires something hard of you, while
-the addiction asks only for your passive surrender. You must
-rebel and set yourself free so that your happiness depends on nothing
-else but yourself, so that nothing has a hold on you. You must also
-apply that same rigorous discernment to the rest of your
-existence. Moderation is the only key that fits the lock of true
-happiness.
-
-The ultimate liberation lies in breaking a most insidious
-chain - the addiction to feeling good.
-
-**** Seneca: The day you become superior to pleasure, you also become superior to pain :quotes:
-
 *** Regret to Learning
 
 Annie Duke in "Thinking in Bets" reminds us that, just because the
@@ -192,10 +164,12 @@ lower LS.
 Human beings generally feel pleasure from working towards a goal. The
 goal has to be challenging but achievable and they should get regular
 feedback. This allows them to achieve a state of flow. However, even
-though they think there is pleasure to be gained on achieving a goal,
-they do not actually gain such pleasure. Eg. winning a lottery,
-getting your ideal job, etc. This is analogous to the movie "Memento"
-where the protagonist continually sets new goals to challenge himself.
+though they think there is pleasure to be gained when they achieve a
+goal, they do not actually gain any long-term pleasure. Eg. winning a
+lottery, getting your ideal job, etc. The actual pleasure is in
+working towards the goal and making progress. This is analogous to the
+movie "Memento" where the protagonist continually sets new goals to
+challenge himself.
 
 A third factor that influences the LS of most people is
 personal – satisfaction with the self, religious or spiritual life,
@@ -225,6 +199,33 @@ psychology agrees.
 All of this is nicely captured in this cartoon.
 
 [[file:Screenshot 2025-10-16 205315.png]]
+
+* The source of true happiness and the Stoic philosophy              :Review:
+:PROPERTIES:
+:ID:       f3c5151b-e88c-42f8-837b-a7794d2ba35b
+:END:
+
+Marcus Aurelius suggests in "Meditations" that strengthening the
+values on the right is the true path to happiness. These values
+are entirely in our character and, hence, entirely within our
+control. Everything else - health, wealth, etc - are not
+within our control.
+
+When you're addicted to the validation of strangers, or checking your
+bank account as if your soul's value fluctuates with the numbers, or
+find yourself preening under the light of flattery, or giving in to an
+easier task than a harder one, you're merely a passive entity being
+pushed about like a puppet.
+
+Reality requires something hard of you, while the addiction asks only
+for your passive surrender. You must rebel and set yourself free so
+that your happiness depends on nothing else but yourself, so that
+nothing has a hold on you. You must also apply that same rigorous
+discernment to the rest of your existence. Moderation is the only key
+that fits the lock of true happiness.
+
+The ultimate liberation lies in breaking a most insidious
+chain - the addiction to feeling good.
 
 * A Buddhist take on happiness                                       :Review:
 
@@ -267,17 +268,21 @@ $150,000. A graph of QALYs used by other countries is in the
 article. The approach of using QALYs was first established in the
 UK.
 
-* Quotes
+** Quotes
 
-** John Donne: No man is an island, entire of itself; ...therefore never send to know for whom the bells tolls; it tolls for thee. :quotes:
+*** Seneca: The day you become superior to pleasure, you also become superior to pain :quotes:
 
-** King Crimson: I'm happy with what I have to be happy with         :quotes:
+*** John Donne: No man is an island, entire of itself; ...therefore never send to know for whom the bells tolls; it tolls for thee. :quotes:
 
-** Matthieu Ricard: What do you need to accomplish or what do you need to discard in order to achieve well-being and live a meaningful life? :quotes:
+*** King Crimson: I'm happy with what I have to be happy with        :quotes:
 
-** Matthieu Ricard: Why don't we devote even the briefest of moments once a day to introspection? :quotes:
 
-* References
+*** Matthieu Ricard: What do you need to accomplish or what do you need to discard in order to achieve well-being and live a meaningful life? :quotes:
+
+
+*** Matthieu Ricard: Why don't we devote even the briefest of moments once a day to introspection? :quotes:
+
+** References
 
 - Jonathan Haidt, The Happiness Hypothesis
 - Edward Diener and Robert Biswas-Diener, Happiness

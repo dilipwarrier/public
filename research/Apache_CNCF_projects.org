@@ -29,60 +29,18 @@ often run Apache tools on CNCF infrastructure.
 | Cloud provider / hardware | AWS, GCP, Azure, Bare-metal              | Underlying compute and storage   |                     |
 |---------------------------+------------------------------------------+----------------------------------+---------------------|
 
+* Apache DevLake
+
+Apache DevLake collects data from various DevOps tools like GitHub,
+GitLab, Jenkins, etc. and distills engineering team-specific
+insights. It allows you to setup dashboards for metrics like DORA.
+
 * Apache Spark
 :PROPERTIES:
 :ID:       be4c0342-3c8d-49ac-8046-f36b65361d72
 :END:
 
 See [[id:c63978d7-17dd-49e9-a52f-2fb47c7190c3][What is Apache Spark?]]
-
-* Apache Cassandra
-
-Distributed, highly scalable NoSQL database
-
-Optimized for OLTP (online transactional processing):
-
-High write throughput
-
-Low-latency reads
-
-Time-series and event workloads
-
-Always-on availability
-
-Rows stored in SSTables on disk
-
-Queryed via CQL (Cassandra Query Language)
-
-Used when you need fast, operational data access.
-
-Examples: IoT event ingestion, time-series dashboards, user profile storage
-
-* Apache Iceberg
-
-A table format that sits on top of a data lake (S3, HDFS, GCS, Azure Blob)
-
-Not a database - it tracks structured tables stored as Parquet/ORC files
-
-Built for OLAP (analytical workloads):
-
-Large-scale scans
-
-ACID transactions in the data lake
-
-Schema evolution
-
-Partitioning
-
-Time travel
-
-Versioning
-
-Queried via engines like Spark, Trino, Flink, Dremio, Snowflake (Iceberg tables)
-
-Used when you need large-scale analytics on massive datasets.
-
-Examples: ML feature stores, batch analytics, ETL pipelines
 
 * Apache Airflow
 

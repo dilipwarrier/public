@@ -5,40 +5,92 @@
 * Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
 
 * Learning categories
+:PROPERTIES:
+:ID:       dcfebe6a-eced-4491-86e3-6ef765250d77
+:END:
 
 I structure all my reading and learning according to the categories
 listed here.
 
+** Science
+
+(org-tags-view nil "Science-quotes+LEVEL=1")
+
+Biology, physics, psychology, medicine, etc.
+
+Add tag Review to important sections, then add Review in the search
+above.
+
 ** Software
 
+(org-tags-view nil "Software-quotes+LEVEL=1")
+
+Add tag Review to important sections, then add Review in the search
+above.
+
 ** Engineering
+
+(org-tags-view nil "Engineering-quotes+LEVEL=1")
 
 All topics in Engineering that are not software focused. AI is
 included in this category.
 
+Add tag Review to important sections, then add Review in the search
+above.
+
 ** Management
+
+(org-tags-view nil "Management-quotes+LEVEL=1")
 
 Topics related to people management.
 
+Add tag Review to important sections, then add Review in the search
+above.
+
 ** Business
+
+(org-tags-view nil "Business-quotes+LEVEL=1")
 
 Topics related to business excluding people management and engineering.
 
+Add tag Review to important sections, then add Review in the search
+above.
+
 ** Economics
+
+(org-tags-view nil "Economics-quotes+LEVEL=1")
 
 Topics related to finance and investments are also included here.
 
+Add tag Review to important sections, then add Review in the search
+above.
+
 ** Maths
 
-** Science
+(org-tags-view nil "Maths-quotes+LEVEL=1")
 
-Biology, physics, psychology, medicine, etc.
-
-** Philosophy
+Add tag Review to important sections, then add Review in the search
+above.
 
 ** History
 
+(org-tags-view nil "History-quotes+LEVEL=1")
+
+Add tag Review to important sections, then add Review in the search
+above.
+
 ** Fiction
+
+(org-tags-view nil "Fiction-quotes+LEVEL=1")
+
+Add tag Review to important sections, then add Review in the search
+above.
+
+** Philosophy
+
+(org-tags-view nil "Philosophy+Review-quotes+LEVEL=1")
+
+Reviewed last on [2026-10-10 Sat]
 
 * Tasks
 
@@ -193,6 +245,9 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
 :ARCHIVE_TIME: 2026-06-20 Sat 07:27
 :END:
 
+** TODO Read next in [[id:dcfebe6a-eced-4491-86e3-6ef765250d77][Learning categories]], then move the section down
+SCHEDULED: <2026-10-17 Sat +1w>
+
 ** TODO Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]                      :Software:
 :PROPERTIES:
 :PRIORITY_NUM: 1
@@ -219,21 +274,6 @@ CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
 :PRIORITY_NUM: 1
 :VALUE:    N/A
 :END:
-
-** TODO Study Apache Superset as a visualization tool              :Software:
-:PROPERTIES:
-:EFFORT: 00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:PRIORITY_NUM: 1
-:VALUE:    -15.00
-:END:
-
-** DONE Read PagedAttention and DistServe papers from ArXiv     :Engineering:
-:LOGBOOK:
-CLOCK: [2026-03-30 Mon 07:00]--[2026-03-30 Mon 08:00] =>  1:00
-:END:
-
 
 ** TODO Reformat all learning quotes to be sections
    :PROPERTIES:
