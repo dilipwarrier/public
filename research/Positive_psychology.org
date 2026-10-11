@@ -106,6 +106,11 @@ column below. In the short-term, you will be overcome by them but you
 should always move towards the positive feelings on the right in the
 long-term.
 
+*** Table of feelings
+:PROPERTIES:
+:ID:       b18c66e0-1269-4b0f-90f0-35cd759852b2
+:END:
+
 |------------------+---------------------|
 | Negative feeling | Positive equivalent |
 |------------------+---------------------|
@@ -200,32 +205,100 @@ All of this is nicely captured in this cartoon.
 
 [[file:Screenshot 2025-10-16 205315.png]]
 
-* The source of true happiness and the Stoic philosophy              :Review:
+* The Stoic philosophy                                               :Review:
 :PROPERTIES:
 :ID:       f3c5151b-e88c-42f8-837b-a7794d2ba35b
 :END:
 
-Marcus Aurelius suggests in "Meditations" that strengthening the
-values on the right is the true path to happiness. These values
-are entirely in our character and, hence, entirely within our
-control. Everything else - health, wealth, etc - are not
-within our control.
+** Negative visualization
 
-When you're addicted to the validation of strangers, or checking your
-bank account as if your soul's value fluctuates with the numbers, or
-find yourself preening under the light of flattery, or giving in to an
-easier task than a harder one, you're merely a passive entity being
-pushed about like a puppet.
+We have been programmed by evolution to think about how much better
+our lives could be, how much more money we could have, etc.
 
-Reality requires something hard of you, while the addiction asks only
-for your passive surrender. You must rebel and set yourself free so
-that your happiness depends on nothing else but yourself, so that
-nothing has a hold on you. You must also apply that same rigorous
-discernment to the rest of your existence. Moderation is the only key
-that fits the lock of true happiness.
+Instead, we should think about how much worse our life could be - we
+could be very sick, we could not have functioning minds, we could be
+starving, we could lose our loved ones, etc.
 
-The ultimate liberation lies in breaking a most insidious
-chain - the addiction to feeling good.
+By constantly reminding ourselves of how good we have it compared to
+all that, we can overcome the greed of wanting more.
+
+Further, by constantly thinking through these scenarios, we can
+insulate ourselves if such crises were to materialize.
+
+** Goal internalization
+
+There are many goals we want to achieve that are partly outside of
+control eg. winning a tennis match. So, set your goal to be internal
+eg. I'll play the best tennis game I can right now. Don't set the goal
+to be what you don't have control over.
+
+If you're not successful with the goal, learn what you can do better
+next time ie. What's within your control. Then, let go of what is now
+in the past ie. I lost the last tennis game.
+
+** Seeking fame
+
+The Stoics advise that we stay away from seeking fame. If we want
+other people to like us or worship us, we must behave in ways that
+they see fit. In doing so, though, you give up control of what
+fulfills you.
+
+Making someone else feel good about you is a goal that you have
+limited control over. Internalizing that goal means that you should do
+the things that feel right for you and not worry about what others
+think of it.
+
+** Seeking wealth
+
+Why do we need wealth? We are such small bodies and we need so
+little. Simple food, simple clothes and a simple house that protects
+us from the elements. Why do we need any more?
+
+Even if we practise luxurious living, our hedonistic adaptation will
+lead us to want more. So it's best to program ourselves to want less.
+
+Contrary to usual beliefs, it may be easier to practise self-denial
+than not to. It takes time and money to be a connoisseur, to want high
+quality things, and to indulge in luxuries. It is a lot simpler to
+forego these and find delight in what we already have.
+
+** Contemplating death
+
+The Stoics recommend spending time contemplating your death. This
+forces you to think about what goals you want to achieve before you
+die. Those goals should be internalized so that they're within your
+control.
+
+Many Stoics died because they stood up against authority for values
+that they cared about. Others in their place would have given up those
+values to continue living. However, if there is nothing in your life
+worth dying for, is there anything in your life worth living for?
+
+** Fighting your other half
+
+There will be one half of you, the impulsive one, that generates
+feelings of anger, pride, fear, etc. Make it a game between your
+reflective Stoic half and the impuslive half. The Stoic half fights
+the impulsive half by acts of self-denial, embracing discomfort, being
+satisfied with internal goals, etc. Think of your external competitors
+or detractors as partners in your internal fight against your
+impulsive self. By giving you opportunities to exercise
+self-restraint, to go outside your comfort zone etc., they are helping
+your Stoic self in the battle.
+
+** Start now
+
+It is best to start the Stoic practice in small pieces now.
+
+Start by taking delight in life as you have it right now.
+
+Remember that anything you have can be taken away from you by
+chance. Visualize that possibility.
+
+Practise self-denial.
+
+Push yourselves into areas of discomfort to prepare for potential
+adversity in the future.
 
 * A Buddhist take on happiness                                       :Review:
 
@@ -268,23 +341,24 @@ $150,000. A graph of QALYs used by other countries is in the
 article. The approach of using QALYs was first established in the
 UK.
 
-** Quotes
+** Quotes                                                            :quotes:
 
-*** Seneca: The day you become superior to pleasure, you also become superior to pain :quotes:
+*** Seneca: The day you become superior to pleasure, you also become superior to pain
 
-*** John Donne: No man is an island, entire of itself; ...therefore never send to know for whom the bells tolls; it tolls for thee. :quotes:
+*** John Donne: No man is an island, entire of itself; ...therefore never send to know for whom the bells tolls; it tolls for thee.
 
-*** King Crimson: I'm happy with what I have to be happy with        :quotes:
-
-
-*** Matthieu Ricard: What do you need to accomplish or what do you need to discard in order to achieve well-being and live a meaningful life? :quotes:
+*** King Crimson: I'm happy with what I have to be happy with.
 
 
-*** Matthieu Ricard: Why don't we devote even the briefest of moments once a day to introspection? :quotes:
+*** Matthieu Ricard: What do you need to accomplish or what do you need to discard in order to achieve well-being and live a meaningful life?
+
+
+*** Matthieu Ricard: Why don't we devote even the briefest of moments once a day to introspection?
 
 ** References
 
-- Jonathan Haidt, The Happiness Hypothesis
-- Edward Diener and Robert Biswas-Diener, Happiness
+- Jonathan Haidt, "The Happiness Hypothesis"
+- Edward Diener and Robert Biswas-Diener, "Happiness"
 - Sonja Lyubomirsky, The How of Happiness
 - Matthieu Ricard, "Happiness"
+- William Irvine, "A Guide to the Good Life"

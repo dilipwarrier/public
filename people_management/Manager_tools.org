@@ -951,14 +951,9 @@ and email the link to me by 2 pm tomorrow."
     a behavior that you don't want to do yourself. Note it down in
     your delta file.
 
-
 ** Leadership
 
    Link to [[https://youtu.be/ocSw1m30UBI?si=qk8wayvBbmq-d1yQ][Colin Powell's video]] on leadership
-
-
-*** Colin Powell: You know you are a leader if your team will follow you, if only out of curiosity :quotes:
-
 
 ** First 90 days in a new job
 

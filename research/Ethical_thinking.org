@@ -2,7 +2,7 @@
 #+FILETAGS: :Philosophy:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* Practical ethics by Peter Singer                                   :Review:
+* Practical ethics                                                   :Review:
 
 Preference utilitarianism says that, if a person has a preference,
 then that preference should not be tampered with, all other things
@@ -88,10 +88,6 @@ themselves.
 
 There is no one to speak against what we humans are doing,
 except us. So we have to do it. If we don’t, it will never stop.
-
-** References
-
-- Michael Huemer, "Dialogues on Ethical Vegetarianism"
 
 * The life you can save by Peter Singer                              :Review:
 
@@ -186,31 +182,7 @@ Even donating 5-10% of your net income and spreading the word to
 others can make a significant difference. There is higher chance of
 adoption of this level too.
 
-** My donations
-:PROPERTIES:
-:CUSTOM_ID: my_donations
-:ID:       7d940e83-ba83-4650-9076-797cc3271ca6
-:END:
-
-By the argument above, a donation of $5000 in 2025 can save a life
-in a poor country which can be valued at, say, $100,000. $100k is a
-pretty conservative estimate of the lifetime value of a human
-being. Thus, an investment of $5000 today generates a lifetime
-revenue of $100,000. Let us assume that the investment is made in a
-newborn baby. Let us assume that this person generates no income for
-20 years and then generates $2.5k/year for 40 years. By this scheme,
-the NPV to that person is about $27k at a discount rate of 3.5%.
-
-An alternate model is that a human life is worth roughly $1M over a
-lifetime or, say, $15k/year for 70 years. By spending $5k now, this is
-the utility that is realized. This provides an NPV of
-$390k at a discount rate of 3.5%.
-
 * Effective Altruism                                                 :Review:
-
-Ajeya Cotra has a heart-felt introduction to [[https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL][effective altruism]].
-
-** Why you should maximize your impact
 
 The average doctor in the UK may add about 150 healthy
 years over their career. The World Bank has a conversion rate of one
@@ -313,11 +285,7 @@ Coercion - the state can coerce you to accept the service
 In the US, two thirds of prisoners go back to prison within three
 years. Recidivism rates are very high.
 
-** References
-
-- Michael Huemer, The Problem of Political Authority
-
-* Poor Economics by Abhijit Banerjee and Esther Duflo      :Economics:Review:
+* Poor Economics                                           :Economics:Review:
 
 Poor people don't generally want more food. In many cases, giving them
 grain etc is not helpful. Instead, providing more micronutrients,
@@ -362,8 +330,31 @@ be on the steep part of the S curve where each investment results in a
 return that is significantly higher. This has also been popularized as
 the Matthew effect.
 
-** References
+* My donations
+:PROPERTIES:
+:CUSTOM_ID: my_donations
+:ID:       7d940e83-ba83-4650-9076-797cc3271ca6
+:END:
+
+By the argument above, a donation of $5000 in 2025 can save a life
+in a poor country which can be valued at, say, $100,000. $100k is a
+pretty conservative estimate of the lifetime value of a human
+being. Thus, an investment of $5000 today generates a lifetime
+revenue of $100,000. Let us assume that the investment is made in a
+newborn baby. Let us assume that this person generates no income for
+20 years and then generates $2.5k/year for 40 years. By this scheme,
+the NPV to that person is about $27k at a discount rate of 3.5%.
+
+An alternate model is that a human life is worth roughly $1M over a
+lifetime or, say, $15k/year for 70 years. By spending $5k now, this is
+the utility that is realized. This provides an NPV of
+$390k at a discount rate of 3.5%.
+
+* References
 
 - Esther Duflo and Abhijit Banerjee, "Poor economics"
+- Michael Huemer, The Problem of Political Authorit
+- Michael Huemer, "Dialogues on Ethical Vegetarianism"
+- Peter Singer, "Practical Ethics"
 
-** Matthew 13:11-12: For to him who has will more be given, and he will have abundance; but from him who has not, even what he has will be taken away. :quotes:
+* Matthew 13:11-12: For to him who has will more be given, and he will have abundance; but from him who has not, even what he has will be taken away. :quotes:
