@@ -51,7 +51,7 @@ overall process. This can be thought of as a feedback mechanism. In
 the Agile mindset, this can be the retrospective and the improvements
 from the retrospective.
 
-From the Proficient through the Expert phases, he practitioner
+From the Proficient through the Expert phases, the practitioner
 realizes that they are part of a system and yet they are not bogged
 down by the complexity of the overall system. They are able to
 identify the key elements of the system that provide leverage for the
@@ -74,7 +74,6 @@ follows.
   alone can bring about process excellence.
 
 ** Andy Hunt: Software isn't designed in a tool, it is created in our heads. :quotes:
-
 
 ** References
 
@@ -231,16 +230,21 @@ thinking, etc.
 ** Bertrand Russell: The trouble with the world is that the stupid are cocksure and the intelligent full of doubt. :quotes:
 
 * Reasoning and bias                                                 :Review:
+:PROPERTIES:
+:ID:       731e31ab-7abc-4f65-82e8-40e3deb36119
+:END:
 
-Reasoning functions like a press secretary who automatically justifies
+We think that reasoning functions like a president, evaluating options
+rationally and making executive decisions. In fact, reasoning
+functions more like a press secretary who automatically justifies
 any position taken by the president.
 
 When we have to answer a hard question, we generally use the strategy
 of looking for a simple case that we know about that provides one
 answer to the question, then we test if the answer makes sense and
 then we stop. For instance, if we're asked if minimum wages are a good
-idea, we think of an aunt who would benefit from having a minimum
-wage. Since it makes sense that her situation would be better with a
+idea, we think of a poor person who would benefit from having a minimum
+wage. Since it makes sense that their situation would be better with a
 minimum wage, we then conclude that minimum wages is a great
 idea. We do not take the time to consider any evidence against minimum
 wage. These are examples of [[id:f6f6eca3-e5dc-4cb5-a014-d8365e9ccd35][Availability bias]] and [[id:5edfd48d-7873-443c-b2c4-7c7c1d10fd68][First conclusion
@@ -252,7 +256,7 @@ of others but not of ourselves. This is an example of [[id:ab7a8dca-d2cb-48cb-9c
 bias]].
 
 Our reasoning has not evolved to help us find truth. It has evolved to
-help us argue, persuade, and potentially manipulate other people.
+help us argue, persuade, and manipulate other people.
 
 Reasoning can take us to almost any conclusion we want to reach. We
 ask "Can I believe it?" when we want to believe something, but we ask
@@ -270,11 +274,11 @@ The key biases can be remembered by the acronym FFRACASS.
 Nothing In life is as important or as useful as you think it is.
 
 For instance, there is very little correlation between wealth and
-happiness beyond a certain point. Paraplegics are not as unhappy as
-non-paraplegics think they are. Living in California won't make you as
+happiness beyond a certain point. Paraplegics are happier than people
+think they are. Living in California won't make you as
 happy as you think it will.
 
-Similarly, people tend to look at new initiatives or new processes
+People tend to think of new initiatives or new tools
 as cure-alls. They are usually not.
 
 ** First conclusion bias
@@ -292,7 +296,7 @@ egg: the first idea gets in and then the mind shuts down.
 We do not consider base rates in our forecasting.
 
 For example, when determining the success of a new project, we
-ignore the failure rate of previous similar projects.
+ignore the failure rates of previous similar projects.
 
 Another example: when asked "Donald Jones is of a retiring
 nature. Is it more likely that he is a salesman or a
@@ -348,17 +352,23 @@ We tend to seek safety in numbers and will look for social guidance
 of our behavior.
 
 This instinct creates a cohesive sense of cooperation and culture
-which would not otherwise be possible but also leads us to do
+which would not otherwise be possible. However, it also leads us to do
 foolish things if our group is doing them as well.
 
 ** Survivorship bias
 
 We over-attribute success to things done by a successful agent
-rather than to randomness or luck. Also, we often learn false
+rather than to randomness. Also, we often learn false
 lessons by exclusively studying victors without seeing all the
 accompanying losers who acted in the same way but did not
-succeed. This has been highlighted in the business world by Phil
+succeed.
+
+This has been highlighted in the business world by Phil
 Rosenzweig.
+
+Another example is that of the mathematician, Abraham Wald,
+determining where additional armor should be applied in World War II
+planes.
 
 * Type 1 and Type 2 processing
 :PROPERTIES:
@@ -380,14 +390,20 @@ When we think of ourselves, we think of Type 2 processing. However,
 Type 1 is the unsung hero. Type 1 processing continuously generates
 impressions and intuitions based on the outside world. It feeds those
 suggestions to Type 2 processing. Type 2 usually adopts them as is.
+
+This is the direct connection to the [[id:731e31ab-7abc-4f65-82e8-40e3deb36119][Press Secretary]] analogy.
+
 Type 2 processing only kicks in when Type 1 can not form an
 explanation for a phenomenon in the real world.
 
 Type 1 can detect simple relations e.g. the son is much taller than
 the father. However, it cannot deal with multiple criteria and it
-cannot use purely statistical or logical information.
+cannot use purely statistical or logical information. It is
+quite accurate in its predictions of familiar
+situations. However, it has biases and makes systematic errors in
+specific circumstances.
 
-Consider the following problem:
+For instance, consider the following problem:
 #+begin_example
 If a bat and a ball together cost $1.10 and the bat costs $1
 more than the ball, how much does the ball cost?
@@ -408,13 +424,9 @@ longer. In fact, the two lines are of equal length. We can not
 turn off this automatic perception by our Type 1 even if we are
 aware of the error.
 
-Type 1 is generally quite accurate in its predictions of familiar
-situations. However, it has biases and makes systematic errors in
-specific circumstances like the ones above.
-
-It is not possible to constantly question Type 1 thinking. Instead,
-we must be aware of the limitations of Type 1 thinking when both the
-chances and the costs of making mistakes are high. In those cases, we
+It would be a mistake to constantly question Type 1 thinking. Instead,
+we must be aware of the limitations of Type 1 thinking when the
+expected impact of a decision is high. In those cases, we
 must learn to slow down and employ Type 2 thinking.
 
 Type 2 processing require attention and the brain has a limited
