@@ -2,6 +2,49 @@
 #+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :Engineering:
 
+* Metrics for greenhouse gas emissions
+
+The focus of greenhouse gas emission calculations tends to be on carbon dioxide
+(CO2) emissions. However, other gases such as methane (CH4) and nitrous
+oxide (N2O) also contribute to global warming. Hence, a better measure is
+CO2 equivalent (CO2eq) where the emissions of the other gases are converted to
+the CO2 scale. To calculate the equivalent values, you have to
+consider the 100-year global warming potential of each gas.
+
+* Average US CO2eq consumption                                       :Review:
+
+In 2024, the average US resident consumes 18 T (tonnes) of CO2eq emissions per
+year. This number is down significantly from about 25 T per year in
+the early 2000s.
+
+Out of the 18 T of emissions, about 10 T are discretionary choices by
+the individual while about 8 T are 8 T are infrastructure emissions.
+
+Broadly, 6 T of emissions are from industry (manufacturing,
+construction materials, etc.), 6 T from transportation (aviation,
+automotive, commercial, etc.), 4 T from residential and commercial
+energy (heating and cooling), and 2 T from agriculture.
+
+Land-use change and forestry can have negative impact on emissions.
+
+Source: [[https://ourworldindata.org/profile/co2/united-states#how-much-does-the-average-person-in-the-united-states-emit-where-do-emissions-come-from][Our World In Data]]
+
+* CO2eq emissions and GDP                                            :Review:
+
+CO2eq emissions are used to drive industries, manufacturing, data
+centers, etc. which in turn drive economic growth. It is important to
+look at how much GDP growth a country has achieved and compare it with
+CO2 eq emissions.
+
+In the US, GDP per capita in 2000 (scaled to 2017 $ for comparison)
+per ton of CO2eq emission was about $2000. The same number in 2025 was
+$4000, implying a 50% improvement.
+
+These improvements have resulted from the economy moving away from
+manufacturing towards services, energy production moving from coal-based
+to natural gas-based generation, and improved transportation fleets
+and commercial energy use.
+
 * CO2 emissions due to driving                                       :Review:
 
 The following data on CO2 emissions due to delivered power and gas

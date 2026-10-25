@@ -119,6 +119,23 @@ job with House Representative, John Conyers.
 Rosa took on multiple protests including against apartheid in the 80s,
 and against military action in response to 9/11.
 
+* American literary movements in the 1800s                           :Review:
+
+These authors, poets, and literary figures were all active in the
+MA/NY area in the 1800s. They started movements like
+transcendentalism, abolition, etc. with their works.
+
+|----------------+---------------------------------------+
+| Region         | Key Figures                           |
+|----------------+---------------------------------------+
+| Cambridge      | Longfellow, Oliver Wendell Holmes Sr. |
+| Concord        | Emerson, Thoreau, Hawthorne, Alcott   |
+| New York       | Whitman, Melville                     |
+| Hartford       | Harriet Beecher Stowe, Mark Twain     |
+| Pioneer Valley | Dickinson, Noah Webster               |
+| The Berkshires | Herman Melville, Nathaniel Hawthorne  |
+|----------------+---------------------------------------+
+
 * Quotes                                                             :quotes:
 
 ** Rosa Parks: You have to remain optimistic. When things go bad, you have to tell yourself that this is another phase, another thing to get through. Nothing comes easily. You have to keep on trying, as long as you are alive.

@@ -324,8 +324,10 @@ See also [[id:f3c5151b-e88c-42f8-837b-a7794d2ba35b][The source of true happiness
 
 * Measurements of quality of life                                    :Review:
 
-A commonly used quantitative measurement of life is [[https://en.wikipedia.org/wiki/Quality-adjusted_life_year][Quality-adjusted
-life year]] or QALY. A QALY measure of 1.0 means a year of perfect
+A commonly used quantitative measurement of life is
+[[https://en.wikipedia.org/wiki/Quality-adjusted_life_year][Quality-adjusted life year]] (QALY).
+
+A QALY measure of 1.0 means a year of perfect
 health while values below that mean less than perfect health or
 quality of life. A value of 0 represents death. Different
 interventions can be measured by summing up the resulting measures
@@ -336,10 +338,12 @@ organization called ICER in the US and how it could reduce drug
 prices. While other countries have adopted QALY as a measure, the
 US has not yet.
 
-From the [[ https://www.wsj.com/articles/obscure-model-puts-a-price-on-good-healthand-drives-down-drug-costs-11572885123][WSJ article]], ICER puts the cost of one QALY in the US at
+From the [[https://www.wsj.com/articles/obscure-model-puts-a-price-on-good-healthand-drives-down-drug-costs-11572885123][WSJ article]], ICER puts the cost of one QALY in the US at
 $150,000. A graph of QALYs used by other countries is in the
 article. The approach of using QALYs was first established in the
 UK.
+
+One Quality Adjusted Life Hour (QALH) would then be worth about $15.
 
 ** Quotes                                                            :quotes:
 
