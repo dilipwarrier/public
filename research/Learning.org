@@ -12,15 +12,6 @@
 I structure all my reading and learning according to the categories
 listed here.
 
-** Science
-
-(org-tags-view nil "Science-quotes+LEVEL=1")
-
-Biology, physics, psychology, medicine, etc.
-
-Add tag Review to important sections, then add Review in the search
-above.
-
 ** Software
 
 (org-tags-view nil "Software-quotes+LEVEL=1")
@@ -91,6 +82,14 @@ above.
 (org-tags-view nil "Philosophy+Review-quotes+LEVEL=1")
 
 Reviewed last on [2026-10-10 Sat]
+
+** Science
+
+(org-tags-view nil "Science+Review-quotes+LEVEL=1")
+
+Biology, physics, psychology, medicine, etc.
+
+Reviewed last on [2026-10-24 Sat]
 
 * Tasks
 

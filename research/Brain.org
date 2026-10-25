@@ -176,10 +176,10 @@ to get creative ideas, you need to spend time in Diffuse mode. These
 modes are often called the L-mode (L for linear) and R-mode
 respectively.
 
-The Diffuse mode allows the brain to work on the tough
+The Diffuse mode allows the brain to work on tough
 problems and discover connections that you cannot find in Focused
-mode. The brain does Diffuse mode thinking when you go on a run or a walk
-without any other stimuli.
+mode. The brain does Diffuse mode thinking when you go on a run or a
+walk without any other stimuli.
 
 When you have ideas, you must note them down. Have a method handy to
 note down ideas as soon as they come to you. You'll notice that, the
@@ -201,26 +201,25 @@ thinking, etc.
 
 ** Making and maintaining memories
 
-   A neural network can be configured such that it has certain
-   low-energy states that act as attractors. Such neural networks are
-   known as Hopfield networks. When an arbitrary input
-   is provided to the neural network, the neural network converges to
-   one of these attractors. This can be used to simulate the behavior
-   of the brain where certain stimuli can cause the brain to remember
-   old events or patterns.
+A neural network can be configured such that it has certain
+low-energy states that act as attractors. Such neural networks are
+known as Hopfield networks. When an arbitrary input
+is provided to the neural network, the neural network converges to
+one of these attractors. This can be used to simulate the behavior
+of the brain where certain stimuli can cause the brain to remember
+old events or patterns.
 
-   However, Hopfield networks have discrete attractors and do not
-   match well the real-life behavior of attractors that are close to
-   each other. For instance, you may remember something to be a shade
-   of blue that is close to another shade. To simulate such behavior,
-   a ring structure where similar memories are close to each other
-   works better.
+However, Hopfield networks have discrete attractors and do not
+match well the real-life behavior of attractors that are close to
+each other. For instance, you may remember something to be a shade
+of blue that is close to another shade. To simulate such behavior,
+a ring structure where similar memories are close to each other
+works better.
 
-   In either case, these networks are only crude approximations of
-   what really happens in the brains. The actual neural networks
-   behave in a very complicated and messy fashion that can not be
-   cleanly described through such models.
-
+In either case, these networks are only crude approximations of
+what really happens in the brains. The actual neural networks
+behave in a very complicated and messy fashion that can not be
+cleanly described through such models.
 
 ** References
 
@@ -258,20 +257,15 @@ bias]].
 Our reasoning has not evolved to help us find truth. It has evolved to
 help us argue, persuade, and manipulate other people.
 
-Reasoning can take us to almost any conclusion we want to reach. We
-ask "Can I believe it?" when we want to believe something, but we ask
-"Must I believe it?" when we don't want to believe. The answer is
-almost always yes to the first question and no to the second.
-
-Understanding the argument from the other side is hard because our
-confirmation bias is a built-in feature and not a bug that can be
-removed.
-
-The key biases can be remembered by the acronym FFRACASS.
+The key biases can be remembered by the acronym FFRACASS. For each
+bias, there is a counter-measure that you should apply when the stakes
+are high.
 
 ** Focusing bias
 
-Nothing In life is as important or as useful as you think it is.
+We over-estimate the improvements in life quality or in other wellness
+factors of small things. Nothing In life is as important or as useful
+as you think it is.
 
 For instance, there is very little correlation between wealth and
 happiness beyond a certain point. Paraplegics are happier than people
@@ -280,6 +274,21 @@ happy as you think it will.
 
 People tend to think of new initiatives or new tools
 as cure-alls. They are usually not.
+
+To counter focusing bias, you must step back and analyze how much of
+your daily life is spent in the area you are focusing on. For example,
+if you spend 5 days a week in the office, you are unlikely to
+appreciate sunny weather much during that time. Thus, moving to
+California would only improve your lifestyle during the daylight hours
+of 2 days of the week.
+
+Next, analyze all costs associated with the other scenario
+e.g. higher property costs in California, higher commute time to work,
+the friends and family whom you wouldn't see regularly due to moving,
+etc.
+
+Then, do a cost-benefit analysis. That other scenario may not look as
+good in this light.
 
 ** First conclusion bias
 :PROPERTIES:
@@ -323,14 +332,29 @@ crash or a terror attack.
 
 For some problems, we may also substitute an easier known problem and
 solution for the harder unknown problem. For instance, after 9/11,
-we assumed that the problem of securing planes is
-solved by having elaborate security check-in processes at airports.
+we assumed that the problem of securing planes is solved by having
+elaborate security check-in processes at airports.
 
 ** Confirmation bias
 
 We tend to look for confirmations of long-held wisdom rather than
-violations. Jonathan Haidt makes this point in the context of
-morality.
+violations. Our reasoning can take us to almost any conclusion we want
+to reach.
+
+We ask "Can I believe it?" when we want to believe something. It's
+almost always easy to answer yes to that question.
+
+When we are faced with something we don't want to believe,
+we apply higher bars of acceeptance. We ask "Why must I believe
+this?". We ask for proof beyond doubt, we find extreme outlier
+counter-examples, etc. In these ways, we make it easy for
+ourselves to say "no". Our confirmation bias is a built-in feature of
+Type 1 reasoning and not a bug that can be removed.
+
+To counter confirmation bias, you should apply the same standard to an
+explanation, whether or not it is foundational to your past
+experience. In all cases, ask yourself - "What observable events in the
+real world would cause me to be wrong about this?"
 
 ** Attribution bias
 :PROPERTIES:
@@ -370,7 +394,7 @@ Another example is that of the mathematician, Abraham Wald,
 determining where additional armor should be applied in World War II
 planes.
 
-* Type 1 and Type 2 processing
+* Type 1 and Type 2 processing                                       :Review:
 :PROPERTIES:
 :ID:       eb1e2a5f-ba0d-4533-bfd5-ff8489a8cca8
 :END:
@@ -513,10 +537,10 @@ See also [[id:eb1e2a5f-ba0d-4533-bfd5-ff8489a8cca8][System 1 and System 2 thinki
 
 * The architecture of knowledge                                      :Review:
 
-Think of all knowlege as a pyramid. At the top of the pyramid is the
-small set of things you know.
+Think of all knowlege as a pyramid.
 
-Below that is a broader section of the things you know you don't
+At the top of the pyramid is the small set of things you know. Below
+that is a broader section of the things you know you don't
 know. You are aware that these things exist but you haven't delved
 into them in detail. Perhaps you have a novice level knowledge of them
 or you just have awareness that they exist.
@@ -527,7 +551,7 @@ not even aware that they exist. Further, that base is growing faster
 in time than either of the two sections above because the two sections
 above only grow at the rate that you can learn.
 
-* Consciousness
+* Consciousness                                                      :Review:
 :PROPERTIES:
 :ID:       1c737d8a-18df-4b71-849d-dacfbcc1c37d
 :END:
@@ -587,8 +611,9 @@ variation.
 
 Compartmentalization means that a living form typically has a membrane
 that separates it from the inside. This is relatively easy to
-achieve. For example, Thomas Schelling showed that, if the following properties
-hold:
+achieve.
+
+Thomas Schelling showed that, if the following properties hold:
 1. A community is represented by Xs and Os,
 2. Each of them is unhappy if they are surrounded by 70% or more of
    the other, and
