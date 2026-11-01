@@ -1,4 +1,5 @@
 Title,Author,My Rating,Average Rating,Date Read,Date Added,Genre,Status
+Smarter Than You Think,Clive Thompson,,4.0,,10/31/2026,brain,to-read
 How to think more and better,William B. Irvine,,4.0,,10/11/2026,"brain,science",to-read
 How to be a (happy) skeptic,Massimo Pigliucci,,4.0,,10/03/2026,philosophy,to-read
 Mercury Pictures Presents,Anthony Marra,,3.7,,09/06/2026,western-fiction,to-read
@@ -6,10 +7,10 @@ A Philosophy of Software Design,John Ousterhout,,4.2,,07/19/2026,software,to-rea
 A Gentleman in Moscow,Amor Towles,,4.3,,07/12/2026,eastern-fiction,to-read
 The Last Days of Night,Graham Moore,,4.2,,07/04/2026,"science,western-fiction",to-read
 Progressive myths,Michael Huemer,,4.0,,04/21/2026,philosophy,to-read
-"Everything is predictable: How Bayesian statistics explain our world",Tom Chivers,,4.0,,04/21/2026,maths,to-read
-"Continuous Integration: Improving Software Quality and Reducing Risk","Paul Duvall, Steve Matyas, Andrew Glover",,3.8,,04/20/2026,software,to-read
+Everything is predictable: How Bayesian statistics explain our world,Tom Chivers,,4.0,,04/21/2026,maths,to-read
+Continuous Integration: Improving Software Quality and Reducing Risk,"Paul Duvall, Steve Matyas, Andrew Glover",,3.8,,04/20/2026,software,to-read
 "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation","Jez Humble, David Farley",,4.2,,04/20/2026,software,to-read
-"The Missing Readme: A Guide for the New Software Engineer","Chris Riccomini, Dmitriy Ryaboy",,4.4,,04/20/2026,software,to-read
+The Missing Readme: A Guide for the New Software Engineer,"Chris Riccomini, Dmitriy Ryaboy",,4.4,,04/20/2026,software,to-read
 Breakneck: China's quest to engineer the future,Dan Wang,,4.0,,04/13/2026,"engineering,eastern-history",to-read
 The laws of thought,Tom Griffiths,,4.0,,03/08/2026,"brain,science",to-read
 1491: New Revelations of the Americas before Columbus,Charles Mann,,4.0,,01/22/2026,western-history,to-read
@@ -52,20 +53,20 @@ This Is Marketing: You Can't Be Seen Until You Learn to See,Seth Godin,,4.1,,11/
 Anatomy of a Miracle: The End of Apartheid,Patti Waldmeir,,4.1,,8/15/2018,eastern-history,to-read
 Fatherland,Robert Harris,,4.0,,1/13/2018,western-fiction,to-read
 Thus Bad Begins,Javier Marias,,4.0,,11/6/2016,"thriller,western-fiction",to-read
-The rise and reign of the mammals,Steve Brusatte,,4.0,,07/25/2022,"science",to-read
+The rise and reign of the mammals,Steve Brusatte,,4.0,,07/25/2022,science,to-read
 Structures or why things don't fall down,J. E. Gordon,,4.0,,6/21/2025,engineering,to-read
-Building secure and reliable systems,Heather Adkins,,4.0,,4/13/2025,"software",to-read
-"Apple in China: The Capture of the World's Greatest Company",Patrick McGee,,4.5,,04/21/2026,"business,eastern-history",reading
+Building secure and reliable systems,Heather Adkins,,4.0,,4/13/2025,software,to-read
+Apple in China: The Capture of the World's Greatest Company,Patrick McGee,,4.5,,04/21/2026,"business,eastern-history",reading
 Doing Good Better,William MacAskill,5.0,4.1,10/21/2026,10/10/2026,philosophy,read
 Guide to the Good Life: The Ancient Art of Stoic Joy,William B. Irvine,5,4.2,10/17/2026,05/04/2026,philosophy,read
 Black River,Nilanjana Roy,4,3.9,9/6/2026,08/15/2026,indian-fiction,read
 Jasmine Days,Benyamin,4,3.9,07/04/2026,06/14/2026,indian-fiction,read
-Catherine the Great,James Massie,5,3.9,9/3/2026,5/20/2026,"eastern-history",read
-Crime and Punishment,Fyodor Dostoevsky,3,5.0,6/1/2026,5/4/2026,"eastern-fiction",read
-The Story of Russia,Orlando Figes,5,4.2,6/30/2026,5/20/2026,"eastern-history",read
-War and Peace,Leo Tolstoy,2,5.0,5/4/2026,3/18/2026,"eastern-fiction",read
+Catherine the Great,James Massie,5,3.9,9/3/2026,5/20/2026,eastern-history,read
+Crime and Punishment,Fyodor Dostoevsky,3,5.0,6/1/2026,5/4/2026,eastern-fiction,read
+The Story of Russia,Orlando Figes,5,4.2,6/30/2026,5/20/2026,eastern-history,read
+War and Peace,Leo Tolstoy,2,5.0,5/4/2026,3/18/2026,eastern-fiction,read
 The Makioka Sisters,Junichiro Tanizaki,5.0,4.0,3/10/2026,5/13/2017,eastern-fiction,read
-Mountains Beyond Mountains: The Quest of Dr. Paul Farmer,Tracy Kidder,3.0,4.2,01/30/2026,01/30/2026,"western-history",read
+Mountains Beyond Mountains: The Quest of Dr. Paul Farmer,Tracy Kidder,3.0,4.2,01/30/2026,01/30/2026,western-history,read
 Fundamentals of software architecture,"Mark Richards,Neal Ford",5.0,4.3,02/25/2026,01/29/2022,"software,textbook",read
 How do we know ourselves?,David Myers,5,4.0,01/15/2026,12/24/2022,"brain,science",read
 An officer and a spy,Robert Harris,5,4.0,12/31/2025,12/20/2025,"thriller,western-history",read
@@ -85,7 +86,7 @@ Stone mattress,Margaret Atwood,5,4.0,6/10/2025,5/20/2025,western-fiction,read
 The sleep prescription,Arik Prather,5,4.0,04/13/2025,04/13/2025,science,read
 The gatekeepers,Chris Whipple,5,4.0,04/13/2025,04/13/2025,western-history,read
 King Richard,Michael Dobbs,5,4.0,4/13/2025,4/13/2025,western-history,read
-Secure software systems,Erik Fretheim,2,4.0,1/5/2025,12/25/2024,"software",read
+Secure software systems,Erik Fretheim,2,4.0,1/5/2025,12/25/2024,software,read
 Amos Walker: The Complete Story Collection,Loren D. Estleman,1,4.1,1/4/2025,7/17/2016,"thriller,western-fiction",read
 A cartoon history of the universe,Larry Gonick,2,4.3,12/14/2024,12/17/2021,"eastern-history,western-history",read
 Crossing Point,James Glickman,4,4.3,12/01/2024,11/12/2017,western-fiction,read
@@ -165,8 +166,8 @@ Dialogues on ethical vegetarianism,Michael Huemer,5,4.6,5/21/2021,7/8/2019,philo
 You Are Not a Stranger Here,Adam Haslett,5,4.0,5/20/2021,5/1/2016,western-fiction,read
 Consciousness and the social brain,Michael Graziano,3,4.2,5/10/2021,9/15/2019,"brain,science",read
 The Human Predicament: A Candid Guide to Life's Biggest Questions,David Benatar,5,4.0,4/24/2021,9/1/2017,philosophy,read
-The art of war,Sun Tzu,3,4.0,4/20/2021,4/20/2021,"management",read
-On Grand Strategy,John Lewis Gaddis,2,3.8,4/17/2021,4/17/2021,"management",read
+The art of war,Sun Tzu,3,4.0,4/20/2021,4/20/2021,management,read
+On Grand Strategy,John Lewis Gaddis,2,3.8,4/17/2021,4/17/2021,management,read
 Still Alice,Lisa Genova,4,4.3,4/16/2021,5/13/2018,western-fiction,read
 Napoleon: A Life,Andrew Roberts,4,4.1,4/5/2021,10/14/2018,western-history,read
 Superforecasting: The Art and Science of Prediction,Philip E. Tetlock,5,4.1,3/6/2021,9/26/2015,"science,books-to-read-again",read
@@ -255,7 +256,7 @@ The Design of Everyday Things,Donald A. Norman,4,4.2,5/5/2015,11/4/2011,design,r
 Armchair Economist: Economics & Everyday Life,Steven E. Landsburg,4,3.8,9/23/2014,4/13/2012,economics,read
 Aerogrammes: and Other Stories,Tania James,5,3.7,8/16/2014,7/4/2017,indian-fiction,read
 Of Mice and Men,John Steinbeck,5,3.9,3/31/2014,11/4/2011,western-fiction,read
-"Rise of Kali: Duryodhana's Mahabharata (Epic of the Kaurava Clan #2)",Anand Neelakantan,1,4.2,1/17/2014,7/2/2017,indian-fiction,read
+Rise of Kali: Duryodhana's Mahabharata (Epic of the Kaurava Clan #2),Anand Neelakantan,1,4.2,1/17/2014,7/2/2017,indian-fiction,read
 Socioscience: The New Synthesis,Edward O. Wilson,1,4.1,1/1/2014,4/8/2012,"science,textbook",read
 "The Maze of Bones  (The 39 Clues,#1)",Rick Riordan,3,3.8,1/1/2014,4/2/2012,kids,read
 "In Too Deep (The 39 Clues,#6)",Jude Watson,3,4.0,1/1/2014,3/22/2012,kids,read
@@ -408,7 +409,7 @@ What the Buddha Taught,Walpola Rahula,2,4.2,3/30/2013,11/8/2016,"buddhism,philos
 Lost Memory of Skin,Russell Banks,5,3.6,3/30/2013,10/10/2011,western-fiction,read
 Underground Airlines,Ben H. Winters,2,3.8,2/23/2013,11/4/2016,"western-fiction,science-fiction",read
 Happiness: A Guide to Developing Life's Most Important Skill,Matthieu Ricard,5,4.1,2/11/2013,10/28/2016,"buddhism,philosophy",read
-"Old Boys (Paul Christopher #9)",Charles McCarry,4,3.8,2/4/2013,9/26/2016,"thriller,western-fiction",read
+Old Boys (Paul Christopher #9),Charles McCarry,4,3.8,2/4/2013,9/26/2016,"thriller,western-fiction",read
 Flood of Fire,Amitav Ghosh,5,4.1,2/4/2013,9/17/2016,indian-fiction,read
 The Elements of Style,William Strunk Jr.,5,4.2,2/4/2013,8/9/2016,"design,textbook",read
 Asura: Tale Of The Vanquished,Anand Neelakantan,4,3.6,2/4/2013,8/2/2016,indian-fiction,read
@@ -421,9 +422,9 @@ River of Smoke,Amitav Ghosh,5,3.9,9/28/2012,7/17/2016,indian-fiction,read
 Love and Longing in Bombay,Vikram Chandra,2,3.6,9/27/2012,6/20/2016,indian-fiction,read
 Hatchet,Gary Paulsen,3,3.7,9/21/2012,4/2/2016,kids,read
 "The Dilbert Principle: A Cubicle's-Eye View of Bosses,Meetings,Management Fads & Other Workplace Afflictions",Scott Adams,3,3.9,9/19/2012,3/9/2016,management,read
-"The Other Son (Brinkmann Trilogy #2)",Alexander Soderberg,5,3.5,9/19/2012,3/5/2016,"thriller,western-fiction",read
+The Other Son (Brinkmann Trilogy #2),Alexander Soderberg,5,3.5,9/19/2012,3/5/2016,"thriller,western-fiction",read
 Spycatcher: The Candid Autobiography of a Senior Intelligence Officer,Peter Maurice Wright,1,3.7,8/27/2012,3/5/2016,western-history,read
-"What If?: The World's Foremost Historians Imagine What Might Have Been (What If #1)",Robert Cowley,3,3.7,8/27/2012,1/17/2016,western-history,read
+What If?: The World's Foremost Historians Imagine What Might Have Been (What If #1),Robert Cowley,3,3.7,8/27/2012,1/17/2016,western-history,read
 The Honourable Company: a History of the English East India Company,John Keay,2,3.7,8/27/2012,10/29/2011,indian-history,read
 The Halo Effect,Philip M. Rosenzweig,4,3.9,6/19/2012,2/17/2012,"management,books-to-read-again",read
 The Sweet Hereafter,Russell Banks,4,3.9,6/13/2012,12/18/2015,western-fiction,read
@@ -445,7 +446,7 @@ More Sex Is Safer Sex: The Unconventional Wisdom of Economics,Steven E. Landsbur
 The Checklist Manifesto: How to Get Things Right,Atul Gawande,4,4.0,3/9/2012,8/22/2015,management,read
 Freedomnomics: Why the Free Market Works and Other Half-baked Theories Don't,John R. Lott Jr.,4,3.6,3/5/2012,3/1/2012,economics,read
 Invasion of the Body,Nicholas L. Tilney,2,3.5,3/1/2012,10/10/2011,science,read
-"Beyond the Grave (The 39 Clues #4)",Jude Watson,3,3.9,2/26/2012,2/25/2012,kids,read
+Beyond the Grave (The 39 Clues #4),Jude Watson,3,3.9,2/26/2012,2/25/2012,kids,read
 Fair Play,Steven E. Landsburg,4,3.7,2/24/2012,11/22/2011,economics,read
 "Thinking, Fast and Slow",Daniel Kahneman,5,4.1,2/19/2012,10/15/2011,"brain,books-to-read-again",read
 "The House of Silk (Sherlock Holmes,#1)",Anthony Horowitz,5,4.0,1/30/2012,12/25/2011,"thriller,western-fiction",read
@@ -472,7 +473,7 @@ The Hills of Angheri,Kavery Nambisan,2,3.1,11/21/2011,10/7/2011,indian-fiction,r
 The Quality Toolbox,Nancy R. Tague,4,4.3,11/14/2011,12/4/2014,"process,business",read
 "Slack: Getting Past Burnout,Busywork,and the Myth of Total Efficiency",Tom DeMarco,4,4.0,11/14/2011,12/4/2014,management,read
 "Tinker,Tailor,Soldier,Spy",John le Carre,1,4.1,11/14/2011,11/29/2014,"thriller,western-fiction",read
-"The Geneva Option (Yael Azoulay #1)",Adam LeBor,2,3.5,11/14/2011,11/29/2014,"thriller,western-fiction",read
+The Geneva Option (Yael Azoulay #1),Adam LeBor,2,3.5,11/14/2011,11/29/2014,"thriller,western-fiction",read
 The Sleepwalker's Guide to Dancing,Mira Jacob,5,4.0,11/14/2011,11/12/2014,indian-fiction,read
 Software Requirements: Practical Techniques for Gathering and Managing Requirements Throughout the Product Development Cycle. (Pro-Best Practices),Karl Wiegers,3,4.0,11/14/2011,11/7/2014,software,read
 "Bad Blood (Virgil Flowers,#4)",John Sandford,5,4.2,11/14/2011,10/30/2014,"thriller,western-fiction",read
@@ -576,7 +577,7 @@ The Black Swan: The Impact of the Highly Improbable,Nassim Nicholas Taleb,1,3.9,
 Eat People: And Other Unapologetic Rules for Game-Changing Entrepreneurs,Andy Kessler,2,3.6,10/10/2011,6/13/2012,business,read
 "The Spies of Warsaw (Night Soldiers,#10)",Alan Furst,2,3.9,10/10/2011,6/1/2012,"thriller,western-fiction",read
 Istanbul Passage,Joseph Kanon,4,3.6,10/8/2011,5/31/2012,"thriller,western-fiction",read
-"Death of a Red Heroine (Inspector Chen Cao #1)",Qiu Xiaolong,2,3.8,10/8/2011,5/26/2012,"thriller,western-fiction",read
+Death of a Red Heroine (Inspector Chen Cao #1),Qiu Xiaolong,2,3.8,10/8/2011,5/26/2012,"thriller,western-fiction",read
 A Case of Exploding Mangoes,Mohammed Hanif,2,3.7,10/8/2011,5/26/2012,eastern-fiction,read
 "Surely You're Joking,Mr. Feynman!: Adventures of a Curious Character",Richard Feynman,4,4.3,10/8/2011,10/7/2011,western-history,read
 Justice: What's the Right Thing to Do?,Michael J. Sandel,2,4.3,10/7/2011,5/26/2012,philosophy,read
@@ -596,7 +597,7 @@ Turn of Mind,Alice LaPlante,4,3.7,7/1/2011,11/4/2011,"thriller,western-fiction",
 The Good German,Joseph Kanon,4,3.7,6/14/2011,10/19/2011,"thriller,western-fiction",read
 The Death and Life of the Great American School System: How Testing and Choice Are Undermining Education,Diane Ravitch,1,4.1,5/14/2011,11/4/2011,western-history,read
 Ike: An American Hero,Michael Korda,5,4.1,5/12/2011,10/8/2011,western-history,read
-"The Given Day (Coughlin #1)",Dennis Lehane,3,4.0,4/1/2011,12/14/2011,"thriller,western-fiction",read
+The Given Day (Coughlin #1),Dennis Lehane,3,4.0,4/1/2011,12/14/2011,"thriller,western-fiction",read
 Churchill's Empire: The World That Made Him and the World He Made,Richard Toye,4,3.6,4/1/2011,11/4/2011,western-history,read
 "Thinking Strategically: The Competitive Edge in Business,Politics,and Everyday Life",Avinash K. Dixit,5,4.0,3/1/2011,11/4/2011,"management,books-to-read-again",read
 "The Most Powerful Idea in the World: A Story of Steam,Industry,and Invention",William Rosen,4,3.9,3/1/2011,11/4/2011,western-history,read
