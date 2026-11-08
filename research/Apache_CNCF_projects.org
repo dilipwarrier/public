@@ -1,8 +1,8 @@
 #+TITLE: Apache and CNCF projects
-#+FILETAGS: :Software:Data:
+#+FILETAGS: :Software:Cloud:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* Apache and CNCF
+* Apache and CNCF                                                    :Review:
 :PROPERTIES:
 :ID:       c9c9b3aa-bd10-46eb-9c7c-f804bbefc94a
 :END:
@@ -29,20 +29,20 @@ often run Apache tools on CNCF infrastructure.
 | Cloud provider / hardware | AWS, GCP, Azure, Bare-metal              | Underlying compute and storage   |                     |
 |---------------------------+------------------------------------------+----------------------------------+---------------------|
 
-* Apache DevLake
+** Apache DevLake
 
 Apache DevLake collects data from various DevOps tools like GitHub,
 GitLab, Jenkins, etc. and distills engineering team-specific
 insights. It allows you to setup dashboards for metrics like DORA.
 
-* Apache Spark
+** Apache Spark
 :PROPERTIES:
 :ID:       be4c0342-3c8d-49ac-8046-f36b65361d72
 :END:
 
 See [[id:c63978d7-17dd-49e9-a52f-2fb47c7190c3][What is Apache Spark?]]
 
-* Apache Airflow
+** Apache Airflow
 
 Apache Airflow is an open-source platform for developing, scheduling,
 and monitoring batch-oriented workflows. It generates a Directed Acyclic
@@ -50,11 +50,7 @@ Graph (DAG) to specify a workflow. It is written in pure Python.
 
 Kubernetes takes care of executing each of the tasks specified by Airflow.
 
-** References
-
-- [[https://airflow.apache.org/docs/apache-airflow/stable/index.html][Airflow documentation site]]
-
-* CNCF Knative
+** Knative
 :PROPERTIES:
 :ID:       102ddbb5-4948-47e6-9526-8c364ada9fdb
 :END:
@@ -85,3 +81,7 @@ etc.
 
 Instead of running AWS Lambda or Knative functions, you could run them
 as WASM bytecode on edge servers.
+
+** References
+
+- [[https://airflow.apache.org/docs/apache-airflow/stable/index.html][Airflow documentation site]]

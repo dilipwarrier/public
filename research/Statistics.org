@@ -3,12 +3,14 @@
 #+FILETAGS: :Maths:
 #+LATEX_HEADER: \usepackage{amsmath}
 
-* Statistical quantities                                             :Review:
+* Concepts in statistics                                             :Review:
+
+** Statistical quantities
 
 RMSE, MAE, MSE, R-squared
 [[https://medium.com/wwblog/evaluating-regression-models-using-rmse-and-r%C2%B2-42f77400efee#:~:text=High%20RMSE%2C%20high%20R%C2%B2%20The%20model%20above%20has,of%204%3A%20High%20RMSE%20%28bad%29%2C%20low%20R%C2%B2%20%28bad%29][Statistical implications of RMSE and R-squared]]
 
-* Skewness
+** Skewness
 
 The skewness or skew of a set of values measures the asymmetry of the values
 around the mean value.
@@ -19,7 +21,7 @@ One formula to measure skew is Pearson's median skew.
 \mathrm{Pearson's\ median\ skew} = 3 \times \frac{\mu - \mathrm{Median}}{\sigma}
 \end{equation}
 
-* Kurtosis
+** Kurtosis
 
 Kurtosis measures whether there is a long-tail to the
 distribution.
@@ -32,7 +34,7 @@ A normal distribution has a kurtosis of 3, so other
 distributions are characterized by a value of excessive
 kurtosis. Excessive kurtosis is defined as kurtosis minus 3.
 
-* Ordinary Least Squares
+** Ordinary Least Squares
 
 An Ordinary Least Squares (OLS) model is a linear model of the
 relationship of an endogeneous/dependent variable ($y$) on a set of
@@ -64,7 +66,7 @@ error. It evaluates to:
 
 This is optimal only if the errors are Gaussian i.i.d.
 
-** Projection and annihilation matrices
+*** Projection and annihilation matrices
 
 The errors and goodness-of-fit of this model are best understood from
 the projection matrix $P$ and the annihilation matrix $M$.
@@ -81,7 +83,7 @@ $M$ is given by:
 M = I_{n} - P
 \end{equation}
 
-** Variance and goodness of fit
+*** Variance and goodness of fit
 
 The variance of the OLS estimate is given by:
 \begin{equation*}

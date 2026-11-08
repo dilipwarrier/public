@@ -2,7 +2,7 @@
 #+FILETAGS: :Software:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* IDEs
+* IDEs                                                               :Review:
 
 ** Eclipse Theia
 :PROPERTIES:
@@ -13,9 +13,8 @@ Download Theia [[https://theia-ide.org/][here]]. Theia is meant to be a modern v
 Eclipse CDT that is Typescript-based. The Eclipse CDT-based IDE seems
 old due to its reliance on Java.
 
-Theia is compatible with OpenVS, the
-underlying open-source foundation for VS Code. So, extensions built
-for VS Code can be used in Theia also.
+Theia is compatible with OpenVS, the underlying open-source foundation
+for VS Code. So, extensions built for VS Code can be used in Theia also.
 
 The older Eclipse CDT is extensively used by chip providers like ADI, TI,
 etc. to integrate into their developer toolkits.
@@ -44,7 +43,7 @@ for smaller organizations.
 
 See also [[id:aa3bd004-c924-46e4-939b-6820d173cde7][Measuring developer productivity]].
 
-* Optimization
+* Performance optimization                                           :Review:
 
 [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]] said that "premature optimization is the root of all
 evil." This quote, repeated by Donald Knuth, is often interpreted

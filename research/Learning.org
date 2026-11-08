@@ -12,13 +12,6 @@
 I structure all my reading and learning according to the categories
 listed here.
 
-** Software
-
-(org-tags-view nil "Software-quotes+LEVEL=1")
-
-Add tag Review to important sections, then add Review in the search
-above.
-
 ** Engineering
 
 (org-tags-view nil "Engineering-quotes+LEVEL=1")
@@ -58,10 +51,7 @@ above.
 
 ** Maths
 
-(org-tags-view nil "Maths-quotes+LEVEL=1")
-
-Add tag Review to important sections, then add Review in the search
-above.
+(org-tags-view nil "Maths-quotes+Review+LEVEL=1")
 
 ** History
 
@@ -90,6 +80,15 @@ Reviewed last on [2026-10-10 Sat]
 Biology, physics, psychology, medicine, etc.
 
 Reviewed last on [2026-10-24 Sat]
+
+** Software
+
+(org-tags-view nil "Software-quotes+LEVEL=1")
+
+Add tag Review to important sections, then add Review in the search
+above.
+
+Reviewed last on [2026-11-08 Sun]
 
 * Tasks
 

@@ -1,10 +1,10 @@
 #+Title: Kubernetes
-#+FILETAGS: :Cloud:Software:
+#+FILETAGS: :Software:Cloud:
 #+STARTUP: show2levels inlineimages hideallblocks
 
 See also [[id:ba0757bb-3fc9-462e-af71-336b3e3c1ad3][Containers]].
 
-* Introduction
+* Container orchestration                                            :Review:
 :PROPERTIES:
 :ID:       d0283e19-ef8f-471e-ad80-69b0d770a598
 :END:
@@ -39,7 +39,7 @@ orchestrator then runs control loops that continuously
 compare the desired state with the actual state and reconcile any
 differences.
 
-* Components
+** Components
 
 In Kubernetes, nodes and pods are the fundamental building blocks. A
 node is the server (the hardware) while a pod is the application (the

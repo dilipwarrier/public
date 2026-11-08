@@ -2,7 +2,9 @@
 #+FILETAGS: :Software:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* Digital signatures                                                 :Review:
+* Cryptography applied to authenticity and secrecy                   :Review:
+
+** Digital signatures
 
 A digital signature is a cryptographic mechanism used to verify the
 authenticity, integrity, and non-repudiation of digital data.
@@ -43,11 +45,11 @@ The contents of a digital certificate are:
 - Signature from the CA verifying the certificate’s authenticity
 - Validity period and serial number
 
-* Encryption                                                         :Review:
+** Encryption
 
-Encryption is the process of converting readable data (plaintext) into
-an unreadable format (ciphertext) using a cryptographic key. It is
-used to maintain confidentiality or secrecy.
+Encryption is the process of converting readable data (plain text) into
+an unreadable format (cipher text) using a cryptographic key. It is
+used to maintain confidentiality.
 
 - Types of encryption:
   - Symmetric encryption:
@@ -61,10 +63,10 @@ used to maintain confidentiality or secrecy.
   2. The symmetric key is encrypted using the recipient’s public key.
   This provides both speed and security.
 
-Authentication and integrity are provided by digital
-signatures. Confidentiality is provided by encryption.
+Digital signatures provide authentication and integrity while
+encryption provides confidentiality.
 
-** Encryption in Motion
+*** Encryption in Motion
 
 - Definition:
   Protects data while it is transmitted between systems, such as between a client and a server.
@@ -87,7 +89,7 @@ signatures. Confidentiality is provided by encryption.
   Like sending a sealed envelope through the mail; no one can read it
   while it is being delivered.
 
-** Encryption at Rest
+*** Encryption at Rest
 
 This protects data while it is stored on a disk, database, or cloud storage.
 
@@ -108,17 +110,7 @@ This protects data while it is stored on a disk, database, or cloud storage.
 - Analogy:
   Like a locked safe; even if someone steals it, they cannot open it without the key.
 
-* The practice of cybersecurity
-
-Most orgs spend a lot of budget on employee training. However,
-successful orgs spend a larger part of their cybersecurity budget on
-certifications, consultants, etc.
-
-** References
-
-- ISACA/CMMI paper on [[https://drive.google.com/file/d/1NAcGLX0zRCvYRjzHlqjj3eBoYzCLuvXs/view?usp=drive_link][cybersecurity culture]]
-
-* Identity
+** Identity
 
 Most entities that require identity don't need all parts of your
 identity. For instance, if you buy alcohol at a liquor store, you show
@@ -130,7 +122,7 @@ The fundamental problem to solve in identity, then, is to allow
 requests for identity to get the needed information without getting
 any extraneous information.
 
-* References
+** References
 
 - The Economist, [[https://www.economist.com/christmas-specials/2018/12/18/establishing-identity-is-a-vital-risky-and-changing-business][Establishing identity]], 2018.
 - Caryn Seidman-Becker, [[https://podcasts.apple.com/us/podcast/caryn-seidman-becker-rebuilding-clear/id1154105909?i=1000716294219][Interview on "Invest like the Best"]], 2025.

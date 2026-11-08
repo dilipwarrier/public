@@ -1,8 +1,13 @@
 #+TITLE: Game theory
-#+FILETAGS: :economics:Maths:
+#+FILETAGS: :Maths:Economics:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* Three factors to making a decision                                 :Review:
+* An introduction to game theory                                     :Review:
+:PROPERTIES:
+:ID:       e61804e5-d2f8-4570-8a7e-4f48eec51cb0
+:END:
+
+** Three factors to making a decision
 
   - Actions
   - Outcomes that result from each action
@@ -25,7 +30,7 @@
   outcomes.
 
 
-* Static games of complete information                               :Review:
+** Static games of complete information
 
   1. Each player simultaneously and independently chooses an action.
   2. Based on the chosen actions, each player gets a payoff/utility
@@ -38,7 +43,7 @@
   say that there is a test the next day, he can not be sure that
   another student wasn't asleep and missed that announcement.
 
-* Normal-form game                                                   :Review:
+** Normal-form game
 
    In this form of game, the players are assumed to have no
    information about the moves of the other players. This may either
@@ -57,7 +62,7 @@
    strategies.
 
 
-* Dominant strategy and Nash equilibrium                             :Review:
+** Dominant strategy and Nash equilibrium
 
   A dominant strategy is one in which a player has a strategic choice
   and no other strategy for the player results in a better payoff,
@@ -74,7 +79,7 @@
   exist, it may not be easily computable.
 
 
-* Prisoner's dilemma                                                 :Review:
+** Prisoner's dilemma
 
    In a prisoner's dilemma problem, each prisoner
    can either "fink" (F) or remain "mum" (M). The payoff matrix is as
@@ -98,7 +103,7 @@
    choosing (F, f).
 
 
-* Mixed strategies                                                   :Review:
+** Mixed strategies
 
   A mixed strategy is where a player may choose from any of a finite
   set of strategies with a certain probability. This can also be
@@ -117,7 +122,7 @@
   players.
 
 
-* Extensive-form game                                                :Review:
+** Extensive-form game
 
   This is an extension of the normal-form game where there is a
   sequence of moves for the players and the players may get information
@@ -134,7 +139,7 @@
   of the mutual destruction path is enough for rational players to
   take steps to avoid it.
 
-* Multi-stage games                                                  :Review:
+** Multi-stage games
 
   In the normal-form and extended-form games, the payoff was received
   by all players at the end of their moves. We can now extend this
@@ -190,28 +195,28 @@
   of the game as long as you are allowed to make the discount factor
   arbitrarily close to 1.
 
-* Auctions                                                           :Review:
+** Auctions
 
-  Auctions can be of either the private values or the common values
-  types. In private value auctions, each player assigns a value to the
-  auction and the payoff to the player is dependent only upon the
-  player's private value e.g. if you buy something to eat or a work
-  of art. In a common values auction, the payoff of each player
-  depends not just upon that player's assigned value but also upon
-  other players' values.
+Auctions can be of either the private values or the common values
+types. In private value auctions, each player assigns a value to the
+auction and the payoff to the player is dependent only upon the
+player's private value e.g. if you buy something to eat or a work
+of art. In a common values auction, the payoff of each player
+depends not just upon that player's assigned value but also upon
+other players' values.
 
-  In private value settings, the second-price
-  sealed-bid auctions are equivalent to English
-  auctions. Bidding your private value is weakly dominant. The
-  first-price sealed-bid auctions are equivalent to Dutch auctions. In
-  these cases, each player must "shade" their valuation when bidding
-  to obtain a positive expected payoff and bidding your private
-  valuation is not dominant any more.
+In private value settings, the second-price
+sealed-bid auctions are equivalent to English
+auctions. Bidding your private value is weakly dominant. The
+first-price sealed-bid auctions are equivalent to Dutch auctions. In
+these cases, each player must "shade" their valuation when bidding
+to obtain a positive expected payoff and bidding your private
+valuation is not dominant any more.
 
-  In common value settings, each player must account for the fact that
-  they may win because the other player values the good lower. This is
-  called "winner's curse".
+In common value settings, each player must account for the fact that
+they may win because the other player values the good lower. This is
+called "winner's curse".
 
-* References
+** References
 
 - Steven Tadelis, An Introduction to Game Theory.

@@ -1,5 +1,5 @@
 #+TITLE: AWS fundamentals
-#+FILETAGS: :Cloud:Software:
+#+FILETAGS: :Software:Cloud:
 #+STARTUP: show2levels inlineimages hideallblocks
 
 See also [[id:c9c9b3aa-bd10-46eb-9c7c-f804bbefc94a][Apache and CNCF]] for the open-source alternatives to these
@@ -10,7 +10,7 @@ services.
 :ID:       01fd57e7-4ac5-420b-8384-062995f1ee51
 :END:
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2026-02-09 Mon 07:05]
+#+CAPTION: Clock summary at [2026-11-08 Sun 11:40]
 | Headline           | Time   |      |
 |--------------------+--------+------|
 | *Total time*       | *7:29* |      |
@@ -427,78 +427,32 @@ Thus, you can use multiple AWS architectures for your applications.
    - Security
 
 
-* Comparison of Azure and AWS services                               :Review:
+** Comparison of Azure and AWS services
 :PROPERTIES:
 :ID:       4864503f-e8d4-446c-9f46-5025058732d9
 :END:
 
-|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
-| *Category* | *Notes*                                              | *AWS*                                | *Azure*                                   |
-|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
-| Compute    | General-purpose compute instances; full OS control.  | EC2 (Elastic Compute Cloud)          | Virtual Machines (VMs)                    |
-|            | Serverless event-driven compute; pay per execution.  | Lambda                               | Azure Functions                           |
-|            | Automatically scale compute instances based on load. | Auto Scaling Groups                  | Virtual Machine Scale Sets                |
-|            | Simplified hosting for small apps or websites.       | Lightsail                            | Static Web Apps                           |
-|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
-| Container  | Run containers without managing servers.             | Elastic Container Service (ECS)      | Azure Container Instances (ACI)           |
-|            | Managed Kubernetes clusters.                         | Elastic Kubernetes Service (EKS)     | Azure Kubernetes Service (AKS)            |
-|            | Serverless container compute backend                 | Fargate                              | ACI / AKS Virtual Nodes                   |
-|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
-| Database   | Managed relational DBs                               | RDS (Relational Database Service)    | Azure SQL Database                        |
-|            | High-performance managed relational DB               | Aurora                               | SQL Managed Instance                      |
-|            | Fully managed NoSQL database.                        | DynamoDB                             | Cosmos DB                                 |
-|            | Graph database service.                              | Neptune                              | Cosmos DB                                 |
-|            | In-memory data store / cache.                        | ElastiCache                          | Azure Cache for Redis                     |
-|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
-| Storage    | Object storage for unstructured data.                | S3 (Simple Storage Service)          | Blob Storage                              |
-|            | Block storage for VMs.                               | EBS (Elastic Block Store)            | Managed Disks                             |
-|            | Managed NFS-style shared file storage.               | EFS (Elastic File System)            | Azure Files                               |
-|            | Long-term cold storage.                              | Glacier                              | Archive Storage                           |
-|            | Hybrid cloud storage integration.                    | Storage Gateway                      | File Sync                                 |
-|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
-| Networking | Isolated private network environment.                | VPC (Virtual Private Cloud)          | Virtual Network (VNet)                    |
-|            | Distribute traffic across resources.                 | Elastic Load Balancing               | Load Balancer / Application Gateway       |
-|            | Managed DNS and traffic routing.                     | Route 53                             | Azure DNS                                 |
-|            | Content delivery network                             | CloudFront                           | Azure CDN                                 |
-|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
-| Security   | Identity, authentication, and access control.        | IAM (Identity and Access Management) | Azure Active Directory (Entra ID)         |
-|            | Centralized key and secret management.               | KMS (Key Management Service)         | Azure Key Vault                           |
-|            | Protects web apps from common exploits.              | WAF (Web Application Firewall)       | Azure WAF                                 |
-|            | Threat detection and compliance monitoring.          | GuardDuty                            | Defender for Cloud                        |
-|            | DDoS mitigation and network security policy control. | Shield / Firewall Manager            | DDoS Protection / Network Security Groups |
-|            | Manage application secrets securely.                 | Secrets Manager                      | Azure Key Vault / Managed Identity        |
-|------------+------------------------------------------------------+--------------------------------------+-------------------------------------------|
+|-------------+--------------------------------------------+--------------------------------------+--------------------------|
+| *Category*  | *Notes*                                    | *AWS*                                | *Azure*                  |
+|-------------+--------------------------------------------+--------------------------------------+--------------------------|
+| Compute     | General-purpose compute                    | EC2 (Elastic Compute Cloud)          | Virtual Machines (VMs)   |
+|             | Serverless compute                         | Lambda                               | Functions                |
+|             | Managed DNS and traffic routing            | Route 53                             | DNS                      |
+|             | Content delivery network                   | CloudFront                           | CDN                      |
+|-------------+--------------------------------------------+--------------------------------------+--------------------------|
+| Security    | Identity and authentication                | IAM (Identity and Access Management) | Active Directory         |
+|             | Centralized key and secret management      | KMS (Key Management Service)         | Key Vault                |
+|             | Protect web apps from common exploits      | WAF (Web Application Firewall)       | WAF                      |
+|             | Threat detection and compliance monitoring | GuardDuty                            | Defender for Cloud       |
+|             | Network security policy control            | Firewall Manager                     | Network Security Groups  |
+|-------------+--------------------------------------------+--------------------------------------+--------------------------|
+| Data and ML | Data Lake                                  | S3 + Lake Formation                  | Data Lake Storage (ADLS) |
+|             | Data Catalog / ETL                         | Glue                                 | Data Catalog             |
+|             | Data Warehouse                             | Redshift                             | Synapse Analytics        |
+|             | Machine Learning Platform                  | SageMaker                            | Machine Learning         |
+|-------------+--------------------------------------------+--------------------------------------+--------------------------|
 
-** Comparison of data and AI/ML services
-
-|---------------------------+--------------------------------+-----------------------------------|
-| *Capability*              | *AWS Service*                  | *Azure Service*                   |
-|---------------------------+--------------------------------+-----------------------------------|
-| Data Lake                 | Amazon S3 + AWS Lake Formation | Azure Data Lake Storage (ADLS)    |
-| Data Catalog / ETL        | AWS Glue                       | Azure Data Factory + Data Catalog |
-| Data Warehouse            | Amazon Redshift                | Azure Synapse Analytics           |
-| Machine Learning Platform | Amazon SageMaker               | Azure Machine Learning (Azure ML) |
-|---------------------------+--------------------------------+-----------------------------------|
-
-* Learning project for AWS
-:PROPERTIES:
-:ID:       0ed956b1-7a46-41f8-9823-03db651ce312
-:END:
-
-Setup an AWS EC2 Linux instance or an AWS Lambda so that I can do the
-following regularly.
-
-- Startup the instance
-- Git checkout my repositories
-- Run Emacs
-- Update Org files
-- Run copy_Google_tasks.py
-- Git commit the results
-- Teardown the instance
-
-Pricing:  [[https://aws.amazon.com/ec2/pricing/on-demand/]]
-
-* Links and other logistics
+** Links and other logistics
 
 [[https://www.coursera.org/learn/aws-cloud-technical-essentials][Essentials course]]
 

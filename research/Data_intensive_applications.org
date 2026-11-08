@@ -2,7 +2,7 @@
 #+FILETAGS: :Software:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* Introduction                                                       :Review:
+* Data-intensive applications                                        :Review:
 
 In data-intensive applications, the storage, access
 and modification of data is the primary challenge. On the other hand,
@@ -38,7 +38,7 @@ Faults are defined as problems with sub-systems. Reliability is a
 measure of how much a fault in a sub-system results in a failure of
 the entire system.
 
-* Relational versus document databases                               :Review:
+** Relational versus document databases
 
 Relational databases are the traditional databases where each row is
 a tuple of information with potentially a unique id assigned to
@@ -48,7 +48,7 @@ table, an education table which lists the educational achievements
 of all the users in the users table, an experience table which lists
 all their work experience etc.
 
-Document databases (or noSQL databases) are like JSON or XML
+Document (or noSQL) databases are like JSON or XML
 instances. In the same resume database example, all the information
 related to one user is
 stored in one JSON file as nodes. This leads to localization of
@@ -72,7 +72,7 @@ some may only have the name of the city or state they live
 in. This is an advantage of a graph query over a relational database
 query.
 
-* Query languages                                                    :Review:
+** Query languages
 
 SQL is a declarative language. It describes what must be true of a
 result but it does not describe how to achieve that result. In this
@@ -95,7 +95,7 @@ tell a compiler/optimizer *how* to generate some data.
 In addition, declarative queries can be more concise and may lend
 themselves well to parallelization.
 
-* MapReduce
+** MapReduce
 
 Many DB languages allow MapReduce extensions. The Map part is a
 function that runs on each selected item in a database and emits a
@@ -113,7 +113,7 @@ inputs are typically files in the Hadoop Distributed File System (HDFS).
 
 See also [[id:c63978d7-17dd-49e9-a52f-2fb47c7190c3][Apache Spark]].
 
-* Under the hood of databases                                        :Review:
+** Under the hood of databases
 
 A log file in which new (key, value) pairs are appended could
 act as a simple database. To get a value, you just search in the
@@ -139,7 +139,7 @@ table (SST). In this system, the keys are all sorted. The hash table
 now does not need to contain the byte offsets for all keys but only
 for a sparse subset of the keys.
 
-* Online Analytics Processing (OLAP)                                 :Review:
+** Online Analytics Processing (OLAP)
 
 Previously, standard queries were all of the type where one or a few
 records from a database was accessed and one or all of the fields
@@ -183,7 +183,7 @@ bit map value indicates whether row i contains that value or not.
 
 [[https://parquet.apache.org/][Parquet]] file formats are optimized for columnar access.
 
-* Links
+** Links
 
 - Martin Klepmann, [[https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook-dp-B06XPJML5D/dp/B06XPJML5D/ref=mt_other?_encoding=UTF8&me=&qid=][Designing data-intensive applications]]
 - [[https://github.com/ept/ddia-references][Updated links to references]]
