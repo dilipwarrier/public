@@ -1,5 +1,5 @@
 #+TITLE: Articles on automotive technology and market trends
-#+FILETAGS: :Automotive:Engineering:
+#+FILETAGS: :Engineering:Automotive:
 #+STARTUP: show2levels inlineimages hideallblocks
 
 * EV market trends                                                   :Review:
@@ -50,44 +50,14 @@ Source: EV Volumes forecast in 2023
 This [[https://www.goldmansachs.com/intelligence/pages/why-are-ev-sales-slowing.html][report]] argues that the bear case for EVs is more likely. The bear
 case is that BEVs will account for 25M (25% of world-wide market)
 in 2030. The hyper-adoption case was that EVs would account for 45M
-(45% of world-wide market) in 2030. The hyper-adoption case in the
-GS article is the same as the numbers in the EV Volumes case below.
+(45% of world-wide market) in 2030.
 
 Roughly 10M EVs were sold in 2022. So, this is a CAGR of 12% up
 to 2030. The CAGR for the hyper-adoption case is 21%.
 
-** TODO [#D] Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] and update [[id:1f2c0984-0b3d-49f9-804b-35d5df1e011f][EV market trends]] :Learning:
-SCHEDULED: <2027-05-30 Sun +52w>
-:PROPERTIES:
-:EFFORT:  01:00
-:BENEFIT: 10
-:RATIO: 0.40
-:LAST_REPEAT: [2026-06-13 Sat 08:21]
-:PRIORITY_NUM: 2
-:VALUE:    -90.00
-:END:
-- State "DONE"       from "TODO"       [2026-06-13 Sat 08:21]
-:LOGBOOK:
-CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
-:END:
+* EV batteries                                                       :Review:
 
-* Total car sales in the US
-
-The total car sales (BEV, PHEV, ICE, etc.) in the US in CY23 is
-estimated to be at about 15M. This is down from a high in CY19
-(pre-pandemic) of about 17M.
-
-* Picture of automotive engine                                       :Review:
-
-  [[file:Screenshot 2023-08-26 173914.jpg][Diagram of engine]]
-
-
-* Autonomous driving levels                                          :Review:
-
-  [[file:Screenshot 2023-08-26 183025.jpg][Levels and what they mean]]
-
-
-* [[https://ihsmarkit.com/topic/IEBAutoTech.html#video-9-container][Battery technology trends]] - Youmin Rong, IHS Markit                :Review:
+** [[https://ihsmarkit.com/topic/IEBAutoTech.html#video-9-container][Battery technology trends]] - Youmin Rong, IHS Markit
 
   [[file:research/Screenshot 2022-03-04 144459.jpg][Automotive market]] is dominant for lithium ion batteries.
 
@@ -115,51 +85,51 @@ estimated to be at about 15M. This is down from a high in CY19
 
   Toyota is the world leader in patents on solid-state batteries.
 
+** Lithium carbonate
 
-* Battery [[https://www.youtube.com/watch?v=s3HPdv9iD00][thermal management system]] design - MathWorks               :Review:
+Lithium carbonate is the main ingredient in lithium ion
+batteries. The demand for this chemical is expected to go up from
+600k tons on 2022 to 2.4M tons in 2030.
 
-  [[file:research/Screenshot 2022-03-05 171057.jpg][Lifetime trend]]
+Australia is the largest supplier with about 40% of the market. The
+triangle of Chile, Argentina and Bolivia have 66% of the world's
+lithium resources but have struggled to mine it properly.
 
-  The [[https://cleantechnica.com/2018/09/29/nissans-long-strange-trip-with-leaf-batteries/][Nissan Leaf]] has had problems with the battery, especially in hot
-  conditions. Older battery models do not have a Thermal Management
-  System (TMS).
+Source: Economist article in Nov 2022
 
+** Lithium recycling
 
-* Lithium carbonate                                                  :Review:
+There is a need to regenerate lithium and rare metals from batteries
+through recycling. The [[https://youtu.be/xLr0GStrnwQ][former CTO of Tesla]] has started a startup,
+Redwood Materials, aimed at this.
 
-  Lithium carbonate is the main ingredient in lithium ion
-  batteries. The demand for this chemical is expected to go up from
-  600k tons on 2022 to 2.4M tons in 2030.
+** EV range and cold weather performance
 
-  Australia is the largest supplier with about 40% of the market. The
-  triangle of Chile, Argentina and Bolivia have 66% of the world's
-  lithium resources but have struggled to mine it properly.
+In cold weather, ICE engines recirculate the heat radiated by the
+engines into the cabin to warm it up. In contrast, EV batteries are
+efficient and do not radiate as much heat. So, the cabin has to be
+heated up using EV battery energy. As a result, EV range drops
+significantly in winter conditions.
 
-  Source: Economist article in Nov 2022
+Per [[https://electrek.co/2022/12/13/worried-about-winter-range-loss-see-how-over-a-dozen-evs-compare/][this article,]] most EVs lose 15-20% range at 30 deg F compared to
+70 deg F.
 
+Recurrent did an in-depth study of real-life range from EVs. It showed
+that, in real life, the Tesla Model S provides 90% of its EPA range
+at 90 deg F but only 50% of its EPA range at 30 deg F. However, the
+estimated range on the dashboard remains relatively constant at 90%
+of the EPA range at these temperatures. Thus, Tesla owners are
+promised a much higher range on the dashboard than they actually
+get.
 
-* Lithium recycling                                                  :Review:
+Other vehicle brands also show a variation in real-life range with
+temperature but none are as drastic as the Tesla.
 
-  There is a need to regenerate lithium and rare metals from batteries
-  through recycling. The [[https://youtu.be/xLr0GStrnwQ][former CTO of Tesla]] has started a startup,
-  Redwood Materials, aimed at this.
+The article cautions, though, that newer Tesla models have heating
+pumps and advanced thermal management that may reduce this
+variation.
 
-
-* Cold weather performance                                           :Review:
-
-  In cold weather, ICE engines recirculate the heat radiated by the
-  engines into the cabin to warm it up. In contrast, EV batteries are
-  efficient and do not radiate as much heat. So, the cabin has to be
-  heated up using EV battery energy. As a result, EV range drops
-  significantly in winter conditions.
-
-  Per [[https://electrek.co/2022/12/13/worried-about-winter-range-loss-see-how-over-a-dozen-evs-compare/][this article,]] most EVs lose ~20% range at freezing temperature
-  compared to 70 degrees Fahrenheit.
-
-  See also [[#EV_range][Range]].
-
-
-* Cell types and counts                                              :Review:
+** Cell types and counts
 
   [[https://www.laserax.com/blog/ev-battery-cell-types][Pouch battery formats]] are most common in EVs. In this format, there
   are 100s of cells in an EV.
@@ -174,33 +144,7 @@ estimated to be at about 15M. This is down from a high in CY19
   [[https://electricvehiclesfaqs.com/how-many-batteries-are-in-a-tesla-electric-car/#:~:text=The%20Tesla%20Model%203%20standard,groups%20(bricks)%20of%2031.][Tesla]] battery packs have 1000s of cells.
 
 
-* SoC and SoH estimation                                             :Review:
-
-  According to [[https://ieeexplore.ieee.org/document/9036949][this paper]]:
-  - SoC and SoH can be estimated to < 1% error through ML methods.
-  - Most of the documented methods have not been validated against real-world EV data.
-  - Most methods haven't used data at temperatures less than 0 degrees Celsius. All
-  estimation methods will have challenges at those temperatures.
-
-
-* Fault prediction                                                   :Review:
-
-  According to [[https://www.nature.com/articles/s41467-023-41226-5][this paper]]:
-  Dynamical Auto-Encoding and Decoding (DyAD) is an effective method
-  for predicting faults. They optimize for total inspection and
-  maintenance costs. They also provide a large public dataset of
-  charging snippets from three car brands.
-
-
-* Battery aging                                                      :Review:
-
-
-** DCFC effects on battery age
-
-   [[https://youtu.be/qYJk1Qljwgg?si=8TyrNCS7DSL9FN-5][Engineering Explained video]]
-
-
-** Modes of aging
+** Battery aging
 
   [[https://www.accure.net/battery-knowledge/blog-battery-aging][Accure]]
 
@@ -222,46 +166,61 @@ estimated to be at about 15M. This is down from a high in CY19
     [[file:Screenshot 2023-10-03 120242.png][Faster aging due to higher average DoD]]
 
   - Fast charging -> increased temperature -> aging
+   [[https://youtu.be/qYJk1Qljwgg?si=8TyrNCS7DSL9FN-5][Engineering Explained video]]
 
 
-* Battery costs                                                      :Review:
+** Battery costs
 
-  [[https://drive.google.com/file/d/13eYJbFfhuhuLLr7BQ0xGqkOMnjDv42LM/view?usp=drivesdk][IHS Markit report]] on battery costs
-
-  Average BEV capacity will increase to roughly 70 kWh by 2030.
-
-  Costs of batteries increase by chemistry from NCA to NMC to LFP.
-
-  Costs for LFP will drop from $170/kWh in 2020 to $110/kWh in 2030.
+The average BEV capacity will increase to roughly 70 kWh by 2030. The
+costs for Lithium Ferrous Phosphate (LFP)  battery technology will drop
+from $170/kWh in 2020 to $110/kWh in 2030.
 
 
-* EV range                                                           :Review:
-  :PROPERTIES:
-  :CUSTOM_ID: EV_range
-  :END:
-
-  [[https://www.recurrentauto.com/news/real-world-range-for-tesla][Recurrent]], a company that does EV analytics, did an in-depth study
-  of real-life range from EVs. It showed that, in real life, the Tesla
-  Model S provides 90% of its EPA range at 90 deg F but only 50% of
-  its EPA range at 30 deg F. However, the estimated range on the
-  dashboard remains relatively constant at 90% of the EPA range at
-  these temperatures. Thus, Tesla owners are promised a much higher
-  range on the dashboard than they actually get.
-
-  Other vehicle brands also show a variation in real-life range with
-  temperature but none are as drastic as the Tesla.
-
-  The article cautions, though, that newer Tesla models have heating
-  pumps and advanced thermal management that may reduce this
-  variation.
-
-* EV fires                                                           :Review:
+** EV fires
 
 According to [[https://spectrum.ieee.org/lithium-ion-battery-fires][IEEE Spectrum]], fires in batteries in EVs have a lower incidence rate
 than fires in vehicles in general.
 
-* Automotive Tier-1 suppliers                                        :Review:
+* Automotive Tier-1 suppliers
 
 [[https://www.autonews.com/live-blog/2023-top-auto-suppliers-giants-grow-new-era][In 2023]], Bosch was the largest Automotive Tier-1 with an annual revenue of $50B.
 
 [[file:Screenshot 2024-05-09 080435.png]]
+
+* Total car sales in the US
+
+The total car sales (BEV, PHEV, ICE, etc.) in the US in CY23 is
+estimated to be at about 15M. This is down from a high in CY19
+(pre-pandemic) of about 17M.
+
+* Picture of automotive engine
+
+  [[file:Screenshot 2023-08-26 173914.jpg][Diagram of engine]]
+
+
+* Autonomous driving levels
+
+  [[file:Screenshot 2023-08-26 183025.jpg][Levels and what they mean]]
+
+
+* References
+
+[[https://drive.google.com/file/d/13eYJbFfhuhuLLr7BQ0xGqkOMnjDv42LM/view?usp=drivesdk][IHS Markit report]] on battery costs
+[[https://www.recurrentauto.com/news/real-world-range-for-tesla][Recurrent study of real world range for Teslas]]
+
+* Tasks
+
+** TODO Read [[https://www.iea.org/reports/global-ev-outlook-2024][global EV outlook annual report]] and update [[id:1f2c0984-0b3d-49f9-804b-35d5df1e011f][EV market trends]] :Learning:
+SCHEDULED: <2027-05-30 Sun +52w>
+:PROPERTIES:
+:EFFORT:  01:00
+:BENEFIT: 10
+:RATIO: 0.40
+:LAST_REPEAT: [2026-06-13 Sat 08:21]
+:PRIORITY_NUM: 2
+:VALUE:    -90.00
+:END:
+- State "DONE"       from "TODO"       [2026-06-13 Sat 08:21]
+:LOGBOOK:
+CLOCK: [2025-06-08 Sun 08:28]--[2025-06-08 Sun 10:07] =>  1:39
+:END:

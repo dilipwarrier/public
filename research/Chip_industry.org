@@ -2,7 +2,9 @@
 #+FILETAGS: :Engineering:Semiconductors:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* PC chip industry                                                   :Review:
+* The state of the semiconductor industry                            :Review:
+
+** PC chip industry
 
 As of early 2022, the PC chip industry has seen significant growth
 in the first two years of the COVID pandemic (2020-22).  AMD has
@@ -20,19 +22,18 @@ Other competitors are ARM (Apple used ARM technology for its
 in-house chips) and Qualcomm which is making in-roads into the
 market with Snapdragon.
 
-
-* Relative sizes of markets                                          :Review:
+** Relative sizes of markets
 
 In 2022, the units sold every year are as follows.
   - 1.5B smart phones (~150M smart phones/OEM)
   - 340M PCs/laptops
   - 80M cars
 
-* NXP                                                                :Review:
+** NXP
 
 [[https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform:S32][S32 microcontrollers]]
 
-** S32K
+*** S32K
 
 These are general-purpose MCUs typically with clock rates in 100s of
 MHz.
@@ -42,7 +43,7 @@ MHz.
 S32K344 - 4 MB flash, 512 kB SRAM, 1x lockstep Cortex M7 core @ 160
 MHz.
 
-** S32G
+*** S32G
 
 These are network processors, typically with combinations of ARM
 Cortex-M (real-time) and Cortex-A (application) cores. Clock rates
@@ -53,7 +54,7 @@ are in GHz for the Cortex-A (see screenshot below).
 [[file:Screenshot 2023-01-29 114928.jpg]]
 
 
-* Intel                                                              :Review:
+** Intel
 
 In Sep 2025, Ben Thompson defended the case for the US government
 acquiring a 10% stake in Intel [1].
@@ -84,13 +85,13 @@ need to be looked at. In general, such base rates are quite
 poor. However, we need to look at not just commercial success but also
 geo-political success.
 
-* TSMC                                                               :Review:
+** TSMC
 
 Every car has about 20 MCUs on average. About 70% of all those MCUs
 are manufactured by TSMC. Yet, automotive chips are only 3% of TSMC
 revenue.
 
-* ASML                                                      :LinkedIn:Review:
+** ASML
 
 I came across [[https://www.visualcapitalist.com/the-50-most-valuable-companies-in-the-world-in-2023/?utm_source=Newsletter&utm_campaign=37abfa8c9a-TRT_27-Mar-2020_COPY_01&utm_medium=email&utm_term=0_a56b12f9f5-37abfa8c9a-9546361][this infographic]] on the 50 most valuable companies in
 the world. Most of the names in the IT sector are household names,

@@ -69,7 +69,7 @@ chain with its own set of winners and losers.
 
 - [[https://www.goldmansachs.com/insights/articles/rising-power-density-disrupts-ai-infrastructure][Goldman Sachs - Rising power density in AI infrastructure]]
 
-* US energy consumption                                              :Review:
+* US energy generation and consumption                               :Review:
 :PROPERTIES:
 :ID:       c9493bda-aa50-4371-9eed-5e56699d58ba
 :END:
@@ -120,9 +120,7 @@ tallies with the number for [[id:c9493bda-aa50-4371-9eed-5e56699d58ba][US energy
 - EIA, [[https://www.eia.gov/energyexplained/electricity/use-of-electricity.php][Use of electricity]]
 - EIA, [[https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-AEO2025&region=0-0&cases=ref2025&start=2023&end=2035&f=A&linechart=~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ref2025-d032025a.3-1-AEO2025~ref2025-d032025a.4-1-AEO2025~ref2025-d032025a.5-1-AEO2025~ref2025-d032025a.6-1-AEO2025~ref2025-d032025a.7-1-AEO2025~ref2025-d032025a.8-1-AEO2025~ref2025-d032025a.9-1-AEO2025~ref2025-d032025a.10-1-AEO2025~ref2025-d032025a.11-1-AEO2025~ref2025-d032025a.12-1-AEO2025&ctype=linechart&chartindexed=0&sourcekey=0][Electrical energy consumption]]
 
-* Solar power generation
-
-** Solar power generation in the US                                  :Review:
+** Solar power generation in the US
 :PROPERTIES:
 :ID:       cb7304cc-fee3-4d94-b021-7c56b6620c34
 :END:
@@ -164,8 +162,7 @@ that with average [[id:d51a7c0d-0649-40cf-b9fb-29e759f4ea6a][US household energy
 
 * Tasks
 
-
-** TODO [#E] Review [[https://drive.google.com/file/d/1ceLnnTtiKzzoe7lxHt6FAlPQeH7i0Y1i/view?usp=drive_link][IEA Energy and AI report]] :Learning:
+** TODO [#E] Review [[https://drive.google.com/file/d/1ceLnnTtiKzzoe7lxHt6FAlPQeH7i0Y1i/view?usp=drive_link][IEA Energy and AI report]]                       :Learning:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -174,8 +171,7 @@ that with average [[id:d51a7c0d-0649-40cf-b9fb-29e759f4ea6a][US household energy
    :PRIORITY_NUM: 1
    :END:
 
-
-** TODO [#E] Review [[https://www.datacenterknowledge.com/][Data Center Knowledge]] web site :Learning:
+** TODO [#E] Review [[https://www.datacenterknowledge.com/][Data Center Knowledge]] web site                 :Learning:
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25

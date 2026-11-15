@@ -2,8 +2,6 @@
 #+FILETAGS: :Learning:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
-
 * Learning categories
 :PROPERTIES:
 :ID:       dcfebe6a-eced-4491-86e3-6ef765250d77
@@ -11,16 +9,6 @@
 
 I structure all my reading and learning according to the categories
 listed here.
-
-** Engineering
-
-(org-tags-view nil "Engineering-quotes+LEVEL=1")
-
-All topics in Engineering that are not software focused. AI is
-included in this category.
-
-Add tag Review to important sections, then add Review in the search
-above.
 
 ** Management
 
@@ -57,12 +45,7 @@ above.
 
 (org-tags-view nil "History-quotes+LEVEL=1")
 
-Add tag Review to important sections, then add Review in the search
-above.
-
-** Fiction
-
-(org-tags-view nil "Fiction-quotes+LEVEL=1")
+Business history goes in Business and not here.
 
 Add tag Review to important sections, then add Review in the search
 above.
@@ -89,6 +72,17 @@ Add tag Review to important sections, then add Review in the search
 above.
 
 Reviewed last on [2026-11-08 Sun]
+
+** Engineering
+
+(org-tags-view nil "Engineering+Review-quotes+LEVEL=1")
+
+All topics in Engineering that are not software focused. AI is
+included in this category.
+
+Reviewed last on [2026-11-15 Sun]
+
+* Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
 
 * Tasks
 

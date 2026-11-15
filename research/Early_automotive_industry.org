@@ -1,8 +1,8 @@
 #+TITLE: Early automotive industry - US in the early 1900s
-#+FILETAGS: :automotive:Engineering:
+#+FILETAGS: :Engineering:Automotive:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* Henry Leland
+* Henry Leland                                                       :Review:
 :PROPERTIES:
 :ID:       340ac842-915c-4131-8a51-1dafd44ff064
 :END:

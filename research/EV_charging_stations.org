@@ -1,8 +1,8 @@
 #+TITLE: Articles on EV charging stations and market trends
-#+FILETAGS: :Engineering:Review:
+#+FILETAGS: :Engineering:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* EV charging stations in the US
+* EV charging                                                        :Review:
 :PROPERTIES:
 :ID:       9f94c234-8138-48c1-9e67-7a97a066d91c
 :END:
@@ -21,19 +21,6 @@ stations in thousands in the US.
 #+TBLFM: $4=vsum($2..$3);%.1f::$5=100*($4-@+1$4)/@+1$4;%.1f%%
 
 Source: [[https://afdc.energy.gov/stations#/find/nearest?fuel=ELEC][DoE site]]
-
-*** TODO Update [[id:9f94c234-8138-48c1-9e67-7a97a066d91c][table]] with latest information on charging sites in the US :Learning:
-SCHEDULED: <2027-01-09 Sat +52w>
-:PROPERTIES:
-:EFFORT:  00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:LAST_REPEAT: [2026-06-29 Mon 20:36]
-:END:
-
-
-- State "DONE"       from "TODO"       [2026-06-29 Mon 20:36]
-- State "DONE"       from "TODO"       [2026-04-06 Mon 20:10]
 
 ** Composition by CPO
 
@@ -61,7 +48,7 @@ ChargePoint leads the US market in L2 with 33% and Tesla in DCFC with 60%.
 Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]] and [[https://www.rabobank.com/knowledge/d011438559-the-rise-of-electric-vehicles-in-the-us-building-a-robust-charging-network?utm_source=chatgpt.com][Rabobank research]]
 
 
-* Power ratings for charging
+** Power ratings for charging
 :PROPERTIES:
 :ID:       f652f1ee-71e3-4455-93bc-c090ab71254c
 :END:
@@ -103,3 +90,18 @@ miles/hour, then the hybrid is best.
 Finally, if you have solar power, of course, EVs may work out better.
 
 Power rates are derived from [[id:5986ae17-caca-4f0e-b292-a053653165be][Electrical energy consumption]].
+
+* Tasks
+
+** TODO Update [[id:9f94c234-8138-48c1-9e67-7a97a066d91c][table]] with latest information on charging sites in the US :Learning:
+SCHEDULED: <2027-01-09 Sat +52w>
+:PROPERTIES:
+:EFFORT:  00:15
+:BENEFIT: 10
+:RATIO: 0.40
+:LAST_REPEAT: [2026-06-29 Mon 20:36]
+:END:
+
+
+- State "DONE"       from "TODO"       [2026-06-29 Mon 20:36]
+- State "DONE"       from "TODO"       [2026-04-06 Mon 20:10]

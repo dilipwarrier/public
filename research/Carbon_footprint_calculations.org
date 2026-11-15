@@ -2,7 +2,9 @@
 #+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :Engineering:
 
-* Metrics for greenhouse gas emissions
+* Carbon footprint and greenhouse gas emissions calculations         :Review:
+
+** Metrics for greenhouse gas emissions
 
 The focus of greenhouse gas emission calculations tends to be on carbon dioxide
 (CO2) emissions. However, other gases such as methane (CH4) and nitrous
@@ -11,7 +13,7 @@ CO2 equivalent (CO2eq) where the emissions of the other gases are converted to
 the CO2 scale. To calculate the equivalent values, you have to
 consider the 100-year global warming potential of each gas.
 
-* Average US CO2eq consumption                                       :Review:
+** Average US CO2eq consumption
 
 In 2024, the average US resident consumes 18 T (tonnes) of CO2eq emissions per
 year. This number is down significantly from about 25 T per year in
@@ -29,7 +31,7 @@ Land-use change and forestry can have negative impact on emissions.
 
 Source: [[https://ourworldindata.org/profile/co2/united-states#how-much-does-the-average-person-in-the-united-states-emit-where-do-emissions-come-from][Our World In Data]]
 
-* CO2eq emissions and GDP                                            :Review:
+** CO2eq emissions and GDP
 
 CO2eq emissions are used to drive industries, manufacturing, data
 centers, etc. which in turn drive economic growth. It is important to
@@ -45,7 +47,7 @@ manufacturing towards services, energy production moving from coal-based
 to natural gas-based generation, and improved transportation fleets
 and commercial energy use.
 
-* CO2 emissions due to driving                                       :Review:
+** CO2 emissions due to driving
 
 The following data on CO2 emissions due to delivered power and gas
 consumption is from the [[https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references][EPA website]].
@@ -76,7 +78,7 @@ print("1 year of battery only in the RAV4 Prime causes %.1f tons of CO2" % (f3*f
 : 1 year in the RAV4 hybrid causes 2.2 tons of CO2
 : 1 year of battery only in the RAV4 Prime causes 1.7 tons of CO2
 
-* CO2 emissions from flights                                         :Review:
+** CO2 emissions from flights
 
 From [[https://ourworldindata.org/travel-carbon-footprint][Our World in data]],
 
@@ -106,7 +108,7 @@ From [[https://ourworldindata.org/travel-carbon-footprint][Our World in data]],
 #+RESULTS:
 : Flying causes 6.3 tons of CO2 per year
 
-* Contribution of various stages of food production                  :Review:
+** Contribution of various stages of food production
 
 Food production accounts for 25% of GHG emissions (CO2, CH4 and
 N2O). Within food production, land use change (converting grasslands
@@ -122,7 +124,7 @@ air-freighted foods: those tend to be foods that need to stay fresh
 and come from a far distance. However, it is hard to know which ones
 those are and they tend to be rare.
 
-* CO2 emissions from container shipping                              :Review:
+** CO2 emissions from container shipping
 
 From a [[https://theicct.org/sites/default/files/publications/UCL_ship_efficiency_forICCT_2013.pdf][report published by the University College of London]], the
 following table shows CO2 emissions from various kinds of container
@@ -131,7 +133,7 @@ appropriate metric to use.
 
 [[./Screenshot 2021-07-08 125645.png][CO2 emissions table]]
 
-* Plant-based diets                                                  :Review:
+** Plant-based diets
 
 From [[https://ourworldindata.org/carbon-opportunity-costs-food][Our World in Data]], plant-based diets have the best properties
 of opportunity cost (saved agricultural land can be converted into
