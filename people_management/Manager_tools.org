@@ -2,11 +2,9 @@
 #+FILETAGS: :Management:
 #+STARTUP: overview
 
-* Manager
+* Manager basics                                                     :Review:
 
-** Manager basics
-
-*** One-on-ones                                                      :Review:
+** One-on-ones
 
 - 25 minutes every week - rarely missed
    - 10 min: Direct
@@ -35,7 +33,7 @@
 - If your direct talks about their family, then you
   should talk about your family too.
 
-*** Feedback                                                         :Review:
+** Feedback
 
 Format of feedback:
 1. May I give you some feedback?
@@ -99,7 +97,7 @@ exactly the same as above: frequent, short, mostly positive and
 occasionally negative. For remote directs, you must give feedback
 with face-to-face Zoom calls as opposed to phone calls.
 
-*** Delegation
+** Delegation
 
 Assume a box with 20 gray balls.  It represents your ability to be
 productive at work and is inflexible.  It represents 60 hours of
@@ -197,7 +195,7 @@ The steps are as follows.
 
 See also [[id:7d91bef7-86df-43c5-95f5-743441c8578a][See one, do one, teach one]].
 
-*** Coaching
+** Coaching
 
 Feedback makes incremental changes. Coaching helps individuals
 move to a different level of effectiveness. Feedback is tactical
@@ -238,7 +236,7 @@ this is entirely on the direct).
 
 Celebrate the success!
 
-*** Rolling out the basic practices
+** Rolling out the basic practices
 
 Every manager should do the following.
 - 1-1s
@@ -261,9 +259,9 @@ just "be" a leader.
 Practice 1-1s for 6-8 weeks before you introduce the next aspects
 of the trinity (feedback, coaching etc.)
 
-** Direct reports
+* Direct reports                                                     :Review:
 
-*** New hires
+** New hires
 
     A culture of effective professionalism must be taught, gaining it
     organically is slow and error-prone.
@@ -277,7 +275,7 @@ of the trinity (feedback, coaching etc.)
     Share [[file:Introduction.org][a written introduction of your management philosophy]].
 
 
-**** Family first
+*** Family first
 
     [[https://www.manager-tools.com/2022/01/first-meeting-new-direct-series-family-first-part-1][Link to podcast]]
 
@@ -291,7 +289,7 @@ of the trinity (feedback, coaching etc.)
     and spend quality time with your family.
 
 
-*** My direct is resigning
+** My direct is resigning
 
      [[https://www.manager-tools.com/2014/10/my-direct-resigning-chapter-1-never-counter-offer-part-1-hall-fame-guidance][Podcast link]]
 
@@ -299,7 +297,7 @@ of the trinity (feedback, coaching etc.)
      retention.
 
 
-**** Congratulate them first!
+*** Congratulate them first!
 
      We think of the negatives of the person leaving the job and become
      defensive. Many companies don't manage your careers, people are now
@@ -308,7 +306,7 @@ of the trinity (feedback, coaching etc.)
      "Congratulations! Tell me more about the offer you have!"
 
 
-**** Gather information
+*** Gather information
 
      At this point, the direct has done a lot of work to get a
      counter-offer without your information. You may use words like:
@@ -338,7 +336,7 @@ of the trinity (feedback, coaching etc.)
      - Decision date
 
 
-**** Never make a counter-offer
+*** Never make a counter-offer
 
      Likelihood of success is low. You may only be able to keep them for
      the short-term.
@@ -354,7 +352,7 @@ of the trinity (feedback, coaching etc.)
      this. This is especially true for big companies.
 
 
-*** How to fire someone (almost)
+** How to fire someone (almost)
 
 [[https://www.manager-tools.com/2006/02/how-to-fire-someone-well-almost][Podcast link]]
 
@@ -389,7 +387,7 @@ The formal performance discussion comes in if even the coaching
 process has failed. At this point, you notify the direct that they
 could be fired if their performance does not improve.
 
-*** How to respond to "Can I get promoted?"
+** How to respond to "Can I get promoted?"
 
     [[https://www.manager-tools.com/2019/05/how-do-i-respond-how-do-i-get-promoted-part-1-hall-fame-guidance][Podcast link]]
 
@@ -407,7 +405,7 @@ could be fired if their performance does not improve.
 Finally, even if you're ready for a promotion, it may not happen due
 to economic conditions, reorganizations, etc.
 
-*** See one, do one, teach one
+** See one, do one, teach one
 :PROPERTIES:
 :ID:       7d91bef7-86df-43c5-95f5-743441c8578a
 :END:
@@ -425,9 +423,23 @@ out. However, you have to have a tolerance for mistakes.
 In this way, you can accelerate learning in your organization and help
 develop your directs.
 
-** Peers
+** Open door policy
 
-*** Peer one-on-ones
+This does not mean that your door is open all the time.
+
+It means that anyone in the company can setup time to talk to you on
+any topic, with emphasis on management related issues.
+
+As an executive, you're allowed to ask what the meeting is about. They
+are not confidential or anonymous except in very rare cases of whistle-blowing.
+
+The requesting employee must follow the chain of command, except when
+retribution might be a factor.
+
+
+* Peers                                                              :Review:
+
+** Peer one-on-ones
 
     See also [[#peer_feedback][peer feedback]].
 
@@ -475,10 +487,10 @@ develop your directs.
     [[https://www.manager-tools.com/2011/05/peer-one-ones-part-1][Podcast link]]
 
 
-**** Manager tools: What you call politics, we call collaboration    :quotes:
+*** Manager tools: What you call politics, we call collaboration     :quotes:
 
 
-*** Conflicts with peers
+** Conflicts with peers
 
     The example is one of where the peer hasn't delivered something but
     the guidance applies more generally.
@@ -528,7 +540,7 @@ develop your directs.
       detailed verbal summary with facts and dates.
 
 
-*** Feedback for peers
+** Feedback for peers
     :PROPERTIES:
     :CUSTOM_ID: peer_feedback
     :END:
@@ -545,10 +557,10 @@ develop your directs.
     careful.
 
 
-** Boss
+* Boss                                                               :Review:
 
 
-*** Managing your boss
+** Managing your boss
 
     See also [[#Boss_initial][the first few days with your boss]]
 
@@ -587,22 +599,21 @@ develop your directs.
     - Relationships :: Who are their best relationships with and who not.
 
 
-*** Helping your manager decide
 
-    For big decisions, use the SOCCR model. For smaller decisions, make
-    sure you understand your manager's DISC profile first. Some people
-    prefer having a lot of information because they don't want to rule
-    out options too quickly. Some people make decisions very fast.
+** Helping your manager decide
 
-    Your job is to present all the data and the consequences of not
-    making a decision. After that, you should learn to be OK if the
-    manager still doesn't make a decision.
+For big decisions, use the SOCCR model. For smaller decisions, make
+sure you understand your manager's DISC profile first. Some people
+prefer having a lot of information because they don't want to rule
+out options too quickly. Some people make decisions very fast.
 
+Your job is to present all the data and the consequences of not
+making a decision. After that, you should learn to be OK if the
+manager still doesn't make a decision.
 
-** Relationships
+* Relationships                                                      :Review:
 
-
-*** Pinch/crunch model for a relationship
+** Pinch/crunch model for a relationship
 
     In any relation, there will be times when there are pinches in the
     relationship. A pinch in your relation with your boss might be when
@@ -625,7 +636,7 @@ develop your directs.
     See also [[#Relationship_building][relationship building]] and this [[https://medium.com/@M.K.G/team-conflicts-are-unavoidable-lessons-learned-with-the-pinch-crunch-model-7e8e6bd0d7a9][related article]]
 
 
-*** Internal customer relationships
+** Internal customer relationships
     :PROPERTIES:
     :CUSTOM_ID: internal_customers
     :END:
@@ -666,20 +677,7 @@ develop your directs.
     on creating relationships (personal vs formal or business relationships).
 
 
-** Open door policy
-
-This does not mean that your door is open all the time.
-
-It means that anyone in the company can setup time to talk to you on
-any topic, with emphasis on management related issues.
-
-As an executive, you're allowed to ask what the meeting is about. They
-are not confidential or anonymous except in very rare cases of whistle-blowing.
-
-The requesting employee must follow the chain of command, except when
-retribution might be a factor.
-
-** Decision making
+* Decision making                                                    :Review:
 
 Once you make a choice, the work is not done. Decisions comprise of
 making a choice, communicating it and managing its implementation.
@@ -696,10 +694,10 @@ Executives assign people (see also [[#change_mgmt][Change management]]).
 
 They decide "who will do what, by when".
 
-*** Peter Drucker: An executive has not completed a decision until they have assigned someone to take the next steps :quotes:
+** Peter Drucker: An executive has not completed a decision until they have assigned someone to take the next steps :quotes:
 
 
-** Change management
+* Change management                                                  :Review:
    :PROPERTIES:
    :CUSTOM_ID: change_mgmt
    :END:
@@ -716,9 +714,9 @@ You cannot skip any of these steps nor can you prematurely end
 it. If you do either of those, you risk backsliding to the first
 stage.
 
-** Projects
+* Projects                                                           :Review:
 
-*** Assigning tasks
+** Assigning tasks
 
 You don't just assign a task, you assign both a task and the reporting
 of status on the task. You should not accept the excuse: "Reporting on
@@ -730,7 +728,7 @@ tomorrow," you should say "Please complete the client files updates
 and email the link to me by 2 pm tomorrow."
 
 
-*** Completing tasks
+** Completing tasks
 
    The [[https://www.manager-tools.com/2009/01/2nd-rule-effective-project-team-members][second rule]] of project work: Meet all of your deadlines. If you
    want to gain the respect of your colleagues, be the team member who
@@ -748,7 +746,7 @@ and email the link to me by 2 pm tomorrow."
    action and follow up.
 
 
-*** Running effective meetings
+** Running effective meetings
 
     [[https://www.manager-tools.com/2021/04/effective-meetings-part-1-hof-2021][Podcast link]]
 
@@ -808,7 +806,7 @@ and email the link to me by 2 pm tomorrow."
       Are action items recorded and monitored?
 
 
-**** Action item format
+*** Action item format
      :PROPERTIES:
      :CUSTOM_ID: action_item_format
      :END:
@@ -828,7 +826,7 @@ and email the link to me by 2 pm tomorrow."
      6 pm Eastern Time.
 
 
-*** Reporting status of tasks
+** Reporting status of tasks
 
     [[https://www.manager-tools.com/2018/04/relationship-errors-not-reporting-no-news][Not reporting "no news"]]
 
@@ -841,7 +839,7 @@ and email the link to me by 2 pm tomorrow."
       hear back by tomorrow, I will call them on Zoom to resolve it."
 
 
-*** Reporting status of projects on demand
+** Reporting status of projects on demand
 
    [[https://www.manager-tools.com/print/176761?pod=176766][Status-on-demand communication]] can happen either to your boss or to
    someone higher up in the hierarchy.
@@ -849,7 +847,7 @@ and email the link to me by 2 pm tomorrow."
    Always have a crisp summary ready.
 
 
-**** Current status
+*** Current status
 
     The typical way to communicate status in an elevator pitch is the
     Red/Amber/Green method.
@@ -872,7 +870,7 @@ and email the link to me by 2 pm tomorrow."
     This alone is not enough. You must also communicate "Next steps".
 
 
-**** Next steps
+*** Next steps
 
      Communicating current status on a project alone is not enough. You
      have to communicate what will happen in the future i.e. the next
@@ -883,7 +881,7 @@ and email the link to me by 2 pm tomorrow."
      Green, etc).
 
 
-** Managing your time
+* Managing your time                                                 :Review:
 
    [[https://www.manager-tools.com/2006/05/time-management][Podcast link]]
 
@@ -912,7 +910,7 @@ and email the link to me by 2 pm tomorrow."
    may seem of the same size but they are not.
 
 
-** Creating a playbook
+* Creating a playbook                                                :Review:
 
    Effective managers have a playbook. Experienced managers have dealt
    with many issues in their lifetime. To make your team more
@@ -936,7 +934,7 @@ and email the link to me by 2 pm tomorrow."
    for your team to suggest ideas to change parts of the play.
 
 
-*** Creating a delta file
+** Creating a delta file
     :PROPERTIES:
     :CUSTOM_ID: delta_file
     :END:
@@ -951,11 +949,11 @@ and email the link to me by 2 pm tomorrow."
     a behavior that you don't want to do yourself. Note it down in
     your delta file.
 
-** Leadership
+* Leadership                                                         :Review:
 
    Link to [[https://youtu.be/ocSw1m30UBI?si=qk8wayvBbmq-d1yQ][Colin Powell's video]] on leadership
 
-** First 90 days in a new job
+* First 90 days in a new job                                         :Review:
 
    The theme of [[https://www.manager-tools.com/2012/06/90-day-new-job-plan-overview][the first 90 days]] is to "fit in". It is wrong to change
    a lot of things, there is already a disruption due to your
@@ -997,7 +995,7 @@ and email the link to me by 2 pm tomorrow."
    5. At the end of 90 days, make one change at a time, not many
       changes together. Remember changes need to be [[#pre_wire][pre-wired]].
 
-*** The boss                                                           :Boss:
+** The boss                                                            :Boss:
     :PROPERTIES:
     :CUSTOM_ID: Boss_initial
     :END:
@@ -1037,7 +1035,7 @@ and email the link to me by 2 pm tomorrow."
 
    Do a DISC profile of your boss, using their communications.
 
-*** Relationship building
+** Relationship building
 :PROPERTIES:
 :CUSTOM_ID: Relationship_building
 :END:
@@ -1063,7 +1061,7 @@ e.g. security, admin, catering, etc. A list from your previous job
 will help you. The best statement you can make is "I don't need
 anything right now; I just wanted to say hello".
 
-** Mentoring
+* Mentoring                                                          :Review:
 
 The mentor-mentee relationship is a 2-person relation. When
 Corporate HR gets involved, the value can be diluted. It's better
@@ -1110,13 +1108,10 @@ Later in your life, you may want a personal board of directors.
   Hand-written thank-you notes are the gold standard of saying
   thanks.
 
-** References
-
-[[https://www.manager-tools.com/2006/06/basics-mentoring-part-1-2][Podcast link]]
-
-* Communication
+* Communication                                                      :Review:
 
 ** Listening to others
+
 - [[https://www.manager-tools.com/print/353111?pod=353116][How to listen better]]
 
 ** Pre-wiring a presentation                                         :Review:

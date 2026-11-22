@@ -1,5 +1,5 @@
 #+TITLE: Objectives and Key Results (OKRs)
-#+FILETAGS: :Management:
+#+FILETAGS: :Business:
 #+STARTUP: show2levels inlineimages hideallblocks
 
 * What are OKRs?                                                     :Review:
@@ -13,7 +13,6 @@ then picked them up and popularized them through the book "Measure
 what matters" and through his company, the Doerr
 consulting practice. His thinking influenced the founders at Google
 and Google is credited with [[https://www.whatmatters.com/resources/google-okr-playbook][implementing OKRs at scale]].
-
 
 ** OKRs vs KPIs
 

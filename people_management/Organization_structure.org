@@ -1,27 +1,27 @@
 #+Title: Organization structures and budgets
-#+FILETAGS: :Management:
+#+FILETAGS: :Business:
 #+STARTUP: show2levels inlineimages hideallblocks
 
 * Ideal org structures                                               :Review:
 
   CEO
    - R&D
-     + Program Management
+     + Eng program management
+     + Product Management
      + SW Dev
      + System Testing
      + UX
      + DevSecOps
-     + Product Management
    - G&A
-     - IT Systems and Security
-     - Finance
-     - Program Management
-     - HR
+     + IT Systems and Security
+     + Finance
+     + HR
+     + Program Management
+     + Competition/Market Insight
    - Sales & Marketing
      + Business Dev
      + Sales project management
      + Marketing
-     + Competition/Market Insight
    - COGS
      + Manufacturing
      + Customer Operations

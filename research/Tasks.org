@@ -74,7 +74,7 @@ field matches text in the tag.
 #+RESULTS: generate_tasks_from_offset
 
 
-* Possible criteria for prioritization
+* Possible criteria for task prioritization                          :Review:
 
 One could use the Eisenhower matrix, as described below. Alternately, the
 Effective Altruism organization method for deciding what to work on may be
@@ -183,7 +183,7 @@ $1/person-min equates to 1*60*40*50 = $120k/year of hired labor.
 
 It equates to 1*60*9000 = $540k/year of calendar labor.
 
-* Projects
+* Projects                                                           :Review:
 :PROPERTIES:
 :ID:       a5b61d92-df98-46da-bfb4-cb5b948795be
 :END:
@@ -196,7 +196,7 @@ someone outside the project team.
 Recurring activities don't count as projects. Those should be
 considered as tasks.
 
-* Value of a project
+** Value of a project
 :PROPERTIES:
 :ID:       8f3f8921-b064-48d8-a5e1-1ac27043a733
 :END:
@@ -215,7 +215,7 @@ By using remaining costs, you avoid the sunk cost fallacy.
 If you have many projects to choose from, you should rank them by
 value and work on the highest value project first.
 
-* Task management for teams                                          :Review:
+** Task management for teams
 
 Software development teams typically use Jira or a similar database
 for logging software tasks or defects. We recommend that you use

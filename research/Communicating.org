@@ -175,17 +175,14 @@ are duping your audience. That may work for a while but, sooner or
 later, you will get caught. Learn to say things that are both
 interesting and true. That makes a powerful story.
 
-** Samuel Johnson: What is written without effort is read without pleasure :quotes:
-
-* The hamburger model of a persuasive essay                          :Review:
+** The hamburger model of a persuasive essay
 :PROPERTIES:
 :ID:       39adaa1a-6dde-47b7-a6ee-7d8bf9efe57c
 :END:
 
 [[file:Screenshot 2025-10-14 080320.png]]
 
-In high school, you're taught the "hamburger" model of a persuasive
-essay. This consists of:
+The "hamburger" model of a persuasive essay consists of:
 - Top bun :: A short sentence or paragraph that is the hook and the
   context for why the problem is important.
 - Lettuce :: Flimsiest of the three filler arguments. Light, meant to
@@ -194,6 +191,8 @@ essay. This consists of:
 - Patty :: The strongest argument comes last.
 - Bottom bun :: Review your arguments and state the good things that
   resulted or could result from solving the problem.
+
+** Samuel Johnson: What is written without effort is read without pleasure :quotes:
 
 * References
 

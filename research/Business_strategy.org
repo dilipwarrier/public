@@ -1,5 +1,5 @@
 #+NAME: Business strategy
-#+FILETAGS: :Strategy:Management:
+#+FILETAGS: :Strategy:Business:
 #+STARTUP: show2levels inlineimages hideallblocks
 
 * Purpose, vision, mission, and strategy                             :Review:
@@ -391,18 +391,20 @@ Internal perspective: quality, efficiency, employee satisfaction/delight etc.
 Innovation/learning: Number of patents, number/percent of new products
 introduced, time to market for new products, etc.
 
-q[[file:Screenshot 2025-11-14 2.png]]
+[[file:Screenshot 2025-11-14 2.png]]
 
 * Good and bad strategy                                              :Review:
 
-There are three main pathways to bad strategy - choosing to do many
-things rather than a few focused things, using templatized
-mission statements rather than doing the hard work of understanding
-the key problems to solve, and assuming that a positive mindset or
-hard work is enough.
+There are three main pathways to bad strategy.
+- Choosing to do many things rather than a few focused things
+- Using templatized mission statements rather than stating
+the key problems to solve, and
+- Assuming that a positive mindset and hard work is enough
 
-A strategy consists of three elements - a problem diagnosis, a guiding
-policy, and a set of actions based on the policy.
+A strategy consists of three elements:
+- Problem diagnosis,
+- Guiding policy, and
+- Concrete actions based on the policy.
 
 A diagnosis replaces the complex reality with a simpler story about
 the crucial aspects of the problem.

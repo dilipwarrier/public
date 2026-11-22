@@ -2,32 +2,14 @@
 #+FILETAGS: :Software:Cloud:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* Apache and CNCF                                                    :Review:
+* Apache                                                             :Review:
 :PROPERTIES:
 :ID:       c9c9b3aa-bd10-46eb-9c7c-f804bbefc94a
 :END:
 
-CNCF addresses runtime infrastructure. It answers the question: How
-do we run and observe cloud applications safely, reliably, and portably?
+** Apache Superset
 
-Apache addresses data and compute frameworks. It answers the question:
-How do we move, transform, and analyze data efficiently and scalably?
-
-You can think of CNCF tools as horizontal enablers, and Apache tools
-as vertical data capabilities. In cloud-native data platforms, you
-often run Apache tools on CNCF infrastructure.
-
-|---------------------------+------------------------------------------+----------------------------------+---------------------|
-| Layer                     | Representative Technologies / Tools      | Notes / Ecosystem                | Open-source project |
-|---------------------------+------------------------------------------+----------------------------------+---------------------|
-| Business intelligence     | Superset, Metabase, Grafana, Redash      | Visualization and BI dashboards  | Apache              |
-| Query / analytics         | Druid, Hive, Trino                       | OLAP engines and query layers    | Apache              |
-| Data processing           | Spark, Flink, Beam, Airflow              | ETL and stream/batch computation | Apache              |
-| Data ingestion            | Kafka, NiFi, Pulsar, Debezium            | Data capture and event streams   | Apache              |
-| Data storage              | Hudi, Iceberg, Parquet, HDFS             | Data lakes and table formats     | Apache              |
-| Infrastructure            | Kubernetes, Helm, Argo, Prometheus, etc. | Ecosystem for orchestration      | CNCF                |
-| Cloud provider / hardware | AWS, GCP, Azure, Bare-metal              | Underlying compute and storage   |                     |
-|---------------------------+------------------------------------------+----------------------------------+---------------------|
+Apache's enterprise-ready BI and visualization tool.
 
 ** Apache DevLake
 
@@ -82,6 +64,32 @@ etc.
 Instead of running AWS Lambda or Knative functions, you could run them
 as WASM bytecode on edge servers.
 
+** Comparison of Apache and CNCF
+
+CNCF addresses runtime infrastructure. It answers the question: How
+do we run and observe cloud applications safely, reliably, and portably?
+
+Apache addresses data and compute frameworks. It answers the question:
+How do we move, transform, and analyze data efficiently and scalably?
+
+You can think of CNCF tools as horizontal enablers, and Apache tools
+as vertical data capabilities. In cloud-native data platforms, you
+often run Apache tools on CNCF infrastructure.
+
+|---------------------------+------------------------------------------+----------------------------------+---------------------|
+| Layer                     | Representative Technologies / Tools      | Notes / Ecosystem                | Open-source project |
+|---------------------------+------------------------------------------+----------------------------------+---------------------|
+| Business intelligence     | Superset, Metabase, Grafana, Redash      | Visualization and BI dashboards  | Apache              |
+| Query / analytics         | Druid, Hive, Trino                       | OLAP engines and query layers    | Apache              |
+| Data processing           | Spark, Flink, Beam, Airflow              | ETL and stream/batch computation | Apache              |
+| Data ingestion            | Kafka, NiFi, Pulsar, Debezium            | Data capture and event streams   | Apache              |
+| Data storage              | Hudi, Iceberg, Parquet, HDFS             | Data lakes and table formats     | Apache              |
+| Infrastructure            | Kubernetes, Helm, Argo, Prometheus, etc. | Ecosystem for orchestration      | CNCF                |
+| Cloud provider / hardware | AWS, GCP, Azure, Bare-metal              | Underlying compute and storage   |                     |
+|---------------------------+------------------------------------------+----------------------------------+---------------------|
+
 ** References
 
-- [[https://airflow.apache.org/docs/apache-airflow/stable/index.html][Airflow documentation site]]
+- [[https://airflow.apache.org/docs/apache-airflow/stable/index.html][Apache Airflow]]
+- [[https://superset.apache.org/user-docs/#why-superset][Apache Superset]]
+- [[https://devlake.apache.org/][Apache DevLake]]

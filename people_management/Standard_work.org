@@ -1,9 +1,11 @@
 #+TITLE: A list of standard work tasks for a manager
 #+STARTUP: show2levels inlineimages hideallblocks
-#+FILETAGS: :Work:Management:
+#+FILETAGS: :Management:
 #+STARTIP: overview, hideallblocks
 
-* Questions for performance improvement
+* Regular meetings held by a manager                                 :Review:
+
+** Questions for performance improvement
   :PROPERTIES:
   :CUSTOM_ID: questions_improvement
   :END:
@@ -12,7 +14,7 @@
   - Describe one activity that we did well
   - Describe one activity that we can do differently
 
-* Metrics
+** Metrics
 
 #+NAME: metrics_tasks
 |------------------------------------------------------------------------------------------------------+----|
@@ -28,8 +30,8 @@
 #+RESULTS:
 :results:
 
-*** Archive                                                         :ARCHIVE:
-**** DONE Ask my direct reports to update monthly metrics in 1 week
+**** Archive                                                        :ARCHIVE:
+***** DONE Ask my direct reports to update monthly metrics in 1 week
     SCHEDULED: <2025-08-25 Mon>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -39,7 +41,7 @@
    :END:
 
 
-**** DONE Review and approve metrics updates from direct reports
+***** DONE Review and approve metrics updates from direct reports
     SCHEDULED: <2025-09-08 Mon>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -49,7 +51,7 @@
    :END:
 
 
-**** DONE Send reviewed and approved metrics and goals to org
+***** DONE Send reviewed and approved metrics and goals to org
     SCHEDULED: <2025-09-10 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -59,7 +61,7 @@
    :END:
 
 
-**** DONE Send metrics and goals updates to manager to review
+***** DONE Send metrics and goals updates to manager to review
     SCHEDULED: <2025-09-08 Mon>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -69,7 +71,7 @@
    :END:
 
 
-**** DONE Setup tasks for next metrics review - pick day 0 as the Monday of the last working week in the month
+***** DONE Setup tasks for next metrics review - pick day 0 as the Monday of the last working week in the month
     SCHEDULED: <2025-09-15 Mon>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -83,13 +85,13 @@
 
 
 
-* Skip level meetings                                              :Meetings:
+** Skip level meetings                                             :Meetings:
 
 I hold skip-level meetings with a sub-group of my skip-levels 2 months
 in a quarter. The third month is a town hall meeting.
 
 
-** Task list for skip level meetings
+*** Task list for skip level meetings
 
 #+NAME: skip_level_tasks
 |--------------------------------------------------------+----|
@@ -105,8 +107,8 @@ in a quarter. The third month is a town hall meeting.
 :results:
 
 
-*** Archive                                                         :ARCHIVE:
-**** DONE Prepare Confluence page for information for skip-level
+**** Archive                                                        :ARCHIVE:
+***** DONE Prepare Confluence page for information for skip-level
     SCHEDULED: <2025-08-15 Fri>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -116,7 +118,7 @@ in a quarter. The third month is a town hall meeting.
    :END:
 
 
-**** DONE Answer questions left-over from skip-level
+***** DONE Answer questions left-over from skip-level
     SCHEDULED: <2025-08-21 Thu>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -126,7 +128,7 @@ in a quarter. The third month is a town hall meeting.
    :END:
 
 
-**** DONE Setup post-meeting survey link for skip-level
+***** DONE Setup post-meeting survey link for skip-level
     SCHEDULED: <2025-08-27 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -136,7 +138,7 @@ in a quarter. The third month is a town hall meeting.
    :END:
 
 
-**** DONE Setup tasks for next skip level
+***** DONE Setup tasks for next skip level
     SCHEDULED: <2025-08-27 Wed>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -150,13 +152,13 @@ in a quarter. The third month is a town hall meeting.
 
 
 
-* Town hall meetings                                               :Meetings:
+** Town hall meetings                                              :Meetings:
 
 Town hall meetings are a good way to broadcast information, discuss
 financial results, have detailed Q&A etc. I conduct town halls once
 every quarter.
 
-** Task list for town hall meetings
+*** Task list for town hall meetings
 
 #+NAME: town_hall_tasks
 |----------------------------------------------------------------------+-----|
@@ -178,28 +180,13 @@ every quarter.
 :results:
 
 
-** References
+*** References
 
 - Manager Tools, [[https://www.manager-tools.com/2012/01/routine-town-hall-meetings-part-1][Routine town hall meetings]]
 
-* Interesting videos for presentations
-:PROPERTIES:
-:ID:       0eb3a5c5-a835-4111-82e2-6ea81e25ba4a
-:END:
+** Quarterly staff workshops                                       :Meetings:
 
-- [[https://www.youtube.com/watch?v=1cYzkyXp0jg][Apollo 13 - "Fit this into this" (0:41)]]
-- [[https://youtu.be/7SB16il97yw][Build it and they will come (0:50)]]
-- [[https://youtu.be/BAwoqiMgDk4][You shall not pass (LOTR ~5:00)]]
-- [[https://youtu.be/z4FGzE4endQ?t=80][The font is larger... and Jesus wept!]]
-- [[https://youtu.be/Hhy7JUinlu0][Margin Call - Partners' Meeting]]
-- [[https://www.youtube.com/watch?v=r6Lf8GtMe4M&ab_channel=Movieclips][Put That Coffee Down! - Glengarry Glen Ross (1/10) (1992) HD]]
-- [[https://youtu.be/wVQPY4LlbJ4][Sanitized version of Glengarry Glen Ross - Always Be Closing]]
-- [[https://youtu.be/aUBhz5PtAY8][Mere paas maa hai (Deewaar)]]
-- [[https://www.youtube.com/watch?v=saEzjJxeKr8&ab_channel=HassaanKhan][Maa ko tohfa (Deewaar)]]
-
-* Quarterly staff workshops                                        :Meetings:
-
-** Task list for staff workshops
+*** Task list for staff workshops
 
 #+NAME: staff_workshop_tasks
 |---------------------------------------------------------+-----|
@@ -215,6 +202,21 @@ every quarter.
 #+RESULTS:
 :results:
 
+
+** Interesting videos for presentations
+:PROPERTIES:
+:ID:       0eb3a5c5-a835-4111-82e2-6ea81e25ba4a
+:END:
+
+- [[https://www.youtube.com/watch?v=1cYzkyXp0jg][Apollo 13 - "Fit this into this" (0:41)]]
+- [[https://youtu.be/7SB16il97yw][Build it and they will come (0:50)]]
+- [[https://youtu.be/BAwoqiMgDk4][You shall not pass (LOTR ~5:00)]]
+- [[https://youtu.be/z4FGzE4endQ?t=80][The font is larger... and Jesus wept!]]
+- [[https://youtu.be/Hhy7JUinlu0][Margin Call - Partners' Meeting]]
+- [[https://www.youtube.com/watch?v=r6Lf8GtMe4M&ab_channel=Movieclips][Put That Coffee Down! - Glengarry Glen Ross (1/10) (1992) HD]]
+- [[https://youtu.be/wVQPY4LlbJ4][Sanitized version of Glengarry Glen Ross - Always Be Closing]]
+- [[https://youtu.be/aUBhz5PtAY8][Mere paas maa hai (Deewaar)]]
+- [[https://www.youtube.com/watch?v=saEzjJxeKr8&ab_channel=HassaanKhan][Maa ko tohfa (Deewaar)]]
 
 * Archive                                                           :ARCHIVE:
 
@@ -562,5 +564,3 @@ CLOCK: [2025-01-21 Tue 08:56]--[2025-01-21 Tue 09:02] =>  0:06
    :RATIO: 0.40
    :LAST_REPEAT: [2025-07-11 Fri 13:08]
    :END:
-
-

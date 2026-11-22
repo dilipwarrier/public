@@ -2,7 +2,7 @@
 #+FILETAGS: :Agile:Management:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* Organization at Spotify                                            :Review:
+* Organizing engineering teams                                       :Review:
 
   [[file:Screenshot 2021-10-23 160049.jpg][Squads, tribes, chapters and guilds]]
 

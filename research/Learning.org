@@ -10,36 +10,8 @@
 I structure all my reading and learning according to the categories
 listed here.
 
-** Management
-
-(org-tags-view nil "Management-quotes+LEVEL=1")
-
-Topics related to people management.
-
-Add tag Review to important sections, then add Review in the search
-above.
-
-** Business
-
-(org-tags-view nil "Business-quotes+LEVEL=1")
-
-Topics related to business excluding people management and engineering.
-
-Add tag Review to important sections, then add Review in the search
-above.
-
-** Economics
-
-(org-tags-view nil "Economics-quotes+LEVEL=1")
-
-Topics related to finance and investments are also included here.
-
-Add tag Review to important sections, then add Review in the search
-above.
-
-** Maths
-
-(org-tags-view nil "Maths-quotes+Review+LEVEL=1")
+** TODO Read next in [[id:dcfebe6a-eced-4491-86e3-6ef765250d77][Learning categories]], then move the section down
+SCHEDULED: <2026-11-29 Sun +1w>
 
 ** History
 
@@ -50,11 +22,36 @@ Business history goes in Business and not here.
 Add tag Review to important sections, then add Review in the search
 above.
 
+
 ** Philosophy
 
 (org-tags-view nil "Philosophy+Review-quotes+LEVEL=1")
 
 Reviewed last on [2026-10-10 Sat]
+
+*** TODO Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]]                            :Philosophy:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :PRIORITY_NUM: 1
+   :VALUE:    -15.00
+   :END:
+
+*** TODO Find a book on cleaning the house 5S, Marie Kondo, etc  :Philosophy:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :PRIORITY_NUM: 1
+   :VALUE:    0.00
+   :END:
+
+
+** Maths
+
+(org-tags-view nil "Maths-quotes+Review+LEVEL=1")
+
 
 ** Science
 
@@ -63,6 +60,25 @@ Reviewed last on [2026-10-10 Sat]
 Biology, physics, psychology, medicine, etc.
 
 Reviewed last on [2026-10-24 Sat]
+
+*** TODO Review [[https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/][good forecasting practices]]                          :Science:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :PRIORITY_NUM: 1
+   :VALUE:    -15.00
+   :END:
+
+*** TODO Take the Superforecasting [[https://good-judgment.thinkific.com/courses/Superforecasting-Fundamentals][Good Judgement training]]          :Science:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :PRIORITY_NUM: 1
+   :VALUE:    0.00
+   :END:
+
 
 ** Software
 
@@ -73,6 +89,22 @@ above.
 
 Reviewed last on [2026-11-08 Sun]
 
+*** TODO Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]                     :Software:
+:PROPERTIES:
+:PRIORITY_NUM: 1
+:VALUE:    N/A
+:END:
+
+*** TODO Read about the [[https://c4model.com/][C4 architecture method]]                     :Software:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :PRIORITY_NUM: 1
+   :VALUE:    0.00
+   :END:
+
+
 ** Engineering
 
 (org-tags-view nil "Engineering+Review-quotes+LEVEL=1")
@@ -82,201 +114,7 @@ included in this category.
 
 Reviewed last on [2026-11-15 Sun]
 
-* Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
-
-* Tasks
-
-** Archive                                                          :ARCHIVE:
-*** DONE Read "Pragmatic Thinking and Learning" and [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][update notes]]
-SCHEDULED: <2025-08-24 Sun>
-:PROPERTIES:
-:EFFORT:  10:00
-:BENEFIT: 1000
-:RATIO: 1.00
-:ARCHIVE_TIME: 2025-09-14 Sun 21:06
-:END:
-:LOGBOOK:
-CLOCK: [2025-06-29 Sun 07:21]--[2025-06-29 Sun 08:16] =>  0:51
-CLOCK: [2025-05-11 Sun 06:40]--[2025-05-11 Sun 07:40] =>  1:00
-CLOCK: [2025-02-23 Sun 06:50]--[2025-02-23 Sun 08:02] =>  1:12
-CLOCK: [2025-02-09 Sun 06:37]--[2025-02-09 Sun 07:33] =>  0:56
-CLOCK: [2025-04-27 Sun 06:45]--[2025-04-27 Sun 08:15] =>  1:30
-:END:
-
-*** DONE Read AWS DynamoDB incident https://www.linkedin.com/posts/adriancockcroft_summary-of-the-amazon-dynamodb-service-disruption-activity-7387117492135133184-WG9Y?utm_source=share&utm_medium=member_android&rcm=ACoAAAAZ0isBP1gxnt30MfLp_T0BAPWL4JS56Us
-:PROPERTIES:
-:EFFORT: 00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:ARCHIVE_TIME: 2025-10-26 Sun 21:36
-:END:
-:LOGBOOK:
-CLOCK: [2025-10-26 Sun 10:30]--[2025-10-26 Sun 10:44] =>  0:14
-:END:
-*** DONE Read [[https://drive.google.com/file/d/1alFqtRykdJUF-J7Ty0NBnoTK5kQCE8qE/view?usp=sharing][Inconvenient truth about AI in healthcare]] :Career:
-   SCHEDULED: <2025-10-20 Mon>
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :ARCHIVE_TIME: 2025-11-02 Sun 16:27
-   :END:
-
-*** DONE Take notes on Thinking fast and slow
-   SCHEDULED: <2025-12-10 Wed>
-   :PROPERTIES:
-   :EFFORT: 02:00
-   :BENEFIT: 250
-   :ARCHIVE_TIME: 2025-12-14 Sun 10:49
-   :END:
-   :LOGBOOK:
-   CLOCK: [2025-12-10 Wed 06:01]--[2025-12-10 Wed 08:31] =>  2:30
-   :END:
-
-
-*** DONE Read about [[https://github.com/emacs-slack/emacs-slack/blob/master/README.md][Emacs Slack integration]]
-  :PROPERTIES:
-  :EFFORT: 00:15
-  :BENEFIT: 10
-  :RATIO: 0.40
-  :PRIORITY_NUM: 1
-  :VALUE:    -15.00
-  :ARCHIVE_TIME: 2026-01-11 Sun 10:46
-  :END:
-
-
-*** DONE Read Apache Spark book with Pandas (248/500) (~500 pages at 10 pages/hour)
-:PROPERTIES:
-:EFFORT:  50:00
-:BENEFIT: 2000
-:RATIO: 0.40
-:LAST_REPEAT: [2025-12-12 Fri 10:32]
-:VALUE:    -3000.00
-:PRIORITY_NUM: 1
-:ARCHIVE_TIME: 2026-03-23 Mon 20:50
-:END:
-- State "DONE"       from "TODO"       [2026-03-19 Thu 05:48]
-:LOGBOOK:
-CLOCK: [2025-12-12 Fri 06:21]--[2025-12-12 Fri 10:21] =>  4:00
-CLOCK: [2025-12-11 Thu 06:33]--[2025-12-11 Thu 08:09] =>  1:36
-CLOCK: [2025-12-04 Thu 11:11]--[2025-12-04 Thu 12:31] =>  1:20
-CLOCK: [2025-12-03 Wed 07:06]--[2025-12-03 Wed 09:36] =>  2:30
-CLOCK: [2025-12-02 Tue 07:02]--[2025-12-02 Tue 08:01] =>  0:59
-CLOCK: [2025-12-01 Mon 06:27]--[2025-12-01 Mon 08:27] =>  2:00
-CLOCK: [2025-11-17 Mon 06:33]--[2025-11-17 Mon 08:23] =>  1:50
-CLOCK: [2025-11-12 Wed 06:24]--[2025-11-12 Wed 07:48] =>  1:24
-CLOCK: [2025-11-11 Tue 06:29]--[2025-11-11 Tue 07:59] =>  1:30
-CLOCK: [2025-11-07 Fri 06:36]--[2025-11-07 Fri 09:01] =>  2:25
-CLOCK: [2025-11-06 Thu 06:35]--[2025-11-06 Thu 08:25] =>  1:50
-CLOCK: [2025-11-05 Wed 06:54]--[2025-11-05 Wed 07:49] =>  0:55
-CLOCK: [2025-11-03 Mon 07:55]--[2025-11-03 Mon 08:24] =>  0:29
-CLOCK: [2025-10-29 Wed 07:26]--[2025-10-29 Wed 08:26] =>  1:00
-CLOCK: [2025-10-28 Tue 07:11]--[2025-10-28 Tue 08:19] =>  1:08
-:END:
-
-
-*** DONE Read [[id:102ddbb5-4948-47e6-9526-8c364ada9fdb][serverless whitepaper]]
-:PROPERTIES:
-:ARCHIVE_TIME: 2026-04-19 Sun 20:46
-:END:
-
-- State "DONE"       from "TODO"       [2026-04-13 Mon 20:50]
-*** DONE Write doc on [[https://docs.google.com/document/d/1tN8tc0oYsAO_9QKacvlsWBKoIld-1UzQvW3cyf5VvaI/edit?usp=sharing][AI agent load management]]
-   :PROPERTIES:
-   :EFFORT: 05:00
-   :BENEFIT: 2000
-   :VALUE:    1500.00
-   :PRIORITY_NUM: 2
-   :ARCHIVE_TIME: 2026-04-19 Sun 20:46
-   :END:
-   - State "DONE"       from "TODO"       [2026-04-13 Mon 20:50]
-   :LOGBOOK:
-   CLOCK: [2026-01-12 Mon 06:21]--[2026-01-12 Mon 07:29] =>  1:08
-   :END:
-
-*** DONE Save [[https://seths.blog/2005/03/dont_shave_that/][Don't shave that yak]] article
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :PRIORITY_NUM: 1
-   :VALUE:    0.00
-   :ARCHIVE_TIME: 2026-04-19 Sun 20:46
-   :END:
-
-   - State "DONE"       from "TODO"       [2026-04-13 Mon 20:33]
-*** Wont_do Read about Eclipse ThreadX                             :Software:
-:PROPERTIES:
-:PRIORITY_NUM: 1
-:VALUE:    N/A
-:ARCHIVE_TIME: 2026-04-28 Tue 20:56
-:END:
-
-*** Wont_do Read about Rust programming                            :Software:
-:PROPERTIES:
-:PRIORITY_NUM: 1
-:VALUE:    N/A
-:ARCHIVE_TIME: 2026-04-28 Tue 20:56
-:END:
-
-*** DONE Look up MIT document on the semester you missed in CS - teaches version control, networking, security etc :Software:
-:PROPERTIES:
-:EFFORT: 00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:ARCHIVE_TIME: 2026-06-14 Sun 15:48
-:END:
-
-*** DONE Read [[https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/][Measuring developer productivity with DX Core 4]]      :Software:
-:PROPERTIES:
-:EFFORT:  00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:VALUE:    -15.00
-:PRIORITY_NUM: 1
-:ARCHIVE_TIME: 2026-06-20 Sat 07:27
-:END:
-
-** TODO Read next in [[id:dcfebe6a-eced-4491-86e3-6ef765250d77][Learning categories]], then move the section down
-SCHEDULED: <2026-10-17 Sat +1w>
-
-** TODO Read [[https://www.amazon.com/Fundamentals-Data-Engineering-Joe-Reis-ebook/dp/B0B4VH4T37][Fundamentals of Data Engineering]]                      :Software:
-:PROPERTIES:
-:PRIORITY_NUM: 1
-:VALUE:    N/A
-:END:
-
-** TODO Do an [[id:0ed956b1-7a46-41f8-9823-03db651ce312][AWS EC2 learning project]] to run regular Git updates :Cloud:Software:
-   :PROPERTIES:
-   :EFFORT: 04:00
-   :BENEFIT:  500
-   :RATIO: 1.25
-   :PRIORITY_NUM: 1
-   :VALUE:    100.00
-   :END:
-
-** TODO Read about Docker containers                               :Software:
-:PROPERTIES:
-:PRIORITY_NUM: 1
-:VALUE:    N/A
-:END:
-
-** TODO Read about Kubernetes                                      :Software:
-:PROPERTIES:
-:PRIORITY_NUM: 1
-:VALUE:    N/A
-:END:
-
-** TODO Reformat all learning quotes to be sections
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :PRIORITY_NUM: 1
-   :VALUE:    0.00
-   :END:
-
-** TODO Check OpenAI Dev Day summary                            :Engineering:
+*** TODO Check OpenAI Dev Day summary                           :Engineering:
    SCHEDULED: <2026-10-10 Sat>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -286,7 +124,82 @@ SCHEDULED: <2026-10-17 Sat +1w>
    :VALUE:    0.00
    :END:
 
-** TODO Review Amazon annual shareholder letter                    :Business:
+*** TODO Review [[https://rodneybrooks.com/blog/][Rodney Brooks blog]]                              :Engineering:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :PRIORITY_NUM: 1
+   :VALUE:    0.00
+   :END:
+
+
+*** TODO Read [[https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07?st=3Sx9NK][Europe green energy issues]]                        :Engineering:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :VALUE:    0.00
+   :PRIORITY_NUM: 1
+   :END:
+
+*** TODO Read about process flow and flow chart drawing conventions :Engineering:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :PRIORITY_NUM: 1
+   :VALUE:    0.00
+   :END:
+
+*** TODO Read [[https://joincolossus.com/article/ai-will-not-make-you-rich/][who will benefit from AI]]                          :Engineering:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :PRIORITY_NUM: 1
+   :VALUE:    0.00
+   :END:
+
+
+** Economics
+
+(org-tags-view nil "Economics-quotes+LEVEL=1")
+
+Topics related to finance and investments are also included here.
+
+Add tag Review to important sections, then add Review in the search
+above.
+
+*** TODO Read [[https://www.wsj.com/economy/a-guaranteed-income-wont-stop-people-from-wanting-to-work-03c4ab31?st=yeDmB6][A guaranteed income won't stop people from wanting to work]] :Economics:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 10
+   :RATIO: 0.40
+   :PRIORITY_NUM: 1
+   :VALUE:    -15.00
+   :END:
+
+*** TODO Read [[https://drive.google.com/file/d/1ojOT-hP7nFUTNCUCGk_AKMN45E547Tvd/view?usp=drive_link][capitalism is better than donation for global poverty]] :Economics:
+   :PROPERTIES:
+   :EFFORT: 00:15
+   :BENEFIT: 25
+   :RATIO: 1.00
+   :PRIORITY_NUM: 1
+   :VALUE:    0.00
+   :END:
+
+
+
+** Business
+
+(org-tags-view nil "Business-quotes+LEVEL=1")
+
+Topics related to business excluding people management and engineering.
+
+Add tag Review to important sections, then add Review in the search
+above.
+
+*** TODO Review Amazon annual shareholder letter                   :Business:
    SCHEDULED: <2027-04-11 Sun +52w>
    :PROPERTIES:
    :EFFORT: 00:15
@@ -300,34 +213,26 @@ SCHEDULED: <2026-10-17 Sat +1w>
 
    - State "DONE"       from "TODO"       [2026-04-13 Mon 20:22]
 
-** TODO Read [[https://www.ciwf.org.uk/media/5235024/The-life-of-laying-hens.pdf][The life of laying hens]]                             :Philosophy:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :PRIORITY_NUM: 1
-   :VALUE:    -15.00
-   :END:
+** Management
 
-** TODO Find a book on cleaning the house 5S, Marie Kondo, etc   :Philosophy:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :PRIORITY_NUM: 1
-   :VALUE:    0.00
-   :END:
+(org-tags-view nil "Management-quotes+LEVEL=1")
 
-** TODO Read about process flow and flow chart drawing conventions :Engineering:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :PRIORITY_NUM: 1
-   :VALUE:    0.00
-   :END:
+Topics related to people management.
 
-** TODO Read [[https://drive.google.com/file/d/1ojOT-hP7nFUTNCUCGk_AKMN45E547Tvd/view?usp=drive_link][capitalism is better than donation for global poverty]] :Economics:
+Add tag Review to important sections, then add Review in the search
+above.
+
+Reviewed last on [2026-11-22 Sun]
+
+There are a lot of articles in this section.
+
+
+
+* Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
+
+* Tasks
+
+** TODO Reformat all learning quotes to be sections
    :PROPERTIES:
    :EFFORT: 00:15
    :BENEFIT: 25
@@ -335,95 +240,3 @@ SCHEDULED: <2026-10-17 Sat +1w>
    :PRIORITY_NUM: 1
    :VALUE:    0.00
    :END:
-
-** TODO Read CMMI book                                          :Engineering:
-  :PROPERTIES:
-  :EFFORT: 06:00
-  :BENEFIT: 600
-  :RATIO: 1.00
-  :PRIORITY_NUM: 1
-  :VALUE:    0.00
-  :END:
-  :LOGBOOK:
-  CLOCK: [2025-01-12 Sun 10:40]--[2025-01-12 Sun 11:40] =>  1:00
-  :END:
-
-** TODO Review [[https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project-an-accompanying-blog-post/][good forecasting practices]]                           :Science:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :PRIORITY_NUM: 1
-   :VALUE:    -15.00
-   :END:
-
-** TODO Take the Superforecasting [[https://good-judgment.thinkific.com/courses/Superforecasting-Fundamentals][Good Judgement training]]           :Science:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :PRIORITY_NUM: 1
-   :VALUE:    0.00
-   :END:
-
-** TODO Read about the [[https://c4model.com/][C4 architecture method]]                      :Software:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :PRIORITY_NUM: 1
-   :VALUE:    0.00
-   :END:
-
-** TODO Read [[https://joincolossus.com/article/ai-will-not-make-you-rich/][who will benefit from AI]]                           :Engineering:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :PRIORITY_NUM: 1
-   :VALUE:    0.00
-   :END:
-
-
-** TODO Read [[https://www.wsj.com/economy/a-guaranteed-income-wont-stop-people-from-wanting-to-work-03c4ab31?st=yeDmB6][A guaranteed income won't stop people from wanting to work]] :Economics:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 10
-   :RATIO: 0.40
-   :PRIORITY_NUM: 1
-   :VALUE:    -15.00
-   :END:
-
-** TODO Review [[https://rodneybrooks.com/blog/][Rodney Brooks blog]]                               :Engineering:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :RATIO: 1.00
-   :PRIORITY_NUM: 1
-   :VALUE:    0.00
-   :END:
-
-
-** TODO Subscribe to eclipse threadx and freertos newsletters      :Software:
-:PROPERTIES:
-:EFFORT: 00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:VALUE:    -15.00
-:PRIORITY_NUM: 1
-:END:
-
-** TODO Read [[https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07?st=3Sx9NK][Europe green energy issues]]                         :Engineering:
-   :PROPERTIES:
-   :EFFORT: 00:15
-   :BENEFIT: 25
-   :VALUE:    0.00
-   :PRIORITY_NUM: 1
-   :END:
-
-** TODO Save react Ai paper                                     :Engineering:
-:PROPERTIES:
-:EFFORT: 00:15
-:BENEFIT: 10
-:RATIO: 0.40
-:END:

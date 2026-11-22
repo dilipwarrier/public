@@ -2,7 +2,7 @@
 #+FILETAGS: :Management:
 #+STARTUP: show2levels inlineimages hideallblocks
 
-* Introduction
+* Introduction to me as a manager                                    :Review:
 
 Hi and welcome to the team!
 
@@ -19,7 +19,7 @@ We'll have an on-boarding series of 1-1s almost daily to help
 accelerate this process.
 
 
-* 1-1s
+** 1-1s
 
 Once we are past your on-boarding phase, we’ll have a 1-1 every week
 for 25 minutes. This meeting discusses
@@ -34,8 +34,7 @@ structured 1-1s. Occasional derailment is good.
 I may occasionally reschedule my 1-1 with you but I will rarely
 cancel it. I'll request you to please do the same.
 
-
-* Staff meetings
+** Staff meetings
 
 We'll have a staff meeting with your peers every week for 55
 minutes. It's structured as follows. I will lead the first half and
@@ -63,7 +62,7 @@ time. Not completing an action item and extending the date at the end
 is unprofessional. Please avoid this.
 
 
-* Feedback and discussion
+** Feedback and discussion
 
 I value and give constant, respectful feedback, mostly positive and
 sometimes negative. My feedback is for your growth and is rarely an
@@ -99,7 +98,7 @@ indulge me by doing a spelling and grammar check before you review
 with me.
 
 
-* Trust and autonomy
+** Trust and autonomy
 
 I value trust. Trust takes time. You can feel free to discuss any
 topic, no matter how sensitive, with me. I'll do the same. For
@@ -116,7 +115,7 @@ I set. If you feel that I set narrow boundaries, please suggest
 an alternative to me.
 
 
-* Productivity and work-life balance
+** Productivity and work-life balance
 
 I value productivity over "busy-ness". I won't measure when
 you start your work or when you stop it. I will measure your

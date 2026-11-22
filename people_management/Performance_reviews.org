@@ -1,8 +1,8 @@
 #+Title: Automatic setup of performance review steps
 #+STARTUP: show2levels inlineimages hideallblocks
-#+FILETAGS: :Management:Work:
+#+FILETAGS: :Management:
 
-* Performance reviews
+* Performance reviews                                                :Review:
 
   In my organization, we typically have informal quarterly performance
   reviews and a formal performance review at the end of the fiscal
