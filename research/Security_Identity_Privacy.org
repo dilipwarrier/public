@@ -1,4 +1,4 @@
-#+Title: Privacy, security, and identity
+#+TITLE: Privacy, security, and identity
 #+FILETAGS: :Software:
 #+STARTUP: show2levels inlineimages hideallblocks
 

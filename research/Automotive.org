@@ -7,7 +7,6 @@
 :ID:       1f2c0984-0b3d-49f9-804b-35d5df1e011f
 :END:
 
-
 ** Global EV sales
 
 All numbers are in millions of units.
@@ -41,7 +40,6 @@ that BEVs will account for 30% of a total US auto sales of about 16M.
 [[file:Screenshot 2023-12-07 130520.png][Global EV sales forecast up to 2035]]
 
 Source: EV Volumes forecast in 2023
-
 
 ** Goldman Sachs report June 2024
 
@@ -143,7 +141,6 @@ variation.
 
   [[https://electricvehiclesfaqs.com/how-many-batteries-are-in-a-tesla-electric-car/#:~:text=The%20Tesla%20Model%203%20standard,groups%20(bricks)%20of%2031.][Tesla]] battery packs have 1000s of cells.
 
-
 ** Battery aging
 
   [[https://www.accure.net/battery-knowledge/blog-battery-aging][Accure]]
@@ -168,13 +165,11 @@ variation.
   - Fast charging -> increased temperature -> aging
    [[https://youtu.be/qYJk1Qljwgg?si=8TyrNCS7DSL9FN-5][Engineering Explained video]]
 
-
 ** Battery costs
 
 The average BEV capacity will increase to roughly 70 kWh by 2030. The
 costs for Lithium Ferrous Phosphate (LFP)  battery technology will drop
 from $170/kWh in 2020 to $110/kWh in 2030.
-
 
 ** EV fires
 
@@ -197,11 +192,9 @@ estimated to be at about 15M. This is down from a high in CY19
 
   [[file:Screenshot 2023-08-26 173914.jpg][Diagram of engine]]
 
-
 * Autonomous driving levels
 
   [[file:Screenshot 2023-08-26 183025.jpg][Levels and what they mean]]
-
 
 * References
 

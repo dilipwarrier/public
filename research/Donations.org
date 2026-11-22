@@ -1,9 +1,8 @@
-#+Title: Organizations to make donations to
+#+TITLE: Organizations to make donations to
 #+FILETAGS: :Society:
 #+STARTUP: show2levels inlineimages hideallblocks
 
 * A list of organizations
-
 
 ** Give Well
 :PROPERTIES:

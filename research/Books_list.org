@@ -1,4 +1,4 @@
-#+Title: List of books to read
+#+TITLE: List of books to read
 #+FILETAGS: :Books:
 #+STARTUP: show2levels inlineimages hideallblocks
 
@@ -22,7 +22,6 @@ The idea of the brain                             : Matthew Cobb         (4.0, b
 Other minds: the octopus and the evolution of...  : Peter Godfrey-Smith  (4.0, biology,brain)
 :end:
 
-
 * Sources for book recommendations
 
   - [[https://www.goodreads.com/list][Goodreads lists]]
@@ -35,10 +34,10 @@ Other minds: the octopus and the evolution of...  : Peter Godfrey-Smith  (4.0, b
   - [[https://en.wikipedia.org/wiki/JCB_Prize][JCB prize for Indian fiction]]
   - [[https://www.asist.org/programs-services/awards-honors/best-book-award/book-recipients/][Information Science Books]] awards
 
-
 * Tasks
 
 ** Archive                                                          :ARCHIVE:
+
 *** DONE Look at JCB prize Indian books
 :PROPERTIES:
 :EFFORT:  00:15

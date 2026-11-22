@@ -11,12 +11,10 @@ always be a Work In Progress with constant iteration. All the team
 members have a part in defining this handbook and will constantly
 improve it.
 
-
 * Our culture
 
 We behave with the agility of a small company (think "small") with the
 structure and discipline of a big company (act "big").
-
 
 ** Think "small"
 
@@ -48,7 +46,6 @@ professionalism means that we will be efficient and effective in
 meetings. We consider it a matter of pride that their sprint meetings
 start on time and end on or before time.
 
-
 ** Act "big"
 
 We use tools and we constantly automate. When there is work that can
@@ -77,7 +74,6 @@ We take pride in creating and completing action items without
 prompting. We report on the status of these action items when they are
 complete. In the rare cases in which we can not complete them within
 the stated deadline, we communicate well ahead of time.
-
 
 * References
 

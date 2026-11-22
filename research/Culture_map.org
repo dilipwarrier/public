@@ -1,6 +1,6 @@
 #+TITLE: The culture map by Erin Meyer
-#+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :Culture:Management:
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Introduction
 
@@ -9,7 +9,6 @@ activities. We can divide them into a few specific activities. Note
 that a culture or country's position on one activity may not correlate
 with the expected position on another activity. Hence, each activity
 must be considered separately.
-
 
 * Communication (low-context vs high-context)                        :Review:
 
@@ -31,7 +30,6 @@ When two cultures meet, the relative position of the two cultures
 with respect to each other matters more than their absolute
 positions.
 
-
 * Evaluation (direct vs indirect feedback)                           :Review:
 
 Direct negative feedback is when negative feedback is provided bluntly
@@ -45,7 +43,6 @@ low-context communication, they also do not give direct negative
 feedback. On the other hand, in the Netherlands, Germany and Russia,
 direct negative feedback is often practised. The Asian countries
 also typically practise indirect negative feedback.
-
 
 * Persuasion (principles-first vs applications-first)                :Review:
 
@@ -82,7 +79,6 @@ within that level, the document moves up to the next level and so
 on. While this process can be slow, it also gives everybody a chance
 to provide input.
 
-
 * Leadership (egalitarian vs hierarchical)                           :Review:
 
 Many Scandinavian cultures stress flat hierarchies where the boss is
@@ -97,7 +93,6 @@ who leads from the front. Communications follow set hierarchical
 lines both internally within the company and externally with
 customers and suppliers. Usually, an effort is made to defer to the
 boss's opinion in public.
-
 
 * Decision making (top-down vs consensus)                            :Review:
 
@@ -151,7 +146,6 @@ self. On the other hand, Polish, French or German cultures can seem
 like coconut cultures. In these, people are generally more closed
 like the shell of a coconut. They rarely smile at
 strangers. Gradually, they become warmer and friendlier.
-
 
 * Disagreeing (confrontational vs harmonizing)                       :Review:
 

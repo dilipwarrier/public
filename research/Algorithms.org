@@ -1,6 +1,6 @@
 #+TITLE: Algorithms
-#+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :Maths:ComputerScience:Algorithms:
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Algorithms to live by                                              :Review:
 
@@ -83,7 +83,6 @@ measure success in exploratory R&D work.
    [[https://arxiv.org/pdf/1909.05075v1.pdf][This paper]] and the associated Github site provides an R package
    for computation of the index for Bernoulli distributions.
 
-
 *** Upper bound on Gittins index
 
   According to [[http://www.ece.mcgill.ca/~amahaj1/projects/bandits/book/2013-bandit-computations.pdf][Mahajan et al]], the following is an upper bound on the
@@ -101,7 +100,6 @@ measure success in exploratory R&D work.
   For $\beta = 0.9$, $\mu = 0.5$ and $p=q=0$, you get an upper bound
   of 2.0 which is quite loose compared to the value of 0.7 mentioned
   above. This bound is probably better for large values of $p+q$.
-
 
 ** Sorting
 
@@ -177,7 +175,6 @@ better benefit per unit time, you switch to that task.
   distributions. In this case, the best predictor is an additive
   factor, irrespective of how long the politician has held office.
 
-
 ** The marshmallow test
 
    Walter Mischel's famous "marshmallow test" consisted of an adult
@@ -196,7 +193,6 @@ better benefit per unit time, you switch to that task.
    might even be rational if the return times of adults are governed
    by power laws.
 
-
 ** Randomness
 
   Sometimes, instead of figuring out the solution to a complex
@@ -210,7 +206,6 @@ better benefit per unit time, you switch to that task.
   (e.g. speed of computation versus cache size/memory size), the idea
   behind randomness is that certainty can also be a
   parameter to trade off.
-
 
 ** Game theory
 

@@ -1,4 +1,4 @@
-#+Title: Kubernetes
+#+TITLE: Kubernetes
 #+FILETAGS: :Software:Cloud:
 #+STARTUP: show2levels inlineimages hideallblocks
 

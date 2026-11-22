@@ -1,3 +1,4 @@
+#+TITLE: Calculation of your PANAS score
 #+FILE: Calculation of your PANAS score
 
 The [[./Positive_psychology.org][PANAS score]] is used to rate your emotions/feelings about your

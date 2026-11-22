@@ -1,6 +1,6 @@
 #+TITLE: Concepts in statistics
-#+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :Maths:
+#+STARTUP: show2levels inlineimages hideallblocks
 #+LATEX_HEADER: \usepackage{amsmath}
 
 * Concepts in statistics                                             :Review:

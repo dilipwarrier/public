@@ -1,4 +1,4 @@
-#+Title: Energy consumption for homes and business
+#+TITLE: Energy consumption for homes and business
 #+FILETAGS: :Engineering:
 #+STARTUP: show2levels inlineimages hideallblocks
 
@@ -158,7 +158,6 @@ that with average [[id:d51a7c0d-0649-40cf-b9fb-29e759f4ea6a][US household energy
 - [[https://www.ft.com/content/ef2f6f8e-60df-4ccd-8c4f-ef5cd0eb3176][Financial Times - Solar Growth in Texas (2024)]]
 - [[https://en.wikipedia.org/wiki/Solar_power_in_the_United_States][Wikipedia – Solar Power in the United States]]
 - [[https://www.seia.org/research-resources/solar-market-insight-report-2024-year-review][SEIA – Solar Market Insight Report 2024 Year-in-Review]]
-
 
 * Tasks
 

@@ -22,7 +22,6 @@ metrics towards an overall goal.
 
 See a detailed comparison [[https://www.whatmatters.com/resources/difference-between-okr-kpi][here]].
 
-
 ** OKR scoring
 
 For all Key Results, completion is 100% if the target is hit. It
@@ -38,14 +37,12 @@ always be <= 100%.
 
 The OKRs for Q3 are as follows.
 
-
 *** Objective 1
 
 - Deals are moved from "Stage 1" to "Stage 4" within 4 calendar
   weeks.
 
 - SoWs are provided within 1 calendar week from the request.
-
 
 *** Objective 2
 

@@ -1,4 +1,4 @@
-#+title: What you can expect in this repository
+#+TITLE: What you can expect in this repository
 #+STARTUP: show2levels inlineimages hideallblocks
 #+author: Dilip Warrier
 
