@@ -1,4 +1,4 @@
-#+Title: The science of sleep
+#+TITLE: The science of sleep
 #+FILETAGS: :Science:
 #+STARTUP: show2levels inlineimages hideallblocks
 

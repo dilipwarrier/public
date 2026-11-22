@@ -1,6 +1,6 @@
 #+TITLE: Market analysis
-#+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :Business:
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Market analysis                                                    :Review:
 
@@ -21,7 +21,6 @@
   - Competitors and their market shares
 
   - SWOT Analysis
-
 
 * Next steps after a market analysis                                 :Review:
 

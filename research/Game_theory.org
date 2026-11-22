@@ -29,7 +29,6 @@
   the player may then have a strategy which results in certain
   outcomes.
 
-
 ** Static games of complete information
 
   1. Each player simultaneously and independently chooses an action.
@@ -61,7 +60,6 @@
    strategy" implies that choices can be made randomly between pure
    strategies.
 
-
 ** Dominant strategy and Nash equilibrium
 
   A dominant strategy is one in which a player has a strategic choice
@@ -77,7 +75,6 @@
   fairly general conditions of finite normal-form games if you allow
   mixed strategies (see section below). However, even though an NE may
   exist, it may not be easily computable.
-
 
 ** Prisoner's dilemma
 
@@ -102,7 +99,6 @@
    on a "better" outcome of (M, m), they will rationally end up
    choosing (F, f).
 
-
 ** Mixed strategies
 
   A mixed strategy is where a player may choose from any of a finite
@@ -120,7 +116,6 @@
   equilibrium, it must be a convex combination of strategies that have
   the same utility against the best response strategy of the other
   players.
-
 
 ** Extensive-form game
 

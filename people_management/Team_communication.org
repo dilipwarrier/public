@@ -1,4 +1,4 @@
-#+title: Team and inter-personal communication
+#+TITLE: Team and inter-personal communication
 #+FILETAGS: :Management:
 #+STARTUP: show2levels inlineimages hideallblocks
 
@@ -49,7 +49,6 @@ person in the meeting who will rarely express their opinion but
 their opinion will matter a lot. Please understand and note who that
 person is. Please do not challenge that person openly. Instead, try to
 ask questions to understand their perspective.
-
 
 * Meeting etiquette                                                  :Review:
 
@@ -105,7 +104,6 @@ ask questions to understand their perspective.
 
 * The logistics of holding a team workshop                           :Review:
 
-
 ** 1 month before
 
    Prepare to spend roughly 10% of the attendee-hours during the workshop
@@ -119,7 +117,6 @@ ask questions to understand their perspective.
    Setup Outlook invitations
 
    Arrange travel plans
-
 
 ** 1 week before
 
@@ -156,14 +153,12 @@ ask questions to understand their perspective.
    - There will be breaks with fixed times. Please be back from breaks
      on time to keep the meetings efficient.
 
-
 ** 1 day before
 
    - Reminder email to travel to workshop
 
    - Get the survey results from the last workshop and review them in
      the introduction
-
 
 ** During the workshop
 

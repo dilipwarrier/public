@@ -1,12 +1,11 @@
-#+Title: Articles related to COVID-19
+#+TITLE: Articles related to COVID-19
+#+FILETAGS: :Health:Science:
 #+STARTUP: show2levels inlineimages hideallblocks
-#+Filetags: :Health:Science:
 
 * Efficacy of booster shots                                          :Review:
 
   This [[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fulltext#back-bib1][Lancet article]] argues against providing booster shots to the
   general community.
-
 
 * Efficacy of mask mandates                                          :Review:
 

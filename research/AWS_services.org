@@ -22,7 +22,6 @@ services.
 | \_  AWS monitoring |        | 1:37 |
 #+END:
 
-
 ** AWS regions and availability zones
 
 A cluster of data centers is called an Availability Zone
@@ -121,7 +120,6 @@ details in [[id:6becc95b-6eec-4466-ab3a-0758521dee7f][AWS Networking]].
      - Fault tolerance
      - Service limits
 
-
 *** Services for monitoring
 
 AWS Guard Duty is a threat-detection service that
@@ -152,7 +150,6 @@ one place.
     encryption through either S3-managed keys (SSE-S3) or KMS-managed
     keys (SSE-KMS). DynamoDB has SSE turned on by default. EBS can
     also be encrypted using KMS.
-
 
 *** Security for EC2
     :PROPERTIES:
@@ -415,7 +412,6 @@ Note that this solution does not use any EC2 instances, VPC etc.
 
 Thus, you can use multiple AWS architectures for your applications.
 
-
 *** AWS Well-Architected                                           :glossary:
 
    This has been developed to help architects build applications that
@@ -425,7 +421,6 @@ Thus, you can use multiple AWS architectures for your applications.
    - Reliability
    - Performance
    - Security
-
 
 ** Comparison of Azure and AWS services
 :PROPERTIES:

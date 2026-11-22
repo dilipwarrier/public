@@ -1,6 +1,7 @@
-#+FILE: The principles and practice of task management
+#+TITLE: The principles and practice of task management
 #+FILETAGS: :Management:
 #+STARTUP: show2levels inlineimages hideallblocks
+#+FILE: The principles and practice of task management
 
 * Generation of a set of tasks with an offset from a deadline
 
@@ -73,7 +74,6 @@ field matches text in the tag.
 
 #+RESULTS: generate_tasks_from_offset
 
-
 * Possible criteria for task prioritization                          :Review:
 
 One could use the Eisenhower matrix, as described below. Alternately, the
@@ -117,7 +117,6 @@ and are basically a cost-benefit analysis.
 | Not important | Delegate it | Eliminate it  |
 |---------------+-------------+---------------|
 
-
 * The calculation of cost and benefit                                :Review:
 
 In life, we may care about physical health, mental health,
@@ -136,7 +135,6 @@ measuring hours of effort spent (labor) and investments to be made
 (capital) and converting those to a total cost in dollars. An NPV
 calculation will then allow us to prioritize improvement
 activities.
-
 
 * Time efficiency calculation                                        :Review:
 :PROPERTIES:

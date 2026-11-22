@@ -47,7 +47,6 @@ ChargePoint leads the US market in L2 with 33% and Tesla in DCFC with 60%.
 
 Source: [[https://chatgpt.com/share/685fd64f-c558-800b-ab0a-284e761978f1][ChatGPT on 28-Jun-25]] and [[https://www.rabobank.com/knowledge/d011438559-the-rise-of-electric-vehicles-in-the-us-building-a-robust-charging-network?utm_source=chatgpt.com][Rabobank research]]
 
-
 ** Power ratings for charging
 :PROPERTIES:
 :ID:       f652f1ee-71e3-4455-93bc-c090ab71254c

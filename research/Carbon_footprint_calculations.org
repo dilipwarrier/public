@@ -1,6 +1,6 @@
-#+title: Calculation of carbon footprints
-#+STARTUP: show2levels inlineimages hideallblocks
+#+TITLE: Calculation of carbon footprints
 #+FILETAGS: :Engineering:
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Carbon footprint and greenhouse gas emissions calculations         :Review:
 

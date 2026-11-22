@@ -1,4 +1,4 @@
-#+Title: Lists of possible courses
+#+TITLE: Lists of possible courses
 #+FILETAGS: :Learning:
 #+STARTUP: show2levels inlineimages hideallblocks
 
@@ -12,7 +12,6 @@
    :VALUE:    -15.00
    :PRIORITY_NUM: 1
    :END:
-
 
 * Specializations
 
@@ -28,7 +27,6 @@
       - 6 months * 4 weeks * 3 hours/week = 72 hours
 
    + Big data
-
 
 * MIT courses
 

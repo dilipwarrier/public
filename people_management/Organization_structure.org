@@ -1,4 +1,4 @@
-#+Title: Organization structures and budgets
+#+TITLE: Organization structures and budgets
 #+FILETAGS: :Business:
 #+STARTUP: show2levels inlineimages hideallblocks
 
@@ -25,7 +25,6 @@
    - COGS
      + Manufacturing
      + Customer Operations
-
 
 * Company budgets                                            :Finance:Review:
 

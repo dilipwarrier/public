@@ -1,6 +1,6 @@
 #+TITLE: Interesting thoughts/results in AI
-#+STARTUP: show2levels inlineimages hideallblocks
 #+FILETAGS: :Engineering:AI:
+#+STARTUP: show2levels inlineimages hideallblocks
 
 * Types of agents                                                    :Review:
 
@@ -185,7 +185,6 @@ more (in the realm of $100M) to train.
 * The practice of AI
 
 ** GitHub Copilot usage
-
 
 ** Llama
 

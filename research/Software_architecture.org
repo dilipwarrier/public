@@ -1,7 +1,6 @@
 #+TITLE: The practice of software architecture
+#+FILETAGS: :Software:
 #+STARTUP: show2levels inlineimages hideallblocks
-#+FILETAGS: :software:
-#+startup: overview
 
 ** What is architecture?
 
@@ -21,7 +20,6 @@ The Laws of Software Architecture are as follows.
 - Everything in software architecture is a trade-off.
 - Documenting the "Why" of architectural decisions is more important
   than documenting the "how".
-
 
 ** The practice of architecture
 
@@ -43,20 +41,16 @@ development. They should, however, avoid code in the critical
 path. They can work on lower priority stories, automation, code
 reviews, etc.
 
-
 ** Key architecture decisions
-
 
 ** Documenting the structure
 
 The structure of a system can be described in detail through the [[https://c4model.com/][C4 method]].
 
-
 ** Connections to systems thinking
 
 Thinking and practising architecture is closely related to the [[id:1b62c6dd-c98f-45c4-b85d-d4162a880e2b][Expert
 phase]] in the Dreyfus model.
-
 
 ** References
 

@@ -9,7 +9,6 @@
 
   The [[file:Screenshot 2022-03-23 151920.jpg][building blocks]] of a business model are as follows.
 
-
 ** Customer segments
 
    An organization may serve one or several small or large customer
@@ -17,7 +16,6 @@
    needs distinct products, are reached through different channels,
    require different relationships, have different profitabilities or
    different revenues.
-
 
 ** Value propositions
 
@@ -32,7 +30,6 @@
 
    See Osterwalder's [[https://www.youtube.com/watch?v%3DReM1uqmVfP0&ab_channel%3DStrategyzer][value proposition canvas]] for more.
 
-
 ** Channels (for communication, distribution, and sales)
 
    Companies should use a mix of owned channels and partner
@@ -40,16 +37,13 @@
    integrated across [[file:Screenshot 2022-03-23 110022.jpg][all types of channels]] to reach the right customer
    mix.
 
-
 ** Customer relationships
 
    Customers may look for a varied extent of customer relations
    e.g. self-service, dedicated personal assistance, communities,
    co-creation etc.
 
-
 ** Revenue streams
-
 
 ** Key resources
 
@@ -58,15 +52,12 @@
 
    See also discussion of the [[file:Business_strategy.org][VRIO resource framework]].
 
-
 ** Key activities
-
 
 ** Key partnerships
 
    Who are the key suppliers, co-creators etc.? Who provides key
    resources for your firm?
-
 
 ** Cost structure
 

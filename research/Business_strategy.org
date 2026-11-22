@@ -1,6 +1,7 @@
-#+NAME: Business strategy
+#+TITLE: Business strategy
 #+FILETAGS: :Strategy:Business:
 #+STARTUP: show2levels inlineimages hideallblocks
+#+NAME: Business strategy
 
 * Purpose, vision, mission, and strategy                             :Review:
 
@@ -148,7 +149,6 @@ excellence.
 
 [[file:Screenshot 2024-02-17 1616.jpg]]
 
-
 * Business level strategy                                            :Review:
 
 The cost and differentiation axes provide a frontier that industries
@@ -180,7 +180,6 @@ aspects.
   value?
 
 [[file:Screenshot 2024-02-17 1624.jpg]]
-
 
 * Market stages                                                      :Review:
 

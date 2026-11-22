@@ -274,7 +274,6 @@ of the trinity (feedback, coaching etc.)
 
     Share [[file:Introduction.org][a written introduction of your management philosophy]].
 
-
 *** Family first
 
     [[https://www.manager-tools.com/2022/01/first-meeting-new-direct-series-family-first-part-1][Link to podcast]]
@@ -288,14 +287,12 @@ of the trinity (feedback, coaching etc.)
     Work hard and do your best during your working hours; then go home
     and spend quality time with your family.
 
-
 ** My direct is resigning
 
      [[https://www.manager-tools.com/2014/10/my-direct-resigning-chapter-1-never-counter-offer-part-1-hall-fame-guidance][Podcast link]]
 
      The two things a manager are responsible for are results and
      retention.
-
 
 *** Congratulate them first!
 
@@ -304,7 +301,6 @@ of the trinity (feedback, coaching etc.)
      more responsible for their own careers. They have gone out of their
      way to do a resume and interview. So, they've achieved something. Say
      "Congratulations! Tell me more about the offer you have!"
-
 
 *** Gather information
 
@@ -335,7 +331,6 @@ of the trinity (feedback, coaching etc.)
      - Compensation package: pay, benefits etc.
      - Decision date
 
-
 *** Never make a counter-offer
 
      Likelihood of success is low. You may only be able to keep them for
@@ -350,7 +345,6 @@ of the trinity (feedback, coaching etc.)
      more to do the same job as before), you will need to call in
      favors. Neither you nor your boss will readily want to do
      this. This is especially true for big companies.
-
 
 ** How to fire someone (almost)
 
@@ -436,7 +430,6 @@ are not confidential or anonymous except in very rare cases of whistle-blowing.
 The requesting employee must follow the chain of command, except when
 retribution might be a factor.
 
-
 * Peers                                                              :Review:
 
 ** Peer one-on-ones
@@ -486,9 +479,7 @@ retribution might be a factor.
 
     [[https://www.manager-tools.com/2011/05/peer-one-ones-part-1][Podcast link]]
 
-
 *** Manager tools: What you call politics, we call collaboration     :quotes:
-
 
 ** Conflicts with peers
 
@@ -539,7 +530,6 @@ retribution might be a factor.
       afterwards. If things go south, you will give your boss a
       detailed verbal summary with facts and dates.
 
-
 ** Feedback for peers
     :PROPERTIES:
     :CUSTOM_ID: peer_feedback
@@ -556,9 +546,7 @@ retribution might be a factor.
     This can be used with the boss too but you need to be very
     careful.
 
-
 * Boss                                                               :Review:
-
 
 ** Managing your boss
 
@@ -598,8 +586,6 @@ retribution might be a factor.
 
     - Relationships :: Who are their best relationships with and who not.
 
-
-
 ** Helping your manager decide
 
 For big decisions, use the SOCCR model. For smaller decisions, make
@@ -634,7 +620,6 @@ manager still doesn't make a decision.
     crunches.
 
     See also [[#Relationship_building][relationship building]] and this [[https://medium.com/@M.K.G/team-conflicts-are-unavoidable-lessons-learned-with-the-pinch-crunch-model-7e8e6bd0d7a9][related article]]
-
 
 ** Internal customer relationships
     :PROPERTIES:
@@ -676,7 +661,6 @@ manager still doesn't make a decision.
     The tone of this meeting should be subordination. You are focusing
     on creating relationships (personal vs formal or business relationships).
 
-
 * Decision making                                                    :Review:
 
 Once you make a choice, the work is not done. Decisions comprise of
@@ -695,7 +679,6 @@ Executives assign people (see also [[#change_mgmt][Change management]]).
 They decide "who will do what, by when".
 
 ** Peter Drucker: An executive has not completed a decision until they have assigned someone to take the next steps :quotes:
-
 
 * Change management                                                  :Review:
    :PROPERTIES:
@@ -727,7 +710,6 @@ Instead of saying "Please complete the client file updates by 2 pm
 tomorrow," you should say "Please complete the client files updates
 and email the link to me by 2 pm tomorrow."
 
-
 ** Completing tasks
 
    The [[https://www.manager-tools.com/2009/01/2nd-rule-effective-project-team-members][second rule]] of project work: Meet all of your deadlines. If you
@@ -744,7 +726,6 @@ and email the link to me by 2 pm tomorrow."
    you need it, and why you need it by that time. After that, insert
    tension by asking for a date by which they will complete their
    action and follow up.
-
 
 ** Running effective meetings
 
@@ -805,7 +786,6 @@ and email the link to me by 2 pm tomorrow."
       and ending on time? Does everyone engage in the conversation?
       Are action items recorded and monitored?
 
-
 *** Action item format
      :PROPERTIES:
      :CUSTOM_ID: action_item_format
@@ -825,7 +805,6 @@ and email the link to me by 2 pm tomorrow."
      is short, you may specify a time in addition to the date e.g. by
      6 pm Eastern Time.
 
-
 ** Reporting status of tasks
 
     [[https://www.manager-tools.com/2018/04/relationship-errors-not-reporting-no-news][Not reporting "no news"]]
@@ -838,14 +817,12 @@ and email the link to me by 2 pm tomorrow."
       point. You report it as "I haven't heard from x. If I don't
       hear back by tomorrow, I will call them on Zoom to resolve it."
 
-
 ** Reporting status of projects on demand
 
    [[https://www.manager-tools.com/print/176761?pod=176766][Status-on-demand communication]] can happen either to your boss or to
    someone higher up in the hierarchy.
 
    Always have a crisp summary ready.
-
 
 *** Current status
 
@@ -869,7 +846,6 @@ and email the link to me by 2 pm tomorrow."
 
     This alone is not enough. You must also communicate "Next steps".
 
-
 *** Next steps
 
      Communicating current status on a project alone is not enough. You
@@ -879,7 +855,6 @@ and email the link to me by 2 pm tomorrow."
      For Red or Amber status, communicate what you are doing and what
      will trigger the next change (Red to Amber, Amber to
      Green, etc).
-
 
 * Managing your time                                                 :Review:
 
@@ -909,7 +884,6 @@ and email the link to me by 2 pm tomorrow."
    family are the sun. If you hold up the M&M against the sun, they
    may seem of the same size but they are not.
 
-
 * Creating a playbook                                                :Review:
 
    Effective managers have a playbook. Experienced managers have dealt
@@ -932,7 +906,6 @@ and email the link to me by 2 pm tomorrow."
    then describe the play to your team and say, "Here's the play we
    are going to run". Then, you must ask the team for ideas. It is OK
    for your team to suggest ideas to change parts of the play.
-
 
 ** Creating a delta file
     :PROPERTIES:
@@ -1206,9 +1179,7 @@ Clearly ask: "What is your decision?"
 - [[https://www.manager-tools.com/2010/03/how-give-a-decision-briefing-part-1][How to give a decision briefing]]
 - [[id:8996fe86-bcc2-43e0-80ee-14f40b2f7bf5][Pre-wiring a presentation]]
 
-
 * Executive                                                          :Review:
-
 
 ** Executive aspects as an egg
 
@@ -1235,7 +1206,6 @@ Clearly ask: "What is your decision?"
 
    [[https://www.manager-tools.com/2024/03/executive-priorities-delegate-egg-white-part-1][Link to podcast]]
 
-
 ** How to structure an organization
 
    Don't start with people. The names in the boxes should be the last
@@ -1253,7 +1223,6 @@ Clearly ask: "What is your decision?"
    2. Decide who goes in the top box. Then, iterate all the boxes
       below based on that person's strengths and weaknesses.
 
-
 ** Leader's intent
 
    [[https://www.manager-tools.com/2015/08/leaders-intent-part-1-hall-fame-guidance][Link to podcast]]
@@ -1266,12 +1235,9 @@ Clearly ask: "What is your decision?"
    and roughly how much. You want to stay out of the weeds in terms of
    details and communicate only the intent.
 
-
 *** Dwight Eisenhower: Plans are nothing; planning is everything.    :quotes:
 
-
 *** Manager tools: Good judgement comes from experience, experience comes from bad judgement. :quotes:
-
 
 ** Executive waypoint
 
@@ -1314,7 +1280,6 @@ Clearly ask: "What is your decision?"
    Important next step: Plan out a set of tasks for each of the 3
    goals.
 
-
 ** Purpose of the executive
    :PROPERTIES:
    :CUSTOM_ID: purpose_focus_horizon
@@ -1350,7 +1315,6 @@ Clearly ask: "What is your decision?"
    make a phase transition in your thinking i.e. move to a different
    S-curve.
 
-
 ** Executive S-curve and the box
 
    As a manager getting promoted to an executive, you are moving from
@@ -1364,7 +1328,6 @@ Clearly ask: "What is your decision?"
    building your fiefdoms and focus on the greater good of the
    organization.
 
-
 ** The hallmark of an executive
 
    The number one hallmark is the discipline to determine what needs
@@ -1375,9 +1338,7 @@ Clearly ask: "What is your decision?"
    is dispositive. Think of the scene from "Men In Black": You put on a
    black suit and it's the only suit you'll ever wear.
 
-
 *** Jane Austen: It isn't what we say or think that defines us, but what we do. :quotes:
-
 
 ** Ditch the ladder
 
@@ -1420,7 +1381,6 @@ Clearly ask: "What is your decision?"
      are the number 2 choice from many people (their #1 choice will
      always be themselves), you'll get the job.
 
-
 ** Executive development
 :PROPERTIES:
 :ID:       a45fb120-2691-4efe-83e7-3ccd380e24d9
@@ -1438,9 +1398,6 @@ Clearly ask: "What is your decision?"
 
    They recommend a 360 evaluation from:
    [[https://www.ccl.org/leadership-solutions/leadership-development-tools/leadership-assessments/][Center for Creative Leadership]].
-
-
-
 
 ** Culture
 
@@ -1471,7 +1428,6 @@ Clearly ask: "What is your decision?"
     Each manager decides the sub-culture of their organization. They
     should derive such sub-cultures from the company's reason for
     existence and the change that it wants to implement in society.
-
 
 * Job search and career                                              :Review:
 
@@ -1507,7 +1463,6 @@ Rule 3: Stay in touch regularly!
 
     [[https://www.manager-tools.com/get-answers/getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted?search=getting%20%2B%20ready%20%2B%20to%20%2B%20get%20%2B%20promoted&f%5B0%5D=im_field_content_domain%3A5&f%5B1%5D=ss_mt_bundle%3Apodcast_item&f%5B2%5D=is_mt_date%3A2014][Podcast links]]
 
-
 **** Results
 
      - Find Out What Results You Are Responsible For
@@ -1517,7 +1472,6 @@ Rule 3: Stay in touch regularly!
      - Go Beyond What You're Responsible For
      - Do Not Achieve Results At The Expense Of Relationships
 
-
 **** Experience
 
 Get experience in the following areas to prepare for being a manager.
@@ -1525,20 +1479,17 @@ Get experience in the following areas to prepare for being a manager.
      - Managing a project
      - Managing a budget
 
-
 **** Volunteer
 
 Hit all of your objectives and results. After that, volunteer to go
 the extra mile. It need not be a lot of things but volunteer for some
 key projects.
 
-
 **** Accept delegations from your boss
 
 Say yes when your boss wants to delegate something. Then, make it fit
 within your existing workload (find things to delegate to your directs
 or to the floor). Report early and often on progress.
-
 
 *** The 150% rule
 
@@ -1821,7 +1772,6 @@ can focus on the job search.
 
   High Cs tend to be diligent and process-driven. Feedback should be
   about how their behaviors makes them less effective.
-
 
 * Links and other logistics
 

@@ -22,7 +22,6 @@ Business history goes in Business and not here.
 Add tag Review to important sections, then add Review in the search
 above.
 
-
 ** Philosophy
 
 (org-tags-view nil "Philosophy+Review-quotes+LEVEL=1")
@@ -47,11 +46,9 @@ Reviewed last on [2026-10-10 Sat]
    :VALUE:    0.00
    :END:
 
-
 ** Maths
 
 (org-tags-view nil "Maths-quotes+Review+LEVEL=1")
-
 
 ** Science
 
@@ -79,7 +76,6 @@ Reviewed last on [2026-10-24 Sat]
    :VALUE:    0.00
    :END:
 
-
 ** Software
 
 (org-tags-view nil "Software-quotes+LEVEL=1")
@@ -103,7 +99,6 @@ Reviewed last on [2026-11-08 Sun]
    :PRIORITY_NUM: 1
    :VALUE:    0.00
    :END:
-
 
 ** Engineering
 
@@ -133,7 +128,6 @@ Reviewed last on [2026-11-15 Sun]
    :VALUE:    0.00
    :END:
 
-
 *** TODO Read [[https://www.wsj.com/business/energy-oil/europes-green-energy-rush-slashed-emissionsand-crippled-the-economy-e65a1a07?st=3Sx9NK][Europe green energy issues]]                        :Engineering:
    :PROPERTIES:
    :EFFORT: 00:15
@@ -159,7 +153,6 @@ Reviewed last on [2026-11-15 Sun]
    :PRIORITY_NUM: 1
    :VALUE:    0.00
    :END:
-
 
 ** Economics
 
@@ -187,8 +180,6 @@ above.
    :PRIORITY_NUM: 1
    :VALUE:    0.00
    :END:
-
-
 
 ** Business
 
@@ -225,8 +216,6 @@ above.
 Reviewed last on [2026-11-22 Sun]
 
 There are a lot of articles in this section.
-
-
 
 * Manager Tools: You do not stop learning when you grow old, you grow old when you stop learning. :quotes:
 
