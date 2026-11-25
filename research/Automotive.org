@@ -57,15 +57,15 @@ to 2030. The CAGR for the hyper-adoption case is 21%.
 
 ** [[https://ihsmarkit.com/topic/IEBAutoTech.html#video-9-container][Battery technology trends]] - Youmin Rong, IHS Markit
 
-  [[file:research/Screenshot 2022-03-04 144459.jpg][Automotive market]] is dominant for lithium ion batteries.
+  The automotive market is dominant for lithium ion batteries.
 
-  Important factors for batteries are [[file:research/Screenshot 2022-03-05 141417.jpg][energy density]], power density, life span, cost and
+  Important factors for batteries are energy density, power density, life span, cost and
   safety.
 
-  The aim is to reduce cobalt usage in battery cathodes. [[file:research/Screenshot 2022-03-05 141932.jpg][Nickel]] is used
+  The aim is to reduce cobalt usage in battery cathodes. Nickel is used
   quite a bit.
 
-  The next generation technology is solid state. [[file:research/Screenshot 2022-03-05 142245.jpg][Lithium metal anode]] may
+  The next generation technology is solid state. Lithium metal anode may
   still be required though for high energy density. However, you lose
   the lithium metal during discharge and get it back during charging.
 
@@ -73,13 +73,9 @@ to 2030. The CAGR for the hyper-adoption case is 21%.
   safety because there is no flammable liquid. However, the lithium metal may
   increase costs.
 
-  Various OEMs have different strategies for [[file:research/Screenshot 2022-03-05 142658.jpg][energy density]]. Lithium
+  Various OEMs have different strategies for energy density. Lithium
   metal anodes have the highest energy density (350-500 Wh/kg) while
   Gr/Si anodes have 250-300 Wh/kg.
-
-  Status of some solid-state [[file:research/Screenshot 2022-03-05 143119.jpg][battery startups]].
-
-  [[file:research/Screenshot 2022-03-05 143328.jpg][Integrations]] and coalitions.
 
   Toyota is the world leader in patents on solid-state batteries.
 

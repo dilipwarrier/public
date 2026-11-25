@@ -88,7 +88,6 @@ Life Satisfaction. The SWB score is the sum of the two scores.
 #+END_SRC
 
 #+RESULTS[d75e0ece5234fa7ec34db4b0dd73a37bfafa7d65]:
-[[file:autogen_SWB.png]]
 
 ** Affective Balance
 
